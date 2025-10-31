@@ -61,17 +61,17 @@
     {"meal_type_name": "All Inclusive (AI)"}
   ],
   "nearby object types": [
-    {"nearby_object_type_name": "Beach"},
-    {"nearby_object_type_name": "Historic Landmark"},
-    {"nearby_object_type_name": "Shopping Mall"},
-    {"nearby_object_type_name": "Local Market"},
-    {"nearby_object_type_name": "Restaurant District"},
-    {"nearby_object_type_name": "National Park"},
+    {"nearby_object_type_name": "Airport"},
     {"nearby_object_type_name": "Museum"},
-    {"nearby_object_type_name": "Train Station"},
-    {"nearby_object_type_name": "Metro Station"},
-    {"nearby_object_type_name": "Ski Lift"}
-  ],
+    {"nearby_object_type_name": "Restaurant"},
+    {"nearby_object_type_name": "Cafe"},
+    {"nearby_object_type_name": "Park"},
+    {"nearby_object_type_name": "Theater"},
+    {"nearby_object_type_name": "Historical Site"},
+    {"nearby_object_type_name": "Beach"},
+    {"nearby_object_type_name": "Hotel"},
+    {"nearby_object_type_name": "Hospital"}
+],
   "package tour statuses": [
     {"package_tour_status_name": "Draft"},
     {"package_tour_status_name": "Active"},

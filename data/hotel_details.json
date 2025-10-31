@@ -1,10 +1,10 @@
   {
     "room beds": [
-    {"bed_type_name": "Single Bed", "room_bed_quantity": 1},
-    {"bed_type_name": "Double Bed", "room_bed_quantity": 1},
-    {"bed_type_name": "Queen Bed", "room_bed_quantity": 2},
-    {"bed_type_name": "King Bed", "room_bed_quantity": 1},
-    {"bed_type_name": "Sofa Bed", "room_bed_quantity": 2}
+    {"bed_type_name": "Single", "room_bed_quantity": 1},
+    {"bed_type_name": "Double", "room_bed_quantity": 1},
+    {"bed_type_name": "Queen", "room_bed_quantity": 2},
+    {"bed_type_name": "King", "room_bed_quantity": 1},
+    {"bed_type_name": "Sofa", "room_bed_quantity": 2}
   ],
 
   "hotel room types": [
@@ -36,16 +36,16 @@
   ],
 
   "hotel room type beds": [
-    {"hotel_room_type_name": "Single", "hotel_room_type_max_adults": 1, "hotel_room_type_max_children": 0, "bed_type_name": "Single Bed"},
-    {"hotel_room_type_name": "Double", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 0, "bed_type_name": "Double Bed"},
-    {"hotel_room_type_name": "Double", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 0, "bed_type_name": "Queen Bed"},
-    {"hotel_room_type_name": "Deluxe", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 1, "bed_type_name": "King Bed"},
-    {"hotel_room_type_name": "Deluxe", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 1, "bed_type_name": "Sofa Bed"},
-    {"hotel_room_type_name": "Family", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 3, "bed_type_name": "Queen Bed"},
-    {"hotel_room_type_name": "Family", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 3, "bed_type_name": "Sofa Bed"},
-    {"hotel_room_type_name": "Suite", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 2, "bed_type_name": "King Bed"},
-    {"hotel_room_type_name": "Suite", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 2, "bed_type_name": "Queen Bed"},
-    {"hotel_room_type_name": "Suite", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 2, "bed_type_name": "Sofa Bed"}
+    {"hotel_room_type_name": "Single", "hotel_room_type_max_adults": 1, "hotel_room_type_max_children": 0, "bed_type_name": "Single"},
+    {"hotel_room_type_name": "Double", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 0, "bed_type_name": "Double"},
+    {"hotel_room_type_name": "Double", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 0, "bed_type_name": "Queen"},
+    {"hotel_room_type_name": "Deluxe", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 1, "bed_type_name": "King"},
+    {"hotel_room_type_name": "Deluxe", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 1, "bed_type_name": "Sofa"},
+    {"hotel_room_type_name": "Family", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 3, "bed_type_name": "Queen"},
+    {"hotel_room_type_name": "Family", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 3, "bed_type_name": "Sofa"},
+    {"hotel_room_type_name": "Suite", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 2, "bed_type_name": "King"},
+    {"hotel_room_type_name": "Suite", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 2, "bed_type_name": "Queen"},
+    {"hotel_room_type_name": "Suite", "hotel_room_type_max_adults": 2, "hotel_room_type_max_children": 2, "bed_type_name": "Sofa"}
   ],
 
   "pricing policies": [

@@ -5,7 +5,7 @@
       "tourist_season_start_date": "2025-12-03",
       "tourist_season_end_date": "2026-01-20",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 56.33
@@ -105,7 +105,7 @@
       "tourist_season_start_date": "2026-01-21",
       "tourist_season_end_date": "2026-02-26",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 59.02
@@ -205,7 +205,7 @@
       "tourist_season_start_date": "2025-12-06",
       "tourist_season_end_date": "2026-01-12",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 53.03
@@ -305,7 +305,7 @@
       "tourist_season_start_date": "2026-01-11",
       "tourist_season_end_date": "2026-03-01",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 59.85
@@ -405,7 +405,7 @@
       "tourist_season_start_date": "2025-11-29",
       "tourist_season_end_date": "2026-01-13",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 52.35
@@ -505,7 +505,7 @@
       "tourist_season_start_date": "2026-01-14",
       "tourist_season_end_date": "2026-02-27",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 50.72
@@ -605,7 +605,7 @@
       "tourist_season_start_date": "2025-11-26",
       "tourist_season_end_date": "2026-01-10",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 50.68
@@ -705,7 +705,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-02-23",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 42.55
@@ -805,7 +805,7 @@
       "tourist_season_start_date": "2025-11-26",
       "tourist_season_end_date": "2026-01-11",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 57.69
@@ -905,7 +905,7 @@
       "tourist_season_start_date": "2026-01-13",
       "tourist_season_end_date": "2026-02-25",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 46.24
@@ -1005,7 +1005,7 @@
       "tourist_season_start_date": "2025-11-30",
       "tourist_season_end_date": "2026-01-20",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 51.17
@@ -1105,7 +1105,7 @@
       "tourist_season_start_date": "2026-01-12",
       "tourist_season_end_date": "2026-03-04",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 42.81
@@ -1205,7 +1205,7 @@
       "tourist_season_start_date": "2025-11-27",
       "tourist_season_end_date": "2026-01-15",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 43.48
@@ -1305,7 +1305,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-03-01",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 51.19
@@ -1405,7 +1405,7 @@
       "tourist_season_start_date": "2025-12-03",
       "tourist_season_end_date": "2026-01-19",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 58.02
@@ -1505,7 +1505,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-02-24",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 45.4
@@ -1605,7 +1605,7 @@
       "tourist_season_start_date": "2025-12-01",
       "tourist_season_end_date": "2026-01-10",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 53.05
@@ -1705,7 +1705,7 @@
       "tourist_season_start_date": "2026-01-19",
       "tourist_season_end_date": "2026-02-24",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 58.89
@@ -1805,7 +1805,7 @@
       "tourist_season_start_date": "2025-11-27",
       "tourist_season_end_date": "2026-01-17",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 53.12
@@ -1905,7 +1905,7 @@
       "tourist_season_start_date": "2026-01-20",
       "tourist_season_end_date": "2026-02-26",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 46.26
@@ -2005,7 +2005,7 @@
       "tourist_season_start_date": "2025-11-26",
       "tourist_season_end_date": "2026-01-10",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 49.82
@@ -2105,7 +2105,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-02-28",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 46.34
@@ -2205,7 +2205,7 @@
       "tourist_season_start_date": "2025-12-05",
       "tourist_season_end_date": "2026-01-12",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 44.68
@@ -2305,7 +2305,7 @@
       "tourist_season_start_date": "2026-01-17",
       "tourist_season_end_date": "2026-02-28",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 51.72
@@ -2405,7 +2405,7 @@
       "tourist_season_start_date": "2025-11-27",
       "tourist_season_end_date": "2026-01-17",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 51.77
@@ -2505,7 +2505,7 @@
       "tourist_season_start_date": "2026-01-18",
       "tourist_season_end_date": "2026-02-26",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 53.89
@@ -2605,7 +2605,7 @@
       "tourist_season_start_date": "2025-11-29",
       "tourist_season_end_date": "2026-01-13",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 50.22
@@ -2705,7 +2705,7 @@
       "tourist_season_start_date": "2026-01-14",
       "tourist_season_end_date": "2026-03-05",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 56.07
@@ -2805,7 +2805,7 @@
       "tourist_season_start_date": "2025-12-02",
       "tourist_season_end_date": "2026-01-19",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 52.73
@@ -2905,7 +2905,7 @@
       "tourist_season_start_date": "2026-01-18",
       "tourist_season_end_date": "2026-03-04",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 57.43
@@ -3005,7 +3005,7 @@
       "tourist_season_start_date": "2025-11-28",
       "tourist_season_end_date": "2026-01-12",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 40.67
@@ -3105,7 +3105,7 @@
       "tourist_season_start_date": "2026-01-17",
       "tourist_season_end_date": "2026-02-25",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 55.4
@@ -3205,7 +3205,7 @@
       "tourist_season_start_date": "2025-11-27",
       "tourist_season_end_date": "2026-01-11",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 55.45
@@ -3305,7 +3305,7 @@
       "tourist_season_start_date": "2026-01-19",
       "tourist_season_end_date": "2026-03-03",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 40.57
@@ -3405,7 +3405,7 @@
       "tourist_season_start_date": "2025-11-30",
       "tourist_season_end_date": "2026-01-18",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 44.97
@@ -3505,7 +3505,7 @@
       "tourist_season_start_date": "2026-01-16",
       "tourist_season_end_date": "2026-02-27",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 50.39
@@ -3605,7 +3605,7 @@
       "tourist_season_start_date": "2025-11-27",
       "tourist_season_end_date": "2026-01-20",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 59.63
@@ -3705,7 +3705,7 @@
       "tourist_season_start_date": "2026-01-18",
       "tourist_season_end_date": "2026-02-26",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 54.16
@@ -3805,7 +3805,7 @@
       "tourist_season_start_date": "2025-12-02",
       "tourist_season_end_date": "2026-01-14",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 57.23
@@ -3905,7 +3905,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-02-28",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 55.69
@@ -4005,7 +4005,7 @@
       "tourist_season_start_date": "2025-11-26",
       "tourist_season_end_date": "2026-01-18",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 46.0
@@ -4105,7 +4105,7 @@
       "tourist_season_start_date": "2026-01-18",
       "tourist_season_end_date": "2026-03-01",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 52.13
@@ -4205,7 +4205,7 @@
       "tourist_season_start_date": "2025-12-05",
       "tourist_season_end_date": "2026-01-18",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 46.16
@@ -4305,7 +4305,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-02-24",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 59.75
@@ -4405,7 +4405,7 @@
       "tourist_season_start_date": "2025-11-26",
       "tourist_season_end_date": "2026-01-14",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 41.81
@@ -4505,7 +4505,7 @@
       "tourist_season_start_date": "2026-01-18",
       "tourist_season_end_date": "2026-03-02",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 46.37
@@ -4605,7 +4605,7 @@
       "tourist_season_start_date": "2025-11-29",
       "tourist_season_end_date": "2026-01-17",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 46.22
@@ -4705,7 +4705,7 @@
       "tourist_season_start_date": "2026-01-11",
       "tourist_season_end_date": "2026-03-03",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 45.18
@@ -4805,7 +4805,7 @@
       "tourist_season_start_date": "2025-11-28",
       "tourist_season_end_date": "2026-01-13",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 58.49
@@ -4905,7 +4905,7 @@
       "tourist_season_start_date": "2026-01-12",
       "tourist_season_end_date": "2026-02-28",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 45.0
@@ -5005,7 +5005,7 @@
       "tourist_season_start_date": "2025-11-26",
       "tourist_season_end_date": "2026-01-12",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 56.24
@@ -5105,7 +5105,7 @@
       "tourist_season_start_date": "2026-01-16",
       "tourist_season_end_date": "2026-02-28",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 59.99
@@ -5205,7 +5205,7 @@
       "tourist_season_start_date": "2025-11-28",
       "tourist_season_end_date": "2026-01-15",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 52.83
@@ -5305,7 +5305,7 @@
       "tourist_season_start_date": "2026-01-14",
       "tourist_season_end_date": "2026-03-01",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 57.51
@@ -5405,7 +5405,7 @@
       "tourist_season_start_date": "2025-12-05",
       "tourist_season_end_date": "2026-01-14",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 54.62
@@ -5505,7 +5505,7 @@
       "tourist_season_start_date": "2026-01-21",
       "tourist_season_end_date": "2026-03-05",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 54.59
@@ -5605,7 +5605,7 @@
       "tourist_season_start_date": "2025-11-29",
       "tourist_season_end_date": "2026-01-15",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 58.46
@@ -5705,7 +5705,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-02-23",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 48.69
@@ -5805,7 +5805,7 @@
       "tourist_season_start_date": "2025-11-26",
       "tourist_season_end_date": "2026-01-10",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 58.91
@@ -5905,7 +5905,7 @@
       "tourist_season_start_date": "2026-01-12",
       "tourist_season_end_date": "2026-02-26",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 55.36
@@ -6005,7 +6005,7 @@
       "tourist_season_start_date": "2025-12-04",
       "tourist_season_end_date": "2026-01-12",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 49.63
@@ -6105,7 +6105,7 @@
       "tourist_season_start_date": "2026-01-11",
       "tourist_season_end_date": "2026-02-26",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 53.92
@@ -6205,7 +6205,7 @@
       "tourist_season_start_date": "2025-12-04",
       "tourist_season_end_date": "2026-01-18",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 56.07
@@ -6305,7 +6305,7 @@
       "tourist_season_start_date": "2026-01-12",
       "tourist_season_end_date": "2026-03-02",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 44.27
@@ -6405,7 +6405,7 @@
       "tourist_season_start_date": "2025-11-26",
       "tourist_season_end_date": "2026-01-16",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 49.42
@@ -6505,7 +6505,7 @@
       "tourist_season_start_date": "2026-01-20",
       "tourist_season_end_date": "2026-03-02",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 50.66
@@ -6605,7 +6605,7 @@
       "tourist_season_start_date": "2025-11-26",
       "tourist_season_end_date": "2026-01-10",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 54.4
@@ -6705,7 +6705,7 @@
       "tourist_season_start_date": "2026-01-11",
       "tourist_season_end_date": "2026-03-03",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 54.79
@@ -6805,7 +6805,7 @@
       "tourist_season_start_date": "2025-11-30",
       "tourist_season_end_date": "2026-01-20",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 58.53
@@ -6905,7 +6905,7 @@
       "tourist_season_start_date": "2026-01-18",
       "tourist_season_end_date": "2026-02-26",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 54.8
@@ -7005,7 +7005,7 @@
       "tourist_season_start_date": "2025-11-28",
       "tourist_season_end_date": "2026-01-16",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 42.06
@@ -7105,7 +7105,7 @@
       "tourist_season_start_date": "2026-01-19",
       "tourist_season_end_date": "2026-03-02",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 55.3
@@ -7205,7 +7205,7 @@
       "tourist_season_start_date": "2025-11-30",
       "tourist_season_end_date": "2026-01-17",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 45.26
@@ -7305,7 +7305,7 @@
       "tourist_season_start_date": "2026-01-13",
       "tourist_season_end_date": "2026-02-25",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 43.47
@@ -7405,7 +7405,7 @@
       "tourist_season_start_date": "2025-12-05",
       "tourist_season_end_date": "2026-01-20",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 44.17
@@ -7505,7 +7505,7 @@
       "tourist_season_start_date": "2026-01-16",
       "tourist_season_end_date": "2026-02-27",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 43.63
@@ -7605,7 +7605,7 @@
       "tourist_season_start_date": "2025-11-29",
       "tourist_season_end_date": "2026-01-13",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 42.17
@@ -7705,7 +7705,7 @@
       "tourist_season_start_date": "2026-01-11",
       "tourist_season_end_date": "2026-02-23",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 54.55
@@ -7805,7 +7805,7 @@
       "tourist_season_start_date": "2025-11-28",
       "tourist_season_end_date": "2026-01-14",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 42.12
@@ -7905,7 +7905,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-03-01",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 59.89
@@ -8005,7 +8005,7 @@
       "tourist_season_start_date": "2025-11-27",
       "tourist_season_end_date": "2026-01-14",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 54.88
@@ -8105,7 +8105,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-03-03",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 49.24
@@ -8205,7 +8205,7 @@
       "tourist_season_start_date": "2025-12-01",
       "tourist_season_end_date": "2026-01-16",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 53.12
@@ -8305,7 +8305,7 @@
       "tourist_season_start_date": "2026-01-12",
       "tourist_season_end_date": "2026-02-23",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 58.79
@@ -8405,7 +8405,7 @@
       "tourist_season_start_date": "2025-12-04",
       "tourist_season_end_date": "2026-01-14",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 59.43
@@ -8505,7 +8505,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-03-02",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 49.56
@@ -8605,7 +8605,7 @@
       "tourist_season_start_date": "2025-11-29",
       "tourist_season_end_date": "2026-01-14",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 54.66
@@ -8705,7 +8705,7 @@
       "tourist_season_start_date": "2026-01-21",
       "tourist_season_end_date": "2026-03-01",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 44.58
@@ -8805,7 +8805,7 @@
       "tourist_season_start_date": "2025-11-29",
       "tourist_season_end_date": "2026-01-19",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 45.61
@@ -8905,7 +8905,7 @@
       "tourist_season_start_date": "2026-01-21",
       "tourist_season_end_date": "2026-02-23",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 55.78
@@ -9005,7 +9005,7 @@
       "tourist_season_start_date": "2025-12-03",
       "tourist_season_end_date": "2026-01-17",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 52.59
@@ -9105,7 +9105,7 @@
       "tourist_season_start_date": "2026-01-19",
       "tourist_season_end_date": "2026-03-05",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 57.3
@@ -9205,7 +9205,7 @@
       "tourist_season_start_date": "2025-11-26",
       "tourist_season_end_date": "2026-01-11",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 49.5
@@ -9305,7 +9305,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-02-26",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 54.07
@@ -9405,7 +9405,7 @@
       "tourist_season_start_date": "2025-11-27",
       "tourist_season_end_date": "2026-01-10",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 55.93
@@ -9505,7 +9505,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-02-23",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 54.49
@@ -9605,7 +9605,7 @@
       "tourist_season_start_date": "2025-11-30",
       "tourist_season_end_date": "2026-01-13",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 45.92
@@ -9705,7 +9705,7 @@
       "tourist_season_start_date": "2026-01-19",
       "tourist_season_end_date": "2026-03-05",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 58.04
@@ -9805,7 +9805,7 @@
       "tourist_season_start_date": "2025-12-01",
       "tourist_season_end_date": "2026-01-17",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 43.29
@@ -9905,7 +9905,7 @@
       "tourist_season_start_date": "2026-01-18",
       "tourist_season_end_date": "2026-03-04",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 59.21
@@ -10005,7 +10005,7 @@
       "tourist_season_start_date": "2025-11-30",
       "tourist_season_end_date": "2026-01-19",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 57.89
@@ -10105,7 +10105,7 @@
       "tourist_season_start_date": "2026-01-18",
       "tourist_season_end_date": "2026-02-25",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 56.86
@@ -10205,7 +10205,7 @@
       "tourist_season_start_date": "2025-11-30",
       "tourist_season_end_date": "2026-01-15",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 55.28
@@ -10305,7 +10305,7 @@
       "tourist_season_start_date": "2026-01-19",
       "tourist_season_end_date": "2026-03-05",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 45.87
@@ -10405,7 +10405,7 @@
       "tourist_season_start_date": "2025-11-27",
       "tourist_season_end_date": "2026-01-16",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 45.72
@@ -10505,7 +10505,7 @@
       "tourist_season_start_date": "2026-01-19",
       "tourist_season_end_date": "2026-02-23",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 59.74
@@ -10605,7 +10605,7 @@
       "tourist_season_start_date": "2025-11-30",
       "tourist_season_end_date": "2026-01-15",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 45.08
@@ -10705,7 +10705,7 @@
       "tourist_season_start_date": "2026-01-19",
       "tourist_season_end_date": "2026-02-24",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 52.37
@@ -10805,7 +10805,7 @@
       "tourist_season_start_date": "2025-12-06",
       "tourist_season_end_date": "2026-01-18",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 52.55
@@ -10905,7 +10905,7 @@
       "tourist_season_start_date": "2026-01-18",
       "tourist_season_end_date": "2026-02-27",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 40.09
@@ -11005,7 +11005,7 @@
       "tourist_season_start_date": "2025-11-27",
       "tourist_season_end_date": "2026-01-18",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 44.69
@@ -11105,7 +11105,7 @@
       "tourist_season_start_date": "2026-01-12",
       "tourist_season_end_date": "2026-02-28",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 50.51
@@ -11205,7 +11205,7 @@
       "tourist_season_start_date": "2025-12-04",
       "tourist_season_end_date": "2026-01-11",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 53.94
@@ -11305,7 +11305,7 @@
       "tourist_season_start_date": "2026-01-19",
       "tourist_season_end_date": "2026-03-05",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 47.79
@@ -11405,7 +11405,7 @@
       "tourist_season_start_date": "2025-11-29",
       "tourist_season_end_date": "2026-01-19",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 42.82
@@ -11505,7 +11505,7 @@
       "tourist_season_start_date": "2026-01-14",
       "tourist_season_end_date": "2026-02-26",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 41.69
@@ -11605,7 +11605,7 @@
       "tourist_season_start_date": "2025-12-04",
       "tourist_season_end_date": "2026-01-19",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 53.06
@@ -11705,7 +11705,7 @@
       "tourist_season_start_date": "2026-01-21",
       "tourist_season_end_date": "2026-02-26",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 43.72
@@ -11805,7 +11805,7 @@
       "tourist_season_start_date": "2025-12-02",
       "tourist_season_end_date": "2026-01-19",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 43.01
@@ -11905,7 +11905,7 @@
       "tourist_season_start_date": "2026-01-20",
       "tourist_season_end_date": "2026-02-27",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 49.74
@@ -12005,7 +12005,7 @@
       "tourist_season_start_date": "2025-11-30",
       "tourist_season_end_date": "2026-01-19",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 57.74
@@ -12105,7 +12105,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-02-27",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 50.31
@@ -12205,7 +12205,7 @@
       "tourist_season_start_date": "2025-11-27",
       "tourist_season_end_date": "2026-01-16",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 49.59
@@ -12305,7 +12305,7 @@
       "tourist_season_start_date": "2026-01-18",
       "tourist_season_end_date": "2026-02-27",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 41.49
@@ -12405,7 +12405,7 @@
       "tourist_season_start_date": "2025-12-03",
       "tourist_season_end_date": "2026-01-11",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 55.84
@@ -12505,7 +12505,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-02-24",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 59.71
@@ -12605,7 +12605,7 @@
       "tourist_season_start_date": "2025-12-04",
       "tourist_season_end_date": "2026-01-11",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 53.5
@@ -12705,7 +12705,7 @@
       "tourist_season_start_date": "2026-01-16",
       "tourist_season_end_date": "2026-03-03",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 57.38
@@ -12805,7 +12805,7 @@
       "tourist_season_start_date": "2025-12-04",
       "tourist_season_end_date": "2026-01-13",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 41.34
@@ -12905,7 +12905,7 @@
       "tourist_season_start_date": "2026-01-11",
       "tourist_season_end_date": "2026-03-02",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 49.06
@@ -13005,7 +13005,7 @@
       "tourist_season_start_date": "2025-12-03",
       "tourist_season_end_date": "2026-01-18",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 45.46
@@ -13105,7 +13105,7 @@
       "tourist_season_start_date": "2026-01-21",
       "tourist_season_end_date": "2026-03-03",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 48.83
@@ -13205,7 +13205,7 @@
       "tourist_season_start_date": "2025-11-26",
       "tourist_season_end_date": "2026-01-20",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 51.73
@@ -13305,7 +13305,7 @@
       "tourist_season_start_date": "2026-01-19",
       "tourist_season_end_date": "2026-03-02",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 49.8
@@ -13405,7 +13405,7 @@
       "tourist_season_start_date": "2025-12-06",
       "tourist_season_end_date": "2026-01-12",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 54.95
@@ -13505,7 +13505,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-02-25",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 59.24
@@ -13605,7 +13605,7 @@
       "tourist_season_start_date": "2025-11-28",
       "tourist_season_end_date": "2026-01-12",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 50.01
@@ -13705,7 +13705,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-02-23",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 49.9
@@ -13805,7 +13805,7 @@
       "tourist_season_start_date": "2025-11-26",
       "tourist_season_end_date": "2026-01-10",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 56.29
@@ -13905,7 +13905,7 @@
       "tourist_season_start_date": "2026-01-20",
       "tourist_season_end_date": "2026-02-25",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 41.98
@@ -14005,7 +14005,7 @@
       "tourist_season_start_date": "2025-11-28",
       "tourist_season_end_date": "2026-01-20",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 46.63
@@ -14105,7 +14105,7 @@
       "tourist_season_start_date": "2026-01-21",
       "tourist_season_end_date": "2026-02-23",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 44.32
@@ -14205,7 +14205,7 @@
       "tourist_season_start_date": "2025-12-01",
       "tourist_season_end_date": "2026-01-14",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 41.5
@@ -14305,7 +14305,7 @@
       "tourist_season_start_date": "2026-01-20",
       "tourist_season_end_date": "2026-02-26",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 46.49
@@ -14405,7 +14405,7 @@
       "tourist_season_start_date": "2025-11-26",
       "tourist_season_end_date": "2026-01-13",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 42.67
@@ -14505,7 +14505,7 @@
       "tourist_season_start_date": "2026-01-18",
       "tourist_season_end_date": "2026-02-27",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 56.04
@@ -14605,7 +14605,7 @@
       "tourist_season_start_date": "2025-11-27",
       "tourist_season_end_date": "2026-01-12",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 52.78
@@ -14705,7 +14705,7 @@
       "tourist_season_start_date": "2026-01-17",
       "tourist_season_end_date": "2026-02-26",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 45.4
@@ -14805,7 +14805,7 @@
       "tourist_season_start_date": "2025-11-30",
       "tourist_season_end_date": "2026-01-15",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 49.84
@@ -14905,7 +14905,7 @@
       "tourist_season_start_date": "2026-01-12",
       "tourist_season_end_date": "2026-03-03",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 49.48
@@ -15005,7 +15005,7 @@
       "tourist_season_start_date": "2025-12-06",
       "tourist_season_end_date": "2026-01-11",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 47.68
@@ -15105,7 +15105,7 @@
       "tourist_season_start_date": "2026-01-18",
       "tourist_season_end_date": "2026-03-04",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 58.8
@@ -15205,7 +15205,7 @@
       "tourist_season_start_date": "2025-11-28",
       "tourist_season_end_date": "2026-01-15",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 56.97
@@ -15305,7 +15305,7 @@
       "tourist_season_start_date": "2026-01-18",
       "tourist_season_end_date": "2026-03-01",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 43.13
@@ -15405,7 +15405,7 @@
       "tourist_season_start_date": "2025-12-03",
       "tourist_season_end_date": "2026-01-14",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 54.78
@@ -15505,7 +15505,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-02-25",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 59.95
@@ -15605,7 +15605,7 @@
       "tourist_season_start_date": "2025-12-06",
       "tourist_season_end_date": "2026-01-15",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 59.82
@@ -15705,7 +15705,7 @@
       "tourist_season_start_date": "2026-01-16",
       "tourist_season_end_date": "2026-02-28",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 55.45
@@ -15805,7 +15805,7 @@
       "tourist_season_start_date": "2025-12-02",
       "tourist_season_end_date": "2026-01-17",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 40.28
@@ -15905,7 +15905,7 @@
       "tourist_season_start_date": "2026-01-19",
       "tourist_season_end_date": "2026-03-02",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 45.44
@@ -16005,7 +16005,7 @@
       "tourist_season_start_date": "2025-12-06",
       "tourist_season_end_date": "2026-01-17",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 45.35
@@ -16105,7 +16105,7 @@
       "tourist_season_start_date": "2026-01-19",
       "tourist_season_end_date": "2026-02-25",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 58.63
@@ -16205,7 +16205,7 @@
       "tourist_season_start_date": "2025-11-30",
       "tourist_season_end_date": "2026-01-16",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 43.71
@@ -16305,7 +16305,7 @@
       "tourist_season_start_date": "2026-01-11",
       "tourist_season_end_date": "2026-02-25",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 50.21
@@ -16405,7 +16405,7 @@
       "tourist_season_start_date": "2025-11-28",
       "tourist_season_end_date": "2026-01-16",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 40.44
@@ -16505,7 +16505,7 @@
       "tourist_season_start_date": "2026-01-12",
       "tourist_season_end_date": "2026-03-05",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 43.84
@@ -16605,7 +16605,7 @@
       "tourist_season_start_date": "2025-11-26",
       "tourist_season_end_date": "2026-01-15",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 57.04
@@ -16705,7 +16705,7 @@
       "tourist_season_start_date": "2026-01-11",
       "tourist_season_end_date": "2026-02-27",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 59.74
@@ -16805,7 +16805,7 @@
       "tourist_season_start_date": "2025-11-29",
       "tourist_season_end_date": "2026-01-12",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 59.04
@@ -16905,7 +16905,7 @@
       "tourist_season_start_date": "2026-01-16",
       "tourist_season_end_date": "2026-03-03",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 52.85
@@ -17005,7 +17005,7 @@
       "tourist_season_start_date": "2025-11-28",
       "tourist_season_end_date": "2026-01-12",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 49.0
@@ -17105,7 +17105,7 @@
       "tourist_season_start_date": "2026-01-18",
       "tourist_season_end_date": "2026-03-05",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 54.61
@@ -17205,7 +17205,7 @@
       "tourist_season_start_date": "2025-12-01",
       "tourist_season_end_date": "2026-01-11",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 47.25
@@ -17305,7 +17305,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-02-26",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 49.87
@@ -17405,7 +17405,7 @@
       "tourist_season_start_date": "2025-12-04",
       "tourist_season_end_date": "2026-01-20",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 49.67
@@ -17505,7 +17505,7 @@
       "tourist_season_start_date": "2026-01-19",
       "tourist_season_end_date": "2026-02-27",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 43.9
@@ -17605,7 +17605,7 @@
       "tourist_season_start_date": "2025-11-28",
       "tourist_season_end_date": "2026-01-19",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 50.51
@@ -17705,7 +17705,7 @@
       "tourist_season_start_date": "2026-01-19",
       "tourist_season_end_date": "2026-03-05",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 40.93
@@ -17805,7 +17805,7 @@
       "tourist_season_start_date": "2025-12-04",
       "tourist_season_end_date": "2026-01-20",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 51.72
@@ -17905,7 +17905,7 @@
       "tourist_season_start_date": "2026-01-13",
       "tourist_season_end_date": "2026-03-03",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 46.87
@@ -18005,7 +18005,7 @@
       "tourist_season_start_date": "2025-12-06",
       "tourist_season_end_date": "2026-01-19",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 52.33
@@ -18105,7 +18105,7 @@
       "tourist_season_start_date": "2026-01-21",
       "tourist_season_end_date": "2026-03-03",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 52.42
@@ -18205,7 +18205,7 @@
       "tourist_season_start_date": "2025-12-01",
       "tourist_season_end_date": "2026-01-10",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 51.86
@@ -18305,7 +18305,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-03-04",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 40.87
@@ -18405,7 +18405,7 @@
       "tourist_season_start_date": "2025-11-28",
       "tourist_season_end_date": "2026-01-19",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 47.26
@@ -18505,7 +18505,7 @@
       "tourist_season_start_date": "2026-01-13",
       "tourist_season_end_date": "2026-03-01",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 40.59
@@ -18605,7 +18605,7 @@
       "tourist_season_start_date": "2025-12-03",
       "tourist_season_end_date": "2026-01-11",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 46.46
@@ -18705,7 +18705,7 @@
       "tourist_season_start_date": "2026-01-15",
       "tourist_season_end_date": "2026-03-01",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 50.13
@@ -18805,7 +18805,7 @@
       "tourist_season_start_date": "2025-11-26",
       "tourist_season_end_date": "2026-01-13",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 53.41
@@ -18905,7 +18905,7 @@
       "tourist_season_start_date": "2026-01-12",
       "tourist_season_end_date": "2026-03-05",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 51.94
@@ -19005,7 +19005,7 @@
       "tourist_season_start_date": "2025-11-30",
       "tourist_season_end_date": "2026-01-10",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 54.47
@@ -19105,7 +19105,7 @@
       "tourist_season_start_date": "2026-01-19",
       "tourist_season_end_date": "2026-02-27",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 58.74
@@ -19205,7 +19205,7 @@
       "tourist_season_start_date": "2025-11-28",
       "tourist_season_end_date": "2026-01-12",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 45.17
@@ -19305,7 +19305,7 @@
       "tourist_season_start_date": "2026-01-18",
       "tourist_season_end_date": "2026-03-03",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 54.04
@@ -19405,7 +19405,7 @@
       "tourist_season_start_date": "2025-11-29",
       "tourist_season_end_date": "2026-01-13",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 47.29
@@ -19505,7 +19505,7 @@
       "tourist_season_start_date": "2026-01-21",
       "tourist_season_end_date": "2026-02-26",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 50.84
@@ -19605,7 +19605,7 @@
       "tourist_season_start_date": "2025-12-01",
       "tourist_season_end_date": "2026-01-20",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 51.3
@@ -19705,7 +19705,7 @@
       "tourist_season_start_date": "2026-01-16",
       "tourist_season_end_date": "2026-03-04",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 42.59
@@ -19805,7 +19805,7 @@
       "tourist_season_start_date": "2025-12-04",
       "tourist_season_end_date": "2026-01-11",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 49.54
@@ -19905,7 +19905,7 @@
       "tourist_season_start_date": "2026-01-19",
       "tourist_season_end_date": "2026-02-26",
       "hotel_room_type_name": "Single",
-      "bed_type_name": "Single Bed",
+      "bed_type_name": "Single",
       "max_adults": 1,
       "max_children": 0,
       "room_price_per_person": 40.88

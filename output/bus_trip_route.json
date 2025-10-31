@@ -1,0 +1,324 @@
+{
+  "bus trip routes": [
+    {
+      "route_number": "R-00001",
+      "bus_trip_duration": "10:15:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Barcelona Nord Bus Station",
+      "arrival_bus_station_name": "Warsaw Central Bus Station",
+      "bus_company_name": "Ouibus"
+    },
+    {
+      "route_number": "R-00002",
+      "bus_trip_duration": "10:00:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Split Main Bus Station",
+      "arrival_bus_station_name": "Lviv Central Bus Station",
+      "bus_company_name": "Metro Turizm"
+    },
+    {
+      "route_number": "R-00003",
+      "bus_trip_duration": "05:00:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Thessaloniki KTEL Bus Station",
+      "arrival_bus_station_name": "Budva Bus Station",
+      "bus_company_name": "Isilines"
+    },
+    {
+      "route_number": "R-00004",
+      "bus_trip_duration": "12:00:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Thessaloniki KTEL Bus Station",
+      "arrival_bus_station_name": "Antalya Bus Station",
+      "bus_company_name": "RegioJet"
+    },
+    {
+      "route_number": "R-00005",
+      "bus_trip_duration": "09:00:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Antalya Bus Station",
+      "arrival_bus_station_name": "Zentraler Omnibusbahnhof Berlin (ZOB)",
+      "bus_company_name": "Ecolines"
+    },
+    {
+      "route_number": "R-00006",
+      "bus_trip_duration": "04:30:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Munich Central Bus Station",
+      "arrival_bus_station_name": "Paris Gallieni Bus Station",
+      "bus_company_name": "FlixBus"
+    },
+    {
+      "route_number": "R-00007",
+      "bus_trip_duration": "08:30:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Thessaloniki KTEL Bus Station",
+      "arrival_bus_station_name": "Dubrovnik Main Bus Station",
+      "bus_company_name": "RegioJet"
+    },
+    {
+      "route_number": "R-00008",
+      "bus_trip_duration": "08:00:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Istanbul Esenler Bus Terminal",
+      "arrival_bus_station_name": "Thessaloniki KTEL Bus Station",
+      "bus_company_name": "Union Ivkoni"
+    },
+    {
+      "route_number": "R-00009",
+      "bus_trip_duration": "08:45:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Thessaloniki KTEL Bus Station",
+      "arrival_bus_station_name": "KTEL Kifissou Terminal",
+      "bus_company_name": "Metro Turizm"
+    },
+    {
+      "route_number": "R-00010",
+      "bus_trip_duration": "04:15:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Munich Central Bus Station",
+      "arrival_bus_station_name": "Antalya Bus Station",
+      "bus_company_name": "Leo Express"
+    },
+    {
+      "route_number": "R-00011",
+      "bus_trip_duration": "07:15:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Podgorica Bus Terminal",
+      "arrival_bus_station_name": "Hurghada Bus Station",
+      "bus_company_name": "Leo Express"
+    },
+    {
+      "route_number": "R-00012",
+      "bus_trip_duration": "09:45:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Kraków MDA Bus Station",
+      "arrival_bus_station_name": "Sharm El Sheikh Bus Station",
+      "bus_company_name": "RegioJet"
+    },
+    {
+      "route_number": "R-00013",
+      "bus_trip_duration": "12:30:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Split Main Bus Station",
+      "arrival_bus_station_name": "Madrid Estación Sur",
+      "bus_company_name": "Metro Turizm"
+    },
+    {
+      "route_number": "R-00014",
+      "bus_trip_duration": "09:45:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Zentraler Omnibusbahnhof Berlin (ZOB)",
+      "arrival_bus_station_name": "Kraków MDA Bus Station",
+      "bus_company_name": "Eurolines"
+    },
+    {
+      "route_number": "R-00015",
+      "bus_trip_duration": "04:00:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "KTEL Kifissou Terminal",
+      "arrival_bus_station_name": "Kraków MDA Bus Station",
+      "bus_company_name": "FlixBus"
+    },
+    {
+      "route_number": "R-00016",
+      "bus_trip_duration": "07:30:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Podgorica Bus Terminal",
+      "arrival_bus_station_name": "Lviv Central Bus Station",
+      "bus_company_name": "Ouibus"
+    },
+    {
+      "route_number": "R-00017",
+      "bus_trip_duration": "10:00:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Kyiv Central Bus Station",
+      "arrival_bus_station_name": "Zentraler Omnibusbahnhof Berlin (ZOB)",
+      "bus_company_name": "Metro Turizm"
+    },
+    {
+      "route_number": "R-00018",
+      "bus_trip_duration": "03:30:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Hurghada Bus Station",
+      "arrival_bus_station_name": "Madrid Estación Sur",
+      "bus_company_name": "Union Ivkoni"
+    },
+    {
+      "route_number": "R-00019",
+      "bus_trip_duration": "05:00:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Kyiv Central Bus Station",
+      "arrival_bus_station_name": "Madrid Estación Sur",
+      "bus_company_name": "Ecolines"
+    },
+    {
+      "route_number": "R-00020",
+      "bus_trip_duration": "03:00:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Warsaw Central Bus Station",
+      "arrival_bus_station_name": "Paris Gallieni Bus Station",
+      "bus_company_name": "Eurolines"
+    },
+    {
+      "route_number": "R-00021",
+      "bus_trip_duration": "03:30:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Madrid Estación Sur",
+      "arrival_bus_station_name": "Budva Bus Station",
+      "bus_company_name": "FlixBus"
+    },
+    {
+      "route_number": "R-00022",
+      "bus_trip_duration": "08:30:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Antalya Bus Station",
+      "arrival_bus_station_name": "Dubrovnik Main Bus Station",
+      "bus_company_name": "Eurolines"
+    },
+    {
+      "route_number": "R-00023",
+      "bus_trip_duration": "11:30:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Antalya Bus Station",
+      "arrival_bus_station_name": "Munich Central Bus Station",
+      "bus_company_name": "Isilines"
+    },
+    {
+      "route_number": "R-00024",
+      "bus_trip_duration": "10:00:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Dubrovnik Main Bus Station",
+      "arrival_bus_station_name": "Thessaloniki KTEL Bus Station",
+      "bus_company_name": "Leo Express"
+    },
+    {
+      "route_number": "R-00025",
+      "bus_trip_duration": "11:30:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Warsaw Central Bus Station",
+      "arrival_bus_station_name": "Istanbul Esenler Bus Terminal",
+      "bus_company_name": "Isilines"
+    },
+    {
+      "route_number": "R-00026",
+      "bus_trip_duration": "11:00:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Madrid Estación Sur",
+      "arrival_bus_station_name": "Sharm El Sheikh Bus Station",
+      "bus_company_name": "Leo Express"
+    },
+    {
+      "route_number": "R-00027",
+      "bus_trip_duration": "03:30:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Split Main Bus Station",
+      "arrival_bus_station_name": "Lviv Central Bus Station",
+      "bus_company_name": "Ecolines"
+    },
+    {
+      "route_number": "R-00028",
+      "bus_trip_duration": "10:30:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Hurghada Bus Station",
+      "arrival_bus_station_name": "Dubrovnik Main Bus Station",
+      "bus_company_name": "FlixBus"
+    },
+    {
+      "route_number": "R-00029",
+      "bus_trip_duration": "10:15:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Munich Central Bus Station",
+      "arrival_bus_station_name": "Paris Gallieni Bus Station",
+      "bus_company_name": "Leo Express"
+    },
+    {
+      "route_number": "R-00030",
+      "bus_trip_duration": "03:45:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "KTEL Kifissou Terminal",
+      "arrival_bus_station_name": "Split Main Bus Station",
+      "bus_company_name": "Union Ivkoni"
+    },
+    {
+      "route_number": "R-00031",
+      "bus_trip_duration": "03:15:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "KTEL Kifissou Terminal",
+      "arrival_bus_station_name": "Kyiv Central Bus Station",
+      "bus_company_name": "RegioJet"
+    },
+    {
+      "route_number": "R-00032",
+      "bus_trip_duration": "09:00:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Zentraler Omnibusbahnhof Berlin (ZOB)",
+      "arrival_bus_station_name": "Nice Bus Terminal",
+      "bus_company_name": "FlixBus"
+    },
+    {
+      "route_number": "R-00033",
+      "bus_trip_duration": "08:00:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Barcelona Nord Bus Station",
+      "arrival_bus_station_name": "Antalya Bus Station",
+      "bus_company_name": "National Express"
+    },
+    {
+      "route_number": "R-00034",
+      "bus_trip_duration": "12:15:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Thessaloniki KTEL Bus Station",
+      "arrival_bus_station_name": "Hurghada Bus Station",
+      "bus_company_name": "RegioJet"
+    },
+    {
+      "route_number": "R-00035",
+      "bus_trip_duration": "12:30:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Thessaloniki KTEL Bus Station",
+      "arrival_bus_station_name": "Zentraler Omnibusbahnhof Berlin (ZOB)",
+      "bus_company_name": "FlixBus"
+    },
+    {
+      "route_number": "R-00036",
+      "bus_trip_duration": "07:15:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Kraków MDA Bus Station",
+      "arrival_bus_station_name": "Paris Gallieni Bus Station",
+      "bus_company_name": "Leo Express"
+    },
+    {
+      "route_number": "R-00037",
+      "bus_trip_duration": "08:30:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Sharm El Sheikh Bus Station",
+      "arrival_bus_station_name": "Kyiv Central Bus Station",
+      "bus_company_name": "Leo Express"
+    },
+    {
+      "route_number": "R-00038",
+      "bus_trip_duration": "11:45:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Zentraler Omnibusbahnhof Berlin (ZOB)",
+      "arrival_bus_station_name": "Budva Bus Station",
+      "bus_company_name": "Isilines"
+    },
+    {
+      "route_number": "R-00039",
+      "bus_trip_duration": "12:45:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Paris Gallieni Bus Station",
+      "arrival_bus_station_name": "Split Main Bus Station",
+      "bus_company_name": "Eurolines"
+    },
+    {
+      "route_number": "R-00040",
+      "bus_trip_duration": "05:30:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Kraków MDA Bus Station",
+      "arrival_bus_station_name": "Warsaw Central Bus Station",
+      "bus_company_name": "Leo Express"
+    }
+  ]
+}

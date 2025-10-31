@@ -1,0 +1,1204 @@
+{
+  "tourist seasons": [
+    {
+      "tourist_season_start_date": "2025-12-03",
+      "tourist_season_end_date": "2026-01-20",
+      "hotel_name": "Fairmont Grand Hotel Kyiv",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-21",
+      "tourist_season_end_date": "2026-02-26",
+      "hotel_name": "Fairmont Grand Hotel Kyiv",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2025-12-06",
+      "tourist_season_end_date": "2026-01-12",
+      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2026-01-11",
+      "tourist_season_end_date": "2026-03-01",
+      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-29",
+      "tourist_season_end_date": "2026-01-13",
+      "hotel_name": "BURSA Hotel Kyiv",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-14",
+      "tourist_season_end_date": "2026-02-27",
+      "hotel_name": "BURSA Hotel Kyiv",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-26",
+      "tourist_season_end_date": "2026-01-10",
+      "hotel_name": "KONTRAKT Boutique Hotel",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-02-23",
+      "hotel_name": "KONTRAKT Boutique Hotel",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-26",
+      "tourist_season_end_date": "2026-01-11",
+      "hotel_name": "Amarant Urban Hotel",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2026-01-13",
+      "tourist_season_end_date": "2026-02-25",
+      "hotel_name": "Amarant Urban Hotel",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2025-11-30",
+      "tourist_season_end_date": "2026-01-20",
+      "hotel_name": "Grand Hotel Lviv Casino & Spa",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-12",
+      "tourist_season_end_date": "2026-03-04",
+      "hotel_name": "Grand Hotel Lviv Casino & Spa",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-27",
+      "tourist_season_end_date": "2026-01-15",
+      "hotel_name": "Astoria Hotel",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-03-01",
+      "hotel_name": "Astoria Hotel",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-03",
+      "tourist_season_end_date": "2026-01-19",
+      "hotel_name": "Citadel Inn",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-02-24",
+      "hotel_name": "Citadel Inn",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2025-12-01",
+      "tourist_season_end_date": "2026-01-10",
+      "hotel_name": "Vintage Boutique Hotel",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-19",
+      "tourist_season_end_date": "2026-02-24",
+      "hotel_name": "Vintage Boutique Hotel",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-27",
+      "tourist_season_end_date": "2026-01-17",
+      "hotel_name": "Nobilis Hotel",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-20",
+      "tourist_season_end_date": "2026-02-26",
+      "hotel_name": "Nobilis Hotel",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2025-11-26",
+      "tourist_season_end_date": "2026-01-10",
+      "hotel_name": "Titanic Beach Lara",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-02-28",
+      "hotel_name": "Titanic Beach Lara",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-05",
+      "tourist_season_end_date": "2026-01-12",
+      "hotel_name": "Liberty Hotels Lara",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-17",
+      "tourist_season_end_date": "2026-02-28",
+      "hotel_name": "Liberty Hotels Lara",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-27",
+      "tourist_season_end_date": "2026-01-17",
+      "hotel_name": "Delphin Imperial Hotel Lara",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2026-01-18",
+      "tourist_season_end_date": "2026-02-26",
+      "hotel_name": "Delphin Imperial Hotel Lara",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-29",
+      "tourist_season_end_date": "2026-01-13",
+      "hotel_name": "IC Hotels Green Palace",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-14",
+      "tourist_season_end_date": "2026-03-05",
+      "hotel_name": "IC Hotels Green Palace",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-02",
+      "tourist_season_end_date": "2026-01-19",
+      "hotel_name": "Limak Lara De Luxe Hotel & Resort",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-18",
+      "tourist_season_end_date": "2026-03-04",
+      "hotel_name": "Limak Lara De Luxe Hotel & Resort",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2025-11-28",
+      "tourist_season_end_date": "2026-01-12",
+      "hotel_name": "Four Seasons Hotel Istanbul at Sultanahmet",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-17",
+      "tourist_season_end_date": "2026-02-25",
+      "hotel_name": "Four Seasons Hotel Istanbul at Sultanahmet",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2025-11-27",
+      "tourist_season_end_date": "2026-01-11",
+      "hotel_name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-19",
+      "tourist_season_end_date": "2026-03-03",
+      "hotel_name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-30",
+      "tourist_season_end_date": "2026-01-18",
+      "hotel_name": "Hotel Sura Hagia Sophia",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-16",
+      "tourist_season_end_date": "2026-02-27",
+      "hotel_name": "Hotel Sura Hagia Sophia",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-27",
+      "tourist_season_end_date": "2026-01-20",
+      "hotel_name": "DoubleTree by Hilton Istanbul - Old Town",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-18",
+      "tourist_season_end_date": "2026-02-26",
+      "hotel_name": "DoubleTree by Hilton Istanbul - Old Town",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-02",
+      "tourist_season_end_date": "2026-01-14",
+      "hotel_name": "Seven Hills Hotel",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-02-28",
+      "hotel_name": "Seven Hills Hotel",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2025-11-26",
+      "tourist_season_end_date": "2026-01-18",
+      "hotel_name": "Steigenberger Aldau Beach Hotel",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-18",
+      "tourist_season_end_date": "2026-03-01",
+      "hotel_name": "Steigenberger Aldau Beach Hotel",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2025-12-05",
+      "tourist_season_end_date": "2026-01-18",
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-02-24",
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-26",
+      "tourist_season_end_date": "2026-01-14",
+      "hotel_name": "Giftun Azur Resort",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-18",
+      "tourist_season_end_date": "2026-03-02",
+      "hotel_name": "Giftun Azur Resort",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-29",
+      "tourist_season_end_date": "2026-01-17",
+      "hotel_name": "Arabia Azur Resort",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-11",
+      "tourist_season_end_date": "2026-03-03",
+      "hotel_name": "Arabia Azur Resort",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2025-11-28",
+      "tourist_season_end_date": "2026-01-13",
+      "hotel_name": "SeaGull Beach Resort",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-12",
+      "tourist_season_end_date": "2026-02-28",
+      "hotel_name": "SeaGull Beach Resort",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-26",
+      "tourist_season_end_date": "2026-01-12",
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-16",
+      "tourist_season_end_date": "2026-02-28",
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-28",
+      "tourist_season_end_date": "2026-01-15",
+      "hotel_name": "Rixos Sharm El Sheikh",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-14",
+      "tourist_season_end_date": "2026-03-01",
+      "hotel_name": "Rixos Sharm El Sheikh",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-05",
+      "tourist_season_end_date": "2026-01-14",
+      "hotel_name": "Sunrise Remal Beach Resort",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2026-01-21",
+      "tourist_season_end_date": "2026-03-05",
+      "hotel_name": "Sunrise Remal Beach Resort",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-29",
+      "tourist_season_end_date": "2026-01-15",
+      "hotel_name": "Jaz Belvedere",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-02-23",
+      "hotel_name": "Jaz Belvedere",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-26",
+      "tourist_season_end_date": "2026-01-10",
+      "hotel_name": "Park Regency Sharm El Sheikh Resort",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-12",
+      "tourist_season_end_date": "2026-02-26",
+      "hotel_name": "Park Regency Sharm El Sheikh Resort",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-04",
+      "tourist_season_end_date": "2026-01-12",
+      "hotel_name": "Electra Palace Athens",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-11",
+      "tourist_season_end_date": "2026-02-26",
+      "hotel_name": "Electra Palace Athens",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-04",
+      "tourist_season_end_date": "2026-01-18",
+      "hotel_name": "Grand Hyatt Athens",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2026-01-12",
+      "tourist_season_end_date": "2026-03-02",
+      "hotel_name": "Grand Hyatt Athens",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-26",
+      "tourist_season_end_date": "2026-01-16",
+      "hotel_name": "Electra Metropolis",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-20",
+      "tourist_season_end_date": "2026-03-02",
+      "hotel_name": "Electra Metropolis",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-26",
+      "tourist_season_end_date": "2026-01-10",
+      "hotel_name": "Amalia Hotel Athens",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-11",
+      "tourist_season_end_date": "2026-03-03",
+      "hotel_name": "Amalia Hotel Athens",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-30",
+      "tourist_season_end_date": "2026-01-20",
+      "hotel_name": "New Hotel",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-18",
+      "tourist_season_end_date": "2026-02-26",
+      "hotel_name": "New Hotel",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-28",
+      "tourist_season_end_date": "2026-01-16",
+      "hotel_name": "Makedonia Palace",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-19",
+      "tourist_season_end_date": "2026-03-02",
+      "hotel_name": "Makedonia Palace",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2025-11-30",
+      "tourist_season_end_date": "2026-01-17",
+      "hotel_name": "The MET Hotel",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-13",
+      "tourist_season_end_date": "2026-02-25",
+      "hotel_name": "The MET Hotel",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2025-12-05",
+      "tourist_season_end_date": "2026-01-20",
+      "hotel_name": "Electra Palace Thessaloniki",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-16",
+      "tourist_season_end_date": "2026-02-27",
+      "hotel_name": "Electra Palace Thessaloniki",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-29",
+      "tourist_season_end_date": "2026-01-13",
+      "hotel_name": "Daios Luxury Living",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-11",
+      "tourist_season_end_date": "2026-02-23",
+      "hotel_name": "Daios Luxury Living",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2025-11-28",
+      "tourist_season_end_date": "2026-01-14",
+      "hotel_name": "Holiday Inn Thessaloniki",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-03-01",
+      "hotel_name": "Holiday Inn Thessaloniki",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-27",
+      "tourist_season_end_date": "2026-01-14",
+      "hotel_name": "Hotel Park Split",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-03-03",
+      "hotel_name": "Hotel Park Split",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-01",
+      "tourist_season_end_date": "2026-01-16",
+      "hotel_name": "Cornaro Hotel",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2026-01-12",
+      "tourist_season_end_date": "2026-02-23",
+      "hotel_name": "Cornaro Hotel",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-04",
+      "tourist_season_end_date": "2026-01-14",
+      "hotel_name": "Hotel Vestibul Palace & Villa",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-03-02",
+      "hotel_name": "Hotel Vestibul Palace & Villa",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2025-11-29",
+      "tourist_season_end_date": "2026-01-14",
+      "hotel_name": "Atrium Hotel",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2026-01-21",
+      "tourist_season_end_date": "2026-03-01",
+      "hotel_name": "Atrium Hotel",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-29",
+      "tourist_season_end_date": "2026-01-19",
+      "hotel_name": "Heritage Hotel Antique Split",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-21",
+      "tourist_season_end_date": "2026-02-23",
+      "hotel_name": "Heritage Hotel Antique Split",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2025-12-03",
+      "tourist_season_end_date": "2026-01-17",
+      "hotel_name": "Hotel Excelsior Dubrovnik",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-19",
+      "tourist_season_end_date": "2026-03-05",
+      "hotel_name": "Hotel Excelsior Dubrovnik",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-26",
+      "tourist_season_end_date": "2026-01-11",
+      "hotel_name": "Hilton Imperial Dubrovnik",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-02-26",
+      "hotel_name": "Hilton Imperial Dubrovnik",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2025-11-27",
+      "tourist_season_end_date": "2026-01-10",
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-02-23",
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-30",
+      "tourist_season_end_date": "2026-01-13",
+      "hotel_name": "Hotel Dubrovnik Palace",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-19",
+      "tourist_season_end_date": "2026-03-05",
+      "hotel_name": "Hotel Dubrovnik Palace",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2025-12-01",
+      "tourist_season_end_date": "2026-01-17",
+      "hotel_name": "St. Joseph's Hotel",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-18",
+      "tourist_season_end_date": "2026-03-04",
+      "hotel_name": "St. Joseph's Hotel",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-30",
+      "tourist_season_end_date": "2026-01-19",
+      "hotel_name": "Splendid Conference & Spa Resort",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-18",
+      "tourist_season_end_date": "2026-02-25",
+      "hotel_name": "Splendid Conference & Spa Resort",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2025-11-30",
+      "tourist_season_end_date": "2026-01-15",
+      "hotel_name": "Hotel Budva",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-19",
+      "tourist_season_end_date": "2026-03-05",
+      "hotel_name": "Hotel Budva",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-27",
+      "tourist_season_end_date": "2026-01-16",
+      "hotel_name": "Avala Resort & Villas",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-19",
+      "tourist_season_end_date": "2026-02-23",
+      "hotel_name": "Avala Resort & Villas",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-30",
+      "tourist_season_end_date": "2026-01-15",
+      "hotel_name": "Hotel Tre Canne",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2026-01-19",
+      "tourist_season_end_date": "2026-02-24",
+      "hotel_name": "Hotel Tre Canne",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-06",
+      "tourist_season_end_date": "2026-01-18",
+      "hotel_name": "Hotel Moskva Budva",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2026-01-18",
+      "tourist_season_end_date": "2026-02-27",
+      "hotel_name": "Hotel Moskva Budva",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2025-11-27",
+      "tourist_season_end_date": "2026-01-18",
+      "hotel_name": "Hilton Podgorica Crna Gora",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-12",
+      "tourist_season_end_date": "2026-02-28",
+      "hotel_name": "Hilton Podgorica Crna Gora",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-04",
+      "tourist_season_end_date": "2026-01-11",
+      "hotel_name": "Voco Podgorica (An IHG Hotel)",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-19",
+      "tourist_season_end_date": "2026-03-05",
+      "hotel_name": "Voco Podgorica (An IHG Hotel)",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-29",
+      "tourist_season_end_date": "2026-01-19",
+      "hotel_name": "Hotel Ziya",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2026-01-14",
+      "tourist_season_end_date": "2026-02-26",
+      "hotel_name": "Hotel Ziya",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-04",
+      "tourist_season_end_date": "2026-01-19",
+      "hotel_name": "Hotel Hemera",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-21",
+      "tourist_season_end_date": "2026-02-26",
+      "hotel_name": "Hotel Hemera",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2025-12-02",
+      "tourist_season_end_date": "2026-01-19",
+      "hotel_name": "CUE Podgorica",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2026-01-20",
+      "tourist_season_end_date": "2026-02-27",
+      "hotel_name": "CUE Podgorica",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-30",
+      "tourist_season_end_date": "2026-01-19",
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-02-27",
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2025-11-27",
+      "tourist_season_end_date": "2026-01-16",
+      "hotel_name": "Raffles Europejski Warsaw",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-18",
+      "tourist_season_end_date": "2026-02-27",
+      "hotel_name": "Raffles Europejski Warsaw",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2025-12-03",
+      "tourist_season_end_date": "2026-01-11",
+      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-02-24",
+      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-04",
+      "tourist_season_end_date": "2026-01-11",
+      "hotel_name": "Hotel Bellotto",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-16",
+      "tourist_season_end_date": "2026-03-03",
+      "hotel_name": "Hotel Bellotto",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2025-12-04",
+      "tourist_season_end_date": "2026-01-13",
+      "hotel_name": "Puro Warszawa Centrum",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-11",
+      "tourist_season_end_date": "2026-03-02",
+      "hotel_name": "Puro Warszawa Centrum",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-03",
+      "tourist_season_end_date": "2026-01-18",
+      "hotel_name": "Hotel Stary",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2026-01-21",
+      "tourist_season_end_date": "2026-03-03",
+      "hotel_name": "Hotel Stary",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-26",
+      "tourist_season_end_date": "2026-01-20",
+      "hotel_name": "Sheraton Grand Krakow",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-19",
+      "tourist_season_end_date": "2026-03-02",
+      "hotel_name": "Sheraton Grand Krakow",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-06",
+      "tourist_season_end_date": "2026-01-12",
+      "hotel_name": "Hotel Rubinstein",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-02-25",
+      "hotel_name": "Hotel Rubinstein",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2025-11-28",
+      "tourist_season_end_date": "2026-01-12",
+      "hotel_name": "Aparthotel Stare Miasto",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-02-23",
+      "hotel_name": "Aparthotel Stare Miasto",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-26",
+      "tourist_season_end_date": "2026-01-10",
+      "hotel_name": "Golden Tulip Krakow City Center",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-20",
+      "tourist_season_end_date": "2026-02-25",
+      "hotel_name": "Golden Tulip Krakow City Center",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-28",
+      "tourist_season_end_date": "2026-01-20",
+      "hotel_name": "Adina Apartment Hotel Berlin Mitte",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-21",
+      "tourist_season_end_date": "2026-02-23",
+      "hotel_name": "Adina Apartment Hotel Berlin Mitte",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2025-12-01",
+      "tourist_season_end_date": "2026-01-14",
+      "hotel_name": "The Mandala Hotel",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-20",
+      "tourist_season_end_date": "2026-02-26",
+      "hotel_name": "The Mandala Hotel",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2025-11-26",
+      "tourist_season_end_date": "2026-01-13",
+      "hotel_name": "Regent Berlin",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-18",
+      "tourist_season_end_date": "2026-02-27",
+      "hotel_name": "Regent Berlin",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2025-11-27",
+      "tourist_season_end_date": "2026-01-12",
+      "hotel_name": "INNSiDE by Meliá Berlin Mitte",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-17",
+      "tourist_season_end_date": "2026-02-26",
+      "hotel_name": "INNSiDE by Meliá Berlin Mitte",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-30",
+      "tourist_season_end_date": "2026-01-15",
+      "hotel_name": "The Ritz-Carlton, Berlin",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-12",
+      "tourist_season_end_date": "2026-03-03",
+      "hotel_name": "The Ritz-Carlton, Berlin",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-06",
+      "tourist_season_end_date": "2026-01-11",
+      "hotel_name": "Andaz Munich Schwabinger Tor - a Concept by Hyatt",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2026-01-18",
+      "tourist_season_end_date": "2026-03-04",
+      "hotel_name": "Andaz Munich Schwabinger Tor - a Concept by Hyatt",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-28",
+      "tourist_season_end_date": "2026-01-15",
+      "hotel_name": "Steigenberger Hotel München",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-18",
+      "tourist_season_end_date": "2026-03-01",
+      "hotel_name": "Steigenberger Hotel München",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-03",
+      "tourist_season_end_date": "2026-01-14",
+      "hotel_name": "Pullman Munich",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-02-25",
+      "hotel_name": "Pullman Munich",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-06",
+      "tourist_season_end_date": "2026-01-15",
+      "hotel_name": "Hilton Munich Park",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-16",
+      "tourist_season_end_date": "2026-02-28",
+      "hotel_name": "Hilton Munich Park",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-02",
+      "tourist_season_end_date": "2026-01-17",
+      "hotel_name": "The Rilano Hotel München",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-19",
+      "tourist_season_end_date": "2026-03-02",
+      "hotel_name": "The Rilano Hotel München",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-06",
+      "tourist_season_end_date": "2026-01-17",
+      "hotel_name": "Four Seasons Hotel George V, Paris",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-19",
+      "tourist_season_end_date": "2026-02-25",
+      "hotel_name": "Four Seasons Hotel George V, Paris",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2025-11-30",
+      "tourist_season_end_date": "2026-01-16",
+      "hotel_name": "Le Bristol Paris",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2026-01-11",
+      "tourist_season_end_date": "2026-02-25",
+      "hotel_name": "Le Bristol Paris",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-28",
+      "tourist_season_end_date": "2026-01-16",
+      "hotel_name": "Hôtel Plaza Athénée",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-12",
+      "tourist_season_end_date": "2026-03-05",
+      "hotel_name": "Hôtel Plaza Athénée",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-26",
+      "tourist_season_end_date": "2026-01-15",
+      "hotel_name": "Mandarin Oriental, Paris",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-11",
+      "tourist_season_end_date": "2026-02-27",
+      "hotel_name": "Mandarin Oriental, Paris",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-29",
+      "tourist_season_end_date": "2026-01-12",
+      "hotel_name": "The Peninsula Paris",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-16",
+      "tourist_season_end_date": "2026-03-03",
+      "hotel_name": "The Peninsula Paris",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-28",
+      "tourist_season_end_date": "2026-01-12",
+      "hotel_name": "Hôtel Negresco",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2026-01-18",
+      "tourist_season_end_date": "2026-03-05",
+      "hotel_name": "Hôtel Negresco",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-01",
+      "tourist_season_end_date": "2026-01-11",
+      "hotel_name": "Hyatt Regency Nice Palais de la Méditerranée",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-02-26",
+      "hotel_name": "Hyatt Regency Nice Palais de la Méditerranée",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-04",
+      "tourist_season_end_date": "2026-01-20",
+      "hotel_name": "Le Méridien Nice",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-19",
+      "tourist_season_end_date": "2026-02-27",
+      "hotel_name": "Le Méridien Nice",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-28",
+      "tourist_season_end_date": "2026-01-19",
+      "hotel_name": "Sheraton Nice Airport",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2026-01-19",
+      "tourist_season_end_date": "2026-03-05",
+      "hotel_name": "Sheraton Nice Airport",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-04",
+      "tourist_season_end_date": "2026-01-20",
+      "hotel_name": "Hôtel Aston La Scala",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-13",
+      "tourist_season_end_date": "2026-03-03",
+      "hotel_name": "Hôtel Aston La Scala",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-06",
+      "tourist_season_end_date": "2026-01-19",
+      "hotel_name": "Hotel Arts Barcelona",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-21",
+      "tourist_season_end_date": "2026-03-03",
+      "hotel_name": "Hotel Arts Barcelona",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-01",
+      "tourist_season_end_date": "2026-01-10",
+      "hotel_name": "W Barcelona",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-03-04",
+      "hotel_name": "W Barcelona",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2025-11-28",
+      "tourist_season_end_date": "2026-01-19",
+      "hotel_name": "Hampton by Hilton Barcelona Fira Gran Vía",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-13",
+      "tourist_season_end_date": "2026-03-01",
+      "hotel_name": "Hampton by Hilton Barcelona Fira Gran Vía",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2025-12-03",
+      "tourist_season_end_date": "2026-01-11",
+      "hotel_name": "H10 Port Vell",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2026-01-15",
+      "tourist_season_end_date": "2026-03-01",
+      "hotel_name": "H10 Port Vell",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2025-11-26",
+      "tourist_season_end_date": "2026-01-13",
+      "hotel_name": "Occidental Atenea Mar - Adults Only",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-12",
+      "tourist_season_end_date": "2026-03-05",
+      "hotel_name": "Occidental Atenea Mar - Adults Only",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-30",
+      "tourist_season_end_date": "2026-01-10",
+      "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-19",
+      "tourist_season_end_date": "2026-02-27",
+      "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-28",
+      "tourist_season_end_date": "2026-01-12",
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-18",
+      "tourist_season_end_date": "2026-03-03",
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "tourist_season_start_date": "2025-11-29",
+      "tourist_season_end_date": "2026-01-13",
+      "hotel_name": "VP Plaza España Design",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2026-01-21",
+      "tourist_season_end_date": "2026-02-26",
+      "hotel_name": "VP Plaza España Design",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "tourist_season_start_date": "2025-12-01",
+      "tourist_season_end_date": "2026-01-20",
+      "hotel_name": "Hotel Riu Plaza España",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "tourist_season_start_date": "2026-01-16",
+      "tourist_season_end_date": "2026-03-04",
+      "hotel_name": "Hotel Riu Plaza España",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "tourist_season_start_date": "2025-12-04",
+      "tourist_season_end_date": "2026-01-11",
+      "hotel_name": "Only YOU Boutique Hotel Madrid",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "tourist_season_start_date": "2026-01-19",
+      "tourist_season_end_date": "2026-02-26",
+      "hotel_name": "Only YOU Boutique Hotel Madrid",
+      "additional_info_name": "Festival Period"
+    }
+  ]
+}

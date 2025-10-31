@@ -1,0 +1,1924 @@
+{
+  "flight season schedules": [
+    {
+      "route_number": "F-00001",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "12:30",
+      "schedule_arrival_time": "14:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00001",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "03:00",
+      "schedule_arrival_time": "03:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00001",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "19:00",
+      "schedule_arrival_time": "19:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00001",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "01:30",
+      "schedule_arrival_time": "03:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00001",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "16:30",
+      "schedule_arrival_time": "19:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00001",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "15:00",
+      "schedule_arrival_time": "15:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00002",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "08:00",
+      "schedule_arrival_time": "08:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00002",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "11:00",
+      "schedule_arrival_time": "11:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00002",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "16:00",
+      "schedule_arrival_time": "16:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00002",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "00:00",
+      "schedule_arrival_time": "00:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00002",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "17:00",
+      "schedule_arrival_time": "17:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00002",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "15:00",
+      "schedule_arrival_time": "15:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00003",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "20:00",
+      "schedule_arrival_time": "20:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00003",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "21:30",
+      "schedule_arrival_time": "01:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00003",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "10:00",
+      "schedule_arrival_time": "10:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00003",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "07:00",
+      "schedule_arrival_time": "07:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00003",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "00:00",
+      "schedule_arrival_time": "00:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00003",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "15:30",
+      "schedule_arrival_time": "18:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00004",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "05:30",
+      "schedule_arrival_time": "07:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00004",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "09:00",
+      "schedule_arrival_time": "09:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00004",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "12:00",
+      "schedule_arrival_time": "12:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00004",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-01-31",
+      "schedule_departure_time": "19:00",
+      "schedule_arrival_time": "19:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00004",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-01-31",
+      "schedule_departure_time": "04:00",
+      "schedule_arrival_time": "04:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00004",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-01-31",
+      "schedule_departure_time": "00:30",
+      "schedule_arrival_time": "02:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00005",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "02:30",
+      "schedule_arrival_time": "04:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00005",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "04:30",
+      "schedule_arrival_time": "06:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00005",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "04:00",
+      "schedule_arrival_time": "04:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00005",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "06:30",
+      "schedule_arrival_time": "08:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00005",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "20:00",
+      "schedule_arrival_time": "20:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00005",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "11:30",
+      "schedule_arrival_time": "12:00",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00006",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "10:00",
+      "schedule_arrival_time": "10:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00006",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "05:00",
+      "schedule_arrival_time": "05:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00006",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "12:15",
+      "schedule_arrival_time": "12:45",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00006",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "16:30",
+      "schedule_arrival_time": "19:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00006",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "16:30",
+      "schedule_arrival_time": "19:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00006",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "11:00",
+      "schedule_arrival_time": "11:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00007",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "12:15",
+      "schedule_arrival_time": "12:45",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00007",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "22:00",
+      "schedule_arrival_time": "22:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00007",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "13:00",
+      "schedule_arrival_time": "13:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00007",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "20:30",
+      "schedule_arrival_time": "00:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00007",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "19:00",
+      "schedule_arrival_time": "19:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00007",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "05:00",
+      "schedule_arrival_time": "05:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00008",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "01:00",
+      "schedule_arrival_time": "01:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00008",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "15:30",
+      "schedule_arrival_time": "18:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00008",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "09:00",
+      "schedule_arrival_time": "09:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00008",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "11:00",
+      "schedule_arrival_time": "11:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00008",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "04:30",
+      "schedule_arrival_time": "06:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00008",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "08:15",
+      "schedule_arrival_time": "08:45",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00009",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "13:30",
+      "schedule_arrival_time": "15:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00009",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "07:00",
+      "schedule_arrival_time": "07:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00009",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "01:00",
+      "schedule_arrival_time": "01:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00009",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "10:30",
+      "schedule_arrival_time": "13:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00009",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "06:30",
+      "schedule_arrival_time": "08:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00009",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "16:00",
+      "schedule_arrival_time": "16:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00010",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "00:00",
+      "schedule_arrival_time": "00:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00010",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "03:30",
+      "schedule_arrival_time": "05:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00010",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "18:30",
+      "schedule_arrival_time": "22:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00010",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "13:30",
+      "schedule_arrival_time": "15:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00010",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "15:00",
+      "schedule_arrival_time": "15:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00010",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "22:30",
+      "schedule_arrival_time": "02:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00011",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "07:00",
+      "schedule_arrival_time": "07:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00011",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "01:00",
+      "schedule_arrival_time": "01:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00011",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "12:15",
+      "schedule_arrival_time": "12:45",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00011",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "23:30",
+      "schedule_arrival_time": "03:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00011",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "12:30",
+      "schedule_arrival_time": "14:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00011",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "21:30",
+      "schedule_arrival_time": "01:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00012",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "03:00",
+      "schedule_arrival_time": "03:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00012",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "20:30",
+      "schedule_arrival_time": "00:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00012",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "00:00",
+      "schedule_arrival_time": "00:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00012",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "22:00",
+      "schedule_arrival_time": "22:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00012",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "12:15",
+      "schedule_arrival_time": "12:45",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00012",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "12:30",
+      "schedule_arrival_time": "14:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00013",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "12:15",
+      "schedule_arrival_time": "12:45",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00013",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "12:30",
+      "schedule_arrival_time": "14:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00013",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "00:30",
+      "schedule_arrival_time": "02:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00013",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "22:30",
+      "schedule_arrival_time": "02:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00013",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "13:30",
+      "schedule_arrival_time": "15:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00013",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "04:00",
+      "schedule_arrival_time": "04:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00014",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "06:00",
+      "schedule_arrival_time": "06:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00014",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "19:30",
+      "schedule_arrival_time": "23:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00014",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "19:30",
+      "schedule_arrival_time": "23:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00014",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "08:15",
+      "schedule_arrival_time": "08:45",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00014",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "00:30",
+      "schedule_arrival_time": "02:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00014",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "17:00",
+      "schedule_arrival_time": "17:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00015",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "14:30",
+      "schedule_arrival_time": "16:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00015",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "00:00",
+      "schedule_arrival_time": "00:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00015",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "21:00",
+      "schedule_arrival_time": "21:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00015",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "04:00",
+      "schedule_arrival_time": "04:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00015",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "03:30",
+      "schedule_arrival_time": "05:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00015",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "12:30",
+      "schedule_arrival_time": "14:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00016",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "12:30",
+      "schedule_arrival_time": "14:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00016",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "11:00",
+      "schedule_arrival_time": "11:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00016",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "07:00",
+      "schedule_arrival_time": "07:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00016",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-04-01",
+      "schedule_departure_time": "07:00",
+      "schedule_arrival_time": "07:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00016",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-04-01",
+      "schedule_departure_time": "20:30",
+      "schedule_arrival_time": "00:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00016",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-04-01",
+      "schedule_departure_time": "12:00",
+      "schedule_arrival_time": "12:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00017",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "03:30",
+      "schedule_arrival_time": "05:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00017",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "23:30",
+      "schedule_arrival_time": "03:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00017",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "03:00",
+      "schedule_arrival_time": "03:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00017",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-04-01",
+      "schedule_departure_time": "19:00",
+      "schedule_arrival_time": "19:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00017",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-04-01",
+      "schedule_departure_time": "23:30",
+      "schedule_arrival_time": "03:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00017",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-04-01",
+      "schedule_departure_time": "15:00",
+      "schedule_arrival_time": "15:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00018",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "19:00",
+      "schedule_arrival_time": "19:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00018",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "17:00",
+      "schedule_arrival_time": "17:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00018",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "20:30",
+      "schedule_arrival_time": "00:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00018",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-04-01",
+      "schedule_departure_time": "00:00",
+      "schedule_arrival_time": "00:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00018",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-04-01",
+      "schedule_departure_time": "23:30",
+      "schedule_arrival_time": "03:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00018",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-04-01",
+      "schedule_departure_time": "05:00",
+      "schedule_arrival_time": "07:00",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00019",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "19:00",
+      "schedule_arrival_time": "19:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00019",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "02:30",
+      "schedule_arrival_time": "04:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00019",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "04:30",
+      "schedule_arrival_time": "06:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00019",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "10:30",
+      "schedule_arrival_time": "13:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00019",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "01:00",
+      "schedule_arrival_time": "01:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00019",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "17:00",
+      "schedule_arrival_time": "17:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00020",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "18:30",
+      "schedule_arrival_time": "22:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00020",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "08:00",
+      "schedule_arrival_time": "08:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00020",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "07:00",
+      "schedule_arrival_time": "07:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00020",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "11:30",
+      "schedule_arrival_time": "12:00",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00020",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "09:30",
+      "schedule_arrival_time": "12:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00020",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "02:30",
+      "schedule_arrival_time": "04:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00021",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "21:30",
+      "schedule_arrival_time": "01:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00021",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "11:30",
+      "schedule_arrival_time": "12:00",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00021",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "13:30",
+      "schedule_arrival_time": "15:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00021",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-04-01",
+      "schedule_departure_time": "06:30",
+      "schedule_arrival_time": "08:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00021",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-04-01",
+      "schedule_departure_time": "22:30",
+      "schedule_arrival_time": "02:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00021",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-04-01",
+      "schedule_departure_time": "04:00",
+      "schedule_arrival_time": "04:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00022",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "04:00",
+      "schedule_arrival_time": "04:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00022",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "03:00",
+      "schedule_arrival_time": "03:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00022",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "10:00",
+      "schedule_arrival_time": "10:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00022",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "05:00",
+      "schedule_arrival_time": "07:00",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00022",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "18:00",
+      "schedule_arrival_time": "18:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00022",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "06:30",
+      "schedule_arrival_time": "08:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00023",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "19:00",
+      "schedule_arrival_time": "19:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00023",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "11:00",
+      "schedule_arrival_time": "11:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00023",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "18:30",
+      "schedule_arrival_time": "22:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00023",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "06:30",
+      "schedule_arrival_time": "08:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00023",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "05:00",
+      "schedule_arrival_time": "07:00",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00023",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "04:30",
+      "schedule_arrival_time": "06:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00024",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "06:30",
+      "schedule_arrival_time": "08:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00024",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "10:00",
+      "schedule_arrival_time": "10:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00024",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "02:30",
+      "schedule_arrival_time": "04:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00024",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-01-31",
+      "schedule_departure_time": "23:30",
+      "schedule_arrival_time": "03:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00024",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-01-31",
+      "schedule_departure_time": "17:30",
+      "schedule_arrival_time": "21:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00024",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-01-31",
+      "schedule_departure_time": "22:30",
+      "schedule_arrival_time": "02:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00025",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "01:00",
+      "schedule_arrival_time": "01:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00025",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "22:30",
+      "schedule_arrival_time": "02:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00025",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "01:30",
+      "schedule_arrival_time": "03:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00025",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "05:00",
+      "schedule_arrival_time": "05:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00025",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "02:30",
+      "schedule_arrival_time": "04:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00025",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "15:00",
+      "schedule_arrival_time": "15:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00026",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "17:30",
+      "schedule_arrival_time": "21:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00026",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "13:00",
+      "schedule_arrival_time": "13:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00026",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "01:30",
+      "schedule_arrival_time": "03:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00026",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "14:30",
+      "schedule_arrival_time": "16:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00026",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "00:30",
+      "schedule_arrival_time": "02:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00026",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "09:30",
+      "schedule_arrival_time": "12:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00027",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "14:00",
+      "schedule_arrival_time": "14:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00027",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "06:30",
+      "schedule_arrival_time": "08:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00027",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "04:00",
+      "schedule_arrival_time": "04:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00027",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "12:00",
+      "schedule_arrival_time": "12:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00027",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "01:00",
+      "schedule_arrival_time": "01:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00027",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "14:30",
+      "schedule_arrival_time": "16:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00028",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "22:30",
+      "schedule_arrival_time": "02:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00028",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "03:30",
+      "schedule_arrival_time": "05:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00028",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "23:00",
+      "schedule_arrival_time": "23:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00028",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "06:30",
+      "schedule_arrival_time": "08:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00028",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "02:30",
+      "schedule_arrival_time": "04:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00028",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "00:00",
+      "schedule_arrival_time": "00:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00029",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "10:30",
+      "schedule_arrival_time": "13:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00029",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "06:00",
+      "schedule_arrival_time": "06:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00029",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "14:00",
+      "schedule_arrival_time": "14:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00029",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "21:00",
+      "schedule_arrival_time": "21:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00029",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "11:30",
+      "schedule_arrival_time": "12:00",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00029",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "14:00",
+      "schedule_arrival_time": "14:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00030",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "10:00",
+      "schedule_arrival_time": "10:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00030",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "01:30",
+      "schedule_arrival_time": "03:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00030",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "11:30",
+      "schedule_arrival_time": "12:00",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00030",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "21:00",
+      "schedule_arrival_time": "21:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00030",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "17:30",
+      "schedule_arrival_time": "21:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00030",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "20:30",
+      "schedule_arrival_time": "00:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00031",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "13:00",
+      "schedule_arrival_time": "13:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00031",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "04:00",
+      "schedule_arrival_time": "04:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00031",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "06:30",
+      "schedule_arrival_time": "08:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00031",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "15:30",
+      "schedule_arrival_time": "18:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00031",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "23:00",
+      "schedule_arrival_time": "23:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00031",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "20:00",
+      "schedule_arrival_time": "20:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00032",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "10:30",
+      "schedule_arrival_time": "13:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00032",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "05:00",
+      "schedule_arrival_time": "05:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00032",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "05:00",
+      "schedule_arrival_time": "05:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00032",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "10:00",
+      "schedule_arrival_time": "10:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00032",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "12:00",
+      "schedule_arrival_time": "12:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00032",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "15:30",
+      "schedule_arrival_time": "18:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00033",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "05:00",
+      "schedule_arrival_time": "07:00",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00033",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "12:15",
+      "schedule_arrival_time": "12:45",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00033",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "23:30",
+      "schedule_arrival_time": "03:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00033",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "22:00",
+      "schedule_arrival_time": "22:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00033",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "12:30",
+      "schedule_arrival_time": "14:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00033",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "15:30",
+      "schedule_arrival_time": "18:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00034",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "01:30",
+      "schedule_arrival_time": "03:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00034",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "03:30",
+      "schedule_arrival_time": "05:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00034",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "21:30",
+      "schedule_arrival_time": "01:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00034",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "18:30",
+      "schedule_arrival_time": "22:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00034",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "20:00",
+      "schedule_arrival_time": "20:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00034",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "17:30",
+      "schedule_arrival_time": "21:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00035",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "11:30",
+      "schedule_arrival_time": "12:00",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00035",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "12:00",
+      "schedule_arrival_time": "12:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00035",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-30",
+      "schedule_departure_time": "09:30",
+      "schedule_arrival_time": "12:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00035",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "11:00",
+      "schedule_arrival_time": "11:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00035",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "19:30",
+      "schedule_arrival_time": "23:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00035",
+      "flight_trip_season_start_date": "2026-01-31",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "05:00",
+      "schedule_arrival_time": "07:00",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00036",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "10:00",
+      "schedule_arrival_time": "10:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00036",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "10:30",
+      "schedule_arrival_time": "13:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00036",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "04:30",
+      "schedule_arrival_time": "06:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00036",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "11:30",
+      "schedule_arrival_time": "12:00",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00036",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "07:00",
+      "schedule_arrival_time": "07:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00036",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "14:30",
+      "schedule_arrival_time": "16:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00037",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "17:00",
+      "schedule_arrival_time": "17:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00037",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "12:15",
+      "schedule_arrival_time": "12:45",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00037",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "21:00",
+      "schedule_arrival_time": "21:30",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00037",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "11:30",
+      "schedule_arrival_time": "12:00",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00037",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "05:00",
+      "schedule_arrival_time": "05:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00037",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-02-15",
+      "schedule_departure_time": "20:30",
+      "schedule_arrival_time": "00:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00038",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "23:00",
+      "schedule_arrival_time": "23:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00038",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "19:30",
+      "schedule_arrival_time": "23:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00038",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "12:30",
+      "schedule_arrival_time": "14:30",
+      "day_name": "Thursday"
+    },
+    {
+      "route_number": "F-00038",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "19:30",
+      "schedule_arrival_time": "23:30",
+      "day_name": "Wednesday"
+    },
+    {
+      "route_number": "F-00038",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "05:00",
+      "schedule_arrival_time": "07:00",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00038",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-17",
+      "schedule_departure_time": "16:30",
+      "schedule_arrival_time": "19:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00039",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "02:30",
+      "schedule_arrival_time": "04:30",
+      "day_name": "Tuesday"
+    },
+    {
+      "route_number": "F-00039",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "15:00",
+      "schedule_arrival_time": "15:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00039",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2026-01-15",
+      "schedule_departure_time": "18:30",
+      "schedule_arrival_time": "22:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00039",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "00:00",
+      "schedule_arrival_time": "00:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00039",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "01:30",
+      "schedule_arrival_time": "03:30",
+      "day_name": "Sunday"
+    },
+    {
+      "route_number": "F-00039",
+      "flight_trip_season_start_date": "2026-01-16",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "22:30",
+      "schedule_arrival_time": "02:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00040",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "21:00",
+      "schedule_arrival_time": "21:30",
+      "day_name": "Monday"
+    },
+    {
+      "route_number": "F-00040",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "12:30",
+      "schedule_arrival_time": "14:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00040",
+      "flight_trip_season_start_date": "2025-12-01",
+      "flight_trip_season_end_date": "2025-12-31",
+      "schedule_departure_time": "06:30",
+      "schedule_arrival_time": "08:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00040",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "06:30",
+      "schedule_arrival_time": "08:30",
+      "day_name": "Saturday"
+    },
+    {
+      "route_number": "F-00040",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "11:30",
+      "schedule_arrival_time": "12:00",
+      "day_name": "Friday"
+    },
+    {
+      "route_number": "F-00040",
+      "flight_trip_season_start_date": "2026-01-01",
+      "flight_trip_season_end_date": "2026-03-02",
+      "schedule_departure_time": "21:30",
+      "schedule_arrival_time": "01:30",
+      "day_name": "Tuesday"
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "bus trip seasons": [
+    {
+      "route_number": "R-00001",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-30"
+    },
+    {
+      "route_number": "R-00001",
+      "bus_trip_season_start_date": "2026-01-31",
+      "bus_trip_season_end_date": "2026-04-01"
+    },
+    {
+      "route_number": "R-00002",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00002",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-01-31"
+    },
+    {
+      "route_number": "R-00003",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00003",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-02-15"
+    },
+    {
+      "route_number": "R-00004",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-15"
+    },
+    {
+      "route_number": "R-00004",
+      "bus_trip_season_start_date": "2026-01-16",
+      "bus_trip_season_end_date": "2026-02-15"
+    },
+    {
+      "route_number": "R-00005",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-30"
+    },
+    {
+      "route_number": "R-00005",
+      "bus_trip_season_start_date": "2026-01-31",
+      "bus_trip_season_end_date": "2026-03-17"
+    },
+    {
+      "route_number": "R-00006",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-30"
+    },
+    {
+      "route_number": "R-00006",
+      "bus_trip_season_start_date": "2026-01-31",
+      "bus_trip_season_end_date": "2026-03-17"
+    },
+    {
+      "route_number": "R-00007",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00007",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-03-02"
+    },
+    {
+      "route_number": "R-00008",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-15"
+    },
+    {
+      "route_number": "R-00008",
+      "bus_trip_season_start_date": "2026-01-16",
+      "bus_trip_season_end_date": "2026-03-17"
+    },
+    {
+      "route_number": "R-00009",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-15"
+    },
+    {
+      "route_number": "R-00009",
+      "bus_trip_season_start_date": "2026-01-16",
+      "bus_trip_season_end_date": "2026-03-02"
+    },
+    {
+      "route_number": "R-00010",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-15"
+    },
+    {
+      "route_number": "R-00010",
+      "bus_trip_season_start_date": "2026-01-16",
+      "bus_trip_season_end_date": "2026-03-02"
+    },
+    {
+      "route_number": "R-00011",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00011",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-03-02"
+    },
+    {
+      "route_number": "R-00012",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-15"
+    },
+    {
+      "route_number": "R-00012",
+      "bus_trip_season_start_date": "2026-01-16",
+      "bus_trip_season_end_date": "2026-03-17"
+    },
+    {
+      "route_number": "R-00013",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-15"
+    },
+    {
+      "route_number": "R-00013",
+      "bus_trip_season_start_date": "2026-01-16",
+      "bus_trip_season_end_date": "2026-03-02"
+    },
+    {
+      "route_number": "R-00014",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-15"
+    },
+    {
+      "route_number": "R-00014",
+      "bus_trip_season_start_date": "2026-01-16",
+      "bus_trip_season_end_date": "2026-03-02"
+    },
+    {
+      "route_number": "R-00015",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00015",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-01-31"
+    },
+    {
+      "route_number": "R-00016",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00016",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-01-31"
+    },
+    {
+      "route_number": "R-00017",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00017",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-01-31"
+    },
+    {
+      "route_number": "R-00018",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00018",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-02-15"
+    },
+    {
+      "route_number": "R-00019",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00019",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-03-02"
+    },
+    {
+      "route_number": "R-00020",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-15"
+    },
+    {
+      "route_number": "R-00020",
+      "bus_trip_season_start_date": "2026-01-16",
+      "bus_trip_season_end_date": "2026-03-17"
+    },
+    {
+      "route_number": "R-00021",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00021",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-03-02"
+    },
+    {
+      "route_number": "R-00022",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00022",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-02-15"
+    },
+    {
+      "route_number": "R-00023",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-15"
+    },
+    {
+      "route_number": "R-00023",
+      "bus_trip_season_start_date": "2026-01-16",
+      "bus_trip_season_end_date": "2026-02-15"
+    },
+    {
+      "route_number": "R-00024",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-15"
+    },
+    {
+      "route_number": "R-00024",
+      "bus_trip_season_start_date": "2026-01-16",
+      "bus_trip_season_end_date": "2026-02-15"
+    },
+    {
+      "route_number": "R-00025",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00025",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-01-31"
+    },
+    {
+      "route_number": "R-00026",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-15"
+    },
+    {
+      "route_number": "R-00026",
+      "bus_trip_season_start_date": "2026-01-16",
+      "bus_trip_season_end_date": "2026-03-17"
+    },
+    {
+      "route_number": "R-00027",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-30"
+    },
+    {
+      "route_number": "R-00027",
+      "bus_trip_season_start_date": "2026-01-31",
+      "bus_trip_season_end_date": "2026-03-17"
+    },
+    {
+      "route_number": "R-00028",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00028",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-03-02"
+    },
+    {
+      "route_number": "R-00029",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-30"
+    },
+    {
+      "route_number": "R-00029",
+      "bus_trip_season_start_date": "2026-01-31",
+      "bus_trip_season_end_date": "2026-03-17"
+    },
+    {
+      "route_number": "R-00030",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-15"
+    },
+    {
+      "route_number": "R-00030",
+      "bus_trip_season_start_date": "2026-01-16",
+      "bus_trip_season_end_date": "2026-03-02"
+    },
+    {
+      "route_number": "R-00031",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-30"
+    },
+    {
+      "route_number": "R-00031",
+      "bus_trip_season_start_date": "2026-01-31",
+      "bus_trip_season_end_date": "2026-03-02"
+    },
+    {
+      "route_number": "R-00032",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00032",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-03-02"
+    },
+    {
+      "route_number": "R-00033",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-15"
+    },
+    {
+      "route_number": "R-00033",
+      "bus_trip_season_start_date": "2026-01-16",
+      "bus_trip_season_end_date": "2026-03-02"
+    },
+    {
+      "route_number": "R-00034",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-15"
+    },
+    {
+      "route_number": "R-00034",
+      "bus_trip_season_start_date": "2026-01-16",
+      "bus_trip_season_end_date": "2026-03-02"
+    },
+    {
+      "route_number": "R-00035",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00035",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-03-02"
+    },
+    {
+      "route_number": "R-00036",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-15"
+    },
+    {
+      "route_number": "R-00036",
+      "bus_trip_season_start_date": "2026-01-16",
+      "bus_trip_season_end_date": "2026-02-15"
+    },
+    {
+      "route_number": "R-00037",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00037",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-01-31"
+    },
+    {
+      "route_number": "R-00038",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2026-01-15"
+    },
+    {
+      "route_number": "R-00038",
+      "bus_trip_season_start_date": "2026-01-16",
+      "bus_trip_season_end_date": "2026-02-15"
+    },
+    {
+      "route_number": "R-00039",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00039",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-03-02"
+    },
+    {
+      "route_number": "R-00040",
+      "bus_trip_season_start_date": "2025-12-01",
+      "bus_trip_season_end_date": "2025-12-31"
+    },
+    {
+      "route_number": "R-00040",
+      "bus_trip_season_start_date": "2026-01-01",
+      "bus_trip_season_end_date": "2026-03-02"
+    }
+  ]
+}

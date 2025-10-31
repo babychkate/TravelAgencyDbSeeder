@@ -1,0 +1,168 @@
+{
+  "additional infos": [
+    {"additionalInfoName": "Winter Season"},
+    {"additionalInfoName": "Summer Season"},
+    {"additionalInfoName": "Rainy Season"},
+    {"additionalInfoName": "Peak Holiday Season"},
+    {"additionalInfoName": "Shoulder Season"},
+    {"additionalInfoName": "Low Tourist Flow"},
+    {"additionalInfoName": "Hot Season"},
+    {"additionalInfoName": "Festival Period"}
+  ],
+  "bed types": [
+    {"bedTypeName": "Single"},
+    {"bedTypeName": "Double"},
+    {"bedTypeName": "Queen"},
+    {"bedTypeName": "King"},
+    {"bedTypeName": "Sofa Bed"}
+  ],
+  "booking statuses": [
+    {"bookingStatusName": "Pending Payment"},
+    {"bookingStatusName": "Ticketed"},
+    {"bookingStatusName": "Completed"},
+    {"bookingStatusName": "Cancelled"}
+  ],
+  "bus trip route types": [
+    {"busTripRouteTypeName": "Regular"},
+    {"busTripRouteTypeName": "Express"},
+    {"busTripRouteTypeName": "Night"}
+  ],
+  "category of facilities": [
+    {"categoryOfFacilityName": "General"},
+    {"categoryOfFacilityName": "Food & Drink"},
+    {"categoryOfFacilityName": "Wellness"},
+    {"categoryOfFacilityName": "Recreation"},
+    {"categoryOfFacilityName": "Business"},
+    {"categoryOfFacilityName": "Family"},
+    {"categoryOfFacilityName": "Accessibility"},
+    {"categoryOfFacilityName": "Parking & Transport"},
+    {"categoryOfFacilityName": "Pools"},
+    {"categoryOfFacilityName": "Sports"}
+  ],
+  "flight route types": [
+    {"flightRouteTypeName": "Regular"},
+    {"flightRouteTypeName": "Charter"},
+    {"flightRouteTypeName": "Low cost"}
+  ],
+  "room types": [
+    {"roomTypeName": "Single"},
+    {"roomTypeName": "Double"},
+    {"roomTypeName": "Deluxe"},
+    {"roomTypeName": "Family"},
+    {"roomTypeName": "Suite"}
+  ],
+  "hotel room types": [
+    {
+      "hotelRoomTypeName": "Single",
+      "maxAdults": 1,
+      "maxChildren": 0
+    },
+    {
+      "hotelRoomTypeName": "Double",
+      "maxAdults": 2,
+      "maxChildren": 0
+    },
+    {
+      "hotelRoomTypeName": "Deluxe",
+      "maxAdults": 2,
+      "maxChildren": 1
+    },
+    {
+      "hotelRoomTypeName": "Family",
+      "maxAdults": 2,
+      "maxChildren": 3
+    },
+    {
+      "hotelRoomTypeName": "Suite",
+      "maxAdults": 2,
+      "maxChildren": 2
+    }
+  ],
+  "meal types": [
+    {"mealTypeName": "Room Only (RO)"},
+    {"mealTypeName": "Bed & Breakfast (BB)"},
+    {"mealTypeName": "Half Board (HB)"},
+    {"mealTypeName": "Full Board (FB)"},
+    {"mealTypeName": "All Inclusive (AI)"}
+  ],
+  "nearby object types": [
+    {"nearbyObjectType": "Beach"},
+    {"nearbyObjectType": "Historic Landmark"},
+    {"nearbyObjectType": "Shopping Mall"},
+    {"nearbyObjectType": "Local Market"},
+    {"nearbyObjectType": "Restaurant District"},
+    {"nearbyObjectType": "National Park"},
+    {"nearbyObjectType": "Museum"},
+    {"nearbyObjectType": "Train Station"},
+    {"nearbyObjectType": "Metro Station"},
+    {"nearbyObjectType": "Ski Lift"}
+  ],
+  "package tour statuses": [
+    {"packageTourStatusName": "Draft"},
+    {"packageTourStatusName": "Active"},
+    {"packageTourStatusName": "Sold Out"},
+    {"packageTourStatusName": "Archived"}
+  ],
+  "policy types": [
+    {"policyTypeName": "Cancellation"},
+    {"policyTypeName": "Refund"},
+    {"policyTypeName": "Early Bird Discount"},
+    {"policyTypeName": "Last Minute Discount"},
+    {"policyTypeName": "Group Discount"},
+    {"policyTypeName": "Child Discount"},
+    {"policyTypeName": "Pet Policy"},
+    {"policyTypeName": "Pricing Dynamic"}
+  ],
+  "pricing policies": [
+    {
+      "policyTypeName": "Cancellation",
+      "accommodationPricePercent": 0.9,
+      "nutritionPricePercent": 0.95
+    },
+    {
+      "policyTypeName": "Early Bird Discount",
+      "accommodationPricePercent": 0.85,
+      "nutritionPricePercent": 0.85
+    },
+    {
+      "policyTypeName": "Group Discount",
+      "accommodationPricePercent": 0.9,
+      "nutritionPricePercent": 0.9
+    },
+    {
+      "policyTypeName": "Pricing Dynamic",
+      "accommodationPricePercent": 1.2,
+      "nutritionPricePercent": 1.1
+    },
+    {
+      "policyTypeName": "Last Minute Discount",
+      "accommodationPricePercent": 0.9,
+      "nutritionPricePercent": 0.95
+    },
+    {
+      "policyTypeName": "Child Discount",
+      "accommodationPricePercent": 0.5,
+      "nutritionPricePercent": 0.5
+    },
+    {
+      "policyTypeName": "Refund", 
+      "accommodationPricePercent": 0.9, 
+      "nutritionPricePercent": 1.0 
+    },
+    {
+      "policyTypeName": "Pet Policy",
+      "accommodationPricePercent": 1.05, 
+      "nutritionPricePercent": 1.0 
+    }
+  ],
+  "vacation types": [
+    {"vacationTypeName": "Beach Vacation"},
+    {"vacationTypeName": "City Break"},
+    {"vacationTypeName": "Ski Holiday"},
+    {"vacationTypeName": "Adventure Tour"},
+    {"vacationTypeName": "Historical & Cultural"},
+    {"vacationTypeName": "Spa & Wellness"},
+    {"vacationTypeName": "Cruise"},
+    {"vacationTypeName": "Mountain Hiking"}
+  ]
+}

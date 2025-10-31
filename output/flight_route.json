@@ -1,0 +1,324 @@
+{
+  "flight routes": [
+    {
+      "flight_number": "F-00001",
+      "flight_duration": "06:45:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Thessaloniki Macedonia Airport",
+      "arrival_airport_name": "Warsaw Chopin Airport",
+      "airline_name": "Airline 4"
+    },
+    {
+      "flight_number": "F-00002",
+      "flight_duration": "04:45:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Split Airport",
+      "arrival_airport_name": "Krakow John Paul II International Airport",
+      "airline_name": "Airline 2"
+    },
+    {
+      "flight_number": "F-00003",
+      "flight_duration": "04:00:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Krakow John Paul II International Airport",
+      "arrival_airport_name": "Istanbul Airport",
+      "airline_name": "Airline 4"
+    },
+    {
+      "flight_number": "F-00004",
+      "flight_duration": "06:00:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Munich Airport",
+      "arrival_airport_name": "Paris Charles de Gaulle Airport",
+      "airline_name": "Airline 1"
+    },
+    {
+      "flight_number": "F-00005",
+      "flight_duration": "01:15:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Split Airport",
+      "arrival_airport_name": "Sharm El Sheikh International Airport",
+      "airline_name": "Airline 2"
+    },
+    {
+      "flight_number": "F-00006",
+      "flight_duration": "02:30:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Istanbul Airport",
+      "arrival_airport_name": "Lviv Danylo Halytskyi International Airport",
+      "airline_name": "Airline 4"
+    },
+    {
+      "flight_number": "F-00007",
+      "flight_duration": "05:45:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Lviv Danylo Halytskyi International Airport",
+      "arrival_airport_name": "Krakow John Paul II International Airport",
+      "airline_name": "Airline 4"
+    },
+    {
+      "flight_number": "F-00008",
+      "flight_duration": "05:45:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Athens Eleftherios Venizelos Airport",
+      "arrival_airport_name": "Munich Airport",
+      "airline_name": "Airline 3"
+    },
+    {
+      "flight_number": "F-00009",
+      "flight_duration": "05:15:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Antalya Airport",
+      "arrival_airport_name": "Tivat Airport",
+      "airline_name": "Airline 4"
+    },
+    {
+      "flight_number": "F-00010",
+      "flight_duration": "06:15:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Krakow John Paul II International Airport",
+      "arrival_airport_name": "Dubrovnik Airport",
+      "airline_name": "Airline 1"
+    },
+    {
+      "flight_number": "F-00011",
+      "flight_duration": "01:45:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Antalya Airport",
+      "arrival_airport_name": "Warsaw Chopin Airport",
+      "airline_name": "Airline 1"
+    },
+    {
+      "flight_number": "F-00012",
+      "flight_duration": "05:45:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Warsaw Chopin Airport",
+      "arrival_airport_name": "Nice Côte d'Azur Airport",
+      "airline_name": "Airline 2"
+    },
+    {
+      "flight_number": "F-00013",
+      "flight_duration": "04:15:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Thessaloniki Macedonia Airport",
+      "arrival_airport_name": "Hurghada International Airport",
+      "airline_name": "Airline 2"
+    },
+    {
+      "flight_number": "F-00014",
+      "flight_duration": "01:00:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Podgorica Airport",
+      "arrival_airport_name": "Barcelona-El Prat Airport",
+      "airline_name": "Airline 3"
+    },
+    {
+      "flight_number": "F-00015",
+      "flight_duration": "06:15:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Warsaw Chopin Airport",
+      "arrival_airport_name": "Thessaloniki Macedonia Airport",
+      "airline_name": "Airline 4"
+    },
+    {
+      "flight_number": "F-00016",
+      "flight_duration": "06:00:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Dubrovnik Airport",
+      "arrival_airport_name": "Krakow John Paul II International Airport",
+      "airline_name": "Airline 3"
+    },
+    {
+      "flight_number": "F-00017",
+      "flight_duration": "02:30:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Hurghada International Airport",
+      "arrival_airport_name": "Istanbul Airport",
+      "airline_name": "Airline 4"
+    },
+    {
+      "flight_number": "F-00018",
+      "flight_duration": "01:45:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Warsaw Chopin Airport",
+      "arrival_airport_name": "Dubrovnik Airport",
+      "airline_name": "Airline 2"
+    },
+    {
+      "flight_number": "F-00019",
+      "flight_duration": "01:45:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Dubrovnik Airport",
+      "arrival_airport_name": "Split Airport",
+      "airline_name": "Airline 2"
+    },
+    {
+      "flight_number": "F-00020",
+      "flight_duration": "04:00:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Split Airport",
+      "arrival_airport_name": "Podgorica Airport",
+      "airline_name": "Airline 2"
+    },
+    {
+      "flight_number": "F-00021",
+      "flight_duration": "06:30:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Berlin Brandenburg Airport",
+      "arrival_airport_name": "Tivat Airport",
+      "airline_name": "Airline 3"
+    },
+    {
+      "flight_number": "F-00022",
+      "flight_duration": "04:00:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Nice Côte d'Azur Airport",
+      "arrival_airport_name": "Warsaw Chopin Airport",
+      "airline_name": "Airline 2"
+    },
+    {
+      "flight_number": "F-00023",
+      "flight_duration": "03:15:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Berlin Brandenburg Airport",
+      "arrival_airport_name": "Split Airport",
+      "airline_name": "Airline 4"
+    },
+    {
+      "flight_number": "F-00024",
+      "flight_duration": "01:45:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Munich Airport",
+      "arrival_airport_name": "Kyiv Boryspil International Airport",
+      "airline_name": "Airline 2"
+    },
+    {
+      "flight_number": "F-00025",
+      "flight_duration": "03:15:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Tivat Airport",
+      "arrival_airport_name": "Madrid-Barajas Airport",
+      "airline_name": "Airline 2"
+    },
+    {
+      "flight_number": "F-00026",
+      "flight_duration": "04:45:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Thessaloniki Macedonia Airport",
+      "arrival_airport_name": "Athens Eleftherios Venizelos Airport",
+      "airline_name": "Airline 1"
+    },
+    {
+      "flight_number": "F-00027",
+      "flight_duration": "05:45:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Krakow John Paul II International Airport",
+      "arrival_airport_name": "Antalya Airport",
+      "airline_name": "Airline 3"
+    },
+    {
+      "flight_number": "F-00028",
+      "flight_duration": "04:15:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Nice Côte d'Azur Airport",
+      "arrival_airport_name": "Sharm El Sheikh International Airport",
+      "airline_name": "Airline 2"
+    },
+    {
+      "flight_number": "F-00029",
+      "flight_duration": "06:30:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Paris Charles de Gaulle Airport",
+      "arrival_airport_name": "Lviv Danylo Halytskyi International Airport",
+      "airline_name": "Airline 1"
+    },
+    {
+      "flight_number": "F-00030",
+      "flight_duration": "03:45:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Munich Airport",
+      "arrival_airport_name": "Split Airport",
+      "airline_name": "Airline 1"
+    },
+    {
+      "flight_number": "F-00031",
+      "flight_duration": "04:00:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Krakow John Paul II International Airport",
+      "arrival_airport_name": "Split Airport",
+      "airline_name": "Airline 3"
+    },
+    {
+      "flight_number": "F-00032",
+      "flight_duration": "04:30:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Podgorica Airport",
+      "arrival_airport_name": "Nice Côte d'Azur Airport",
+      "airline_name": "Airline 2"
+    },
+    {
+      "flight_number": "F-00033",
+      "flight_duration": "03:30:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Tivat Airport",
+      "arrival_airport_name": "Munich Airport",
+      "airline_name": "Airline 1"
+    },
+    {
+      "flight_number": "F-00034",
+      "flight_duration": "05:45:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Lviv Danylo Halytskyi International Airport",
+      "arrival_airport_name": "Paris Charles de Gaulle Airport",
+      "airline_name": "Airline 4"
+    },
+    {
+      "flight_number": "F-00035",
+      "flight_duration": "05:00:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Istanbul Airport",
+      "arrival_airport_name": "Split Airport",
+      "airline_name": "Airline 2"
+    },
+    {
+      "flight_number": "F-00036",
+      "flight_duration": "06:00:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Warsaw Chopin Airport",
+      "arrival_airport_name": "Athens Eleftherios Venizelos Airport",
+      "airline_name": "Airline 4"
+    },
+    {
+      "flight_number": "F-00037",
+      "flight_duration": "06:45:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Sharm El Sheikh International Airport",
+      "arrival_airport_name": "Podgorica Airport",
+      "airline_name": "Airline 4"
+    },
+    {
+      "flight_number": "F-00038",
+      "flight_duration": "05:15:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Krakow John Paul II International Airport",
+      "arrival_airport_name": "Athens Eleftherios Venizelos Airport",
+      "airline_name": "Airline 2"
+    },
+    {
+      "flight_number": "F-00039",
+      "flight_duration": "05:15:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Munich Airport",
+      "arrival_airport_name": "Thessaloniki Macedonia Airport",
+      "airline_name": "Airline 4"
+    },
+    {
+      "flight_number": "F-00040",
+      "flight_duration": "03:30:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Berlin Brandenburg Airport",
+      "arrival_airport_name": "Athens Eleftherios Venizelos Airport",
+      "airline_name": "Airline 1"
+    }
+  ]
+}

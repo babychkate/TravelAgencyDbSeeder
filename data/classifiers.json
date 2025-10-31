@@ -1,0 +1,97 @@
+{
+  "additional infos": [
+    {"additional_info_name": "Winter Season"},
+    {"additional_info_name": "Summer Season"},
+    {"additional_info_name": "Rainy Season"},
+    {"additional_info_name": "Peak Holiday Season"},
+    {"additional_info_name": "Shoulder Season"},
+    {"additional_info_name": "Low Tourist Flow"},
+    {"additional_info_name": "Hot Season"},
+    {"additional_info_name": "Festival Period"}
+  ],
+  "bed types": [
+    {"bed_type_name": "Single"},
+    {"bed_type_name": "Double"},
+    {"bed_type_name": "Queen"},
+    {"bed_type_name": "King"},
+    {"bed_type_name": "Sofa Bed"}
+  ],
+  "booking statuses": [
+    {"booking_status_name": "Pending Payment"},
+    {"booking_status_name": "Ticketed"},
+    {"booking_status_name": "Completed"},
+    {"booking_status_name": "Cancelled"}
+  ],
+  "bus trip route types": [
+    {"bus_trip_route_type_name": "Regular"},
+    {"bus_trip_route_type_name": "Express"},
+    {"bus_trip_route_type_name": "Night"}
+  ],
+  "category of facilities": [
+    {"category_of_facility_name": "General"},
+    {"category_of_facility_name": "Food & Drink"},
+    {"category_of_facility_name": "Wellness"},
+    {"category_of_facility_name": "Recreation"},
+    {"category_of_facility_name": "Business"},
+    {"category_of_facility_name": "Family"},
+    {"category_of_facility_name": "Accessibility"},
+    {"category_of_facility_name": "Parking & Transport"},
+    {"category_of_facility_name": "Pools"},
+    {"category_of_facility_name": "Sports"}
+  ],
+  "flight route types": [
+    {"flight_route_type_name": "Regular"},
+    {"flight_route_type_name": "Charter"},
+    {"flight_route_type_name": "Low cost"}
+  ],
+
+  "room types": [
+    {"room_type_name": "Single"},
+    {"room_type_name": "Double"},
+    {"room_type_name": "Deluxe"},
+    {"room_type_name": "Family"},
+    {"room_type_name": "Suite"}
+  ],
+
+  "meal types": [
+    {"meal_type_name": "Room Only (RO)"},
+    {"meal_type_name": "Bed & Breakfast (BB)"},
+    {"meal_type_name": "Half Board (HB)"},
+    {"meal_type_name": "Full Board (FB)"},
+    {"meal_type_name": "All Inclusive (AI)"}
+  ],
+  "nearby object types": [
+    {"nearby_object_type_name": "Beach"},
+    {"nearby_object_type_name": "Historic Landmark"},
+    {"nearby_object_type_name": "Shopping Mall"},
+    {"nearby_object_type_name": "Local Market"},
+    {"nearby_object_type_name": "Restaurant District"},
+    {"nearby_object_type_name": "National Park"},
+    {"nearby_object_type_name": "Museum"},
+    {"nearby_object_type_name": "Train Station"},
+    {"nearby_object_type_name": "Metro Station"},
+    {"nearby_object_type_name": "Ski Lift"}
+  ],
+  "package tour statuses": [
+    {"package_tour_status_name": "Draft"},
+    {"package_tour_status_name": "Active"},
+    {"package_tour_status_name": "Sold Out"},
+    {"package_tour_status_name": "Archived"}
+  ],
+  "policy types": [
+    {"policy_type_name": "Early Bird Discount"},
+    {"policy_type_name": "Last Minute Discount"},
+    {"policy_type_name": "Child Discount"}
+  ],
+  
+  "vacation types": [
+    {"vacation_type_name": "Beach Vacation"},
+    {"vacation_type_name": "City Break"},
+    {"vacation_type_name": "Ski Holiday"},
+    {"vacation_type_name": "Adventure Tour"},
+    {"vacation_type_name": "Historical & Cultural"},
+    {"vacation_type_name": "Spa & Wellness"},
+    {"vacation_type_name": "Cruise"},
+    {"vacation_type_name": "Mountain Hiking"}
+  ]
+}

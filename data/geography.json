@@ -70,7 +70,7 @@
     {"airport_name": "Split Airport", "airport_code": "SPU", "city_name": "Split"},
     {"airport_name": "Dubrovnik Airport", "airport_code": "DBV", "city_name": "Dubrovnik"},
     {"airport_name": "Podgorica Airport", "airport_code": "TGD", "city_name": "Podgorica"},
-    {"airport_name": "Tivat Airport", "airport_code": "TIV", "city_name": "Tivat"},
+    {"airport_name": "Tivat Airport", "airport_code": "TIV", "city_name": "Budva"},
     {"airport_name": "Warsaw Chopin Airport", "airport_code": "WAW", "city_name": "Warsaw"},
     {"airport_name": "Krakow John Paul II International Airport", "airport_code": "KRK", "city_name": "Krakow"},
     {"airport_name": "Berlin Brandenburg Airport", "airport_code": "BER", "city_name": "Berlin"},

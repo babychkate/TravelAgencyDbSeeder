@@ -9,7 +9,7 @@ with open(file_path, "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # --- 1. Вставка schedule_hours ---
-schedule_hours = data.get("schedule_hours", [])
+schedule_hours = data.get("schedule hours", [])
 with conn.cursor() as cursor:
     added_count = 0
     for sh in schedule_hours:
@@ -28,10 +28,10 @@ with conn.cursor() as cursor:
         )
         added_count += 1
     conn.commit()
-print(f"✅ Внесено {added_count} schedule_hours")
+print(f"✅ Внесено {added_count} schedule hours")
 
 # --- 2. Вставка schedule_day ---
-schedule_days = data.get("schedule_day", [])
+schedule_days = data.get("schedule days", [])
 with conn.cursor() as cursor:
     added_count = 0
     for sd in schedule_days:
@@ -50,10 +50,10 @@ with conn.cursor() as cursor:
         )
         added_count += 1
     conn.commit()
-print(f"✅ Внесено {added_count} schedule_days")
+print(f"✅ Внесено {added_count} schedule days")
 
 # --- 3. Вставка schedule ---
-schedule_list = data.get("schedule", [])
+schedule_list = data.get("schedules", [])
 with conn.cursor() as cursor:
     added_count = 0
     for s in schedule_list:
@@ -92,4 +92,4 @@ with conn.cursor() as cursor:
         )
         added_count += 1
     conn.commit()
-print(f"✅ Внесено {added_count} schedule")
+print(f"✅ Внесено {added_count} schedules")

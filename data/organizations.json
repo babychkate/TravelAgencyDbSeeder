@@ -29,13 +29,13 @@
     {"tour_operator_name": "TUI", "tour_operator_description": "Mass Market Beach & Family Holidays"},
     {"tour_operator_name": "DER Touristik", "tour_operator_description": "European City Breaks & Package Tours"},
     {"tour_operator_name": "Neckermann Reisen", "tour_operator_description": "Beach Vacations & Family Packages"},
-    {"tour_operator_name": "Thomas Cook (Integrated into TUI)", "tour_operator_description": "Beach & City Trips"},
+    {"tour_operator_name": "Thomas Cook (TUI)", "tour_operator_description": "Beach & City Trips"},
     {"tour_operator_name": "Jet2holidays", "tour_operator_description": "UK Family & Beach Holidays"},
     {"tour_operator_name": "Cox & Kings", "tour_operator_description": "Luxury & Cultural Tours"},
     {"tour_operator_name": "Kuoni", "tour_operator_description": "Luxury & Exotic Destinations"},
     {"tour_operator_name": "FTI Touristik", "tour_operator_description": "Beach, Spa & Wellness Holidays"},
     {"tour_operator_name": "Neckermann Reisen Adventure", "tour_operator_description": "Adventure & Hiking Tours"},
-    {"tour_operator_name": "APT (Australian Pacific Touring)", "tour_operator_description": "Luxury Cruises & Global Packages"}
+    {"tour_operator_name": "APT", "tour_operator_description": "Luxury Cruises & Global Packages"}
   ],
 
   "travel agencies": [

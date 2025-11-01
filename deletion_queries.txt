@@ -1,0 +1,8 @@
+USE CopyTravelAgencyDB;
+DELETE FROM dbo.room_bed;
+DBCC CHECKIDENT ('dbo.room_bed', RESEED, 0);
+
+DELETE FROM dbo.hotel_room_type;
+DBCC CHECKIDENT ('dbo.hotel_room_type', RESEED, 0);
+
+DELETE FROM dbo.hotel_room_type_bed;

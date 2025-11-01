@@ -7,7 +7,7 @@ base_path = Path(__file__).parent.parent
 with open(base_path / "sources/hotel_base_source.json", "r", encoding="utf-8") as f:
     hotel_base = json.load(f)
 
-with open(base_path / "data/classifiers.json", "r", encoding="utf-8") as f:
+with open(base_path / "data/hotel_details.json", "r", encoding="utf-8") as f:
     classifiers = json.load(f)
 
 with open(base_path / "data/hotels.json", "r", encoding="utf-8") as f:
@@ -28,9 +28,6 @@ for hotel in hotels:
     hotel_name = hotel["hotel_name"]
 
     # 15 випадкових зручностей на готель
-    import random
-
-    # 15 випадкових зручностей на готель
     hotel_facilities_links.extend([
         {
             "hotel_name": hotel_name,
@@ -40,13 +37,15 @@ for hotel in hotels:
         for f in random.sample(facilities, min(15, len(facilities)))
     ])
 
-
     # 5 випадкових об'єктів поруч
     hotel_nearby_objects_links.extend([
-        {"hotel_name": hotel_name, 
-         "nearby_object_name": obj["nearby_object_name"],
-         "nearby_object_type_name": obj["nearby_object_type_name"],
-         "nearby_object_address": obj["nearby_object_address"]}
+        {
+            "hotel_name": hotel_name, 
+            "nearby_object_name": obj["nearby_object_name"],
+            "from_hotel_to_object_distance_km": round(random.uniform(0.1, 10.0), 2),
+            "time_to_object_by_transport_min": random.randint(2, 30),
+            "time_to_object_by_walk_min": random.randint(5, 60)
+        }
         for obj in random.sample(nearby_objects, min(5, len(nearby_objects)))
     ])
 
@@ -72,4 +71,3 @@ with open(base_path / "data/hotel_relations.json", "w", encoding="utf-8") as f:
     json.dump(hotel_relations, f, ensure_ascii=False, indent=2)
 
 print("Генерація зв'язків завершена! Дані збережено в 'hotel_relations.json'")
-

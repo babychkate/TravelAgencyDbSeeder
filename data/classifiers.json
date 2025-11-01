@@ -14,7 +14,7 @@
     {"bed_type_name": "Double"},
     {"bed_type_name": "Queen"},
     {"bed_type_name": "King"},
-    {"bed_type_name": "Sofa Bed"}
+    {"bed_type_name": "Sofa"}
   ],
   "booking statuses": [
     {"booking_status_name": "Pending Payment"},

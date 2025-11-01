@@ -1,5 +1,5 @@
 {
-  "airline companies": [
+  "airlines": [
     {"airline_name": "Ukraine International Airlines", "airline_code": "PS"},
     {"airline_name": "Turkish Airlines", "airline_code": "TK"},
     {"airline_name": "EgyptAir", "airline_code": "MS"},

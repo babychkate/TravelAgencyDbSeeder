@@ -8,7 +8,7 @@ file_path = Path(__file__).parent.parent / "data" / "package_tour.json"
 with open(file_path, "r", encoding="utf-8") as f:
     data = json.load(f)
 
-package_tours = data.get("package_tours", [])
+package_tours = data.get("package tours", [])
 
 with conn.cursor() as cursor:
     added_count = 0

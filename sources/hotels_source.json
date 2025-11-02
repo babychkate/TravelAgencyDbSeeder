@@ -58,7 +58,7 @@
     "hotel_area": 5500,
     "city_name": "Kyiv",
     "resort_name": "Podil Historical District",
-    "hotel_address": "Spaska St, 14"
+    "hotel_address": "Pokrovska St, 9"
   },
   {
     "hotel_name": "Amarant Urban Hotel",
@@ -208,7 +208,7 @@
     "hotel_area": 75000,
     "city_name": "Antalya",
     "resort_name": "Lara Beach Zone",
-    "hotel_address": "Kundu Köyü, Kervansaray Mevkii, Lara, Antalya"
+    "hotel_address": "Kundu, Yaşar Sobutay Cad No:432, Lara, Antalya"
   },
   {
     "hotel_name": "Limak Lara De Luxe Hotel & Resort",
@@ -253,7 +253,7 @@
     "hotel_area": 12000,
     "city_name": "Istanbul",
     "resort_name": "Sultanahmet Old City",
-    "hotel_address": "Ayasofya Meydanı, Yerebatan Cd. No:3, 34122 Fatih/İstanbul"
+    "hotel_address": "Sultanahmet, Kabasakal Cd. No:5, 34122 Fatih/İstanbul"
   },
   {
     "hotel_name": "Hotel Sura Hagia Sophia",
@@ -313,7 +313,7 @@
     "hotel_area": 85000,
     "city_name": "Hurghada",
     "resort_name": "Sakalla Area",
-    "hotel_address": "Sahl Hasheesh Road, Hurghada"
+    "hotel_address": "Youssif Afifi Road, Hurghada 1"
   },
   {
     "hotel_name": "Sunny Days El Palacio Resort & Spa",
@@ -328,7 +328,7 @@
     "hotel_area": 110000,
     "city_name": "Hurghada",
     "resort_name": "Sakalla Area",
-    "hotel_address": "Corniche Road, Hurghada"
+    "hotel_address": "Red sea Governorate, Hurghada"
   },
   {
     "hotel_name": "Giftun Azur Resort",
@@ -418,7 +418,7 @@
     "hotel_area": 35000,
     "city_name": "Sharm El Sheikh",
     "resort_name": "Montaza Bay",
-    "hotel_address": "Montazah, Sharm El Sheikh"
+    "hotel_address": "El Montaza, Sharm El Sheikh"
   },
   {
     "hotel_name": "Jaz Belvedere",
@@ -748,7 +748,7 @@
     "hotel_area": 2000,
     "city_name": "Dubrovnik",
     "resort_name": "Old City Walls Area",
-    "hotel_address": "Prijeko 4, 20000 Dubrovnik"
+    "hotel_address": "Ul. Svietogo Josipa 3, 20000 Dubrovnik"
   },
   {
     "hotel_name": "Splendid Conference & Spa Resort",
@@ -853,7 +853,7 @@
     "hotel_area": 12000,
     "city_name": "Podgorica",
     "resort_name": "Podgorica City Centre",
-    "hotel_address": "Radoja Dakića bb, 81000 Podgorica"
+    "hotel_address": "Oktoih 2, 81000 Podgorica"
   },
   {
     "hotel_name": "Hotel Ziya",

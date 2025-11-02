@@ -26,7 +26,7 @@ hotel_nearby_objects_links = []
 hotel_pricing_policies_links = []
 
 # --- Набір платних зручностей ---
-paid_facilities = {"Daily Housekeeping", "Bar", "Spa & Sauna", "Massage Services", "Baby Sitting Service"}
+paid_facilities = {"Daily Housekeeping", "Bar", "Spa & Sauna", "Massage Services", "Babysitting Service"}
 
 # --- Генерація зв’язків ---
 for hotel in hotels:

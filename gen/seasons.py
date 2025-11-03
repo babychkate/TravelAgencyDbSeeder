@@ -25,7 +25,7 @@ def generate_seasons_for_route(route_number, city_name):
     seasons = []
     # якщо є готельні сезони — беремо два випадкових періоди всередині
     if city_seasons:
-        for _ in range(2):
+        for _ in range(3):
             start, end = random.choice(city_seasons)
             season_length = random.randint(28, 32)  # ~1 місяць
             if (end - start).days > season_length:

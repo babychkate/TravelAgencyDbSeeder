@@ -2,63 +2,98 @@
   "bus seasons": [
     {
       "route_number": "R-00001",
-      "season_start_date": "2025-04-02",
-      "season_end_date": "2025-04-28"
+      "season_start_date": "2025-01-24",
+      "season_end_date": "2025-02-22"
     },
     {
       "route_number": "R-00001",
-      "season_start_date": "2025-01-03",
-      "season_end_date": "2025-01-28"
+      "season_start_date": "2025-08-29",
+      "season_end_date": "2025-09-26"
+    },
+    {
+      "route_number": "R-00001",
+      "season_start_date": "2025-02-16",
+      "season_end_date": "2025-02-28"
     },
     {
       "route_number": "R-00002",
-      "season_start_date": "2025-07-27",
-      "season_end_date": "2025-08-25"
+      "season_start_date": "2025-07-05",
+      "season_end_date": "2025-07-28"
     },
     {
       "route_number": "R-00002",
-      "season_start_date": "2025-01-27",
-      "season_end_date": "2025-02-24"
+      "season_start_date": "2025-09-02",
+      "season_end_date": "2025-09-28"
+    },
+    {
+      "route_number": "R-00002",
+      "season_start_date": "2025-07-05",
+      "season_end_date": "2025-07-28"
     },
     {
       "route_number": "R-00003",
-      "season_start_date": "2025-08-18",
-      "season_end_date": "2025-08-28"
+      "season_start_date": "2025-04-26",
+      "season_end_date": "2025-05-26"
     },
     {
       "route_number": "R-00003",
-      "season_start_date": "2025-08-18",
-      "season_end_date": "2025-08-28"
+      "season_start_date": "2025-03-18",
+      "season_end_date": "2025-03-28"
+    },
+    {
+      "route_number": "R-00003",
+      "season_start_date": "2025-04-29",
+      "season_end_date": "2025-05-28"
     },
     {
       "route_number": "R-00004",
-      "season_start_date": "2025-05-12",
-      "season_end_date": "2025-06-13"
+      "season_start_date": "2025-04-15",
+      "season_end_date": "2025-05-13"
     },
     {
       "route_number": "R-00004",
-      "season_start_date": "2025-04-04",
-      "season_end_date": "2025-05-06"
-    },
-    {
-      "route_number": "R-00005",
-      "season_start_date": "2025-01-10",
-      "season_end_date": "2025-01-28"
-    },
-    {
-      "route_number": "R-00005",
-      "season_start_date": "2025-01-10",
-      "season_end_date": "2025-01-28"
-    },
-    {
-      "route_number": "R-00006",
       "season_start_date": "2025-03-04",
       "season_end_date": "2025-03-28"
     },
     {
+      "route_number": "R-00004",
+      "season_start_date": "2025-04-05",
+      "season_end_date": "2025-04-28"
+    },
+    {
+      "route_number": "R-00005",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-10-23"
+    },
+    {
+      "route_number": "R-00005",
+      "season_start_date": "2025-01-10",
+      "season_end_date": "2025-01-28"
+    },
+    {
+      "route_number": "R-00005",
+      "season_start_date": "2025-01-10",
+      "season_end_date": "2025-01-28"
+    },
+    {
       "route_number": "R-00006",
-      "season_start_date": "2025-04-08",
-      "season_end_date": "2025-05-09"
+      "season_start_date": "2025-04-24",
+      "season_end_date": "2025-05-25"
+    },
+    {
+      "route_number": "R-00006",
+      "season_start_date": "2025-10-26",
+      "season_end_date": "2025-11-23"
+    },
+    {
+      "route_number": "R-00006",
+      "season_start_date": "2025-10-14",
+      "season_end_date": "2025-10-28"
+    },
+    {
+      "route_number": "R-00007",
+      "season_start_date": "2025-01-03",
+      "season_end_date": "2025-01-28"
     },
     {
       "route_number": "R-00007",
@@ -67,13 +102,8 @@
     },
     {
       "route_number": "R-00007",
-      "season_start_date": "2025-04-02",
-      "season_end_date": "2025-04-28"
-    },
-    {
-      "route_number": "R-00008",
-      "season_start_date": "2025-04-15",
-      "season_end_date": "2025-05-15"
+      "season_start_date": "2025-01-03",
+      "season_end_date": "2025-02-02"
     },
     {
       "route_number": "R-00008",
@@ -81,29 +111,49 @@
       "season_end_date": "2025-05-28"
     },
     {
-      "route_number": "R-00009",
-      "season_start_date": "2025-07-11",
-      "season_end_date": "2025-08-10"
+      "route_number": "R-00008",
+      "season_start_date": "2025-04-29",
+      "season_end_date": "2025-05-28"
+    },
+    {
+      "route_number": "R-00008",
+      "season_start_date": "2025-04-28",
+      "season_end_date": "2025-05-27"
     },
     {
       "route_number": "R-00009",
       "season_start_date": "2025-03-22",
-      "season_end_date": "2025-04-22"
+      "season_end_date": "2025-04-20"
+    },
+    {
+      "route_number": "R-00009",
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-09-19"
+    },
+    {
+      "route_number": "R-00009",
+      "season_start_date": "2025-10-17",
+      "season_end_date": "2025-11-14"
     },
     {
       "route_number": "R-00010",
-      "season_start_date": "2025-09-27",
-      "season_end_date": "2025-10-27"
+      "season_start_date": "2025-09-20",
+      "season_end_date": "2025-10-19"
     },
     {
       "route_number": "R-00010",
-      "season_start_date": "2025-09-25",
-      "season_end_date": "2025-09-28"
+      "season_start_date": "2025-06-19",
+      "season_end_date": "2025-07-19"
+    },
+    {
+      "route_number": "R-00010",
+      "season_start_date": "2025-04-11",
+      "season_end_date": "2025-04-28"
     },
     {
       "route_number": "R-00011",
-      "season_start_date": "2025-03-18",
-      "season_end_date": "2025-03-28"
+      "season_start_date": "2025-04-24",
+      "season_end_date": "2025-05-24"
     },
     {
       "route_number": "R-00011",
@@ -111,34 +161,64 @@
       "season_end_date": "2025-08-28"
     },
     {
+      "route_number": "R-00011",
+      "season_start_date": "2025-04-23",
+      "season_end_date": "2025-05-24"
+    },
+    {
+      "route_number": "R-00012",
+      "season_start_date": "2025-06-20",
+      "season_end_date": "2025-07-20"
+    },
+    {
       "route_number": "R-00012",
       "season_start_date": "2025-09-25",
       "season_end_date": "2025-09-28"
     },
     {
       "route_number": "R-00012",
-      "season_start_date": "2025-01-28",
-      "season_end_date": "2025-02-27"
+      "season_start_date": "2025-06-04",
+      "season_end_date": "2025-07-02"
     },
     {
       "route_number": "R-00013",
-      "season_start_date": "2025-09-22",
-      "season_end_date": "2025-10-24"
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28"
     },
     {
       "route_number": "R-00013",
-      "season_start_date": "2025-04-11",
-      "season_end_date": "2025-04-28"
+      "season_start_date": "2025-09-19",
+      "season_end_date": "2025-10-17"
+    },
+    {
+      "route_number": "R-00013",
+      "season_start_date": "2025-06-10",
+      "season_end_date": "2025-07-12"
     },
     {
       "route_number": "R-00014",
-      "season_start_date": "2025-04-24",
-      "season_end_date": "2025-05-24"
+      "season_start_date": "2025-07-23",
+      "season_end_date": "2025-07-28"
     },
     {
       "route_number": "R-00014",
-      "season_start_date": "2025-04-22",
-      "season_end_date": "2025-05-20"
+      "season_start_date": "2025-03-28",
+      "season_end_date": "2025-04-25"
+    },
+    {
+      "route_number": "R-00014",
+      "season_start_date": "2025-01-19",
+      "season_end_date": "2025-01-28"
+    },
+    {
+      "route_number": "R-00015",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28"
+    },
+    {
+      "route_number": "R-00015",
+      "season_start_date": "2025-03-27",
+      "season_end_date": "2025-04-27"
     },
     {
       "route_number": "R-00015",
@@ -146,9 +226,9 @@
       "season_end_date": "2025-01-28"
     },
     {
-      "route_number": "R-00015",
-      "season_start_date": "2025-03-23",
-      "season_end_date": "2025-04-21"
+      "route_number": "R-00016",
+      "season_start_date": "2025-01-30",
+      "season_end_date": "2025-02-27"
     },
     {
       "route_number": "R-00016",
@@ -157,38 +237,53 @@
     },
     {
       "route_number": "R-00016",
-      "season_start_date": "2025-01-21",
-      "season_end_date": "2025-02-18"
-    },
-    {
-      "route_number": "R-00017",
       "season_start_date": "2025-01-19",
-      "season_end_date": "2025-02-18"
+      "season_end_date": "2025-02-16"
     },
     {
       "route_number": "R-00017",
-      "season_start_date": "2025-08-23",
+      "season_start_date": "2025-09-01",
+      "season_end_date": "2025-09-28"
+    },
+    {
+      "route_number": "R-00017",
+      "season_start_date": "2025-01-21",
+      "season_end_date": "2025-02-20"
+    },
+    {
+      "route_number": "R-00017",
+      "season_start_date": "2025-01-27",
+      "season_end_date": "2025-02-26"
+    },
+    {
+      "route_number": "R-00018",
+      "season_start_date": "2025-03-18",
+      "season_end_date": "2025-03-28"
+    },
+    {
+      "route_number": "R-00018",
+      "season_start_date": "2025-08-18",
       "season_end_date": "2025-08-28"
     },
     {
       "route_number": "R-00018",
-      "season_start_date": "2025-04-27",
-      "season_end_date": "2025-05-26"
-    },
-    {
-      "route_number": "R-00018",
-      "season_start_date": "2025-04-23",
-      "season_end_date": "2025-05-24"
+      "season_start_date": "2025-03-18",
+      "season_end_date": "2025-03-28"
     },
     {
       "route_number": "R-00019",
-      "season_start_date": "2025-02-13",
-      "season_end_date": "2025-03-15"
+      "season_start_date": "2025-02-23",
+      "season_end_date": "2025-03-24"
     },
     {
       "route_number": "R-00019",
-      "season_start_date": "2025-10-08",
-      "season_end_date": "2025-10-28"
+      "season_start_date": "2025-02-25",
+      "season_end_date": "2025-03-25"
+    },
+    {
+      "route_number": "R-00019",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28"
     },
     {
       "route_number": "R-00020",
@@ -197,23 +292,38 @@
     },
     {
       "route_number": "R-00020",
-      "season_start_date": "2025-03-30",
-      "season_end_date": "2025-04-27"
-    },
-    {
-      "route_number": "R-00021",
       "season_start_date": "2025-08-23",
-      "season_end_date": "2025-08-28"
+      "season_end_date": "2025-09-21"
+    },
+    {
+      "route_number": "R-00020",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28"
     },
     {
       "route_number": "R-00021",
-      "season_start_date": "2025-01-22",
-      "season_end_date": "2025-02-23"
+      "season_start_date": "2025-01-27",
+      "season_end_date": "2025-02-25"
+    },
+    {
+      "route_number": "R-00021",
+      "season_start_date": "2025-01-31",
+      "season_end_date": "2025-02-28"
+    },
+    {
+      "route_number": "R-00021",
+      "season_start_date": "2025-01-31",
+      "season_end_date": "2025-02-28"
     },
     {
       "route_number": "R-00022",
-      "season_start_date": "2025-10-24",
-      "season_end_date": "2025-11-23"
+      "season_start_date": "2025-03-25",
+      "season_end_date": "2025-03-28"
+    },
+    {
+      "route_number": "R-00022",
+      "season_start_date": "2025-03-25",
+      "season_end_date": "2025-03-28"
     },
     {
       "route_number": "R-00022",
@@ -222,23 +332,33 @@
     },
     {
       "route_number": "R-00023",
+      "season_start_date": "2025-06-25",
+      "season_end_date": "2025-06-28"
+    },
+    {
+      "route_number": "R-00023",
       "season_start_date": "2025-07-07",
       "season_end_date": "2025-07-28"
     },
     {
       "route_number": "R-00023",
-      "season_start_date": "2025-06-25",
-      "season_end_date": "2025-06-28"
+      "season_start_date": "2025-07-07",
+      "season_end_date": "2025-07-28"
     },
     {
       "route_number": "R-00024",
-      "season_start_date": "2025-09-27",
-      "season_end_date": "2025-10-27"
+      "season_start_date": "2025-03-05",
+      "season_end_date": "2025-03-28"
     },
     {
       "route_number": "R-00024",
-      "season_start_date": "2025-09-24",
-      "season_end_date": "2025-10-25"
+      "season_start_date": "2025-03-05",
+      "season_end_date": "2025-03-28"
+    },
+    {
+      "route_number": "R-00024",
+      "season_start_date": "2025-03-05",
+      "season_end_date": "2025-03-28"
     },
     {
       "route_number": "R-00025",
@@ -251,14 +371,24 @@
       "season_end_date": "2025-09-28"
     },
     {
-      "route_number": "R-00026",
-      "season_start_date": "2025-08-16",
-      "season_end_date": "2025-09-13"
+      "route_number": "R-00025",
+      "season_start_date": "2025-01-29",
+      "season_end_date": "2025-02-27"
     },
     {
       "route_number": "R-00026",
-      "season_start_date": "2025-03-17",
-      "season_end_date": "2025-04-15"
+      "season_start_date": "2025-07-22",
+      "season_end_date": "2025-08-22"
+    },
+    {
+      "route_number": "R-00026",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28"
+    },
+    {
+      "route_number": "R-00026",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28"
     },
     {
       "route_number": "R-00027",
@@ -267,37 +397,57 @@
     },
     {
       "route_number": "R-00027",
-      "season_start_date": "2025-04-10",
-      "season_end_date": "2025-05-09"
+      "season_start_date": "2025-01-18",
+      "season_end_date": "2025-01-28"
+    },
+    {
+      "route_number": "R-00027",
+      "season_start_date": "2025-01-18",
+      "season_end_date": "2025-01-28"
     },
     {
       "route_number": "R-00028",
-      "season_start_date": "2025-05-23",
-      "season_end_date": "2025-06-22"
-    },
-    {
-      "route_number": "R-00028",
-      "season_start_date": "2025-08-24",
+      "season_start_date": "2025-08-11",
       "season_end_date": "2025-08-28"
     },
     {
-      "route_number": "R-00029",
-      "season_start_date": "2026-03-19",
-      "season_end_date": "2026-04-20"
+      "route_number": "R-00028",
+      "season_start_date": "2025-08-11",
+      "season_end_date": "2025-08-28"
+    },
+    {
+      "route_number": "R-00028",
+      "season_start_date": "2025-07-29",
+      "season_end_date": "2025-08-26"
     },
     {
       "route_number": "R-00029",
-      "season_start_date": "2026-08-20",
-      "season_end_date": "2026-09-19"
+      "season_start_date": "2026-08-30",
+      "season_end_date": "2026-09-27"
+    },
+    {
+      "route_number": "R-00029",
+      "season_start_date": "2026-05-08",
+      "season_end_date": "2026-06-08"
+    },
+    {
+      "route_number": "R-00030",
+      "season_start_date": "2025-04-25",
+      "season_end_date": "2025-05-25"
+    },
+    {
+      "route_number": "R-00030",
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-08-28"
     },
     {
       "route_number": "R-00030",
       "season_start_date": "2025-04-24",
-      "season_end_date": "2025-05-26"
+      "season_end_date": "2025-05-24"
     },
     {
-      "route_number": "R-00030",
-      "season_start_date": "2025-03-18",
+      "route_number": "R-00031",
+      "season_start_date": "2025-03-05",
       "season_end_date": "2025-03-28"
     },
     {
@@ -307,23 +457,23 @@
     },
     {
       "route_number": "R-00031",
-      "season_start_date": "2025-09-18",
-      "season_end_date": "2025-10-17"
+      "season_start_date": "2025-09-19",
+      "season_end_date": "2025-10-20"
     },
     {
       "route_number": "R-00032",
-      "season_start_date": "2025-01-06",
-      "season_end_date": "2025-01-28"
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-10-25"
     },
     {
       "route_number": "R-00032",
-      "season_start_date": "2025-07-28",
-      "season_end_date": "2025-08-28"
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-10-24"
     },
     {
-      "route_number": "R-00033",
-      "season_start_date": "2025-06-24",
-      "season_end_date": "2025-07-26"
+      "route_number": "R-00032",
+      "season_start_date": "2025-02-16",
+      "season_end_date": "2025-02-28"
     },
     {
       "route_number": "R-00033",
@@ -331,13 +481,38 @@
       "season_end_date": "2025-03-24"
     },
     {
-      "route_number": "R-00034",
-      "season_start_date": "2025-04-24",
-      "season_end_date": "2025-05-24"
+      "route_number": "R-00033",
+      "season_start_date": "2025-02-16",
+      "season_end_date": "2025-03-19"
+    },
+    {
+      "route_number": "R-00033",
+      "season_start_date": "2025-08-02",
+      "season_end_date": "2025-08-30"
     },
     {
       "route_number": "R-00034",
       "season_start_date": "2025-07-04",
+      "season_end_date": "2025-07-28"
+    },
+    {
+      "route_number": "R-00034",
+      "season_start_date": "2025-04-26",
+      "season_end_date": "2025-05-28"
+    },
+    {
+      "route_number": "R-00034",
+      "season_start_date": "2025-03-27",
+      "season_end_date": "2025-04-28"
+    },
+    {
+      "route_number": "R-00035",
+      "season_start_date": "2025-07-07",
+      "season_end_date": "2025-07-28"
+    },
+    {
+      "route_number": "R-00035",
+      "season_start_date": "2025-07-07",
       "season_end_date": "2025-07-28"
     },
     {
@@ -346,19 +521,19 @@
       "season_end_date": "2025-06-28"
     },
     {
-      "route_number": "R-00035",
-      "season_start_date": "2025-07-07",
-      "season_end_date": "2025-07-28"
+      "route_number": "R-00036",
+      "season_start_date": "2025-01-21",
+      "season_end_date": "2025-02-20"
+    },
+    {
+      "route_number": "R-00036",
+      "season_start_date": "2025-01-21",
+      "season_end_date": "2025-02-18"
     },
     {
       "route_number": "R-00036",
       "season_start_date": "2025-01-23",
-      "season_end_date": "2025-02-21"
-    },
-    {
-      "route_number": "R-00036",
-      "season_start_date": "2025-01-27",
-      "season_end_date": "2025-02-28"
+      "season_end_date": "2025-02-24"
     },
     {
       "route_number": "R-00037",
@@ -367,8 +542,13 @@
     },
     {
       "route_number": "R-00037",
+      "season_start_date": "2025-04-27",
+      "season_end_date": "2025-05-28"
+    },
+    {
+      "route_number": "R-00037",
       "season_start_date": "2025-04-23",
-      "season_end_date": "2025-05-24"
+      "season_end_date": "2025-05-25"
     },
     {
       "route_number": "R-00038",
@@ -377,13 +557,18 @@
     },
     {
       "route_number": "R-00038",
+      "season_start_date": "2025-08-20",
+      "season_end_date": "2025-08-28"
+    },
+    {
+      "route_number": "R-00038",
       "season_start_date": "2025-10-02",
       "season_end_date": "2025-10-28"
     },
     {
       "route_number": "R-00039",
-      "season_start_date": "2025-01-10",
-      "season_end_date": "2025-01-28"
+      "season_start_date": "2025-07-25",
+      "season_end_date": "2025-08-23"
     },
     {
       "route_number": "R-00039",
@@ -391,14 +576,24 @@
       "season_end_date": "2025-02-28"
     },
     {
-      "route_number": "R-00040",
-      "season_start_date": "2025-02-15",
-      "season_end_date": "2025-03-16"
+      "route_number": "R-00039",
+      "season_start_date": "2025-09-27",
+      "season_end_date": "2025-10-26"
     },
     {
       "route_number": "R-00040",
-      "season_start_date": "2025-10-08",
-      "season_end_date": "2025-10-28"
+      "season_start_date": "2025-06-14",
+      "season_end_date": "2025-06-28"
+    },
+    {
+      "route_number": "R-00040",
+      "season_start_date": "2025-02-24",
+      "season_end_date": "2025-03-24"
+    },
+    {
+      "route_number": "R-00040",
+      "season_start_date": "2025-01-24",
+      "season_end_date": "2025-02-21"
     }
   ],
   "flight seasons": [
@@ -409,13 +604,18 @@
     },
     {
       "route_number": "F-00001",
+      "season_start_date": "2025-07-07",
+      "season_end_date": "2025-07-28"
+    },
+    {
+      "route_number": "F-00001",
       "season_start_date": "2025-06-25",
       "season_end_date": "2025-06-28"
     },
     {
       "route_number": "F-00002",
-      "season_start_date": "2025-09-25",
-      "season_end_date": "2025-10-25"
+      "season_start_date": "2025-07-11",
+      "season_end_date": "2025-08-11"
     },
     {
       "route_number": "F-00002",
@@ -423,19 +623,29 @@
       "season_end_date": "2025-02-28"
     },
     {
-      "route_number": "F-00003",
-      "season_start_date": "2025-02-20",
-      "season_end_date": "2025-03-20"
+      "route_number": "F-00002",
+      "season_start_date": "2025-09-26",
+      "season_end_date": "2025-10-28"
     },
     {
       "route_number": "F-00003",
-      "season_start_date": "2025-08-29",
-      "season_end_date": "2025-09-27"
+      "season_start_date": "2025-02-20",
+      "season_end_date": "2025-03-24"
+    },
+    {
+      "route_number": "F-00003",
+      "season_start_date": "2025-07-10",
+      "season_end_date": "2025-07-28"
+    },
+    {
+      "route_number": "F-00003",
+      "season_start_date": "2025-04-18",
+      "season_end_date": "2025-04-28"
     },
     {
       "route_number": "F-00004",
-      "season_start_date": "2025-08-15",
-      "season_end_date": "2025-08-28"
+      "season_start_date": "2025-01-19",
+      "season_end_date": "2025-01-28"
     },
     {
       "route_number": "F-00004",
@@ -443,19 +653,34 @@
       "season_end_date": "2025-03-28"
     },
     {
-      "route_number": "F-00005",
-      "season_start_date": "2025-10-08",
-      "season_end_date": "2025-11-05"
+      "route_number": "F-00004",
+      "season_start_date": "2025-03-23",
+      "season_end_date": "2025-03-28"
     },
     {
       "route_number": "F-00005",
-      "season_start_date": "2025-08-21",
-      "season_end_date": "2025-09-20"
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28"
+    },
+    {
+      "route_number": "F-00005",
+      "season_start_date": "2025-07-18",
+      "season_end_date": "2025-08-17"
+    },
+    {
+      "route_number": "F-00005",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28"
     },
     {
       "route_number": "F-00006",
-      "season_start_date": "2025-03-24",
-      "season_end_date": "2025-04-25"
+      "season_start_date": "2025-07-23",
+      "season_end_date": "2025-07-28"
+    },
+    {
+      "route_number": "F-00006",
+      "season_start_date": "2025-04-23",
+      "season_end_date": "2025-05-22"
     },
     {
       "route_number": "F-00006",
@@ -464,13 +689,18 @@
     },
     {
       "route_number": "F-00007",
-      "season_start_date": "2025-02-16",
-      "season_end_date": "2025-02-28"
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-09-19"
     },
     {
       "route_number": "F-00007",
-      "season_start_date": "2025-04-02",
-      "season_end_date": "2025-04-28"
+      "season_start_date": "2025-06-13",
+      "season_end_date": "2025-06-28"
+    },
+    {
+      "route_number": "F-00007",
+      "season_start_date": "2025-01-15",
+      "season_end_date": "2025-02-12"
     },
     {
       "route_number": "F-00008",
@@ -479,27 +709,52 @@
     },
     {
       "route_number": "F-00008",
+      "season_start_date": "2025-03-23",
+      "season_end_date": "2025-03-28"
+    },
+    {
+      "route_number": "F-00008",
+      "season_start_date": "2025-04-25",
+      "season_end_date": "2025-05-27"
+    },
+    {
+      "route_number": "F-00009",
+      "season_start_date": "2025-04-05",
+      "season_end_date": "2025-04-28"
+    },
+    {
+      "route_number": "F-00009",
+      "season_start_date": "2025-04-23",
+      "season_end_date": "2025-05-21"
+    },
+    {
+      "route_number": "F-00009",
+      "season_start_date": "2025-04-05",
+      "season_end_date": "2025-04-28"
+    },
+    {
+      "route_number": "F-00010",
+      "season_start_date": "2025-04-14",
+      "season_end_date": "2025-05-14"
+    },
+    {
+      "route_number": "F-00010",
+      "season_start_date": "2025-03-25",
+      "season_end_date": "2025-03-28"
+    },
+    {
+      "route_number": "F-00010",
       "season_start_date": "2025-08-15",
       "season_end_date": "2025-08-28"
     },
     {
-      "route_number": "F-00009",
-      "season_start_date": "2025-04-06",
-      "season_end_date": "2025-05-06"
+      "route_number": "F-00011",
+      "season_start_date": "2025-08-20",
+      "season_end_date": "2025-08-28"
     },
     {
-      "route_number": "F-00009",
-      "season_start_date": "2025-04-26",
-      "season_end_date": "2025-05-27"
-    },
-    {
-      "route_number": "F-00010",
-      "season_start_date": "2025-03-23",
-      "season_end_date": "2025-03-28"
-    },
-    {
-      "route_number": "F-00010",
-      "season_start_date": "2025-10-12",
+      "route_number": "F-00011",
+      "season_start_date": "2025-10-02",
       "season_end_date": "2025-10-28"
     },
     {
@@ -508,39 +763,44 @@
       "season_end_date": "2025-09-28"
     },
     {
-      "route_number": "F-00011",
-      "season_start_date": "2025-09-25",
-      "season_end_date": "2025-09-28"
+      "route_number": "F-00012",
+      "season_start_date": "2026-05-14",
+      "season_end_date": "2026-06-13"
     },
     {
       "route_number": "F-00012",
-      "season_start_date": "2026-08-06",
-      "season_end_date": "2026-09-05"
-    },
-    {
-      "route_number": "F-00012",
-      "season_start_date": "2026-03-03",
-      "season_end_date": "2026-03-31"
+      "season_start_date": "2026-03-26",
+      "season_end_date": "2026-04-23"
     },
     {
       "route_number": "F-00013",
-      "season_start_date": "2025-08-18",
-      "season_end_date": "2025-08-28"
+      "season_start_date": "2025-03-18",
+      "season_end_date": "2025-03-28"
     },
     {
       "route_number": "F-00013",
-      "season_start_date": "2025-04-20",
-      "season_end_date": "2025-05-18"
+      "season_start_date": "2025-03-18",
+      "season_end_date": "2025-03-28"
+    },
+    {
+      "route_number": "F-00013",
+      "season_start_date": "2025-03-18",
+      "season_end_date": "2025-03-28"
     },
     {
       "route_number": "F-00014",
-      "season_start_date": "2025-09-23",
-      "season_end_date": "2025-10-24"
+      "season_start_date": "2025-01-26",
+      "season_end_date": "2025-02-26"
     },
     {
       "route_number": "F-00014",
-      "season_start_date": "2025-09-26",
-      "season_end_date": "2025-10-27"
+      "season_start_date": "2025-06-23",
+      "season_end_date": "2025-07-22"
+    },
+    {
+      "route_number": "F-00014",
+      "season_start_date": "2025-06-21",
+      "season_end_date": "2025-07-19"
     },
     {
       "route_number": "F-00015",
@@ -549,13 +809,23 @@
     },
     {
       "route_number": "F-00015",
-      "season_start_date": "2025-01-03",
-      "season_end_date": "2025-01-28"
+      "season_start_date": "2025-08-21",
+      "season_end_date": "2025-09-18"
+    },
+    {
+      "route_number": "F-00015",
+      "season_start_date": "2025-01-21",
+      "season_end_date": "2025-02-21"
     },
     {
       "route_number": "F-00016",
-      "season_start_date": "2025-05-07",
-      "season_end_date": "2025-05-28"
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28"
+    },
+    {
+      "route_number": "F-00016",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28"
     },
     {
       "route_number": "F-00016",
@@ -564,8 +834,13 @@
     },
     {
       "route_number": "F-00017",
-      "season_start_date": "2025-04-14",
-      "season_end_date": "2025-05-16"
+      "season_start_date": "2025-05-06",
+      "season_end_date": "2025-05-28"
+    },
+    {
+      "route_number": "F-00017",
+      "season_start_date": "2025-05-06",
+      "season_end_date": "2025-05-28"
     },
     {
       "route_number": "F-00017",
@@ -579,8 +854,18 @@
     },
     {
       "route_number": "F-00018",
-      "season_start_date": "2025-08-26",
-      "season_end_date": "2025-09-26"
+      "season_start_date": "2025-01-25",
+      "season_end_date": "2025-02-25"
+    },
+    {
+      "route_number": "F-00018",
+      "season_start_date": "2025-06-13",
+      "season_end_date": "2025-06-28"
+    },
+    {
+      "route_number": "F-00019",
+      "season_start_date": "2025-03-05",
+      "season_end_date": "2025-03-28"
     },
     {
       "route_number": "F-00019",
@@ -594,53 +879,73 @@
     },
     {
       "route_number": "F-00020",
-      "season_start_date": "2025-07-05",
-      "season_end_date": "2025-07-28"
+      "season_start_date": "2025-06-25",
+      "season_end_date": "2025-07-25"
     },
     {
       "route_number": "F-00020",
-      "season_start_date": "2025-06-19",
-      "season_end_date": "2025-07-17"
-    },
-    {
-      "route_number": "F-00021",
-      "season_start_date": "2025-07-27",
-      "season_end_date": "2025-08-26"
-    },
-    {
-      "route_number": "F-00021",
-      "season_start_date": "2025-03-26",
-      "season_end_date": "2025-04-24"
-    },
-    {
-      "route_number": "F-00022",
-      "season_start_date": "2025-04-26",
-      "season_end_date": "2025-05-25"
-    },
-    {
-      "route_number": "F-00022",
-      "season_start_date": "2025-03-13",
+      "season_start_date": "2025-03-20",
       "season_end_date": "2025-03-28"
     },
     {
-      "route_number": "F-00023",
-      "season_start_date": "2025-09-25",
-      "season_end_date": "2025-09-28"
+      "route_number": "F-00020",
+      "season_start_date": "2025-06-23",
+      "season_end_date": "2025-07-24"
+    },
+    {
+      "route_number": "F-00021",
+      "season_start_date": "2025-08-19",
+      "season_end_date": "2025-09-17"
+    },
+    {
+      "route_number": "F-00021",
+      "season_start_date": "2025-07-16",
+      "season_end_date": "2025-08-16"
+    },
+    {
+      "route_number": "F-00021",
+      "season_start_date": "2025-03-20",
+      "season_end_date": "2025-04-21"
+    },
+    {
+      "route_number": "F-00022",
+      "season_start_date": "2025-08-15",
+      "season_end_date": "2025-08-28"
+    },
+    {
+      "route_number": "F-00022",
+      "season_start_date": "2025-10-19",
+      "season_end_date": "2025-11-19"
+    },
+    {
+      "route_number": "F-00022",
+      "season_start_date": "2025-08-15",
+      "season_end_date": "2025-08-28"
     },
     {
       "route_number": "F-00023",
-      "season_start_date": "2025-04-25",
-      "season_end_date": "2025-05-23"
+      "season_start_date": "2025-04-20",
+      "season_end_date": "2025-05-18"
+    },
+    {
+      "route_number": "F-00023",
+      "season_start_date": "2025-04-27",
+      "season_end_date": "2025-05-26"
+    },
+    {
+      "route_number": "F-00023",
+      "season_start_date": "2025-06-17",
+      "season_end_date": "2025-06-28"
     },
     {
       "route_number": "F-00024",
-      "season_start_date": "2026-04-13",
-      "season_end_date": "2026-05-11"
+      "season_start_date": "2026-05-20",
+      "season_end_date": "2026-06-21"
     },
     {
       "route_number": "F-00024",
-      "season_start_date": "2026-08-07",
-      "season_end_date": "2026-09-04"
+      "season_start_date": "2026-03-21",
+      "season_end_date": "2026-04-22"
     },
     {
       "route_number": "F-00025",
@@ -653,19 +958,24 @@
       "season_end_date": "2025-07-28"
     },
     {
-      "route_number": "F-00026",
-      "season_start_date": "2026-03-03",
-      "season_end_date": "2026-03-31"
+      "route_number": "F-00025",
+      "season_start_date": "2025-01-19",
+      "season_end_date": "2025-01-28"
     },
     {
       "route_number": "F-00026",
-      "season_start_date": "2026-01-24",
-      "season_end_date": "2026-02-23"
+      "season_start_date": "2026-01-30",
+      "season_end_date": "2026-02-28"
+    },
+    {
+      "route_number": "F-00026",
+      "season_start_date": "2026-04-06",
+      "season_end_date": "2026-05-05"
     },
     {
       "route_number": "F-00027",
-      "season_start_date": "2025-06-29",
-      "season_end_date": "2025-07-27"
+      "season_start_date": "2025-06-26",
+      "season_end_date": "2025-07-26"
     },
     {
       "route_number": "F-00027",
@@ -673,44 +983,69 @@
       "season_end_date": "2025-07-28"
     },
     {
-      "route_number": "F-00028",
-      "season_start_date": "2025-04-02",
-      "season_end_date": "2025-04-28"
+      "route_number": "F-00027",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-10-27"
     },
     {
       "route_number": "F-00028",
-      "season_start_date": "2025-10-12",
-      "season_end_date": "2025-10-28"
+      "season_start_date": "2025-03-22",
+      "season_end_date": "2025-04-20"
+    },
+    {
+      "route_number": "F-00028",
+      "season_start_date": "2025-03-30",
+      "season_end_date": "2025-04-27"
+    },
+    {
+      "route_number": "F-00028",
+      "season_start_date": "2025-03-26",
+      "season_end_date": "2025-04-23"
+    },
+    {
+      "route_number": "F-00029",
+      "season_start_date": "2025-08-23",
+      "season_end_date": "2025-08-28"
     },
     {
       "route_number": "F-00029",
       "season_start_date": "2025-01-19",
-      "season_end_date": "2025-02-20"
+      "season_end_date": "2025-02-18"
     },
     {
       "route_number": "F-00029",
-      "season_start_date": "2025-01-29",
-      "season_end_date": "2025-02-26"
+      "season_start_date": "2025-01-20",
+      "season_end_date": "2025-02-18"
     },
     {
       "route_number": "F-00030",
-      "season_start_date": "2025-08-18",
-      "season_end_date": "2025-08-28"
-    },
-    {
-      "route_number": "F-00030",
-      "season_start_date": "2025-04-20",
+      "season_start_date": "2025-04-23",
       "season_end_date": "2025-05-22"
+    },
+    {
+      "route_number": "F-00030",
+      "season_start_date": "2025-04-29",
+      "season_end_date": "2025-05-27"
+    },
+    {
+      "route_number": "F-00030",
+      "season_start_date": "2025-04-24",
+      "season_end_date": "2025-05-24"
+    },
+    {
+      "route_number": "F-00031",
+      "season_start_date": "2025-01-23",
+      "season_end_date": "2025-02-24"
+    },
+    {
+      "route_number": "F-00031",
+      "season_start_date": "2025-05-12",
+      "season_end_date": "2025-06-12"
     },
     {
       "route_number": "F-00031",
       "season_start_date": "2025-05-20",
-      "season_end_date": "2025-06-17"
-    },
-    {
-      "route_number": "F-00031",
-      "season_start_date": "2025-05-19",
-      "season_end_date": "2025-06-20"
+      "season_end_date": "2025-06-21"
     },
     {
       "route_number": "F-00032",
@@ -719,13 +1054,18 @@
     },
     {
       "route_number": "F-00032",
-      "season_start_date": "2025-10-10",
-      "season_end_date": "2025-11-11"
+      "season_start_date": "2025-04-11",
+      "season_end_date": "2025-05-12"
+    },
+    {
+      "route_number": "F-00032",
+      "season_start_date": "2025-04-05",
+      "season_end_date": "2025-04-28"
     },
     {
       "route_number": "F-00033",
-      "season_start_date": "2025-08-24",
-      "season_end_date": "2025-08-28"
+      "season_start_date": "2025-03-23",
+      "season_end_date": "2025-03-28"
     },
     {
       "route_number": "F-00033",
@@ -733,54 +1073,89 @@
       "season_end_date": "2025-08-28"
     },
     {
-      "route_number": "F-00034",
-      "season_start_date": "2025-01-28",
-      "season_end_date": "2025-02-26"
+      "route_number": "F-00033",
+      "season_start_date": "2025-03-23",
+      "season_end_date": "2025-03-28"
     },
     {
       "route_number": "F-00034",
-      "season_start_date": "2025-09-13",
-      "season_end_date": "2025-10-12"
-    },
-    {
-      "route_number": "F-00035",
-      "season_start_date": "2025-01-23",
-      "season_end_date": "2025-02-24"
-    },
-    {
-      "route_number": "F-00035",
-      "season_start_date": "2025-08-28",
+      "season_start_date": "2025-09-02",
       "season_end_date": "2025-09-28"
     },
     {
-      "route_number": "F-00036",
-      "season_start_date": "2025-10-25",
-      "season_end_date": "2025-11-26"
+      "route_number": "F-00034",
+      "season_start_date": "2025-09-02",
+      "season_end_date": "2025-09-28"
+    },
+    {
+      "route_number": "F-00034",
+      "season_start_date": "2025-06-29",
+      "season_end_date": "2025-07-27"
+    },
+    {
+      "route_number": "F-00035",
+      "season_start_date": "2025-01-26",
+      "season_end_date": "2025-02-27"
+    },
+    {
+      "route_number": "F-00035",
+      "season_start_date": "2025-01-03",
+      "season_end_date": "2025-01-28"
+    },
+    {
+      "route_number": "F-00035",
+      "season_start_date": "2025-08-19",
+      "season_end_date": "2025-09-20"
     },
     {
       "route_number": "F-00036",
-      "season_start_date": "2025-10-12",
-      "season_end_date": "2025-10-28"
+      "season_start_date": "2025-03-13",
+      "season_end_date": "2025-03-28"
+    },
+    {
+      "route_number": "F-00036",
+      "season_start_date": "2025-08-15",
+      "season_end_date": "2025-08-28"
+    },
+    {
+      "route_number": "F-00036",
+      "season_start_date": "2025-08-15",
+      "season_end_date": "2025-08-28"
     },
     {
       "route_number": "F-00037",
-      "season_start_date": "2025-06-22",
-      "season_end_date": "2025-07-21"
+      "season_start_date": "2025-09-14",
+      "season_end_date": "2025-10-12"
+    },
+    {
+      "route_number": "F-00037",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-10-26"
     },
     {
       "route_number": "F-00037",
       "season_start_date": "2025-01-27",
-      "season_end_date": "2025-02-25"
+      "season_end_date": "2025-02-26"
     },
     {
       "route_number": "F-00038",
-      "season_start_date": "2026-03-11",
-      "season_end_date": "2026-04-09"
+      "season_start_date": "2026-06-14",
+      "season_end_date": "2026-07-16"
     },
     {
       "route_number": "F-00038",
-      "season_start_date": "2026-08-23",
-      "season_end_date": "2026-09-23"
+      "season_start_date": "2026-01-14",
+      "season_end_date": "2026-02-11"
+    },
+    {
+      "route_number": "F-00039",
+      "season_start_date": "2025-08-15",
+      "season_end_date": "2025-08-28"
+    },
+    {
+      "route_number": "F-00039",
+      "season_start_date": "2025-08-15",
+      "season_end_date": "2025-08-28"
     },
     {
       "route_number": "F-00039",
@@ -788,19 +1163,19 @@
       "season_end_date": "2025-03-28"
     },
     {
-      "route_number": "F-00039",
-      "season_start_date": "2025-04-26",
-      "season_end_date": "2025-05-26"
+      "route_number": "F-00040",
+      "season_start_date": "2025-05-07",
+      "season_end_date": "2025-05-28"
     },
     {
       "route_number": "F-00040",
-      "season_start_date": "2025-01-11",
-      "season_end_date": "2025-02-09"
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28"
     },
     {
       "route_number": "F-00040",
       "season_start_date": "2025-05-07",
-      "season_end_date": "2025-06-04"
+      "season_end_date": "2025-05-28"
     }
   ]
 }

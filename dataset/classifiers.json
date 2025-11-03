@@ -1,10 +1,53 @@
 {
+    "additional infos": [
+    "Winter Season",
+    "Summer Season",
+    "Rainy Season",
+    "Peak Holiday Season",
+    "Shoulder Season",
+    "Low Tourist Flow",
+    "Hot Season",
+    "Festival Period"
+  ],
+
   "bed types": [
     "Single",
     "Double",
     "Queen",
     "King",
     "Sofa"
+  ],
+
+   "booking statuses": [
+    "Pending Payment",
+    "Ticketed",
+    "Completed",
+    "Cancelled"
+  ],
+
+   "bus trip route types": [
+    "Regular",
+    "Express",
+    "Night"
+  ],
+
+    "category of facilities": [
+    "General",
+    "Food & Drink",
+    "Wellness",
+    "Recreation",
+    "Business",
+    "Family",
+    "Accessibility",
+    "Parking & Transport",
+    "Pools",
+    "Sports"
+  ],
+
+    "flight route types": [
+    "Regular",
+    "Charter",
+    "Low cost"
   ],
 
   "room types": [
@@ -23,112 +66,7 @@
     "All Inclusive (AI)"
   ],
 
-  "seasons": [
-    "Winter Season",
-    "Summer Season",
-    "Rainy Season",
-    "Peak Holiday Season",
-    "Shoulder Season",
-    "Low Tourist Flow",
-    "Hot Season",
-    "Festival Period"
-  ],
-
-  "vacation types": [
-    "Beach Vacation",
-    "City Break",
-    "Ski Holiday",
-    "Adventure Tour",
-    "Historical & Cultural",
-    "Spa & Wellness",
-    "Cruise",
-    "Mountain Hiking"
-  ],
-
-  "room to bed types": {
-    "Single": ["Single"],
-    "Double": ["Double", "Queen"],
-    "Deluxe": ["Queen", "King"],
-    "Family": ["Double", "Queen", "Sofa"],
-    "Suite": ["King", "Queen"]
-  },
-
-  "room to meal types": {
-    "Single": ["Room Only (RO)", "Bed & Breakfast (BB)"],
-    "Double": ["Room Only (RO)", "Bed & Breakfast (BB)", "Half Board (HB)"],
-    "Deluxe": ["Bed & Breakfast (BB)", "Half Board (HB)", "Full Board (FB)"],
-    "Family": ["Half Board (HB)", "Full Board (FB)", "All Inclusive (AI)"],
-    "Suite": ["Full Board (FB)", "All Inclusive (AI)"]
-  },
-
-  "vacation to seasons": {
-    "Beach Vacation": ["Summer Season", "Hot Season"],
-    "City Break": ["Shoulder Season", "Low Tourist Flow"],
-    "Ski Holiday": ["Winter Season"],
-    "Adventure Tour": ["Summer Season", "Shoulder Season"],
-    "Historical & Cultural": ["All Seasons"],
-    "Spa & Wellness": ["Low Tourist Flow", "Shoulder Season"],
-    "Cruise": ["Summer Season", "Peak Holiday Season"],
-    "Mountain Hiking": ["Summer Season", "Shoulder Season"]
-  },
-
-  "additional infos": [
-    "Winter Season",
-    "Summer Season",
-    "Rainy Season",
-    "Peak Holiday Season",
-    "Shoulder Season",
-    "Low Tourist Flow",
-    "Hot Season",
-    "Festival Period"
-  ],
-
-  "booking statuses": [
-    "Pending Payment",
-    "Ticketed",
-    "Completed",
-    "Cancelled"
-  ],
-
-  "bus trip route types": [
-    "Regular",
-    "Express",
-    "Night"
-  ],
-
-  "flight route types": [
-    "Regular",
-    "Charter",
-    "Low cost"
-  ],
-
-  "package tour statuses": [
-    "Draft",
-    "Active",
-    "Sold Out",
-    "Archived"
-  ],
-
-  "policy types": [
-    "Early Bird Discount",
-    "Last Minute Discount",
-    "Child Discount"
-  ],
-
-  "category of facilities": [
-    "General",
-    "Food & Drink",
-    "Wellness",
-    "Recreation",
-    "Business",
-    "Family",
-    "Accessibility",
-    "Parking & Transport",
-    "Pools",
-    "Sports"
-  ],
-
-  "nearby object types": [
+   "nearby object types": [
     "Airport",
     "Museum",
     "Restaurant",
@@ -139,5 +77,29 @@
     "Beach",
     "Hotel",
     "Hospital"
+  ],
+
+   "package tour statuses": [
+    "Draft",
+    "Active",
+    "Sold Out",
+    "Archived"
+  ],
+
+   "policy types": [
+    "Early Bird Discount",
+    "Last Minute Discount",
+    "Child Discount"
+  ],
+
+    "vacation types": [
+    "Beach Vacation",
+    "City Break",
+    "Ski Holiday",
+    "Adventure Tour",
+    "Historical & Cultural",
+    "Spa & Wellness",
+    "Cruise",
+    "Mountain Hiking"
   ]
 }

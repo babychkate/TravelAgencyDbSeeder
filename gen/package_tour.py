@@ -7,7 +7,7 @@ base_path = Path(__file__).parent.parent
 
 # --- Параметри ---
 max_tourists_multiplier = 1
-max_trips_per_accommodation = 2  # скільки рейсів беремо для кожного проживання
+max_trips_per_accommodation = 5  # скільки рейсів беремо для кожного проживання
 
 # --- Зчитування даних ---
 with open(base_path / "out/bus_trip.json", "r", encoding="utf-8") as f:

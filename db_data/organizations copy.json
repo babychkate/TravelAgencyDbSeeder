@@ -1,0 +1,86 @@
+{
+  "airlines": [
+    {"airline_name": "Ukraine International Airlines", "airline_code": "PS"},
+    {"airline_name": "Turkish Airlines", "airline_code": "TK"},
+    {"airline_name": "EgyptAir", "airline_code": "MS"},
+    {"airline_name": "Aegean Airlines", "airline_code": "A3"},
+    {"airline_name": "Adria Airways", "airline_code": "JP"},
+    {"airline_name": "Austrian Airlines",  "airline_code": "OS"},
+    {"airline_name": "LOT Polish Airlines", "airline_code": "LO"},
+    {"airline_name": "Lufthansa", "airline_code": "LH"},
+    {"airline_name": "Air France", "airline_code": "AF"},
+    {"airline_name": "Iberia", "airline_code": "IB"}
+  ],
+
+  "bus companies": [
+    {"bus_company_name": "FlixBus"},
+    {"bus_company_name": "Eurolines"},
+    {"bus_company_name": "RegioJet"},
+    {"bus_company_name": "Leo Express"},
+    {"bus_company_name": "Union Ivkoni"},
+    {"bus_company_name": "Ecolines"},
+    {"bus_company_name": "Isilines"},
+    {"bus_company_name": "National Express"},
+    {"bus_company_name": "Ouibus"},
+    {"bus_company_name": "Metro Turizm"}
+  ],
+
+  "tour operators": [
+    {"tour_operator_name": "TUI", "tour_operator_description": "Mass Market Beach & Family Holidays"},
+    {"tour_operator_name": "DER Touristik", "tour_operator_description": "European City Breaks & Package Tours"},
+    {"tour_operator_name": "Neckermann Reisen", "tour_operator_description": "Beach Vacations & Family Packages"},
+    {"tour_operator_name": "Thomas Cook (TUI)", "tour_operator_description": "Beach & City Trips"},
+    {"tour_operator_name": "Jet2holidays", "tour_operator_description": "UK Family & Beach Holidays"},
+    {"tour_operator_name": "Cox & Kings", "tour_operator_description": "Luxury & Cultural Tours"},
+    {"tour_operator_name": "Kuoni", "tour_operator_description": "Luxury & Exotic Destinations"},
+    {"tour_operator_name": "FTI Touristik", "tour_operator_description": "Beach, Spa & Wellness Holidays"},
+    {"tour_operator_name": "Neckermann Reisen Adventure", "tour_operator_description": "Adventure & Hiking Tours"},
+    {"tour_operator_name": "APT", "tour_operator_description": "Luxury Cruises & Global Packages"}
+  ],
+
+  "travel agencies": [
+    {"travel_agency_name": "Join UP! Kyiv", "travel_agency_address": "Khreschatyk St, Kyiv", "travel_agency_code": "JUP01", "travel_agency_city_name": "Kyiv"},
+    {"travel_agency_name": "Tez Tour Lviv", "travel_agency_address": "Ivana Bohuna, Lviv", "travel_agency_code": "TT02", "travel_agency_city_name": "Lviv"},
+    {"travel_agency_name": "Pegas Touristik Antalya", "travel_agency_address": "Nergiz St., Antalya", "travel_agency_code": "PT03", "travel_agency_city_name": "Antalya"},
+    {"travel_agency_name": "Coral Tours Aqua Center El Gouna", "travel_agency_address": "Hurghada 2, Hurghada", "travel_agency_code": "CT04", "travel_agency_city_name": "Hurghada"},
+    {"travel_agency_name": "Mouzenidis Travel Athens", "travel_agency_address": "Filellinon 26, Athens", "travel_agency_code": "MT05", "travel_agency_city_name": "Athens"},
+    {"travel_agency_name": "Atlas DMC Split", "travel_agency_address": "Vukovarska 19, Split", "travel_agency_code": "AD06", "travel_agency_city_name": "Split"},
+    {"travel_agency_name": "Itaka Warsaw", "travel_agency_address": "Złota 59, Warsaw", "travel_agency_code": "IW07", "travel_agency_city_name": "Warsaw"},
+    {"travel_agency_name": "Rocky Road Travel", "travel_agency_address": "Krausenstraße 9, Berlin", "travel_agency_code": "FB08", "travel_agency_city_name": "Berlin"},
+    {"travel_agency_name": "TUI Store", "travel_agency_address": "90 Bd du Montparnasse, Paris", "travel_agency_code": "TF09", "travel_agency_city_name": "Paris"},
+    {"travel_agency_name": "In Out Barcelona Tours", "travel_agency_address": "Pl. Reial 3, Barcelona", "travel_agency_code": "BB10", "travel_agency_city_name": "Barcelona"}
+  ],
+
+  "travel agency managers": [
+    {"travel_manager_full_name": "Олена Ковальчук", "travel_agency_manager_email": "o.kovalchuk@joinup.ua", "travel_agency_name": "Join UP! Kyiv"},
+    {"travel_manager_full_name": "Петро Черепенко", "travel_agency_manager_email": "p.ivanov@joinup.ua", "travel_agency_name": "Join UP! Kyiv"},
+    {"travel_manager_full_name": "Марія Семенів", "travel_agency_manager_email": "m.semenova@joinup.ua", "travel_agency_name": "Join UP! Kyiv"},
+    {"travel_manager_full_name": "Андрій Бойко", "travel_agency_manager_email": "a.boyko@teztour.lv", "travel_agency_name": "Tez Tour Lviv"},
+    {"travel_manager_full_name": "Вікторія Захарчук", "travel_agency_manager_email": "v.zaharchuk@teztour.lv", "travel_agency_name": "Tez Tour Lviv"},
+    {"travel_manager_full_name": "Дмитро Мельник", "travel_agency_manager_email": "d.melnyk@teztour.lv", "travel_agency_name": "Tez Tour Lviv"},
+    {"travel_manager_full_name": "Emre Yilmaz", "travel_agency_manager_email": "e.yilmaz@pegastouristik.com", "travel_agency_name": "Pegas Touristik Antalya"},
+    {"travel_manager_full_name": "Ayse Kaya", "travel_agency_manager_email": "a.kaya@pegastouristik.com", "travel_agency_name": "Pegas Touristik Antalya"},
+    {"travel_manager_full_name": "Can Ozturk", "travel_agency_manager_email": "c.ozturk@pegastouristik.com", "travel_agency_name": "Pegas Touristik Antalya"},
+    {"travel_manager_full_name": "Ahmed Hassan", "travel_agency_manager_email": "a.hassan@coraltours.com", "travel_agency_name": "Coral Tours Aqua Center El Gouna"},
+    {"travel_manager_full_name": "Nadia Ali", "travel_agency_manager_email": "n.ali@coraltours.com", "travel_agency_name": "Coral Tours Aqua Center El Gouna"},
+    {"travel_manager_full_name": "Omar Fathy", "travel_agency_manager_email": "o.fathy@coraltours.com", "travel_agency_name": "Coral Tours Aqua Center El Gouna"},
+    {"travel_manager_full_name": "Eleni Petrova", "travel_agency_manager_email": "e.petrova@mouzenidis.com", "travel_agency_name": "Mouzenidis Travel Athens"},
+    {"travel_manager_full_name": "Georgios Vlachos", "travel_agency_manager_email": "g.vlachos@mouzenidis.com", "travel_agency_name": "Mouzenidis Travel Athens"},
+    {"travel_manager_full_name": "Sofia Nikou", "travel_agency_manager_email": "s.nikou@mouzenidis.com", "travel_agency_name": "Mouzenidis Travel Athens"},
+    {"travel_manager_full_name": "Ivan Horvat", "travel_agency_manager_email": "i.horvat@atlasdmc.com", "travel_agency_name": "Atlas DMC Split"},
+    {"travel_manager_full_name": "Jelena Kovac", "travel_agency_manager_email": "j.kovac@atlasdmc.com", "travel_agency_name": "Atlas DMC Split"},
+    {"travel_manager_full_name": "Marko Babic", "travel_agency_manager_email": "m.babic@atlasdmc.com", "travel_agency_name": "Atlas DMC Split"},
+    {"travel_manager_full_name": "Anna Nowak", "travel_agency_manager_email": "a.nowak@itaka.pl", "travel_agency_name": "Itaka Warsaw"},
+    {"travel_manager_full_name": "Tomasz Kaczmarek", "travel_agency_manager_email": "t.kaczmarek@itaka.pl", "travel_agency_name": "Itaka Warsaw"},
+    {"travel_manager_full_name": "Katarzyna Wojcik", "travel_agency_manager_email": "k.wojcik@itaka.pl", "travel_agency_name": "Itaka Warsaw"},
+    {"travel_manager_full_name": "Hans Muller", "travel_agency_manager_email": "h.muller@rockyroad.de", "travel_agency_name": "Rocky Road Travel"},
+    {"travel_manager_full_name": "Lena Schmidt", "travel_agency_manager_email": "l.schmidt@rockyroad.de", "travel_agency_name": "Rocky Road Travel"},
+    {"travel_manager_full_name": "Felix Weber", "travel_agency_manager_email": "f.weber@rockyroad.de", "travel_agency_name": "Rocky Road Travel"},
+    {"travel_manager_full_name": "Louis Dubois", "travel_agency_manager_email": "l.dubois@tui.fr", "travel_agency_name": "TUI Store"},
+    {"travel_manager_full_name": "Marie Leclerc", "travel_agency_manager_email": "m.leclerc@tui.fr", "travel_agency_name": "TUI Store"},
+    {"travel_manager_full_name": "Pierre Martin", "travel_agency_manager_email": "p.martin@tui.fr", "travel_agency_name": "TUI Store"},
+    {"travel_manager_full_name": "Laura Garcia", "travel_agency_manager_email": "l.garcia@inoutbcn.com", "travel_agency_name": "In Out Barcelona Tours"},
+    {"travel_manager_full_name": "Javier Perez", "travel_agency_manager_email": "j.perez@inoutbcn.com", "travel_agency_name": "In Out Barcelona Tours"},
+    {"travel_manager_full_name": "Elena Torres", "travel_agency_manager_email": "e.torres@inoutbcn.com", "travel_agency_name": "In Out Barcelona Tours"}
+  ]
+}

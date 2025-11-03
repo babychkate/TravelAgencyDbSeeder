@@ -1,0 +1,2454 @@
+{
+  "flight_trip_seasons": [
+    {
+      "route_number": "F-00001",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Wednesday",
+        "Sunday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00001",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00001",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Wednesday",
+        "Friday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00001",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Monday",
+        "Wednesday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00001",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Saturday",
+        "Monday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00001",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Friday",
+        "Saturday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00001",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Wednesday",
+        "Friday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00002",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Wednesday",
+        "Friday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00002",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Tuesday",
+        "Wednesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00002",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Friday",
+        "Saturday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00002",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Saturday",
+        "Friday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00002",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Saturday",
+        "Thursday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00002",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Sunday",
+        "Thursday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00002",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Thursday",
+        "Sunday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00003",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Wednesday",
+        "Tuesday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00003",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Saturday",
+        "Tuesday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00003",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00003",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Wednesday",
+        "Tuesday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00003",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00003",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Wednesday",
+        "Monday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00003",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Tuesday",
+        "Wednesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00004",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Sunday",
+        "Friday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00004",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Saturday",
+        "Thursday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00004",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Sunday",
+        "Saturday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00004",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Friday",
+        "Monday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00004",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Monday",
+        "Saturday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00004",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Monday",
+        "Sunday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00004",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Thursday",
+        "Monday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00005",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Friday",
+        "Monday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00005",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Friday",
+        "Saturday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00005",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Thursday",
+        "Wednesday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00005",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Tuesday",
+        "Monday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00005",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Thursday",
+        "Sunday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00005",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Sunday",
+        "Thursday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00005",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Friday",
+        "Monday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00006",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Thursday",
+        "Wednesday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00006",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Sunday",
+        "Wednesday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00006",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Friday",
+        "Sunday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00006",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00006",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Sunday",
+        "Thursday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00006",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Wednesday",
+        "Saturday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00006",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Tuesday",
+        "Thursday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00007",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Friday",
+        "Sunday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00007",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Tuesday",
+        "Friday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00007",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Saturday",
+        "Monday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00007",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Sunday",
+        "Wednesday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00007",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Monday",
+        "Sunday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00007",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Sunday",
+        "Thursday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00007",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Sunday",
+        "Tuesday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00008",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Saturday",
+        "Thursday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00008",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Sunday",
+        "Friday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00008",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Saturday",
+        "Tuesday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00008",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Saturday",
+        "Monday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00008",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Wednesday",
+        "Friday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00008",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Saturday",
+        "Friday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00008",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Sunday",
+        "Saturday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00009",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Saturday",
+        "Friday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00009",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Sunday",
+        "Friday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00009",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Monday",
+        "Tuesday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00009",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Tuesday",
+        "Wednesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00009",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Wednesday",
+        "Thursday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00009",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Wednesday",
+        "Monday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00009",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Saturday",
+        "Friday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00010",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Monday",
+        "Wednesday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00010",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Tuesday",
+        "Sunday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00010",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Tuesday",
+        "Monday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00010",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Friday",
+        "Thursday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00010",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Sunday",
+        "Wednesday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00010",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Sunday",
+        "Wednesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00010",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Sunday",
+        "Saturday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00011",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Sunday",
+        "Thursday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00011",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Sunday",
+        "Wednesday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00011",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Saturday",
+        "Thursday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00011",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Wednesday",
+        "Tuesday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00011",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Friday",
+        "Tuesday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00011",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Saturday",
+        "Monday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00011",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Monday",
+        "Thursday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00012",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Sunday",
+        "Tuesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00012",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Thursday",
+        "Monday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00012",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Friday",
+        "Wednesday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00012",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Sunday",
+        "Friday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00012",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Wednesday",
+        "Tuesday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00012",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Thursday",
+        "Tuesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00012",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Sunday",
+        "Friday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00013",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Sunday",
+        "Thursday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00013",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Saturday",
+        "Sunday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00013",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Monday",
+        "Tuesday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00013",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Friday",
+        "Tuesday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00013",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Wednesday",
+        "Sunday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00013",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Monday",
+        "Tuesday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00013",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Monday",
+        "Thursday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00014",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Thursday",
+        "Sunday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00014",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Tuesday",
+        "Saturday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00014",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00014",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Tuesday",
+        "Thursday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00014",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Wednesday",
+        "Saturday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00014",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Sunday",
+        "Monday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00014",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00015",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Sunday",
+        "Saturday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00015",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Sunday",
+        "Friday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00015",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Friday",
+        "Saturday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00015",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Tuesday",
+        "Thursday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00015",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Wednesday",
+        "Tuesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00015",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Saturday",
+        "Friday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00015",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00016",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00016",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Monday",
+        "Sunday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00016",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Tuesday",
+        "Friday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00016",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Monday",
+        "Saturday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00016",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Sunday",
+        "Wednesday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00016",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Saturday",
+        "Sunday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00016",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Sunday",
+        "Thursday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00017",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Friday",
+        "Saturday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00017",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Monday",
+        "Thursday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00017",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Tuesday",
+        "Saturday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00017",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Friday",
+        "Thursday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00017",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Wednesday",
+        "Friday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00017",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Friday",
+        "Thursday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00017",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00018",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Friday",
+        "Monday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00018",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Saturday",
+        "Wednesday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00018",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Saturday",
+        "Friday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00018",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00018",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Wednesday",
+        "Monday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00018",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Friday",
+        "Monday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00018",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Sunday",
+        "Friday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00019",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Friday",
+        "Monday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00019",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Thursday",
+        "Tuesday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00019",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Thursday",
+        "Friday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00019",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Sunday",
+        "Tuesday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00019",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Saturday",
+        "Thursday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00019",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00019",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Friday",
+        "Tuesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00020",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Monday",
+        "Saturday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00020",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Saturday",
+        "Wednesday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00020",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Wednesday",
+        "Sunday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00020",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Sunday",
+        "Saturday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00020",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Friday",
+        "Saturday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00020",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Monday",
+        "Wednesday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00020",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Wednesday",
+        "Tuesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00021",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Saturday",
+        "Thursday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00021",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Monday",
+        "Friday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00021",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Friday",
+        "Sunday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00021",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Wednesday",
+        "Friday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00021",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Friday",
+        "Thursday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00021",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Wednesday",
+        "Thursday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00021",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Saturday",
+        "Wednesday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00022",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Tuesday",
+        "Thursday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00022",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Sunday",
+        "Saturday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00022",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Tuesday",
+        "Sunday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00022",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Wednesday",
+        "Monday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00022",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Wednesday",
+        "Sunday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00022",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Wednesday",
+        "Saturday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00022",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Wednesday",
+        "Tuesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00023",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Saturday",
+        "Sunday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00023",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Saturday",
+        "Thursday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00023",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Monday",
+        "Thursday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00023",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Thursday",
+        "Saturday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00023",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00023",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Saturday",
+        "Sunday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00023",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Tuesday",
+        "Wednesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00024",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Friday",
+        "Tuesday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00024",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Tuesday",
+        "Thursday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00024",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Saturday",
+        "Thursday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00024",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Sunday",
+        "Thursday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00024",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00024",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Friday",
+        "Wednesday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00024",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Friday",
+        "Wednesday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00025",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Sunday",
+        "Saturday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00025",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Monday",
+        "Saturday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00025",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Monday",
+        "Friday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00025",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Wednesday",
+        "Tuesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00025",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00025",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Saturday",
+        "Tuesday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00025",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Thursday",
+        "Saturday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00026",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00026",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Saturday",
+        "Sunday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00026",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Tuesday",
+        "Thursday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00026",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Sunday",
+        "Thursday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00026",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00026",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Monday",
+        "Sunday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00026",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Tuesday",
+        "Thursday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00027",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Friday",
+        "Monday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00027",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Thursday",
+        "Monday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00027",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Friday",
+        "Monday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00027",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Saturday",
+        "Wednesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00027",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Thursday",
+        "Saturday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00027",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00027",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Thursday",
+        "Wednesday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00028",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Tuesday",
+        "Wednesday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00028",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Friday",
+        "Sunday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00028",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00028",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Friday",
+        "Thursday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00028",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Tuesday",
+        "Sunday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00028",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00028",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Wednesday",
+        "Thursday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00029",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Monday",
+        "Sunday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00029",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Wednesday",
+        "Thursday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00029",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Saturday",
+        "Tuesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00029",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Wednesday",
+        "Monday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00029",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Saturday",
+        "Thursday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00029",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Monday",
+        "Wednesday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00029",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Saturday",
+        "Wednesday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00030",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Saturday",
+        "Sunday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00030",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Tuesday",
+        "Sunday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00030",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Wednesday",
+        "Monday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00030",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Saturday",
+        "Sunday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00030",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Tuesday",
+        "Wednesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00030",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Friday",
+        "Saturday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00030",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Saturday",
+        "Monday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00031",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Saturday",
+        "Wednesday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00031",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Wednesday",
+        "Monday",
+        "Saturday"
+      ]
+    },
+    {
+      "route_number": "F-00031",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Saturday",
+        "Thursday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00031",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Sunday",
+        "Saturday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00031",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00031",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Wednesday",
+        "Monday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00031",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Saturday",
+        "Thursday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00032",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Saturday",
+        "Tuesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00032",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Wednesday",
+        "Thursday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00032",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Thursday",
+        "Sunday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00032",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Saturday",
+        "Wednesday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00032",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Wednesday",
+        "Tuesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00032",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Monday",
+        "Tuesday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00032",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Wednesday",
+        "Tuesday",
+        "Thursday"
+      ]
+    },
+    {
+      "route_number": "F-00033",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Sunday",
+        "Tuesday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00033",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Friday",
+        "Thursday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00033",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Tuesday",
+        "Wednesday",
+        "Sunday"
+      ]
+    },
+    {
+      "route_number": "F-00033",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Thursday",
+        "Tuesday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00033",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00033",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Sunday",
+        "Tuesday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00033",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Thursday",
+        "Saturday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00034",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Friday",
+        "Thursday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00034",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Tuesday",
+        "Monday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00034",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Monday",
+        "Wednesday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00034",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Friday",
+        "Wednesday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00034",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Thursday",
+        "Wednesday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00034",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Wednesday",
+        "Thursday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00034",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Wednesday",
+        "Sunday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00035",
+      "trip_season_start_date": "2025-11-01",
+      "trip_season_end_date": "2025-12-30",
+      "schedule_days": [
+        "Thursday",
+        "Saturday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00035",
+      "trip_season_start_date": "2025-12-31",
+      "trip_season_end_date": "2026-02-28",
+      "schedule_days": [
+        "Sunday",
+        "Wednesday",
+        "Tuesday"
+      ]
+    },
+    {
+      "route_number": "F-00035",
+      "trip_season_start_date": "2026-03-01",
+      "trip_season_end_date": "2026-04-29",
+      "schedule_days": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    },
+    {
+      "route_number": "F-00035",
+      "trip_season_start_date": "2026-04-30",
+      "trip_season_end_date": "2026-06-28",
+      "schedule_days": [
+        "Tuesday",
+        "Thursday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00035",
+      "trip_season_start_date": "2026-06-29",
+      "trip_season_end_date": "2026-08-27",
+      "schedule_days": [
+        "Thursday",
+        "Sunday",
+        "Monday"
+      ]
+    },
+    {
+      "route_number": "F-00035",
+      "trip_season_start_date": "2026-08-28",
+      "trip_season_end_date": "2026-10-26",
+      "schedule_days": [
+        "Tuesday",
+        "Friday",
+        "Wednesday"
+      ]
+    },
+    {
+      "route_number": "F-00035",
+      "trip_season_start_date": "2026-10-27",
+      "trip_season_end_date": "2026-10-31",
+      "schedule_days": [
+        "Saturday",
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1006 @@
+{
+  "bus trip routes": [
+    {
+      "route_number": "R-00001",
+      "bus_trip_duration": "23:59:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_city_name": "Hurghada",
+      "arrival_city_name": "Lviv",
+      "bus_company_name": {
+        "bus_company_name": "Ecolines"
+      },
+      "departure_time": "17:09",
+      "arrival_time": "12:54"
+    },
+    {
+      "route_number": "R-00002",
+      "bus_trip_duration": "13:45:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_city_name": "Krakow",
+      "arrival_city_name": "Split",
+      "bus_company_name": {
+        "bus_company_name": "Ecolines"
+      },
+      "departure_time": "21:17",
+      "arrival_time": "11:02"
+    },
+    {
+      "route_number": "R-00003",
+      "bus_trip_duration": "12:15:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Krakow",
+      "arrival_city_name": "Kyiv",
+      "bus_company_name": {
+        "bus_company_name": "Isilines"
+      },
+      "departure_time": "01:31",
+      "arrival_time": "13:46"
+    },
+    {
+      "route_number": "R-00004",
+      "bus_trip_duration": "23:07:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Berlin",
+      "arrival_city_name": "Barcelona",
+      "bus_company_name": {
+        "bus_company_name": "RegioJet"
+      },
+      "departure_time": "01:14",
+      "arrival_time": "00:21"
+    },
+    {
+      "route_number": "R-00005",
+      "bus_trip_duration": "21:52:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Nice",
+      "arrival_city_name": "Warsaw",
+      "bus_company_name": {
+        "bus_company_name": "FlixBus"
+      },
+      "departure_time": "18:33",
+      "arrival_time": "16:25"
+    },
+    {
+      "route_number": "R-00006",
+      "bus_trip_duration": "13:45:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_city_name": "Munich",
+      "arrival_city_name": "Warsaw",
+      "bus_company_name": {
+        "bus_company_name": "FlixBus"
+      },
+      "departure_time": "13:18",
+      "arrival_time": "03:03"
+    },
+    {
+      "route_number": "R-00007",
+      "bus_trip_duration": "13:45:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_city_name": "Krakow",
+      "arrival_city_name": "Budva",
+      "bus_company_name": {
+        "bus_company_name": "Leo Express"
+      },
+      "departure_time": "17:01",
+      "arrival_time": "06:46"
+    },
+    {
+      "route_number": "R-00008",
+      "bus_trip_duration": "9:00:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_city_name": "Antalya",
+      "arrival_city_name": "Istanbul",
+      "bus_company_name": {
+        "bus_company_name": "National Express"
+      },
+      "departure_time": "22:14",
+      "arrival_time": "07:14"
+    },
+    {
+      "route_number": "R-00009",
+      "bus_trip_duration": "23:59:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Madrid",
+      "arrival_city_name": "Podgorica",
+      "bus_company_name": {
+        "bus_company_name": "FlixBus"
+      },
+      "departure_time": "01:20",
+      "arrival_time": "07:57"
+    },
+    {
+      "route_number": "R-00010",
+      "bus_trip_duration": "21:52:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_city_name": "Istanbul",
+      "arrival_city_name": "Split",
+      "bus_company_name": {
+        "bus_company_name": "RegioJet"
+      },
+      "departure_time": "13:16",
+      "arrival_time": "11:08"
+    },
+    {
+      "route_number": "R-00011",
+      "bus_trip_duration": "18:07:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_city_name": "Dubrovnik",
+      "arrival_city_name": "Warsaw",
+      "bus_company_name": {
+        "bus_company_name": "Metro Turizm"
+      },
+      "departure_time": "10:21",
+      "arrival_time": "04:28"
+    },
+    {
+      "route_number": "R-00012",
+      "bus_trip_duration": "18:45:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Athens",
+      "arrival_city_name": "Split",
+      "bus_company_name": {
+        "bus_company_name": "Ecolines"
+      },
+      "departure_time": "16:19",
+      "arrival_time": "11:04"
+    },
+    {
+      "route_number": "R-00013",
+      "bus_trip_duration": "13:45:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Munich",
+      "arrival_city_name": "Budva",
+      "bus_company_name": {
+        "bus_company_name": "Isilines"
+      },
+      "departure_time": "00:06",
+      "arrival_time": "13:51"
+    },
+    {
+      "route_number": "R-00014",
+      "bus_trip_duration": "23:59:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_city_name": "Madrid",
+      "arrival_city_name": "Thessaloniki",
+      "bus_company_name": {
+        "bus_company_name": "Ouibus"
+      },
+      "departure_time": "12:10",
+      "arrival_time": "02:55"
+    },
+    {
+      "route_number": "R-00015",
+      "bus_trip_duration": "23:59:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_city_name": "Lviv",
+      "arrival_city_name": "Sharm El Sheikh",
+      "bus_company_name": {
+        "bus_company_name": "Isilines"
+      },
+      "departure_time": "03:52",
+      "arrival_time": "00:52"
+    },
+    {
+      "route_number": "R-00016",
+      "bus_trip_duration": "23:59:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Kyiv",
+      "arrival_city_name": "Madrid",
+      "bus_company_name": {
+        "bus_company_name": "Ouibus"
+      },
+      "departure_time": "13:07",
+      "arrival_time": "05:07"
+    },
+    {
+      "route_number": "R-00017",
+      "bus_trip_duration": "23:59:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Dubrovnik",
+      "arrival_city_name": "Antalya",
+      "bus_company_name": {
+        "bus_company_name": "Ecolines"
+      },
+      "departure_time": "05:12",
+      "arrival_time": "10:34"
+    },
+    {
+      "route_number": "R-00018",
+      "bus_trip_duration": "12:15:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Kyiv",
+      "arrival_city_name": "Krakow",
+      "bus_company_name": {
+        "bus_company_name": "Ecolines"
+      },
+      "departure_time": "01:30",
+      "arrival_time": "13:45"
+    },
+    {
+      "route_number": "R-00019",
+      "bus_trip_duration": "23:59:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Kyiv",
+      "arrival_city_name": "Dubrovnik",
+      "bus_company_name": {
+        "bus_company_name": "FlixBus"
+      },
+      "departure_time": "02:53",
+      "arrival_time": "03:53"
+    },
+    {
+      "route_number": "R-00020",
+      "bus_trip_duration": "13:07:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Dubrovnik",
+      "arrival_city_name": "Munich",
+      "bus_company_name": {
+        "bus_company_name": "National Express"
+      },
+      "departure_time": "18:45",
+      "arrival_time": "07:52"
+    },
+    {
+      "route_number": "R-00021",
+      "bus_trip_duration": "23:59:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Berlin",
+      "arrival_city_name": "Madrid",
+      "bus_company_name": {
+        "bus_company_name": "Isilines"
+      },
+      "departure_time": "09:17",
+      "arrival_time": "14:02"
+    },
+    {
+      "route_number": "R-00022",
+      "bus_trip_duration": "19:22:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Berlin",
+      "arrival_city_name": "Nice",
+      "bus_company_name": {
+        "bus_company_name": "Ouibus"
+      },
+      "departure_time": "23:23",
+      "arrival_time": "18:45"
+    },
+    {
+      "route_number": "R-00023",
+      "bus_trip_duration": "23:59:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_city_name": "Barcelona",
+      "arrival_city_name": "Warsaw",
+      "bus_company_name": {
+        "bus_company_name": "Union Ivkoni"
+      },
+      "departure_time": "13:30",
+      "arrival_time": "18:15"
+    },
+    {
+      "route_number": "R-00024",
+      "bus_trip_duration": "23:59:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Sharm El Sheikh",
+      "arrival_city_name": "Madrid",
+      "bus_company_name": {
+        "bus_company_name": "Metro Turizm"
+      },
+      "departure_time": "15:18",
+      "arrival_time": "07:03"
+    },
+    {
+      "route_number": "R-00025",
+      "bus_trip_duration": "20:00:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Berlin",
+      "arrival_city_name": "Split",
+      "bus_company_name": {
+        "bus_company_name": "Eurolines"
+      },
+      "departure_time": "02:17",
+      "arrival_time": "22:17"
+    },
+    {
+      "route_number": "R-00026",
+      "bus_trip_duration": "23:59:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_city_name": "Berlin",
+      "arrival_city_name": "Antalya",
+      "bus_company_name": {
+        "bus_company_name": "Metro Turizm"
+      },
+      "departure_time": "23:30",
+      "arrival_time": "15:30"
+    },
+    {
+      "route_number": "R-00027",
+      "bus_trip_duration": "17:30:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Krakow",
+      "arrival_city_name": "Paris",
+      "bus_company_name": {
+        "bus_company_name": "Ecolines"
+      },
+      "departure_time": "03:17",
+      "arrival_time": "20:47"
+    },
+    {
+      "route_number": "R-00028",
+      "bus_trip_duration": "23:59:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Nice",
+      "arrival_city_name": "Antalya",
+      "bus_company_name": {
+        "bus_company_name": "Eurolines"
+      },
+      "departure_time": "21:24",
+      "arrival_time": "05:54"
+    },
+    {
+      "route_number": "R-00029",
+      "bus_trip_duration": "23:59:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_city_name": "Thessaloniki",
+      "arrival_city_name": "Berlin",
+      "bus_company_name": {
+        "bus_company_name": "National Express"
+      },
+      "departure_time": "20:06",
+      "arrival_time": "22:21"
+    },
+    {
+      "route_number": "R-00030",
+      "bus_trip_duration": "23:59:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Sharm El Sheikh",
+      "arrival_city_name": "Paris",
+      "bus_company_name": {
+        "bus_company_name": "Eurolines"
+      },
+      "departure_time": "17:21",
+      "arrival_time": "04:06"
+    },
+    {
+      "route_number": "R-00031",
+      "bus_trip_duration": "16:52:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_city_name": "Budva",
+      "arrival_city_name": "Kyiv",
+      "bus_company_name": {
+        "bus_company_name": "FlixBus"
+      },
+      "departure_time": "22:26",
+      "arrival_time": "15:18"
+    },
+    {
+      "route_number": "R-00032",
+      "bus_trip_duration": "8:45:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_city_name": "Budva",
+      "arrival_city_name": "Thessaloniki",
+      "bus_company_name": {
+        "bus_company_name": "RegioJet"
+      },
+      "departure_time": "07:05",
+      "arrival_time": "15:50"
+    },
+    {
+      "route_number": "R-00033",
+      "bus_trip_duration": "21:52:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_city_name": "Krakow",
+      "arrival_city_name": "Thessaloniki",
+      "bus_company_name": {
+        "bus_company_name": "Isilines"
+      },
+      "departure_time": "13:17",
+      "arrival_time": "11:09"
+    },
+    {
+      "route_number": "R-00034",
+      "bus_trip_duration": "23:07:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_city_name": "Berlin",
+      "arrival_city_name": "Barcelona",
+      "bus_company_name": {
+        "bus_company_name": "National Express"
+      },
+      "departure_time": "15:24",
+      "arrival_time": "14:31"
+    },
+    {
+      "route_number": "R-00035",
+      "bus_trip_duration": "11:00:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Krakow",
+      "arrival_city_name": "Munich",
+      "bus_company_name": {
+        "bus_company_name": "National Express"
+      },
+      "departure_time": "17:50",
+      "arrival_time": "04:50"
+    },
+    {
+      "route_number": "R-00036",
+      "bus_trip_duration": "16:00:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_city_name": "Athens",
+      "arrival_city_name": "Podgorica",
+      "bus_company_name": {
+        "bus_company_name": "Metro Turizm"
+      },
+      "departure_time": "16:00",
+      "arrival_time": "08:00"
+    },
+    {
+      "route_number": "R-00037",
+      "bus_trip_duration": "23:59:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_city_name": "Paris",
+      "arrival_city_name": "Istanbul",
+      "bus_company_name": {
+        "bus_company_name": "Ecolines"
+      },
+      "departure_time": "19:27",
+      "arrival_time": "05:49"
+    },
+    {
+      "route_number": "R-00038",
+      "bus_trip_duration": "23:59:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Warsaw",
+      "arrival_city_name": "Madrid",
+      "bus_company_name": {
+        "bus_company_name": "Union Ivkoni"
+      },
+      "departure_time": "01:22",
+      "arrival_time": "11:07"
+    },
+    {
+      "route_number": "R-00039",
+      "bus_trip_duration": "23:59:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_city_name": "Hurghada",
+      "arrival_city_name": "Kyiv",
+      "bus_company_name": {
+        "bus_company_name": "Isilines"
+      },
+      "departure_time": "19:52",
+      "arrival_time": "09:22"
+    },
+    {
+      "route_number": "R-00040",
+      "bus_trip_duration": "16:00:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_city_name": "Podgorica",
+      "arrival_city_name": "Istanbul",
+      "bus_company_name": {
+        "bus_company_name": "Metro Turizm"
+      },
+      "departure_time": "00:39",
+      "arrival_time": "16:39"
+    }
+  ],
+  "flight routes": [
+    {
+      "route_number": "F-00001",
+      "flight_duration": "0:42:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Athens",
+      "arrival_city_name": "Thessaloniki",
+      "airline_name": {
+        "airline_name": "Turkish Airlines",
+        "airline_code": "TK"
+      },
+      "departure_time": "04:18",
+      "arrival_time": "05:00"
+    },
+    {
+      "route_number": "F-00002",
+      "flight_duration": "0:33:00",
+      "flight_route_type_name": "Low cost",
+      "departure_city_name": "Lviv",
+      "arrival_city_name": "Warsaw",
+      "airline_name": {
+        "airline_name": "Iberia",
+        "airline_code": "IB"
+      },
+      "departure_time": "04:01",
+      "arrival_time": "04:34"
+    },
+    {
+      "route_number": "F-00003",
+      "flight_duration": "3:21:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Dubrovnik",
+      "arrival_city_name": "Antalya",
+      "airline_name": {
+        "airline_name": "Austrian Airlines",
+        "airline_code": "OS"
+      },
+      "departure_time": "15:07",
+      "arrival_time": "18:28"
+    },
+    {
+      "route_number": "F-00004",
+      "flight_duration": "1:08:00",
+      "flight_route_type_name": "Low cost",
+      "departure_city_name": "Nice",
+      "arrival_city_name": "Munich",
+      "airline_name": {
+        "airline_name": "Lufthansa",
+        "airline_code": "LH"
+      },
+      "departure_time": "10:17",
+      "arrival_time": "11:25"
+    },
+    {
+      "route_number": "F-00005",
+      "flight_duration": "2:30:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Warsaw",
+      "arrival_city_name": "Nice",
+      "airline_name": {
+        "airline_name": "Turkish Airlines",
+        "airline_code": "TK"
+      },
+      "departure_time": "22:43",
+      "arrival_time": "01:13"
+    },
+    {
+      "route_number": "F-00006",
+      "flight_duration": "4:47:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Sharm El Sheikh",
+      "arrival_city_name": "Podgorica",
+      "airline_name": {
+        "airline_name": "Adria Airways",
+        "airline_code": "JP"
+      },
+      "departure_time": "23:38",
+      "arrival_time": "04:25"
+    },
+    {
+      "route_number": "F-00007",
+      "flight_duration": "3:17:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Sharm El Sheikh",
+      "arrival_city_name": "Istanbul",
+      "airline_name": {
+        "airline_name": "LOT Polish Airlines",
+        "airline_code": "LO"
+      },
+      "departure_time": "10:26",
+      "arrival_time": "13:43"
+    },
+    {
+      "route_number": "F-00008",
+      "flight_duration": "3:00:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Athens",
+      "arrival_city_name": "Nice",
+      "airline_name": {
+        "airline_name": "Air France",
+        "airline_code": "AF"
+      },
+      "departure_time": "06:08",
+      "arrival_time": "09:08"
+    },
+    {
+      "route_number": "F-00009",
+      "flight_duration": "2:25:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Kyiv",
+      "arrival_city_name": "Athens",
+      "airline_name": {
+        "airline_name": "Ukraine International Airlines",
+        "airline_code": "PS"
+      },
+      "departure_time": "14:19",
+      "arrival_time": "16:44"
+    },
+    {
+      "route_number": "F-00010",
+      "flight_duration": "1:55:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Munich",
+      "arrival_city_name": "Barcelona",
+      "airline_name": {
+        "airline_name": "LOT Polish Airlines",
+        "airline_code": "LO"
+      },
+      "departure_time": "00:32",
+      "arrival_time": "02:27"
+    },
+    {
+      "route_number": "F-00011",
+      "flight_duration": "1:51:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Antalya",
+      "arrival_city_name": "Sharm El Sheikh",
+      "airline_name": {
+        "airline_name": "Austrian Airlines",
+        "airline_code": "OS"
+      },
+      "departure_time": "22:03",
+      "arrival_time": "23:54"
+    },
+    {
+      "route_number": "F-00012",
+      "flight_duration": "2:38:00",
+      "flight_route_type_name": "Regular",
+      "departure_city_name": "Thessaloniki",
+      "arrival_city_name": "Lviv",
+      "airline_name": {
+        "airline_name": "Turkish Airlines",
+        "airline_code": "TK"
+      },
+      "departure_time": "00:34",
+      "arrival_time": "03:12"
+    },
+    {
+      "route_number": "F-00013",
+      "flight_duration": "3:17:00",
+      "flight_route_type_name": "Regular",
+      "departure_city_name": "Nice",
+      "arrival_city_name": "Istanbul",
+      "airline_name": {
+        "airline_name": "Iberia",
+        "airline_code": "IB"
+      },
+      "departure_time": "12:55",
+      "arrival_time": "16:12"
+    },
+    {
+      "route_number": "F-00014",
+      "flight_duration": "4:25:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Kyiv",
+      "arrival_city_name": "Sharm El Sheikh",
+      "airline_name": {
+        "airline_name": "Air France",
+        "airline_code": "AF"
+      },
+      "departure_time": "19:25",
+      "arrival_time": "23:50"
+    },
+    {
+      "route_number": "F-00015",
+      "flight_duration": "2:04:00",
+      "flight_route_type_name": "Regular",
+      "departure_city_name": "Dubrovnik",
+      "arrival_city_name": "Warsaw",
+      "airline_name": {
+        "airline_name": "Adria Airways",
+        "airline_code": "JP"
+      },
+      "departure_time": "19:13",
+      "arrival_time": "21:17"
+    },
+    {
+      "route_number": "F-00016",
+      "flight_duration": "3:08:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Thessaloniki",
+      "arrival_city_name": "Hurghada",
+      "airline_name": {
+        "airline_name": "Aegean Airlines",
+        "airline_code": "A3"
+      },
+      "departure_time": "11:10",
+      "arrival_time": "14:18"
+    },
+    {
+      "route_number": "F-00017",
+      "flight_duration": "2:04:00",
+      "flight_route_type_name": "Low cost",
+      "departure_city_name": "Antalya",
+      "arrival_city_name": "Thessaloniki",
+      "airline_name": {
+        "airline_name": "Turkish Airlines",
+        "airline_code": "TK"
+      },
+      "departure_time": "19:47",
+      "arrival_time": "21:51"
+    },
+    {
+      "route_number": "F-00018",
+      "flight_duration": "1:34:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Munich",
+      "arrival_city_name": "Warsaw",
+      "airline_name": {
+        "airline_name": "Iberia",
+        "airline_code": "IB"
+      },
+      "departure_time": "01:07",
+      "arrival_time": "02:41"
+    },
+    {
+      "route_number": "F-00019",
+      "flight_duration": "5:00:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Hurghada",
+      "arrival_city_name": "Lviv",
+      "airline_name": {
+        "airline_name": "EgyptAir",
+        "airline_code": "MS"
+      },
+      "departure_time": "14:54",
+      "arrival_time": "19:54"
+    },
+    {
+      "route_number": "F-00020",
+      "flight_duration": "1:47:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Madrid",
+      "arrival_city_name": "Paris",
+      "airline_name": {
+        "airline_name": "Adria Airways",
+        "airline_code": "JP"
+      },
+      "departure_time": "18:45",
+      "arrival_time": "20:32"
+    },
+    {
+      "route_number": "F-00021",
+      "flight_duration": "2:25:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Split",
+      "arrival_city_name": "Paris",
+      "airline_name": {
+        "airline_name": "Aegean Airlines",
+        "airline_code": "A3"
+      },
+      "departure_time": "13:54",
+      "arrival_time": "16:19"
+    },
+    {
+      "route_number": "F-00022",
+      "flight_duration": "1:38:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Budva",
+      "arrival_city_name": "Nice",
+      "airline_name": {
+        "airline_name": "Ukraine International Airlines",
+        "airline_code": "PS"
+      },
+      "departure_time": "23:19",
+      "arrival_time": "00:57"
+    },
+    {
+      "route_number": "F-00023",
+      "flight_duration": "1:55:00",
+      "flight_route_type_name": "Low cost",
+      "departure_city_name": "Kyiv",
+      "arrival_city_name": "Berlin",
+      "airline_name": {
+        "airline_name": "Ukraine International Airlines",
+        "airline_code": "PS"
+      },
+      "departure_time": "22:44",
+      "arrival_time": "00:39"
+    },
+    {
+      "route_number": "F-00024",
+      "flight_duration": "3:17:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Sharm El Sheikh",
+      "arrival_city_name": "Istanbul",
+      "airline_name": {
+        "airline_name": "Ukraine International Airlines",
+        "airline_code": "PS"
+      },
+      "departure_time": "18:51",
+      "arrival_time": "22:08"
+    },
+    {
+      "route_number": "F-00025",
+      "flight_duration": "2:08:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Munich",
+      "arrival_city_name": "Thessaloniki",
+      "airline_name": {
+        "airline_name": "Air France",
+        "airline_code": "AF"
+      },
+      "departure_time": "17:37",
+      "arrival_time": "19:45"
+    },
+    {
+      "route_number": "F-00026",
+      "flight_duration": "2:12:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Berlin",
+      "arrival_city_name": "Nice",
+      "airline_name": {
+        "airline_name": "EgyptAir",
+        "airline_code": "MS"
+      },
+      "departure_time": "21:57",
+      "arrival_time": "00:09"
+    },
+    {
+      "route_number": "F-00027",
+      "flight_duration": "1:02:00",
+      "flight_route_type_name": "Regular",
+      "departure_city_name": "Podgorica",
+      "arrival_city_name": "Thessaloniki",
+      "airline_name": {
+        "airline_name": "EgyptAir",
+        "airline_code": "MS"
+      },
+      "departure_time": "06:28",
+      "arrival_time": "07:30"
+    },
+    {
+      "route_number": "F-00028",
+      "flight_duration": "1:06:00",
+      "flight_route_type_name": "Regular",
+      "departure_city_name": "Warsaw",
+      "arrival_city_name": "Kyiv",
+      "airline_name": {
+        "airline_name": "Ukraine International Airlines",
+        "airline_code": "PS"
+      },
+      "departure_time": "15:14",
+      "arrival_time": "16:20"
+    },
+    {
+      "route_number": "F-00029",
+      "flight_duration": "2:34:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Athens",
+      "arrival_city_name": "Hurghada",
+      "airline_name": {
+        "airline_name": "Lufthansa",
+        "airline_code": "LH"
+      },
+      "departure_time": "02:31",
+      "arrival_time": "05:05"
+    },
+    {
+      "route_number": "F-00030",
+      "flight_duration": "2:17:00",
+      "flight_route_type_name": "Regular",
+      "departure_city_name": "Paris",
+      "arrival_city_name": "Lviv",
+      "airline_name": {
+        "airline_name": "Iberia",
+        "airline_code": "IB"
+      },
+      "departure_time": "01:38",
+      "arrival_time": "03:55"
+    },
+    {
+      "route_number": "F-00031",
+      "flight_duration": "1:47:00",
+      "flight_route_type_name": "Low cost",
+      "departure_city_name": "Budva",
+      "arrival_city_name": "Athens",
+      "airline_name": {
+        "airline_name": "Aegean Airlines",
+        "airline_code": "A3"
+      },
+      "departure_time": "21:58",
+      "arrival_time": "23:45"
+    },
+    {
+      "route_number": "F-00032",
+      "flight_duration": "2:55:00",
+      "flight_route_type_name": "Regular",
+      "departure_city_name": "Barcelona",
+      "arrival_city_name": "Podgorica",
+      "airline_name": {
+        "airline_name": "Iberia",
+        "airline_code": "IB"
+      },
+      "departure_time": "23:41",
+      "arrival_time": "02:36"
+    },
+    {
+      "route_number": "F-00033",
+      "flight_duration": "2:38:00",
+      "flight_route_type_name": "Regular",
+      "departure_city_name": "Krakow",
+      "arrival_city_name": "Istanbul",
+      "airline_name": {
+        "airline_name": "Aegean Airlines",
+        "airline_code": "A3"
+      },
+      "departure_time": "01:18",
+      "arrival_time": "03:56"
+    },
+    {
+      "route_number": "F-00034",
+      "flight_duration": "1:51:00",
+      "flight_route_type_name": "Regular",
+      "departure_city_name": "Split",
+      "arrival_city_name": "Warsaw",
+      "airline_name": {
+        "airline_name": "Air France",
+        "airline_code": "AF"
+      },
+      "departure_time": "09:09",
+      "arrival_time": "11:00"
+    },
+    {
+      "route_number": "F-00035",
+      "flight_duration": "2:34:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Athens",
+      "arrival_city_name": "Hurghada",
+      "airline_name": {
+        "airline_name": "EgyptAir",
+        "airline_code": "MS"
+      },
+      "departure_time": "13:19",
+      "arrival_time": "15:53"
+    },
+    {
+      "route_number": "F-00036",
+      "flight_duration": "0:28:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Krakow",
+      "arrival_city_name": "Lviv",
+      "airline_name": {
+        "airline_name": "Aegean Airlines",
+        "airline_code": "A3"
+      },
+      "departure_time": "08:11",
+      "arrival_time": "08:39"
+    },
+    {
+      "route_number": "F-00037",
+      "flight_duration": "0:42:00",
+      "flight_route_type_name": "Low cost",
+      "departure_city_name": "Athens",
+      "arrival_city_name": "Thessaloniki",
+      "airline_name": {
+        "airline_name": "Aegean Airlines",
+        "airline_code": "A3"
+      },
+      "departure_time": "16:51",
+      "arrival_time": "17:33"
+    },
+    {
+      "route_number": "F-00038",
+      "flight_duration": "2:12:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Munich",
+      "arrival_city_name": "Kyiv",
+      "airline_name": {
+        "airline_name": "Aegean Airlines",
+        "airline_code": "A3"
+      },
+      "departure_time": "18:04",
+      "arrival_time": "20:16"
+    },
+    {
+      "route_number": "F-00039",
+      "flight_duration": "2:34:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Kyiv",
+      "arrival_city_name": "Antalya",
+      "airline_name": {
+        "airline_name": "Adria Airways",
+        "airline_code": "JP"
+      },
+      "departure_time": "09:25",
+      "arrival_time": "11:59"
+    },
+    {
+      "route_number": "F-00040",
+      "flight_duration": "2:17:00",
+      "flight_route_type_name": "Charter",
+      "departure_city_name": "Berlin",
+      "arrival_city_name": "Split",
+      "airline_name": {
+        "airline_name": "Ukraine International Airlines",
+        "airline_code": "PS"
+      },
+      "departure_time": "23:17",
+      "arrival_time": "01:34"
+    }
+  ]
+}

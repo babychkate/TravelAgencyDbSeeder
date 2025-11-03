@@ -1,0 +1,647 @@
+{
+"bus trip routes": [
+    {
+      "route_number": "R-00001",
+      "bus_trip_duration": "10:15:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Barcelona Nord Bus Station",
+      "arrival_bus_station_name": "Warsaw Central Bus Station",
+      "bus_company_name": "Ouibus"
+    },
+    {
+      "route_number": "R-00002",
+      "bus_trip_duration": "10:00:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Split Main Bus Station",
+      "arrival_bus_station_name": "Lviv Central Bus Station",
+      "bus_company_name": "Metro Turizm"
+    },
+    {
+      "route_number": "R-00003",
+      "bus_trip_duration": "05:00:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Thessaloniki KTEL Bus Station",
+      "arrival_bus_station_name": "Budva Bus Station",
+      "bus_company_name": "Isilines"
+    },
+    {
+      "route_number": "R-00004",
+      "bus_trip_duration": "12:00:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Thessaloniki KTEL Bus Station",
+      "arrival_bus_station_name": "Antalya Bus Station",
+      "bus_company_name": "RegioJet"
+    },
+    {
+      "route_number": "R-00005",
+      "bus_trip_duration": "09:00:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Antalya Bus Station",
+      "arrival_bus_station_name": "Zentraler Omnibusbahnhof Berlin (ZOB)",
+      "bus_company_name": "Ecolines"
+    },
+    {
+      "route_number": "R-00006",
+      "bus_trip_duration": "04:30:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Munich Central Bus Station",
+      "arrival_bus_station_name": "Paris Gallieni Bus Station",
+      "bus_company_name": "FlixBus"
+    },
+    {
+      "route_number": "R-00007",
+      "bus_trip_duration": "08:30:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Thessaloniki KTEL Bus Station",
+      "arrival_bus_station_name": "Dubrovnik Main Bus Station",
+      "bus_company_name": "RegioJet"
+    },
+    {
+      "route_number": "R-00008",
+      "bus_trip_duration": "08:00:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Istanbul Esenler Bus Terminal",
+      "arrival_bus_station_name": "Thessaloniki KTEL Bus Station",
+      "bus_company_name": "Union Ivkoni"
+    },
+    {
+      "route_number": "R-00009",
+      "bus_trip_duration": "08:45:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Thessaloniki KTEL Bus Station",
+      "arrival_bus_station_name": "KTEL Kifissou Terminal",
+      "bus_company_name": "Metro Turizm"
+    },
+    {
+      "route_number": "R-00010",
+      "bus_trip_duration": "04:15:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Munich Central Bus Station",
+      "arrival_bus_station_name": "Antalya Bus Station",
+      "bus_company_name": "Leo Express"
+    },
+    {
+      "route_number": "R-00011",
+      "bus_trip_duration": "07:15:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Podgorica Bus Terminal",
+      "arrival_bus_station_name": "Hurghada Bus Station",
+      "bus_company_name": "Leo Express"
+    },
+    {
+      "route_number": "R-00012",
+      "bus_trip_duration": "09:45:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Kraków MDA Bus Station",
+      "arrival_bus_station_name": "Sharm El Sheikh Bus Station",
+      "bus_company_name": "RegioJet"
+    },
+    {
+      "route_number": "R-00013",
+      "bus_trip_duration": "12:30:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Split Main Bus Station",
+      "arrival_bus_station_name": "Madrid Estación Sur",
+      "bus_company_name": "Metro Turizm"
+    },
+    {
+      "route_number": "R-00014",
+      "bus_trip_duration": "09:45:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Zentraler Omnibusbahnhof Berlin (ZOB)",
+      "arrival_bus_station_name": "Kraków MDA Bus Station",
+      "bus_company_name": "Eurolines"
+    },
+    {
+      "route_number": "R-00015",
+      "bus_trip_duration": "04:00:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "KTEL Kifissou Terminal",
+      "arrival_bus_station_name": "Kraków MDA Bus Station",
+      "bus_company_name": "FlixBus"
+    },
+    {
+      "route_number": "R-00016",
+      "bus_trip_duration": "07:30:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Podgorica Bus Terminal",
+      "arrival_bus_station_name": "Lviv Central Bus Station",
+      "bus_company_name": "Ouibus"
+    },
+    {
+      "route_number": "R-00017",
+      "bus_trip_duration": "10:00:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Kyiv Central Bus Station",
+      "arrival_bus_station_name": "Zentraler Omnibusbahnhof Berlin (ZOB)",
+      "bus_company_name": "Metro Turizm"
+    },
+    {
+      "route_number": "R-00018",
+      "bus_trip_duration": "03:30:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Hurghada Bus Station",
+      "arrival_bus_station_name": "Madrid Estación Sur",
+      "bus_company_name": "Union Ivkoni"
+    },
+    {
+      "route_number": "R-00019",
+      "bus_trip_duration": "05:00:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Kyiv Central Bus Station",
+      "arrival_bus_station_name": "Madrid Estación Sur",
+      "bus_company_name": "Ecolines"
+    },
+    {
+      "route_number": "R-00020",
+      "bus_trip_duration": "03:00:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Warsaw Central Bus Station",
+      "arrival_bus_station_name": "Paris Gallieni Bus Station",
+      "bus_company_name": "Eurolines"
+    },
+    {
+      "route_number": "R-00021",
+      "bus_trip_duration": "03:30:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Madrid Estación Sur",
+      "arrival_bus_station_name": "Budva Bus Station",
+      "bus_company_name": "FlixBus"
+    },
+    {
+      "route_number": "R-00022",
+      "bus_trip_duration": "08:30:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Antalya Bus Station",
+      "arrival_bus_station_name": "Dubrovnik Main Bus Station",
+      "bus_company_name": "Eurolines"
+    },
+    {
+      "route_number": "R-00023",
+      "bus_trip_duration": "11:30:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Antalya Bus Station",
+      "arrival_bus_station_name": "Munich Central Bus Station",
+      "bus_company_name": "Isilines"
+    },
+    {
+      "route_number": "R-00024",
+      "bus_trip_duration": "10:00:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Dubrovnik Main Bus Station",
+      "arrival_bus_station_name": "Thessaloniki KTEL Bus Station",
+      "bus_company_name": "Leo Express"
+    },
+    {
+      "route_number": "R-00025",
+      "bus_trip_duration": "11:30:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Warsaw Central Bus Station",
+      "arrival_bus_station_name": "Istanbul Esenler Bus Terminal",
+      "bus_company_name": "Isilines"
+    },
+    {
+      "route_number": "R-00026",
+      "bus_trip_duration": "11:00:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Madrid Estación Sur",
+      "arrival_bus_station_name": "Sharm El Sheikh Bus Station",
+      "bus_company_name": "Leo Express"
+    },
+    {
+      "route_number": "R-00027",
+      "bus_trip_duration": "03:30:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Split Main Bus Station",
+      "arrival_bus_station_name": "Lviv Central Bus Station",
+      "bus_company_name": "Ecolines"
+    },
+    {
+      "route_number": "R-00028",
+      "bus_trip_duration": "10:30:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Hurghada Bus Station",
+      "arrival_bus_station_name": "Dubrovnik Main Bus Station",
+      "bus_company_name": "FlixBus"
+    },
+    {
+      "route_number": "R-00029",
+      "bus_trip_duration": "10:15:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "Munich Central Bus Station",
+      "arrival_bus_station_name": "Paris Gallieni Bus Station",
+      "bus_company_name": "Leo Express"
+    },
+    {
+      "route_number": "R-00030",
+      "bus_trip_duration": "03:45:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "KTEL Kifissou Terminal",
+      "arrival_bus_station_name": "Split Main Bus Station",
+      "bus_company_name": "Union Ivkoni"
+    },
+    {
+      "route_number": "R-00031",
+      "bus_trip_duration": "03:15:00",
+      "bus_trip_route_type_name": "Regular",
+      "departure_bus_station_name": "KTEL Kifissou Terminal",
+      "arrival_bus_station_name": "Kyiv Central Bus Station",
+      "bus_company_name": "RegioJet"
+    },
+    {
+      "route_number": "R-00032",
+      "bus_trip_duration": "09:00:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Zentraler Omnibusbahnhof Berlin (ZOB)",
+      "arrival_bus_station_name": "Nice Bus Terminal",
+      "bus_company_name": "FlixBus"
+    },
+    {
+      "route_number": "R-00033",
+      "bus_trip_duration": "08:00:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Barcelona Nord Bus Station",
+      "arrival_bus_station_name": "Antalya Bus Station",
+      "bus_company_name": "National Express"
+    },
+    {
+      "route_number": "R-00034",
+      "bus_trip_duration": "12:15:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Thessaloniki KTEL Bus Station",
+      "arrival_bus_station_name": "Hurghada Bus Station",
+      "bus_company_name": "RegioJet"
+    },
+    {
+      "route_number": "R-00035",
+      "bus_trip_duration": "12:30:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Thessaloniki KTEL Bus Station",
+      "arrival_bus_station_name": "Zentraler Omnibusbahnhof Berlin (ZOB)",
+      "bus_company_name": "FlixBus"
+    },
+    {
+      "route_number": "R-00036",
+      "bus_trip_duration": "07:15:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Kraków MDA Bus Station",
+      "arrival_bus_station_name": "Paris Gallieni Bus Station",
+      "bus_company_name": "Leo Express"
+    },
+    {
+      "route_number": "R-00037",
+      "bus_trip_duration": "08:30:00",
+      "bus_trip_route_type_name": "Night",
+      "departure_bus_station_name": "Sharm El Sheikh Bus Station",
+      "arrival_bus_station_name": "Kyiv Central Bus Station",
+      "bus_company_name": "Leo Express"
+    },
+    {
+      "route_number": "R-00038",
+      "bus_trip_duration": "11:45:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Zentraler Omnibusbahnhof Berlin (ZOB)",
+      "arrival_bus_station_name": "Budva Bus Station",
+      "bus_company_name": "Isilines"
+    },
+    {
+      "route_number": "R-00039",
+      "bus_trip_duration": "12:45:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Paris Gallieni Bus Station",
+      "arrival_bus_station_name": "Split Main Bus Station",
+      "bus_company_name": "Eurolines"
+    },
+    {
+      "route_number": "R-00040",
+      "bus_trip_duration": "05:30:00",
+      "bus_trip_route_type_name": "Express",
+      "departure_bus_station_name": "Kraków MDA Bus Station",
+      "arrival_bus_station_name": "Warsaw Central Bus Station",
+      "bus_company_name": "Leo Express"
+    }
+  ],
+
+"flight routes": [
+    {
+      "flight_number": "F-00001",
+      "flight_duration": "06:45:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Thessaloniki Macedonia Airport",
+      "arrival_airport_name": "Warsaw Chopin Airport",
+      "airline_name": "Aegean Airlines"
+    },
+    {
+      "flight_number": "F-00002",
+      "flight_duration": "04:45:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Split Airport",
+      "arrival_airport_name": "Krakow John Paul II International Airport",
+      "airline_name": "LOT Polish Airlines"
+    },
+    {
+      "flight_number": "F-00003",
+      "flight_duration": "04:00:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Krakow John Paul II International Airport",
+      "arrival_airport_name": "Istanbul Airport",
+      "airline_name": "Iberia"
+    },
+    {
+      "flight_number": "F-00004",
+      "flight_duration": "06:00:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Munich Airport",
+      "arrival_airport_name": "Paris Charles de Gaulle Airport",
+      "airline_name": "Air France"
+    },
+    {
+      "flight_number": "F-00005",
+      "flight_duration": "01:15:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Split Airport",
+      "arrival_airport_name": "Sharm El Sheikh International Airport",
+      "airline_name": "Lufthansa"
+    },
+    {
+      "flight_number": "F-00006",
+      "flight_duration": "02:30:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Istanbul Airport",
+      "arrival_airport_name": "Lviv Danylo Halytskyi International Airport",
+      "airline_name": "Turkish Airlines"
+    },
+    {
+      "flight_number": "F-00007",
+      "flight_duration": "05:45:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Lviv Danylo Halytskyi International Airport",
+      "arrival_airport_name": "Krakow John Paul II International Airport",
+      "airline_name": "Ukraine International Airlines"
+    },
+    {
+      "flight_number": "F-00008",
+      "flight_duration": "05:45:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Athens Eleftherios Venizelos Airport",
+      "arrival_airport_name": "Munich Airport",
+      "airline_name": "Aegean Airlines"
+    },
+    {
+      "flight_number": "F-00009",
+      "flight_duration": "05:15:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Antalya Airport",
+      "arrival_airport_name": "Tivat Airport",
+      "airline_name": "Turkish Airlines"
+    },
+    {
+      "flight_number": "F-00010",
+      "flight_duration": "06:15:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Krakow John Paul II International Airport",
+      "arrival_airport_name": "Dubrovnik Airport",
+      "airline_name": "LOT Polish Airlines"
+    },
+    {
+      "flight_number": "F-00011",
+      "flight_duration": "01:45:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Antalya Airport",
+      "arrival_airport_name": "Warsaw Chopin Airport",
+      "airline_name": "Turkish Airlines"
+    },
+    {
+      "flight_number": "F-00012",
+      "flight_duration": "05:45:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Warsaw Chopin Airport",
+      "arrival_airport_name": "Nice Côte d'Azur Airport",
+      "airline_name": "LOT Polish Airlines"
+    },
+    {
+      "flight_number": "F-00013",
+      "flight_duration": "04:15:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Thessaloniki Macedonia Airport",
+      "arrival_airport_name": "Hurghada International Airport",
+      "airline_name": "Aegean Airlines"
+    },
+    {
+      "flight_number": "F-00014",
+      "flight_duration": "01:00:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Podgorica Airport",
+      "arrival_airport_name": "Barcelona-El Prat Airport",
+      "airline_name": "Iberia"
+    },
+    {
+      "flight_number": "F-00015",
+      "flight_duration": "06:15:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Warsaw Chopin Airport",
+      "arrival_airport_name": "Thessaloniki Macedonia Airport",
+      "airline_name": "LOT Polish Airlines"
+    },
+    {
+      "flight_number": "F-00016",
+      "flight_duration": "06:00:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Dubrovnik Airport",
+      "arrival_airport_name": "Krakow John Paul II International Airport",
+      "airline_name": "Adria Airways"
+    },
+    {
+      "flight_number": "F-00017",
+      "flight_duration": "02:30:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Hurghada International Airport",
+      "arrival_airport_name": "Istanbul Airport",
+      "airline_name": "Turkish Airlines"
+    },
+    {
+      "flight_number": "F-00018",
+      "flight_duration": "01:45:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Warsaw Chopin Airport",
+      "arrival_airport_name": "Dubrovnik Airport",
+      "airline_name": "LOT Polish Airlines"
+    },
+    {
+      "flight_number": "F-00019",
+      "flight_duration": "01:45:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Dubrovnik Airport",
+      "arrival_airport_name": "Split Airport",
+      "airline_name": "Iberia"
+    },
+    {
+      "flight_number": "F-00020",
+      "flight_duration": "04:00:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Split Airport",
+      "arrival_airport_name": "Podgorica Airport",
+      "airline_name": "Adria Airways"
+    },
+    {
+      "flight_number": "F-00021",
+      "flight_duration": "06:30:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Berlin Brandenburg Airport",
+      "arrival_airport_name": "Tivat Airport",
+      "airline_name": "Aegean Airlines"
+    },
+    {
+      "flight_number": "F-00022",
+      "flight_duration": "04:00:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Nice Côte d'Azur Airport",
+      "arrival_airport_name": "Warsaw Chopin Airport",
+      "airline_name": "LOT Polish Airlines"
+    },
+    {
+      "flight_number": "F-00023",
+      "flight_duration": "03:15:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Berlin Brandenburg Airport",
+      "arrival_airport_name": "Split Airport",
+      "airline_name": "Lufthansa"
+    },
+    {
+      "flight_number": "F-00024",
+      "flight_duration": "01:45:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Munich Airport",
+      "arrival_airport_name": "Kyiv Boryspil International Airport",
+      "airline_name": "Lufthansa"
+    },
+    {
+      "flight_number": "F-00025",
+      "flight_duration": "03:15:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Tivat Airport",
+      "arrival_airport_name": "Madrid-Barajas Airport",
+      "airline_name": "Lufthansa"
+    },
+    {
+      "flight_number": "F-00026",
+      "flight_duration": "04:45:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Thessaloniki Macedonia Airport",
+      "arrival_airport_name": "Athens Eleftherios Venizelos Airport",
+      "airline_name": "Aegean Airlines"
+    },
+    {
+      "flight_number": "F-00027",
+      "flight_duration": "05:45:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Krakow John Paul II International Airport",
+      "arrival_airport_name": "Antalya Airport",
+      "airline_name": "LOT Polish Airlines"
+    },
+    {
+      "flight_number": "F-00028",
+      "flight_duration": "04:15:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Nice Côte d'Azur Airport",
+      "arrival_airport_name": "Sharm El Sheikh International Airport",
+      "airline_name": "EgyptAir"
+    },
+    {
+      "flight_number": "F-00029",
+      "flight_duration": "06:30:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Paris Charles de Gaulle Airport",
+      "arrival_airport_name": "Lviv Danylo Halytskyi International Airport",
+      "airline_name": "Air France"
+    },
+    {
+      "flight_number": "F-00030",
+      "flight_duration": "03:45:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Munich Airport",
+      "arrival_airport_name": "Split Airport",
+      "airline_name": "Lufthansa"
+    },
+    {
+      "flight_number": "F-00031",
+      "flight_duration": "04:00:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Krakow John Paul II International Airport",
+      "arrival_airport_name": "Split Airport",
+      "airline_name": "LOT Polish Airlines"
+    },
+    {
+      "flight_number": "F-00032",
+      "flight_duration": "04:30:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Podgorica Airport",
+      "arrival_airport_name": "Nice Côte d'Azur Airport",
+      "airline_name": "Adria Airways"
+    },
+    {
+      "flight_number": "F-00033",
+      "flight_duration": "03:30:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Tivat Airport",
+      "arrival_airport_name": "Munich Airport",
+      "airline_name": "Lufthansa"
+    },
+    {
+      "flight_number": "F-00034",
+      "flight_duration": "05:45:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Lviv Danylo Halytskyi International Airport",
+      "arrival_airport_name": "Paris Charles de Gaulle Airport",
+      "airline_name": "Ukraine International Airlines"
+    },
+    {
+      "flight_number": "F-00035",
+      "flight_duration": "05:00:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Istanbul Airport",
+      "arrival_airport_name": "Split Airport",
+      "airline_name": "Turkish Airlines"
+    },
+    {
+      "flight_number": "F-00036",
+      "flight_duration": "06:00:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Warsaw Chopin Airport",
+      "arrival_airport_name": "Athens Eleftherios Venizelos Airport",
+      "airline_name": "LOT Polish Airlines"
+    },
+    {
+      "flight_number": "F-00037",
+      "flight_duration": "06:45:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Sharm El Sheikh International Airport",
+      "arrival_airport_name": "Podgorica Airport",
+      "airline_name": "Turkish Airlines"
+    },
+    {
+      "flight_number": "F-00038",
+      "flight_duration": "05:15:00",
+      "flight_route_type_name": "Regular",
+      "departure_airport_name": "Krakow John Paul II International Airport",
+      "arrival_airport_name": "Athens Eleftherios Venizelos Airport",
+      "airline_name": "LOT Polish Airlines"
+    },
+    {
+      "flight_number": "F-00039",
+      "flight_duration": "05:15:00",
+      "flight_route_type_name": "Low cost",
+      "departure_airport_name": "Munich Airport",
+      "arrival_airport_name": "Thessaloniki Macedonia Airport",
+      "airline_name": "Lufthansa"
+    },
+    {
+      "flight_number": "F-00040",
+      "flight_duration": "03:30:00",
+      "flight_route_type_name": "Charter",
+      "departure_airport_name": "Berlin Brandenburg Airport",
+      "arrival_airport_name": "Athens Eleftherios Venizelos Airport",
+      "airline_name": "Lufthansa"
+    }
+  ]
+}

@@ -50,19 +50,19 @@
 
   "pricing policies": [
     {
-      "policy_type_name": "Early Bird Discount (45+ days)",
+      "policy_type_name": "Early Bird Discount",
       "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.90
+      "nutrition_price_percent": 0.85
     },
     {
-      "policy_type_name": "Last Minute Discount (7 days)",
-      "accommodation_price_percent": 0.92,
-      "nutrition_price_percent": 1.00
+      "policy_type_name": "Last Minute Discount",
+      "accommodation_price_percent": 0.9,
+      "nutrition_price_percent": 0.95
     },
     {
       "policy_type_name": "Child Discount",
       "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
+      "nutrition_price_percent": 0.5
     }
   ]
 }

@@ -1,0 +1,12 @@
+  
+  {
+  "schedule days": [
+  {"schedule_day_name": "Monday"},
+  {"schedule_day_name": "Tuesday"},
+  {"schedule_day_name": "Wednesday"},
+  {"schedule_day_name": "Thursday"},
+  {"schedule_day_name": "Friday"},
+  {"schedule_day_name": "Saturday"},
+  {"schedule_day_name": "Sunday"}
+  ]
+}

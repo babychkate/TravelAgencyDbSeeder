@@ -1,0 +1,2734 @@
+{
+  "meal price seasons": [
+    {
+      "hotel_name": "Fairmont Grand Hotel Kyiv",
+      "tourist_season_start_date": "2025-08-20",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 179.59
+    },
+    {
+      "hotel_name": "Fairmont Grand Hotel Kyiv",
+      "tourist_season_start_date": "2025-08-20",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 203.91
+    },
+    {
+      "hotel_name": "Fairmont Grand Hotel Kyiv",
+      "tourist_season_start_date": "2025-06-01",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 76.43
+    },
+    {
+      "hotel_name": "Fairmont Grand Hotel Kyiv",
+      "tourist_season_start_date": "2025-10-02",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 71.84
+    },
+    {
+      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
+      "tourist_season_start_date": "2025-04-11",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 354.39
+    },
+    {
+      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
+      "tourist_season_start_date": "2025-04-11",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 221.1
+    },
+    {
+      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
+      "tourist_season_start_date": "2025-09-19",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 195.18
+    },
+    {
+      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
+      "tourist_season_start_date": "2025-09-19",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 401.4
+    },
+    {
+      "hotel_name": "BURSA Hotel Kyiv",
+      "tourist_season_start_date": "2025-09-18",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 123.98
+    },
+    {
+      "hotel_name": "BURSA Hotel Kyiv",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 119.81
+    },
+    {
+      "hotel_name": "BURSA Hotel Kyiv",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 65.87
+    },
+    {
+      "hotel_name": "KONTRAKT Boutique Hotel",
+      "tourist_season_start_date": "2025-09-24",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 134.78
+    },
+    {
+      "hotel_name": "KONTRAKT Boutique Hotel",
+      "tourist_season_start_date": "2025-09-24",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 73.77
+    },
+    {
+      "hotel_name": "KONTRAKT Boutique Hotel",
+      "tourist_season_start_date": "2025-09-24",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 134.04
+    },
+    {
+      "hotel_name": "KONTRAKT Boutique Hotel",
+      "tourist_season_start_date": "2025-06-18",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 242.94
+    },
+    {
+      "hotel_name": "KONTRAKT Boutique Hotel",
+      "tourist_season_start_date": "2025-06-18",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 152.36
+    },
+    {
+      "hotel_name": "Amarant Urban Hotel",
+      "tourist_season_start_date": "2025-08-13",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 196.74
+    },
+    {
+      "hotel_name": "Amarant Urban Hotel",
+      "tourist_season_start_date": "2025-08-05",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 311.56
+    },
+    {
+      "hotel_name": "Astoria Hotel",
+      "tourist_season_start_date": "2025-07-15",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 118.73
+    },
+    {
+      "hotel_name": "Astoria Hotel",
+      "tourist_season_start_date": "2025-07-15",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 56.78
+    },
+    {
+      "hotel_name": "Astoria Hotel",
+      "tourist_season_start_date": "2025-07-15",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 95.12
+    },
+    {
+      "hotel_name": "Citadel Inn",
+      "tourist_season_start_date": "2025-05-19",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 29.69
+    },
+    {
+      "hotel_name": "Citadel Inn",
+      "tourist_season_start_date": "2025-07-15",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 52.15
+    },
+    {
+      "hotel_name": "Citadel Inn",
+      "tourist_season_start_date": "2025-07-15",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 36.15
+    },
+    {
+      "hotel_name": "Citadel Inn",
+      "tourist_season_start_date": "2025-07-15",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 59.82
+    },
+    {
+      "hotel_name": "Citadel Inn",
+      "tourist_season_start_date": "2025-05-11",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 92.34
+    },
+    {
+      "hotel_name": "Citadel Inn",
+      "tourist_season_start_date": "2025-05-11",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 54.25
+    },
+    {
+      "hotel_name": "Citadel Inn",
+      "tourist_season_start_date": "2025-05-11",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 92.32
+    },
+    {
+      "hotel_name": "Vintage Boutique Hotel",
+      "tourist_season_start_date": "2025-02-20",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 67.26
+    },
+    {
+      "hotel_name": "Vintage Boutique Hotel",
+      "tourist_season_start_date": "2025-02-20",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 35.52
+    },
+    {
+      "hotel_name": "Vintage Boutique Hotel",
+      "tourist_season_start_date": "2025-01-04",
+      "tourist_season_end_date": "2025-01-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 60.76
+    },
+    {
+      "hotel_name": "Vintage Boutique Hotel",
+      "tourist_season_start_date": "2025-09-18",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 75.96
+    },
+    {
+      "hotel_name": "Vintage Boutique Hotel",
+      "tourist_season_start_date": "2025-09-18",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 98.38
+    },
+    {
+      "hotel_name": "Vintage Boutique Hotel",
+      "tourist_season_start_date": "2025-01-09",
+      "tourist_season_end_date": "2025-01-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 90.2
+    },
+    {
+      "hotel_name": "Vintage Boutique Hotel",
+      "tourist_season_start_date": "2025-01-09",
+      "tourist_season_end_date": "2025-01-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 51.74
+    },
+    {
+      "hotel_name": "Nobilis Hotel",
+      "tourist_season_start_date": "2025-06-20",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 166.39
+    },
+    {
+      "hotel_name": "Nobilis Hotel",
+      "tourist_season_start_date": "2025-06-20",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 190.22
+    },
+    {
+      "hotel_name": "Nobilis Hotel",
+      "tourist_season_start_date": "2025-06-20",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 102.02
+    },
+    {
+      "hotel_name": "Nobilis Hotel",
+      "tourist_season_start_date": "2025-04-18",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 164.91
+    },
+    {
+      "hotel_name": "Nobilis Hotel",
+      "tourist_season_start_date": "2025-04-02",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 120.38
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "tourist_season_start_date": "2025-07-07",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 219.7
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "tourist_season_start_date": "2025-02-05",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 125.79
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "tourist_season_start_date": "2025-02-05",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 138.47
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "tourist_season_start_date": "2025-02-05",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 209.88
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "tourist_season_start_date": "2025-06-14",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 313.7
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "tourist_season_start_date": "2025-06-14",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 234.51
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "tourist_season_start_date": "2025-06-14",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 161.84
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "tourist_season_start_date": "2025-06-11",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 196.77
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "tourist_season_start_date": "2025-06-11",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 148.14
+    },
+    {
+      "hotel_name": "Liberty Hotels Lara",
+      "tourist_season_start_date": "2025-05-18",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 67.03
+    },
+    {
+      "hotel_name": "Liberty Hotels Lara",
+      "tourist_season_start_date": "2025-06-12",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 36.32
+    },
+    {
+      "hotel_name": "Liberty Hotels Lara",
+      "tourist_season_start_date": "2025-06-12",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 44.68
+    },
+    {
+      "hotel_name": "Liberty Hotels Lara",
+      "tourist_season_start_date": "2025-06-12",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 29.75
+    },
+    {
+      "hotel_name": "Liberty Hotels Lara",
+      "tourist_season_start_date": "2025-06-21",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 78.44
+    },
+    {
+      "hotel_name": "Liberty Hotels Lara",
+      "tourist_season_start_date": "2025-06-21",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 35.57
+    },
+    {
+      "hotel_name": "Delphin Imperial Hotel Lara",
+      "tourist_season_start_date": "2025-10-06",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 258.3
+    },
+    {
+      "hotel_name": "Delphin Imperial Hotel Lara",
+      "tourist_season_start_date": "2025-10-06",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 441.8
+    },
+    {
+      "hotel_name": "Delphin Imperial Hotel Lara",
+      "tourist_season_start_date": "2025-04-11",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 397.47
+    },
+    {
+      "hotel_name": "IC Hotels Green Palace",
+      "tourist_season_start_date": "2025-10-22",
+      "tourist_season_end_date": "2025-11-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 46.04
+    },
+    {
+      "hotel_name": "IC Hotels Green Palace",
+      "tourist_season_start_date": "2025-10-22",
+      "tourist_season_end_date": "2025-11-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 26.08
+    },
+    {
+      "hotel_name": "IC Hotels Green Palace",
+      "tourist_season_start_date": "2025-10-22",
+      "tourist_season_end_date": "2025-11-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 36.22
+    },
+    {
+      "hotel_name": "IC Hotels Green Palace",
+      "tourist_season_start_date": "2025-02-06",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 40.13
+    },
+    {
+      "hotel_name": "IC Hotels Green Palace",
+      "tourist_season_start_date": "2025-09-12",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 39.58
+    },
+    {
+      "hotel_name": "IC Hotels Green Palace",
+      "tourist_season_start_date": "2025-09-12",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 19.48
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Istanbul at Sultanahmet",
+      "tourist_season_start_date": "2025-09-01",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 47.02
+    },
+    {
+      "hotel_name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
+      "tourist_season_start_date": "2025-01-19",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 117.06
+    },
+    {
+      "hotel_name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
+      "tourist_season_start_date": "2025-01-19",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 48.53
+    },
+    {
+      "hotel_name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
+      "tourist_season_start_date": "2025-01-19",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 99.33
+    },
+    {
+      "hotel_name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
+      "tourist_season_start_date": "2025-01-19",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 76.82
+    },
+    {
+      "hotel_name": "Hotel Sura Hagia Sophia",
+      "tourist_season_start_date": "2025-02-01",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 57.44
+    },
+    {
+      "hotel_name": "DoubleTree by Hilton Istanbul - Old Town",
+      "tourist_season_start_date": "2025-08-23",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 78.44
+    },
+    {
+      "hotel_name": "DoubleTree by Hilton Istanbul - Old Town",
+      "tourist_season_start_date": "2025-08-23",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 109.62
+    },
+    {
+      "hotel_name": "Seven Hills Hotel",
+      "tourist_season_start_date": "2025-07-13",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 547.77
+    },
+    {
+      "hotel_name": "Seven Hills Hotel",
+      "tourist_season_start_date": "2025-07-13",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 274.62
+    },
+    {
+      "hotel_name": "Steigenberger Aldau Beach Hotel",
+      "tourist_season_start_date": "2025-03-14",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 178.95
+    },
+    {
+      "hotel_name": "Steigenberger Aldau Beach Hotel",
+      "tourist_season_start_date": "2025-03-14",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 196.31
+    },
+    {
+      "hotel_name": "Steigenberger Aldau Beach Hotel",
+      "tourist_season_start_date": "2025-03-14",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 344.68
+    },
+    {
+      "hotel_name": "Steigenberger Aldau Beach Hotel",
+      "tourist_season_start_date": "2025-03-12",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 385.95
+    },
+    {
+      "hotel_name": "Steigenberger Aldau Beach Hotel",
+      "tourist_season_start_date": "2025-03-12",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 310.29
+    },
+    {
+      "hotel_name": "Steigenberger Aldau Beach Hotel",
+      "tourist_season_start_date": "2025-03-12",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 235.88
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "tourist_season_start_date": "2025-08-06",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 492.42
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "tourist_season_start_date": "2025-08-06",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 486.86
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "tourist_season_start_date": "2025-06-09",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 434.36
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "tourist_season_start_date": "2025-06-09",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 375.99
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "tourist_season_start_date": "2025-06-13",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 212.31
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "tourist_season_start_date": "2025-06-13",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 355.62
+    },
+    {
+      "hotel_name": "Arabia Azur Resort",
+      "tourist_season_start_date": "2025-02-14",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 26.51
+    },
+    {
+      "hotel_name": "Arabia Azur Resort",
+      "tourist_season_start_date": "2025-02-14",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 20.07
+    },
+    {
+      "hotel_name": "Arabia Azur Resort",
+      "tourist_season_start_date": "2025-05-08",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 39.46
+    },
+    {
+      "hotel_name": "Arabia Azur Resort",
+      "tourist_season_start_date": "2025-05-08",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 42.18
+    },
+    {
+      "hotel_name": "Arabia Azur Resort",
+      "tourist_season_start_date": "2025-08-14",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 75.78
+    },
+    {
+      "hotel_name": "SeaGull Beach Resort",
+      "tourist_season_start_date": "2025-02-04",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 60.37
+    },
+    {
+      "hotel_name": "SeaGull Beach Resort",
+      "tourist_season_start_date": "2025-04-14",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 37.63
+    },
+    {
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "tourist_season_start_date": "2025-10-12",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 349.14
+    },
+    {
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "tourist_season_start_date": "2025-10-12",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 218.5
+    },
+    {
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "tourist_season_start_date": "2025-01-19",
+      "tourist_season_end_date": "2025-01-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 241.94
+    },
+    {
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "tourist_season_start_date": "2025-03-23",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 190.73
+    },
+    {
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "tourist_season_start_date": "2025-03-23",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 386.36
+    },
+    {
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "tourist_season_start_date": "2025-03-23",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 270.48
+    },
+    {
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "tourist_season_start_date": "2025-03-25",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 381.06
+    },
+    {
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "tourist_season_start_date": "2025-03-25",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 208.65
+    },
+    {
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "tourist_season_start_date": "2025-03-25",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 266.29
+    },
+    {
+      "hotel_name": "Rixos Sharm El Sheikh",
+      "tourist_season_start_date": "2025-04-11",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 265.16
+    },
+    {
+      "hotel_name": "Jaz Belvedere",
+      "tourist_season_start_date": "2025-07-24",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 72.76
+    },
+    {
+      "hotel_name": "Jaz Belvedere",
+      "tourist_season_start_date": "2025-07-24",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 64.63
+    },
+    {
+      "hotel_name": "Jaz Belvedere",
+      "tourist_season_start_date": "2025-05-04",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 37.24
+    },
+    {
+      "hotel_name": "Jaz Belvedere",
+      "tourist_season_start_date": "2025-05-04",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 46.66
+    },
+    {
+      "hotel_name": "Park Regency Sharm El Sheikh Resort",
+      "tourist_season_start_date": "2025-10-18",
+      "tourist_season_end_date": "2025-11-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 38.88
+    },
+    {
+      "hotel_name": "Park Regency Sharm El Sheikh Resort",
+      "tourist_season_start_date": "2025-03-13",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 35.34
+    },
+    {
+      "hotel_name": "Park Regency Sharm El Sheikh Resort",
+      "tourist_season_start_date": "2025-08-15",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 73.57
+    },
+    {
+      "hotel_name": "Park Regency Sharm El Sheikh Resort",
+      "tourist_season_start_date": "2025-08-15",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 64.94
+    },
+    {
+      "hotel_name": "Electra Palace Athens",
+      "tourist_season_start_date": "2025-03-19",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 32.39
+    },
+    {
+      "hotel_name": "Electra Palace Athens",
+      "tourist_season_start_date": "2025-03-19",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 52.18
+    },
+    {
+      "hotel_name": "Electra Palace Athens",
+      "tourist_season_start_date": "2025-03-19",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 42.78
+    },
+    {
+      "hotel_name": "Electra Palace Athens",
+      "tourist_season_start_date": "2025-08-15",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 40.93
+    },
+    {
+      "hotel_name": "Electra Palace Athens",
+      "tourist_season_start_date": "2025-08-15",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 53.82
+    },
+    {
+      "hotel_name": "Electra Palace Athens",
+      "tourist_season_start_date": "2025-07-11",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 64.11
+    },
+    {
+      "hotel_name": "Electra Palace Athens",
+      "tourist_season_start_date": "2025-10-12",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 35.8
+    },
+    {
+      "hotel_name": "Grand Hyatt Athens",
+      "tourist_season_start_date": "2025-03-16",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 288.38
+    },
+    {
+      "hotel_name": "Grand Hyatt Athens",
+      "tourist_season_start_date": "2025-03-16",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 221.68
+    },
+    {
+      "hotel_name": "Grand Hyatt Athens",
+      "tourist_season_start_date": "2025-03-16",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 371.5
+    },
+    {
+      "hotel_name": "Grand Hyatt Athens",
+      "tourist_season_start_date": "2025-10-04",
+      "tourist_season_end_date": "2025-11-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 286.37
+    },
+    {
+      "hotel_name": "Electra Metropolis",
+      "tourist_season_start_date": "2025-07-04",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 344.23
+    },
+    {
+      "hotel_name": "Electra Metropolis",
+      "tourist_season_start_date": "2025-07-04",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 220.32
+    },
+    {
+      "hotel_name": "Electra Metropolis",
+      "tourist_season_start_date": "2025-07-04",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 334.99
+    },
+    {
+      "hotel_name": "Electra Metropolis",
+      "tourist_season_start_date": "2025-03-24",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 226.2
+    },
+    {
+      "hotel_name": "Electra Metropolis",
+      "tourist_season_start_date": "2025-03-24",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 377.82
+    },
+    {
+      "hotel_name": "Electra Metropolis",
+      "tourist_season_start_date": "2025-03-24",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 325.14
+    },
+    {
+      "hotel_name": "Electra Metropolis",
+      "tourist_season_start_date": "2025-10-07",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 437.18
+    },
+    {
+      "hotel_name": "Amalia Hotel Athens",
+      "tourist_season_start_date": "2025-04-02",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 63.76
+    },
+    {
+      "hotel_name": "Amalia Hotel Athens",
+      "tourist_season_start_date": "2025-04-02",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 94.56
+    },
+    {
+      "hotel_name": "Amalia Hotel Athens",
+      "tourist_season_start_date": "2025-04-02",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 80.35
+    },
+    {
+      "hotel_name": "New Hotel",
+      "tourist_season_start_date": "2025-02-13",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 177.07
+    },
+    {
+      "hotel_name": "Makedonia Palace",
+      "tourist_season_start_date": "2025-02-08",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 422.45
+    },
+    {
+      "hotel_name": "Makedonia Palace",
+      "tourist_season_start_date": "2025-02-08",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 531.89
+    },
+    {
+      "hotel_name": "Makedonia Palace",
+      "tourist_season_start_date": "2025-02-14",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 194.16
+    },
+    {
+      "hotel_name": "Makedonia Palace",
+      "tourist_season_start_date": "2025-02-14",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 178.73
+    },
+    {
+      "hotel_name": "Makedonia Palace",
+      "tourist_season_start_date": "2025-02-14",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 272.46
+    },
+    {
+      "hotel_name": "Makedonia Palace",
+      "tourist_season_start_date": "2025-08-12",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 305.41
+    },
+    {
+      "hotel_name": "Makedonia Palace",
+      "tourist_season_start_date": "2025-08-12",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 489.44
+    },
+    {
+      "hotel_name": "Makedonia Palace",
+      "tourist_season_start_date": "2025-04-02",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 394.99
+    },
+    {
+      "hotel_name": "The MET Hotel",
+      "tourist_season_start_date": "2025-08-20",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 606.17
+    },
+    {
+      "hotel_name": "The MET Hotel",
+      "tourist_season_start_date": "2025-08-20",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 622.99
+    },
+    {
+      "hotel_name": "The MET Hotel",
+      "tourist_season_start_date": "2025-08-20",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 399.49
+    },
+    {
+      "hotel_name": "The MET Hotel",
+      "tourist_season_start_date": "2025-10-14",
+      "tourist_season_end_date": "2025-11-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 276.13
+    },
+    {
+      "hotel_name": "The MET Hotel",
+      "tourist_season_start_date": "2025-10-14",
+      "tourist_season_end_date": "2025-11-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 573.92
+    },
+    {
+      "hotel_name": "The MET Hotel",
+      "tourist_season_start_date": "2025-03-06",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 318.5
+    },
+    {
+      "hotel_name": "The MET Hotel",
+      "tourist_season_start_date": "2025-03-06",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 279.83
+    },
+    {
+      "hotel_name": "The MET Hotel",
+      "tourist_season_start_date": "2025-03-06",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 143.27
+    },
+    {
+      "hotel_name": "Electra Palace Thessaloniki",
+      "tourist_season_start_date": "2025-08-18",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 334.09
+    },
+    {
+      "hotel_name": "Electra Palace Thessaloniki",
+      "tourist_season_start_date": "2025-03-18",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 282.64
+    },
+    {
+      "hotel_name": "Daios Luxury Living",
+      "tourist_season_start_date": "2025-03-18",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 27.59
+    },
+    {
+      "hotel_name": "Daios Luxury Living",
+      "tourist_season_start_date": "2025-03-18",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 37.52
+    },
+    {
+      "hotel_name": "Daios Luxury Living",
+      "tourist_season_start_date": "2025-03-18",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 39.32
+    },
+    {
+      "hotel_name": "Holiday Inn Thessaloniki",
+      "tourist_season_start_date": "2025-04-20",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 262.29
+    },
+    {
+      "hotel_name": "Holiday Inn Thessaloniki",
+      "tourist_season_start_date": "2025-04-20",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 481.07
+    },
+    {
+      "hotel_name": "Holiday Inn Thessaloniki",
+      "tourist_season_start_date": "2025-04-20",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 391.95
+    },
+    {
+      "hotel_name": "Hotel Park Split",
+      "tourist_season_start_date": "2025-03-05",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 41.17
+    },
+    {
+      "hotel_name": "Hotel Park Split",
+      "tourist_season_start_date": "2025-09-14",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 38.06
+    },
+    {
+      "hotel_name": "Cornaro Hotel",
+      "tourist_season_start_date": "2025-03-05",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 332.51
+    },
+    {
+      "hotel_name": "Cornaro Hotel",
+      "tourist_season_start_date": "2025-03-05",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 256.49
+    },
+    {
+      "hotel_name": "Hotel Vestibul Palace & Villa",
+      "tourist_season_start_date": "2025-05-22",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 206.0
+    },
+    {
+      "hotel_name": "Hotel Vestibul Palace & Villa",
+      "tourist_season_start_date": "2025-05-22",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 235.2
+    },
+    {
+      "hotel_name": "Hotel Vestibul Palace & Villa",
+      "tourist_season_start_date": "2025-05-19",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 98.58
+    },
+    {
+      "hotel_name": "Atrium Hotel",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 58.53
+    },
+    {
+      "hotel_name": "Atrium Hotel",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 49.64
+    },
+    {
+      "hotel_name": "Atrium Hotel",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 79.64
+    },
+    {
+      "hotel_name": "Hotel Excelsior Dubrovnik",
+      "tourist_season_start_date": "2025-01-03",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 23.91
+    },
+    {
+      "hotel_name": "Hotel Excelsior Dubrovnik",
+      "tourist_season_start_date": "2025-01-03",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 31.2
+    },
+    {
+      "hotel_name": "Hotel Excelsior Dubrovnik",
+      "tourist_season_start_date": "2025-04-02",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 29.14
+    },
+    {
+      "hotel_name": "Hotel Excelsior Dubrovnik",
+      "tourist_season_start_date": "2025-04-02",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 41.93
+    },
+    {
+      "hotel_name": "Hotel Excelsior Dubrovnik",
+      "tourist_season_start_date": "2025-04-02",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 53.69
+    },
+    {
+      "hotel_name": "Hilton Imperial Dubrovnik",
+      "tourist_season_start_date": "2025-08-17",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 29.54
+    },
+    {
+      "hotel_name": "Hilton Imperial Dubrovnik",
+      "tourist_season_start_date": "2025-08-17",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 42.03
+    },
+    {
+      "hotel_name": "Hilton Imperial Dubrovnik",
+      "tourist_season_start_date": "2025-08-17",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 53.69
+    },
+    {
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "tourist_season_start_date": "2025-06-13",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 64.18
+    },
+    {
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "tourist_season_start_date": "2025-06-13",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 37.47
+    },
+    {
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "tourist_season_start_date": "2025-06-13",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 44.44
+    },
+    {
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "tourist_season_start_date": "2025-01-03",
+      "tourist_season_end_date": "2025-01-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 44.09
+    },
+    {
+      "hotel_name": "Hotel Dubrovnik Palace",
+      "tourist_season_start_date": "2025-02-16",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 35.97
+    },
+    {
+      "hotel_name": "Hotel Dubrovnik Palace",
+      "tourist_season_start_date": "2025-02-16",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 70.11
+    },
+    {
+      "hotel_name": "Hotel Dubrovnik Palace",
+      "tourist_season_start_date": "2025-02-16",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 38.39
+    },
+    {
+      "hotel_name": "St. Joseph's Hotel",
+      "tourist_season_start_date": "2025-10-13",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 158.6
+    },
+    {
+      "hotel_name": "St. Joseph's Hotel",
+      "tourist_season_start_date": "2025-09-16",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 274.72
+    },
+    {
+      "hotel_name": "St. Joseph's Hotel",
+      "tourist_season_start_date": "2025-01-03",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 225.33
+    },
+    {
+      "hotel_name": "St. Joseph's Hotel",
+      "tourist_season_start_date": "2025-05-01",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 263.9
+    },
+    {
+      "hotel_name": "St. Joseph's Hotel",
+      "tourist_season_start_date": "2025-05-01",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 210.73
+    },
+    {
+      "hotel_name": "St. Joseph's Hotel",
+      "tourist_season_start_date": "2025-05-01",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 171.48
+    },
+    {
+      "hotel_name": "Splendid Conference & Spa Resort",
+      "tourist_season_start_date": "2025-03-12",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 159.42
+    },
+    {
+      "hotel_name": "Splendid Conference & Spa Resort",
+      "tourist_season_start_date": "2025-03-12",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 120.64
+    },
+    {
+      "hotel_name": "Hotel Budva",
+      "tourist_season_start_date": "2025-06-25",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 69.83
+    },
+    {
+      "hotel_name": "Avala Resort & Villas",
+      "tourist_season_start_date": "2025-01-04",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 345.83
+    },
+    {
+      "hotel_name": "Avala Resort & Villas",
+      "tourist_season_start_date": "2025-01-04",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 301.57
+    },
+    {
+      "hotel_name": "Avala Resort & Villas",
+      "tourist_season_start_date": "2025-01-04",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 264.04
+    },
+    {
+      "hotel_name": "Hotel Tre Canne",
+      "tourist_season_start_date": "2025-01-15",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 49.21
+    },
+    {
+      "hotel_name": "Hotel Tre Canne",
+      "tourist_season_start_date": "2025-01-15",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 22.57
+    },
+    {
+      "hotel_name": "Hotel Tre Canne",
+      "tourist_season_start_date": "2025-06-08",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 50.05
+    },
+    {
+      "hotel_name": "Hotel Tre Canne",
+      "tourist_season_start_date": "2025-06-08",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 31.16
+    },
+    {
+      "hotel_name": "Hotel Tre Canne",
+      "tourist_season_start_date": "2025-06-08",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 49.28
+    },
+    {
+      "hotel_name": "Hotel Tre Canne",
+      "tourist_season_start_date": "2025-08-25",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 60.88
+    },
+    {
+      "hotel_name": "Hotel Tre Canne",
+      "tourist_season_start_date": "2025-08-25",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 37.1
+    },
+    {
+      "hotel_name": "Hotel Tre Canne",
+      "tourist_season_start_date": "2025-08-25",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 44.56
+    },
+    {
+      "hotel_name": "Hotel Old Budva",
+      "tourist_season_start_date": "2025-07-07",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 70.17
+    },
+    {
+      "hotel_name": "Hotel Old Budva",
+      "tourist_season_start_date": "2025-07-07",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 123.02
+    },
+    {
+      "hotel_name": "Hilton Podgorica Crna Gora",
+      "tourist_season_start_date": "2025-06-17",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 202.6
+    },
+    {
+      "hotel_name": "Hilton Podgorica Crna Gora",
+      "tourist_season_start_date": "2025-07-23",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 201.41
+    },
+    {
+      "hotel_name": "Hotel Ziya",
+      "tourist_season_start_date": "2025-02-22",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 42.45
+    },
+    {
+      "hotel_name": "Hotel Ziya",
+      "tourist_season_start_date": "2025-02-22",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 39.82
+    },
+    {
+      "hotel_name": "Hotel Ziya",
+      "tourist_season_start_date": "2025-02-22",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 30.92
+    },
+    {
+      "hotel_name": "Hotel Ziya",
+      "tourist_season_start_date": "2025-06-07",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 37.7
+    },
+    {
+      "hotel_name": "Hotel Ziya",
+      "tourist_season_start_date": "2025-06-07",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 49.6
+    },
+    {
+      "hotel_name": "Hotel Ziya",
+      "tourist_season_start_date": "2025-06-07",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 43.35
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "tourist_season_start_date": "2025-01-19",
+      "tourist_season_end_date": "2025-01-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 60.6
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "tourist_season_start_date": "2025-01-19",
+      "tourist_season_end_date": "2025-01-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 42.64
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "tourist_season_start_date": "2025-01-19",
+      "tourist_season_end_date": "2025-01-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 53.79
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 24.97
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 59.79
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 33.54
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "tourist_season_start_date": "2025-04-20",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 47.6
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "tourist_season_start_date": "2025-04-20",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 65.66
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "tourist_season_start_date": "2025-03-23",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 36.21
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "tourist_season_start_date": "2025-03-23",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 54.21
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "tourist_season_start_date": "2025-07-04",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 70.31
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "tourist_season_start_date": "2025-07-04",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 78.47
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "tourist_season_start_date": "2025-07-04",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 37.29
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "tourist_season_start_date": "2025-01-18",
+      "tourist_season_end_date": "2025-01-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 57.48
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "tourist_season_start_date": "2025-01-18",
+      "tourist_season_end_date": "2025-01-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 45.99
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "tourist_season_start_date": "2025-01-18",
+      "tourist_season_end_date": "2025-01-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 30.77
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "tourist_season_start_date": "2025-08-10",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 72.34
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "tourist_season_start_date": "2025-08-10",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 52.81
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "tourist_season_start_date": "2025-08-10",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 35.1
+    },
+    {
+      "hotel_name": "Raffles Europejski Warsaw",
+      "tourist_season_start_date": "2025-04-18",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 94.03
+    },
+    {
+      "hotel_name": "Raffles Europejski Warsaw",
+      "tourist_season_start_date": "2025-08-13",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 58.19
+    },
+    {
+      "hotel_name": "Raffles Europejski Warsaw",
+      "tourist_season_start_date": "2025-02-14",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 77.27
+    },
+    {
+      "hotel_name": "Raffles Europejski Warsaw",
+      "tourist_season_start_date": "2025-02-14",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 110.68
+    },
+    {
+      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
+      "tourist_season_start_date": "2025-07-10",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 96.24
+    },
+    {
+      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
+      "tourist_season_start_date": "2025-07-10",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 68.96
+    },
+    {
+      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
+      "tourist_season_start_date": "2025-07-10",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 82.73
+    },
+    {
+      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
+      "tourist_season_start_date": "2025-04-02",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 79.81
+    },
+    {
+      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
+      "tourist_season_start_date": "2025-04-02",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 65.91
+    },
+    {
+      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
+      "tourist_season_start_date": "2025-04-02",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 91.11
+    },
+    {
+      "hotel_name": "Hotel Bellotto",
+      "tourist_season_start_date": "2025-01-11",
+      "tourist_season_end_date": "2025-01-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 290.13
+    },
+    {
+      "hotel_name": "Hotel Bellotto",
+      "tourist_season_start_date": "2025-09-03",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 262.88
+    },
+    {
+      "hotel_name": "Hotel Bellotto",
+      "tourist_season_start_date": "2025-09-03",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 210.01
+    },
+    {
+      "hotel_name": "Hotel Bellotto",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 250.07
+    },
+    {
+      "hotel_name": "Hotel Bellotto",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 378.2
+    },
+    {
+      "hotel_name": "Hotel Bellotto",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 296.17
+    },
+    {
+      "hotel_name": "Hotel Bellotto",
+      "tourist_season_start_date": "2025-01-02",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 334.81
+    },
+    {
+      "hotel_name": "Hotel Bellotto",
+      "tourist_season_start_date": "2025-01-02",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 330.89
+    },
+    {
+      "hotel_name": "Puro Warszawa Centrum",
+      "tourist_season_start_date": "2025-05-22",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 26.72
+    },
+    {
+      "hotel_name": "Hotel Stary",
+      "tourist_season_start_date": "2025-04-09",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 99.08
+    },
+    {
+      "hotel_name": "Hotel Stary",
+      "tourist_season_start_date": "2025-04-09",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 72.45
+    },
+    {
+      "hotel_name": "Hotel Stary",
+      "tourist_season_start_date": "2025-04-09",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 85.84
+    },
+    {
+      "hotel_name": "Hotel Stary",
+      "tourist_season_start_date": "2025-02-15",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 43.03
+    },
+    {
+      "hotel_name": "Hotel Stary",
+      "tourist_season_start_date": "2025-02-15",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 54.81
+    },
+    {
+      "hotel_name": "Hotel Stary",
+      "tourist_season_start_date": "2025-06-19",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 92.9
+    },
+    {
+      "hotel_name": "Hotel Stary",
+      "tourist_season_start_date": "2025-06-19",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 139.09
+    },
+    {
+      "hotel_name": "Sheraton Grand Krakow",
+      "tourist_season_start_date": "2025-05-06",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 585.27
+    },
+    {
+      "hotel_name": "Sheraton Grand Krakow",
+      "tourist_season_start_date": "2025-05-06",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 396.42
+    },
+    {
+      "hotel_name": "Hotel Rubinstein",
+      "tourist_season_start_date": "2025-08-08",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 55.33
+    },
+    {
+      "hotel_name": "Hotel Rubinstein",
+      "tourist_season_start_date": "2025-08-08",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 30.97
+    },
+    {
+      "hotel_name": "Aparthotel Stare Miasto",
+      "tourist_season_start_date": "2025-08-04",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 37.45
+    },
+    {
+      "hotel_name": "Aparthotel Stare Miasto",
+      "tourist_season_start_date": "2025-01-23",
+      "tourist_season_end_date": "2025-01-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 23.01
+    },
+    {
+      "hotel_name": "Aparthotel Stare Miasto",
+      "tourist_season_start_date": "2025-07-13",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 79.38
+    },
+    {
+      "hotel_name": "Aparthotel Stare Miasto",
+      "tourist_season_start_date": "2025-07-13",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 87.69
+    },
+    {
+      "hotel_name": "Aparthotel Stare Miasto",
+      "tourist_season_start_date": "2025-07-13",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 58.2
+    },
+    {
+      "hotel_name": "Golden Tulip Krakow City Center",
+      "tourist_season_start_date": "2025-10-15",
+      "tourist_season_end_date": "2025-11-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 22.47
+    },
+    {
+      "hotel_name": "Golden Tulip Krakow City Center",
+      "tourist_season_start_date": "2025-04-22",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 37.1
+    },
+    {
+      "hotel_name": "Golden Tulip Krakow City Center",
+      "tourist_season_start_date": "2025-04-14",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 42.31
+    },
+    {
+      "hotel_name": "Golden Tulip Krakow City Center",
+      "tourist_season_start_date": "2025-04-14",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 21.07
+    },
+    {
+      "hotel_name": "Golden Tulip Krakow City Center",
+      "tourist_season_start_date": "2025-04-14",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 34.55
+    },
+    {
+      "hotel_name": "Adina Apartment Hotel Berlin Mitte",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 123.32
+    },
+    {
+      "hotel_name": "Adina Apartment Hotel Berlin Mitte",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 98.78
+    },
+    {
+      "hotel_name": "Adina Apartment Hotel Berlin Mitte",
+      "tourist_season_start_date": "2025-05-11",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 116.96
+    },
+    {
+      "hotel_name": "The Mandala Hotel",
+      "tourist_season_start_date": "2025-10-16",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 246.49
+    },
+    {
+      "hotel_name": "The Mandala Hotel",
+      "tourist_season_start_date": "2025-05-13",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 526.41
+    },
+    {
+      "hotel_name": "Regent Berlin",
+      "tourist_season_start_date": "2025-05-02",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 133.81
+    },
+    {
+      "hotel_name": "Regent Berlin",
+      "tourist_season_start_date": "2025-05-02",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 105.91
+    },
+    {
+      "hotel_name": "Regent Berlin",
+      "tourist_season_start_date": "2025-05-02",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 236.38
+    },
+    {
+      "hotel_name": "INNSiDE by Meliá Berlin Mitte",
+      "tourist_season_start_date": "2025-03-14",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 235.5
+    },
+    {
+      "hotel_name": "INNSiDE by Meliá Berlin Mitte",
+      "tourist_season_start_date": "2025-03-14",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 448.39
+    },
+    {
+      "hotel_name": "INNSiDE by Meliá Berlin Mitte",
+      "tourist_season_start_date": "2025-09-01",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 506.3
+    },
+    {
+      "hotel_name": "The Ritz-Carlton, Berlin",
+      "tourist_season_start_date": "2025-01-11",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 38.26
+    },
+    {
+      "hotel_name": "The Ritz-Carlton, Berlin",
+      "tourist_season_start_date": "2025-05-07",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 30.38
+    },
+    {
+      "hotel_name": "The Ritz-Carlton, Berlin",
+      "tourist_season_start_date": "2025-05-07",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 37.57
+    },
+    {
+      "hotel_name": "The Ritz-Carlton, Berlin",
+      "tourist_season_start_date": "2025-05-07",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 48.58
+    },
+    {
+      "hotel_name": "Andaz Munich Schwabinger Tor - a Concept by Hyatt",
+      "tourist_season_start_date": "2025-08-02",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 123.54
+    },
+    {
+      "hotel_name": "Andaz Munich Schwabinger Tor - a Concept by Hyatt",
+      "tourist_season_start_date": "2025-08-02",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 93.49
+    },
+    {
+      "hotel_name": "Andaz Munich Schwabinger Tor - a Concept by Hyatt",
+      "tourist_season_start_date": "2025-08-02",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 136.99
+    },
+    {
+      "hotel_name": "Andaz Munich Schwabinger Tor - a Concept by Hyatt",
+      "tourist_season_start_date": "2025-06-19",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 144.1
+    },
+    {
+      "hotel_name": "Andaz Munich Schwabinger Tor - a Concept by Hyatt",
+      "tourist_season_start_date": "2025-06-19",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 157.8
+    },
+    {
+      "hotel_name": "Steigenberger Hotel München",
+      "tourist_season_start_date": "2025-07-09",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 153.6
+    },
+    {
+      "hotel_name": "Steigenberger Hotel München",
+      "tourist_season_start_date": "2025-07-09",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 99.14
+    },
+    {
+      "hotel_name": "Steigenberger Hotel München",
+      "tourist_season_start_date": "2025-06-23",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 85.87
+    },
+    {
+      "hotel_name": "Steigenberger Hotel München",
+      "tourist_season_start_date": "2025-06-23",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 80.29
+    },
+    {
+      "hotel_name": "Steigenberger Hotel München",
+      "tourist_season_start_date": "2025-06-23",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 71.55
+    },
+    {
+      "hotel_name": "Steigenberger Hotel München",
+      "tourist_season_start_date": "2025-05-09",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 119.06
+    },
+    {
+      "hotel_name": "Steigenberger Hotel München",
+      "tourist_season_start_date": "2025-05-09",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 74.86
+    },
+    {
+      "hotel_name": "Pullman Munich",
+      "tourist_season_start_date": "2025-10-08",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 44.17
+    },
+    {
+      "hotel_name": "Pullman Munich",
+      "tourist_season_start_date": "2025-10-08",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 29.38
+    },
+    {
+      "hotel_name": "Pullman Munich",
+      "tourist_season_start_date": "2025-02-23",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 34.8
+    },
+    {
+      "hotel_name": "Pullman Munich",
+      "tourist_season_start_date": "2025-02-23",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 44.12
+    },
+    {
+      "hotel_name": "Pullman Munich",
+      "tourist_season_start_date": "2025-02-13",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 31.85
+    },
+    {
+      "hotel_name": "Pullman Munich",
+      "tourist_season_start_date": "2025-02-13",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 37.08
+    },
+    {
+      "hotel_name": "Hilton Munich Park",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 209.06
+    },
+    {
+      "hotel_name": "Hilton Munich Park",
+      "tourist_season_start_date": "2025-06-04",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 321.8
+    },
+    {
+      "hotel_name": "Hilton Munich Park",
+      "tourist_season_start_date": "2025-06-04",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 552.96
+    },
+    {
+      "hotel_name": "Hilton Munich Park",
+      "tourist_season_start_date": "2025-01-24",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 393.7
+    },
+    {
+      "hotel_name": "Hilton Munich Park",
+      "tourist_season_start_date": "2025-01-24",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 320.12
+    },
+    {
+      "hotel_name": "Hilton Munich Park",
+      "tourist_season_start_date": "2025-06-14",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 470.14
+    },
+    {
+      "hotel_name": "The Rilano Hotel München",
+      "tourist_season_start_date": "2025-10-24",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 237.29
+    },
+    {
+      "hotel_name": "The Rilano Hotel München",
+      "tourist_season_start_date": "2025-10-24",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 290.29
+    },
+    {
+      "hotel_name": "The Rilano Hotel München",
+      "tourist_season_start_date": "2025-09-18",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 371.35
+    },
+    {
+      "hotel_name": "The Rilano Hotel München",
+      "tourist_season_start_date": "2025-09-18",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 299.89
+    },
+    {
+      "hotel_name": "The Rilano Hotel München",
+      "tourist_season_start_date": "2025-09-18",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 266.49
+    },
+    {
+      "hotel_name": "Four Seasons Hotel George V, Paris",
+      "tourist_season_start_date": "2025-09-24",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 31.58
+    },
+    {
+      "hotel_name": "Four Seasons Hotel George V, Paris",
+      "tourist_season_start_date": "2025-01-25",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 60.13
+    },
+    {
+      "hotel_name": "Four Seasons Hotel George V, Paris",
+      "tourist_season_start_date": "2025-07-05",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 32.74
+    },
+    {
+      "hotel_name": "Four Seasons Hotel George V, Paris",
+      "tourist_season_start_date": "2025-07-05",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 49.61
+    },
+    {
+      "hotel_name": "Le Bristol Paris",
+      "tourist_season_start_date": "2025-06-19",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 55.38
+    },
+    {
+      "hotel_name": "Le Bristol Paris",
+      "tourist_season_start_date": "2025-06-19",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 93.45
+    },
+    {
+      "hotel_name": "Mandarin Oriental, Paris",
+      "tourist_season_start_date": "2025-07-12",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 600.36
+    },
+    {
+      "hotel_name": "Mandarin Oriental, Paris",
+      "tourist_season_start_date": "2025-07-12",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 307.71
+    },
+    {
+      "hotel_name": "Mandarin Oriental, Paris",
+      "tourist_season_start_date": "2025-03-20",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 322.59
+    },
+    {
+      "hotel_name": "The Peninsula Paris",
+      "tourist_season_start_date": "2025-09-02",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 96.28
+    },
+    {
+      "hotel_name": "The Peninsula Paris",
+      "tourist_season_start_date": "2025-09-02",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 101.99
+    },
+    {
+      "hotel_name": "The Peninsula Paris",
+      "tourist_season_start_date": "2025-09-09",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 168.02
+    },
+    {
+      "hotel_name": "The Peninsula Paris",
+      "tourist_season_start_date": "2025-06-17",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 337.54
+    },
+    {
+      "hotel_name": "Hôtel Negresco",
+      "tourist_season_start_date": "2025-01-23",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 138.23
+    },
+    {
+      "hotel_name": "Hôtel Negresco",
+      "tourist_season_start_date": "2025-09-24",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 98.46
+    },
+    {
+      "hotel_name": "Hôtel Negresco",
+      "tourist_season_start_date": "2025-09-24",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 130.87
+    },
+    {
+      "hotel_name": "Hyatt Regency Nice Palais de la Méditerranée",
+      "tourist_season_start_date": "2025-07-08",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 192.13
+    },
+    {
+      "hotel_name": "Le Méridien Nice",
+      "tourist_season_start_date": "2025-02-16",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 132.94
+    },
+    {
+      "hotel_name": "Le Méridien Nice",
+      "tourist_season_start_date": "2025-01-10",
+      "tourist_season_end_date": "2025-01-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 119.81
+    },
+    {
+      "hotel_name": "Le Méridien Nice",
+      "tourist_season_start_date": "2025-01-10",
+      "tourist_season_end_date": "2025-01-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 178.22
+    },
+    {
+      "hotel_name": "Sheraton Nice Airport",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 464.75
+    },
+    {
+      "hotel_name": "Sheraton Nice Airport",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 228.27
+    },
+    {
+      "hotel_name": "Sheraton Nice Airport",
+      "tourist_season_start_date": "2025-01-06",
+      "tourist_season_end_date": "2025-01-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 159.56
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "tourist_season_start_date": "2025-08-20",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 136.07
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "tourist_season_start_date": "2025-08-20",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 132.72
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "tourist_season_start_date": "2025-02-25",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 65.43
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "tourist_season_start_date": "2025-02-25",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 122.43
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "tourist_season_start_date": "2025-02-25",
+      "tourist_season_end_date": "2025-02-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 116.1
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 33.57
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "tourist_season_start_date": "2025-09-25",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 51.91
+    },
+    {
+      "hotel_name": "Hotel Arts Barcelona",
+      "tourist_season_start_date": "2025-03-23",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 309.85
+    },
+    {
+      "hotel_name": "Hotel Arts Barcelona",
+      "tourist_season_start_date": "2025-07-16",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 385.61
+    },
+    {
+      "hotel_name": "Hotel Arts Barcelona",
+      "tourist_season_start_date": "2025-07-16",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 498.38
+    },
+    {
+      "hotel_name": "Hotel Arts Barcelona",
+      "tourist_season_start_date": "2025-07-16",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 270.93
+    },
+    {
+      "hotel_name": "W Barcelona",
+      "tourist_season_start_date": "2025-08-11",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 139.49
+    },
+    {
+      "hotel_name": "W Barcelona",
+      "tourist_season_start_date": "2025-08-24",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 236.12
+    },
+    {
+      "hotel_name": "W Barcelona",
+      "tourist_season_start_date": "2025-08-24",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 167.54
+    },
+    {
+      "hotel_name": "W Barcelona",
+      "tourist_season_start_date": "2025-08-24",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 119.89
+    },
+    {
+      "hotel_name": "W Barcelona",
+      "tourist_season_start_date": "2025-05-06",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 98.92
+    },
+    {
+      "hotel_name": "W Barcelona",
+      "tourist_season_start_date": "2025-05-06",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 125.55
+    },
+    {
+      "hotel_name": "Hampton by Hilton Barcelona Fira Gran Vía",
+      "tourist_season_start_date": "2025-06-25",
+      "tourist_season_end_date": "2025-07-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 133.99
+    },
+    {
+      "hotel_name": "Hampton by Hilton Barcelona Fira Gran Vía",
+      "tourist_season_start_date": "2025-03-16",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 269.95
+    },
+    {
+      "hotel_name": "Hampton by Hilton Barcelona Fira Gran Vía",
+      "tourist_season_start_date": "2025-03-16",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 208.82
+    },
+    {
+      "hotel_name": "H10 Port Vell",
+      "tourist_season_start_date": "2025-09-04",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 72.34
+    },
+    {
+      "hotel_name": "H10 Port Vell",
+      "tourist_season_start_date": "2025-09-04",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 59.38
+    },
+    {
+      "hotel_name": "H10 Port Vell",
+      "tourist_season_start_date": "2025-09-04",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 95.92
+    },
+    {
+      "hotel_name": "Occidental Atenea Mar - Adults Only",
+      "tourist_season_start_date": "2025-08-24",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 108.51
+    },
+    {
+      "hotel_name": "Occidental Atenea Mar - Adults Only",
+      "tourist_season_start_date": "2025-08-24",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 75.59
+    },
+    {
+      "hotel_name": "Occidental Atenea Mar - Adults Only",
+      "tourist_season_start_date": "2025-08-24",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 129.66
+    },
+    {
+      "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
+      "tourist_season_start_date": "2025-10-14",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 229.85
+    },
+    {
+      "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
+      "tourist_season_start_date": "2025-10-14",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 107.82
+    },
+    {
+      "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
+      "tourist_season_start_date": "2025-10-14",
+      "tourist_season_end_date": "2025-10-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 175.38
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "tourist_season_start_date": "2025-04-04",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 37.51
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "tourist_season_start_date": "2025-04-04",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 21.57
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "tourist_season_start_date": "2025-04-04",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 29.01
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "tourist_season_start_date": "2025-04-05",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 33.39
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "tourist_season_start_date": "2025-04-05",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 51.55
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "tourist_season_start_date": "2025-04-05",
+      "tourist_season_end_date": "2025-04-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 56.1
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "tourist_season_start_date": "2025-10-10",
+      "tourist_season_end_date": "2025-11-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 37.34
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "tourist_season_start_date": "2025-10-10",
+      "tourist_season_end_date": "2025-11-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 27.38
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "tourist_season_start_date": "2025-10-10",
+      "tourist_season_end_date": "2025-11-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 23.91
+    },
+    {
+      "hotel_name": "VP Plaza España Design",
+      "tourist_season_start_date": "2025-07-12",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 108.35
+    },
+    {
+      "hotel_name": "VP Plaza España Design",
+      "tourist_season_start_date": "2025-07-12",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 172.23
+    },
+    {
+      "hotel_name": "VP Plaza España Design",
+      "tourist_season_start_date": "2025-07-12",
+      "tourist_season_end_date": "2025-08-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 129.76
+    },
+    {
+      "hotel_name": "VP Plaza España Design",
+      "tourist_season_start_date": "2025-06-16",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 55.15
+    },
+    {
+      "hotel_name": "VP Plaza España Design",
+      "tourist_season_start_date": "2025-06-16",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 84.81
+    },
+    {
+      "hotel_name": "Hotel Riu Plaza España",
+      "tourist_season_start_date": "2025-05-03",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Full Board (FB)",
+      "meal_price_per_person": 63.32
+    },
+    {
+      "hotel_name": "Hotel Riu Plaza España",
+      "tourist_season_start_date": "2025-05-16",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 67.5
+    },
+    {
+      "hotel_name": "Hotel Riu Plaza España",
+      "tourist_season_start_date": "2025-08-08",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 54.33
+    },
+    {
+      "hotel_name": "Hotel Riu Plaza España",
+      "tourist_season_start_date": "2025-08-08",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Bed & Breakfast (BB)",
+      "meal_price_per_person": 41.83
+    },
+    {
+      "hotel_name": "Hotel Riu Plaza España",
+      "tourist_season_start_date": "2025-08-08",
+      "tourist_season_end_date": "2025-09-28",
+      "meal_type_name": "Room Only (RO)",
+      "meal_price_per_person": 35.56
+    },
+    {
+      "hotel_name": "Only YOU Boutique Hotel Madrid",
+      "tourist_season_start_date": "2025-03-04",
+      "tourist_season_end_date": "2025-03-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 69.4
+    },
+    {
+      "hotel_name": "Only YOU Boutique Hotel Madrid",
+      "tourist_season_start_date": "2025-04-03",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "Half Board (HB)",
+      "meal_price_per_person": 91.02
+    },
+    {
+      "hotel_name": "Only YOU Boutique Hotel Madrid",
+      "tourist_season_start_date": "2025-04-03",
+      "tourist_season_end_date": "2025-05-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 115.96
+    },
+    {
+      "hotel_name": "Only YOU Boutique Hotel Madrid",
+      "tourist_season_start_date": "2025-05-08",
+      "tourist_season_end_date": "2025-06-28",
+      "meal_type_name": "All Inclusive (AI)",
+      "meal_price_per_person": 121.51
+    }
+  ]
+}

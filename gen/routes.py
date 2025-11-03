@@ -287,8 +287,8 @@ for i in range(num_bus_routes):
         "route_number": route_num,
         "bus_trip_duration": str(duration),
         "bus_trip_route_type_name": route_type,
-        "departure_bus_station_name": dep["city_name"],
-        "arrival_bus_station_name": arr["city_name"],
+        "departure_city_name": dep["city_name"],
+        "arrival_city_name": arr["city_name"],
         "bus_company_name": company,
         "departure_time": dep_time.strftime("%H:%M"),
         "arrival_time": arr_time.strftime("%H:%M")
@@ -308,8 +308,8 @@ for i in range(num_flight_routes):
         "route_number": route_num,
         "flight_duration": str(duration),
         "flight_route_type_name": route_type,
-        "departure_airport_name": dep["city_name"],
-        "arrival_airport_name": arr["city_name"],
+        "departure_city_name": dep["city_name"],
+        "arrival_city_name": arr["city_name"],
         "airline_name": company,
         "departure_time": dep_time.strftime("%H:%M"),
         "arrival_time": arr_time.strftime("%H:%M")

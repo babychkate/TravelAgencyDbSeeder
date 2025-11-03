@@ -56,11 +56,11 @@ bus_seasons = []
 flight_seasons = []
 
 for route in bus_routes:
-    city_name = route["arrival_bus_station_name"]
+    city_name = route["arrival_city_name"]
     bus_seasons.extend(generate_seasons_for_route(route["route_number"], city_name))
 
 for route in flight_routes:
-    city_name = route["arrival_airport_name"]
+    city_name = route["arrival_city_name"]
     flight_seasons.extend(generate_seasons_for_route(route["route_number"], city_name))
 
 # --- Збереження ---

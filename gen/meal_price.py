@@ -6,7 +6,7 @@ with open("in/hotels.json", "r", encoding="utf-8") as f:
     hotels = json.load(f)["hotels"]
 
 # --- Завантаження туристичних сезонів ---
-with open("in/tourist_seasons.json", "r", encoding="utf-8") as f:
+with open("out/tourist_seasons.json", "r", encoding="utf-8") as f:
     tourist_seasons = json.load(f)["tourist seasons"]
 
     

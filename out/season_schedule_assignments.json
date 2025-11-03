@@ -1,0 +1,3846 @@
+{
+  "bus assignments": [
+    {
+      "route_number": "R-00001",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "05:23",
+      "schedule_arrival_time": "07:23"
+    },
+    {
+      "route_number": "R-00001",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "05:34",
+      "schedule_arrival_time": "21:11"
+    },
+    {
+      "route_number": "R-00001",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "14:18",
+      "schedule_arrival_time": "18:25"
+    },
+    {
+      "route_number": "R-00001",
+      "season_start_date": "2025-01-03",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "22:30",
+      "schedule_arrival_time": "07:00"
+    },
+    {
+      "route_number": "R-00001",
+      "season_start_date": "2025-01-03",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "05:05",
+      "schedule_arrival_time": "13:50"
+    },
+    {
+      "route_number": "R-00001",
+      "season_start_date": "2025-01-03",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "07:26",
+      "schedule_arrival_time": "05:56"
+    },
+    {
+      "route_number": "R-00002",
+      "season_start_date": "2025-07-27",
+      "season_end_date": "2025-08-25",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "12:51",
+      "schedule_arrival_time": "23:06"
+    },
+    {
+      "route_number": "R-00002",
+      "season_start_date": "2025-07-27",
+      "season_end_date": "2025-08-25",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "09:28",
+      "schedule_arrival_time": "19:43"
+    },
+    {
+      "route_number": "R-00002",
+      "season_start_date": "2025-07-27",
+      "season_end_date": "2025-08-25",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "14:39",
+      "schedule_arrival_time": "05:24"
+    },
+    {
+      "route_number": "R-00002",
+      "season_start_date": "2025-01-27",
+      "season_end_date": "2025-02-24",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "12:36",
+      "schedule_arrival_time": "10:28"
+    },
+    {
+      "route_number": "R-00002",
+      "season_start_date": "2025-01-27",
+      "season_end_date": "2025-02-24",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "08:32",
+      "schedule_arrival_time": "02:39"
+    },
+    {
+      "route_number": "R-00002",
+      "season_start_date": "2025-01-27",
+      "season_end_date": "2025-02-24",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "12:51",
+      "schedule_arrival_time": "23:06"
+    },
+    {
+      "route_number": "R-00003",
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "22:48",
+      "schedule_arrival_time": "09:48"
+    },
+    {
+      "route_number": "R-00003",
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "15:43",
+      "schedule_arrival_time": "04:50"
+    },
+    {
+      "route_number": "R-00003",
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "14:18",
+      "schedule_arrival_time": "18:25"
+    },
+    {
+      "route_number": "R-00003",
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "16:58",
+      "schedule_arrival_time": "14:50"
+    },
+    {
+      "route_number": "R-00003",
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "05:34",
+      "schedule_arrival_time": "21:11"
+    },
+    {
+      "route_number": "R-00003",
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "14:39",
+      "schedule_arrival_time": "05:24"
+    },
+    {
+      "route_number": "R-00004",
+      "season_start_date": "2025-05-12",
+      "season_end_date": "2025-06-13",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "04:31",
+      "schedule_arrival_time": "18:53"
+    },
+    {
+      "route_number": "R-00004",
+      "season_start_date": "2025-05-12",
+      "season_end_date": "2025-06-13",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "04:31",
+      "schedule_arrival_time": "18:53"
+    },
+    {
+      "route_number": "R-00004",
+      "season_start_date": "2025-05-12",
+      "season_end_date": "2025-06-13",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "07:26",
+      "schedule_arrival_time": "05:56"
+    },
+    {
+      "route_number": "R-00004",
+      "season_start_date": "2025-04-04",
+      "season_end_date": "2025-05-06",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "05:05",
+      "schedule_arrival_time": "13:50"
+    },
+    {
+      "route_number": "R-00004",
+      "season_start_date": "2025-04-04",
+      "season_end_date": "2025-05-06",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "15:43",
+      "schedule_arrival_time": "04:50"
+    },
+    {
+      "route_number": "R-00004",
+      "season_start_date": "2025-04-04",
+      "season_end_date": "2025-05-06",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "15:00",
+      "schedule_arrival_time": "05:45"
+    },
+    {
+      "route_number": "R-00005",
+      "season_start_date": "2025-01-10",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "05:34",
+      "schedule_arrival_time": "21:11"
+    },
+    {
+      "route_number": "R-00005",
+      "season_start_date": "2025-01-10",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "00:25",
+      "schedule_arrival_time": "02:40"
+    },
+    {
+      "route_number": "R-00005",
+      "season_start_date": "2025-01-10",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "00:25",
+      "schedule_arrival_time": "02:40"
+    },
+    {
+      "route_number": "R-00005",
+      "season_start_date": "2025-01-10",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "07:26",
+      "schedule_arrival_time": "05:56"
+    },
+    {
+      "route_number": "R-00005",
+      "season_start_date": "2025-01-10",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "14:39",
+      "schedule_arrival_time": "05:24"
+    },
+    {
+      "route_number": "R-00005",
+      "season_start_date": "2025-01-10",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "17:16",
+      "schedule_arrival_time": "00:08"
+    },
+    {
+      "route_number": "R-00006",
+      "season_start_date": "2025-03-04",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "17:48",
+      "schedule_arrival_time": "23:48"
+    },
+    {
+      "route_number": "R-00006",
+      "season_start_date": "2025-03-04",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "07:26",
+      "schedule_arrival_time": "05:56"
+    },
+    {
+      "route_number": "R-00006",
+      "season_start_date": "2025-03-04",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "07:27",
+      "schedule_arrival_time": "12:12"
+    },
+    {
+      "route_number": "R-00006",
+      "season_start_date": "2025-04-08",
+      "season_end_date": "2025-05-09",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "07:26",
+      "schedule_arrival_time": "05:56"
+    },
+    {
+      "route_number": "R-00006",
+      "season_start_date": "2025-04-08",
+      "season_end_date": "2025-05-09",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "14:39",
+      "schedule_arrival_time": "05:24"
+    },
+    {
+      "route_number": "R-00006",
+      "season_start_date": "2025-04-08",
+      "season_end_date": "2025-05-09",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "15:00",
+      "schedule_arrival_time": "05:45"
+    },
+    {
+      "route_number": "R-00007",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "15:42",
+      "schedule_arrival_time": "04:49"
+    },
+    {
+      "route_number": "R-00007",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "12:36",
+      "schedule_arrival_time": "10:28"
+    },
+    {
+      "route_number": "R-00007",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "12:51",
+      "schedule_arrival_time": "23:06"
+    },
+    {
+      "route_number": "R-00007",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "08:32",
+      "schedule_arrival_time": "02:39"
+    },
+    {
+      "route_number": "R-00007",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "14:39",
+      "schedule_arrival_time": "05:24"
+    },
+    {
+      "route_number": "R-00007",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "22:43",
+      "schedule_arrival_time": "00:58"
+    },
+    {
+      "route_number": "R-00008",
+      "season_start_date": "2025-04-15",
+      "season_end_date": "2025-05-15",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "00:25",
+      "schedule_arrival_time": "14:47"
+    },
+    {
+      "route_number": "R-00008",
+      "season_start_date": "2025-04-15",
+      "season_end_date": "2025-05-15",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "07:48",
+      "schedule_arrival_time": "22:10"
+    },
+    {
+      "route_number": "R-00008",
+      "season_start_date": "2025-04-15",
+      "season_end_date": "2025-05-15",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "12:36",
+      "schedule_arrival_time": "10:28"
+    },
+    {
+      "route_number": "R-00008",
+      "season_start_date": "2025-05-06",
+      "season_end_date": "2025-05-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "01:23",
+      "schedule_arrival_time": "22:00"
+    },
+    {
+      "route_number": "R-00008",
+      "season_start_date": "2025-05-06",
+      "season_end_date": "2025-05-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "05:34",
+      "schedule_arrival_time": "21:11"
+    },
+    {
+      "route_number": "R-00008",
+      "season_start_date": "2025-05-06",
+      "season_end_date": "2025-05-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "15:42",
+      "schedule_arrival_time": "04:49"
+    },
+    {
+      "route_number": "R-00009",
+      "season_start_date": "2025-07-11",
+      "season_end_date": "2025-08-10",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "17:48",
+      "schedule_arrival_time": "23:48"
+    },
+    {
+      "route_number": "R-00009",
+      "season_start_date": "2025-07-11",
+      "season_end_date": "2025-08-10",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "14:39",
+      "schedule_arrival_time": "05:24"
+    },
+    {
+      "route_number": "R-00009",
+      "season_start_date": "2025-07-11",
+      "season_end_date": "2025-08-10",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "04:31",
+      "schedule_arrival_time": "18:53"
+    },
+    {
+      "route_number": "R-00009",
+      "season_start_date": "2025-03-22",
+      "season_end_date": "2025-04-22",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "12:26",
+      "schedule_arrival_time": "07:48"
+    },
+    {
+      "route_number": "R-00009",
+      "season_start_date": "2025-03-22",
+      "season_end_date": "2025-04-22",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "05:05",
+      "schedule_arrival_time": "13:50"
+    },
+    {
+      "route_number": "R-00009",
+      "season_start_date": "2025-03-22",
+      "season_end_date": "2025-04-22",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "11:14",
+      "schedule_arrival_time": "15:44"
+    },
+    {
+      "route_number": "R-00010",
+      "season_start_date": "2025-09-27",
+      "season_end_date": "2025-10-27",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "17:48",
+      "schedule_arrival_time": "23:48"
+    },
+    {
+      "route_number": "R-00010",
+      "season_start_date": "2025-09-27",
+      "season_end_date": "2025-10-27",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "15:00",
+      "schedule_arrival_time": "05:45"
+    },
+    {
+      "route_number": "R-00010",
+      "season_start_date": "2025-09-27",
+      "season_end_date": "2025-10-27",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "17:48",
+      "schedule_arrival_time": "23:48"
+    },
+    {
+      "route_number": "R-00010",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "23:28",
+      "schedule_arrival_time": "14:50"
+    },
+    {
+      "route_number": "R-00010",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "17:31",
+      "schedule_arrival_time": "17:53"
+    },
+    {
+      "route_number": "R-00010",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "14:18",
+      "schedule_arrival_time": "18:25"
+    },
+    {
+      "route_number": "R-00011",
+      "season_start_date": "2025-03-18",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "07:27",
+      "schedule_arrival_time": "12:12"
+    },
+    {
+      "route_number": "R-00011",
+      "season_start_date": "2025-03-18",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "05:34",
+      "schedule_arrival_time": "21:11"
+    },
+    {
+      "route_number": "R-00011",
+      "season_start_date": "2025-03-18",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "07:54",
+      "schedule_arrival_time": "10:46"
+    },
+    {
+      "route_number": "R-00011",
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "01:23",
+      "schedule_arrival_time": "22:00"
+    },
+    {
+      "route_number": "R-00011",
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "07:48",
+      "schedule_arrival_time": "22:10"
+    },
+    {
+      "route_number": "R-00011",
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "07:27",
+      "schedule_arrival_time": "12:12"
+    },
+    {
+      "route_number": "R-00012",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "19:59",
+      "schedule_arrival_time": "10:21"
+    },
+    {
+      "route_number": "R-00012",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "07:26",
+      "schedule_arrival_time": "05:56"
+    },
+    {
+      "route_number": "R-00012",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "14:39",
+      "schedule_arrival_time": "05:24"
+    },
+    {
+      "route_number": "R-00012",
+      "season_start_date": "2025-01-28",
+      "season_end_date": "2025-02-27",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "07:48",
+      "schedule_arrival_time": "22:10"
+    },
+    {
+      "route_number": "R-00012",
+      "season_start_date": "2025-01-28",
+      "season_end_date": "2025-02-27",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "05:05",
+      "schedule_arrival_time": "13:50"
+    },
+    {
+      "route_number": "R-00012",
+      "season_start_date": "2025-01-28",
+      "season_end_date": "2025-02-27",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "00:25",
+      "schedule_arrival_time": "14:47"
+    },
+    {
+      "route_number": "R-00013",
+      "season_start_date": "2025-09-22",
+      "season_end_date": "2025-10-24",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "00:25",
+      "schedule_arrival_time": "02:40"
+    },
+    {
+      "route_number": "R-00013",
+      "season_start_date": "2025-09-22",
+      "season_end_date": "2025-10-24",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "05:34",
+      "schedule_arrival_time": "21:11"
+    },
+    {
+      "route_number": "R-00013",
+      "season_start_date": "2025-09-22",
+      "season_end_date": "2025-10-24",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "08:56",
+      "schedule_arrival_time": "10:56"
+    },
+    {
+      "route_number": "R-00013",
+      "season_start_date": "2025-04-11",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "22:30",
+      "schedule_arrival_time": "07:00"
+    },
+    {
+      "route_number": "R-00013",
+      "season_start_date": "2025-04-11",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "15:42",
+      "schedule_arrival_time": "04:49"
+    },
+    {
+      "route_number": "R-00013",
+      "season_start_date": "2025-04-11",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "22:00",
+      "schedule_arrival_time": "19:52"
+    },
+    {
+      "route_number": "R-00014",
+      "season_start_date": "2025-04-24",
+      "season_end_date": "2025-05-24",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "11:14",
+      "schedule_arrival_time": "15:44"
+    },
+    {
+      "route_number": "R-00014",
+      "season_start_date": "2025-04-24",
+      "season_end_date": "2025-05-24",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "07:00",
+      "schedule_arrival_time": "18:00"
+    },
+    {
+      "route_number": "R-00014",
+      "season_start_date": "2025-04-24",
+      "season_end_date": "2025-05-24",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "07:00",
+      "schedule_arrival_time": "18:00"
+    },
+    {
+      "route_number": "R-00014",
+      "season_start_date": "2025-04-22",
+      "season_end_date": "2025-05-20",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "22:48",
+      "schedule_arrival_time": "09:48"
+    },
+    {
+      "route_number": "R-00014",
+      "season_start_date": "2025-04-22",
+      "season_end_date": "2025-05-20",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "08:32",
+      "schedule_arrival_time": "02:39"
+    },
+    {
+      "route_number": "R-00014",
+      "season_start_date": "2025-04-22",
+      "season_end_date": "2025-05-20",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "09:28",
+      "schedule_arrival_time": "19:43"
+    },
+    {
+      "route_number": "R-00015",
+      "season_start_date": "2025-01-19",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "17:16",
+      "schedule_arrival_time": "00:08"
+    },
+    {
+      "route_number": "R-00015",
+      "season_start_date": "2025-01-19",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "21:31",
+      "schedule_arrival_time": "14:46"
+    },
+    {
+      "route_number": "R-00015",
+      "season_start_date": "2025-01-19",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "05:34",
+      "schedule_arrival_time": "21:11"
+    },
+    {
+      "route_number": "R-00015",
+      "season_start_date": "2025-03-23",
+      "season_end_date": "2025-04-21",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "17:48",
+      "schedule_arrival_time": "23:48"
+    },
+    {
+      "route_number": "R-00015",
+      "season_start_date": "2025-03-23",
+      "season_end_date": "2025-04-21",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "03:39",
+      "schedule_arrival_time": "14:39"
+    },
+    {
+      "route_number": "R-00015",
+      "season_start_date": "2025-03-23",
+      "season_end_date": "2025-04-21",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "22:00",
+      "schedule_arrival_time": "19:52"
+    },
+    {
+      "route_number": "R-00016",
+      "season_start_date": "2025-08-23",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "03:55",
+      "schedule_arrival_time": "06:47"
+    },
+    {
+      "route_number": "R-00016",
+      "season_start_date": "2025-08-23",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "12:36",
+      "schedule_arrival_time": "10:28"
+    },
+    {
+      "route_number": "R-00016",
+      "season_start_date": "2025-08-23",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "08:32",
+      "schedule_arrival_time": "02:39"
+    },
+    {
+      "route_number": "R-00016",
+      "season_start_date": "2025-01-21",
+      "season_end_date": "2025-02-18",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "01:23",
+      "schedule_arrival_time": "22:00"
+    },
+    {
+      "route_number": "R-00016",
+      "season_start_date": "2025-01-21",
+      "season_end_date": "2025-02-18",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "03:38",
+      "schedule_arrival_time": "19:15"
+    },
+    {
+      "route_number": "R-00016",
+      "season_start_date": "2025-01-21",
+      "season_end_date": "2025-02-18",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "09:28",
+      "schedule_arrival_time": "19:43"
+    },
+    {
+      "route_number": "R-00017",
+      "season_start_date": "2025-01-19",
+      "season_end_date": "2025-02-18",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "08:56",
+      "schedule_arrival_time": "10:56"
+    },
+    {
+      "route_number": "R-00017",
+      "season_start_date": "2025-01-19",
+      "season_end_date": "2025-02-18",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "01:39",
+      "schedule_arrival_time": "16:24"
+    },
+    {
+      "route_number": "R-00017",
+      "season_start_date": "2025-01-19",
+      "season_end_date": "2025-02-18",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "14:39",
+      "schedule_arrival_time": "05:24"
+    },
+    {
+      "route_number": "R-00017",
+      "season_start_date": "2025-08-23",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "00:25",
+      "schedule_arrival_time": "02:40"
+    },
+    {
+      "route_number": "R-00017",
+      "season_start_date": "2025-08-23",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "22:48",
+      "schedule_arrival_time": "09:48"
+    },
+    {
+      "route_number": "R-00017",
+      "season_start_date": "2025-08-23",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "15:00",
+      "schedule_arrival_time": "05:45"
+    },
+    {
+      "route_number": "R-00018",
+      "season_start_date": "2025-04-27",
+      "season_end_date": "2025-05-26",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "00:25",
+      "schedule_arrival_time": "02:40"
+    },
+    {
+      "route_number": "R-00018",
+      "season_start_date": "2025-04-27",
+      "season_end_date": "2025-05-26",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "12:26",
+      "schedule_arrival_time": "07:48"
+    },
+    {
+      "route_number": "R-00018",
+      "season_start_date": "2025-04-27",
+      "season_end_date": "2025-05-26",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "05:05",
+      "schedule_arrival_time": "13:50"
+    },
+    {
+      "route_number": "R-00018",
+      "season_start_date": "2025-04-23",
+      "season_end_date": "2025-05-24",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "08:32",
+      "schedule_arrival_time": "02:39"
+    },
+    {
+      "route_number": "R-00018",
+      "season_start_date": "2025-04-23",
+      "season_end_date": "2025-05-24",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "07:27",
+      "schedule_arrival_time": "12:12"
+    },
+    {
+      "route_number": "R-00018",
+      "season_start_date": "2025-04-23",
+      "season_end_date": "2025-05-24",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "07:00",
+      "schedule_arrival_time": "18:00"
+    },
+    {
+      "route_number": "R-00019",
+      "season_start_date": "2025-02-13",
+      "season_end_date": "2025-03-15",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "09:28",
+      "schedule_arrival_time": "19:43"
+    },
+    {
+      "route_number": "R-00019",
+      "season_start_date": "2025-02-13",
+      "season_end_date": "2025-03-15",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "15:42",
+      "schedule_arrival_time": "04:49"
+    },
+    {
+      "route_number": "R-00019",
+      "season_start_date": "2025-02-13",
+      "season_end_date": "2025-03-15",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "22:48",
+      "schedule_arrival_time": "09:48"
+    },
+    {
+      "route_number": "R-00019",
+      "season_start_date": "2025-10-08",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "03:39",
+      "schedule_arrival_time": "14:39"
+    },
+    {
+      "route_number": "R-00019",
+      "season_start_date": "2025-10-08",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "04:31",
+      "schedule_arrival_time": "18:53"
+    },
+    {
+      "route_number": "R-00019",
+      "season_start_date": "2025-10-08",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "07:27",
+      "schedule_arrival_time": "12:12"
+    },
+    {
+      "route_number": "R-00020",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "23:28",
+      "schedule_arrival_time": "14:50"
+    },
+    {
+      "route_number": "R-00020",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "21:31",
+      "schedule_arrival_time": "14:46"
+    },
+    {
+      "route_number": "R-00020",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "09:28",
+      "schedule_arrival_time": "19:43"
+    },
+    {
+      "route_number": "R-00020",
+      "season_start_date": "2025-03-30",
+      "season_end_date": "2025-04-27",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "19:59",
+      "schedule_arrival_time": "10:21"
+    },
+    {
+      "route_number": "R-00020",
+      "season_start_date": "2025-03-30",
+      "season_end_date": "2025-04-27",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "08:32",
+      "schedule_arrival_time": "02:39"
+    },
+    {
+      "route_number": "R-00020",
+      "season_start_date": "2025-03-30",
+      "season_end_date": "2025-04-27",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "07:26",
+      "schedule_arrival_time": "05:56"
+    },
+    {
+      "route_number": "R-00021",
+      "season_start_date": "2025-08-23",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "07:00",
+      "schedule_arrival_time": "18:00"
+    },
+    {
+      "route_number": "R-00021",
+      "season_start_date": "2025-08-23",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "15:00",
+      "schedule_arrival_time": "05:45"
+    },
+    {
+      "route_number": "R-00021",
+      "season_start_date": "2025-08-23",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "12:26",
+      "schedule_arrival_time": "07:48"
+    },
+    {
+      "route_number": "R-00021",
+      "season_start_date": "2025-01-22",
+      "season_end_date": "2025-02-23",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "11:14",
+      "schedule_arrival_time": "15:44"
+    },
+    {
+      "route_number": "R-00021",
+      "season_start_date": "2025-01-22",
+      "season_end_date": "2025-02-23",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "22:00",
+      "schedule_arrival_time": "19:52"
+    },
+    {
+      "route_number": "R-00021",
+      "season_start_date": "2025-01-22",
+      "season_end_date": "2025-02-23",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "23:28",
+      "schedule_arrival_time": "14:50"
+    },
+    {
+      "route_number": "R-00022",
+      "season_start_date": "2025-10-24",
+      "season_end_date": "2025-11-23",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "19:59",
+      "schedule_arrival_time": "10:21"
+    },
+    {
+      "route_number": "R-00022",
+      "season_start_date": "2025-10-24",
+      "season_end_date": "2025-11-23",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "19:59",
+      "schedule_arrival_time": "10:21"
+    },
+    {
+      "route_number": "R-00022",
+      "season_start_date": "2025-10-24",
+      "season_end_date": "2025-11-23",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "17:31",
+      "schedule_arrival_time": "17:53"
+    },
+    {
+      "route_number": "R-00022",
+      "season_start_date": "2025-03-25",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "19:59",
+      "schedule_arrival_time": "10:21"
+    },
+    {
+      "route_number": "R-00022",
+      "season_start_date": "2025-03-25",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "03:39",
+      "schedule_arrival_time": "14:39"
+    },
+    {
+      "route_number": "R-00022",
+      "season_start_date": "2025-03-25",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "09:28",
+      "schedule_arrival_time": "19:43"
+    },
+    {
+      "route_number": "R-00023",
+      "season_start_date": "2025-07-07",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "07:27",
+      "schedule_arrival_time": "12:12"
+    },
+    {
+      "route_number": "R-00023",
+      "season_start_date": "2025-07-07",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "14:39",
+      "schedule_arrival_time": "05:24"
+    },
+    {
+      "route_number": "R-00023",
+      "season_start_date": "2025-07-07",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "11:14",
+      "schedule_arrival_time": "15:44"
+    },
+    {
+      "route_number": "R-00023",
+      "season_start_date": "2025-06-25",
+      "season_end_date": "2025-06-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "03:39",
+      "schedule_arrival_time": "14:39"
+    },
+    {
+      "route_number": "R-00023",
+      "season_start_date": "2025-06-25",
+      "season_end_date": "2025-06-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "05:05",
+      "schedule_arrival_time": "13:50"
+    },
+    {
+      "route_number": "R-00023",
+      "season_start_date": "2025-06-25",
+      "season_end_date": "2025-06-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "04:31",
+      "schedule_arrival_time": "18:53"
+    },
+    {
+      "route_number": "R-00024",
+      "season_start_date": "2025-09-27",
+      "season_end_date": "2025-10-27",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "07:48",
+      "schedule_arrival_time": "22:10"
+    },
+    {
+      "route_number": "R-00024",
+      "season_start_date": "2025-09-27",
+      "season_end_date": "2025-10-27",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "08:32",
+      "schedule_arrival_time": "02:39"
+    },
+    {
+      "route_number": "R-00024",
+      "season_start_date": "2025-09-27",
+      "season_end_date": "2025-10-27",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "14:39",
+      "schedule_arrival_time": "05:24"
+    },
+    {
+      "route_number": "R-00024",
+      "season_start_date": "2025-09-24",
+      "season_end_date": "2025-10-25",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "15:42",
+      "schedule_arrival_time": "04:49"
+    },
+    {
+      "route_number": "R-00024",
+      "season_start_date": "2025-09-24",
+      "season_end_date": "2025-10-25",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "20:55",
+      "schedule_arrival_time": "06:40"
+    },
+    {
+      "route_number": "R-00024",
+      "season_start_date": "2025-09-24",
+      "season_end_date": "2025-10-25",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "03:38",
+      "schedule_arrival_time": "19:15"
+    },
+    {
+      "route_number": "R-00025",
+      "season_start_date": "2025-08-23",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "12:51",
+      "schedule_arrival_time": "23:06"
+    },
+    {
+      "route_number": "R-00025",
+      "season_start_date": "2025-08-23",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "20:55",
+      "schedule_arrival_time": "06:40"
+    },
+    {
+      "route_number": "R-00025",
+      "season_start_date": "2025-08-23",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "07:48",
+      "schedule_arrival_time": "22:10"
+    },
+    {
+      "route_number": "R-00025",
+      "season_start_date": "2025-09-01",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "17:48",
+      "schedule_arrival_time": "23:48"
+    },
+    {
+      "route_number": "R-00025",
+      "season_start_date": "2025-09-01",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "14:39",
+      "schedule_arrival_time": "05:24"
+    },
+    {
+      "route_number": "R-00025",
+      "season_start_date": "2025-09-01",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "23:28",
+      "schedule_arrival_time": "14:50"
+    },
+    {
+      "route_number": "R-00026",
+      "season_start_date": "2025-08-16",
+      "season_end_date": "2025-09-13",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "03:38",
+      "schedule_arrival_time": "19:15"
+    },
+    {
+      "route_number": "R-00026",
+      "season_start_date": "2025-08-16",
+      "season_end_date": "2025-09-13",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "17:31",
+      "schedule_arrival_time": "17:53"
+    },
+    {
+      "route_number": "R-00026",
+      "season_start_date": "2025-08-16",
+      "season_end_date": "2025-09-13",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "00:25",
+      "schedule_arrival_time": "02:40"
+    },
+    {
+      "route_number": "R-00026",
+      "season_start_date": "2025-03-17",
+      "season_end_date": "2025-04-15",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "23:28",
+      "schedule_arrival_time": "14:50"
+    },
+    {
+      "route_number": "R-00026",
+      "season_start_date": "2025-03-17",
+      "season_end_date": "2025-04-15",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "22:43",
+      "schedule_arrival_time": "00:58"
+    },
+    {
+      "route_number": "R-00026",
+      "season_start_date": "2025-03-17",
+      "season_end_date": "2025-04-15",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "12:36",
+      "schedule_arrival_time": "10:28"
+    },
+    {
+      "route_number": "R-00027",
+      "season_start_date": "2025-01-18",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "03:38",
+      "schedule_arrival_time": "19:15"
+    },
+    {
+      "route_number": "R-00027",
+      "season_start_date": "2025-01-18",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "22:43",
+      "schedule_arrival_time": "00:58"
+    },
+    {
+      "route_number": "R-00027",
+      "season_start_date": "2025-01-18",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "09:28",
+      "schedule_arrival_time": "19:43"
+    },
+    {
+      "route_number": "R-00027",
+      "season_start_date": "2025-04-10",
+      "season_end_date": "2025-05-09",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "08:56",
+      "schedule_arrival_time": "10:56"
+    },
+    {
+      "route_number": "R-00027",
+      "season_start_date": "2025-04-10",
+      "season_end_date": "2025-05-09",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "03:38",
+      "schedule_arrival_time": "19:15"
+    },
+    {
+      "route_number": "R-00027",
+      "season_start_date": "2025-04-10",
+      "season_end_date": "2025-05-09",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "12:51",
+      "schedule_arrival_time": "23:06"
+    },
+    {
+      "route_number": "R-00028",
+      "season_start_date": "2025-05-23",
+      "season_end_date": "2025-06-22",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "19:59",
+      "schedule_arrival_time": "10:21"
+    },
+    {
+      "route_number": "R-00028",
+      "season_start_date": "2025-05-23",
+      "season_end_date": "2025-06-22",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "22:43",
+      "schedule_arrival_time": "00:58"
+    },
+    {
+      "route_number": "R-00028",
+      "season_start_date": "2025-05-23",
+      "season_end_date": "2025-06-22",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "16:58",
+      "schedule_arrival_time": "14:50"
+    },
+    {
+      "route_number": "R-00028",
+      "season_start_date": "2025-08-24",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "04:31",
+      "schedule_arrival_time": "18:53"
+    },
+    {
+      "route_number": "R-00028",
+      "season_start_date": "2025-08-24",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "14:18",
+      "schedule_arrival_time": "18:25"
+    },
+    {
+      "route_number": "R-00028",
+      "season_start_date": "2025-08-24",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "16:58",
+      "schedule_arrival_time": "14:50"
+    },
+    {
+      "route_number": "R-00029",
+      "season_start_date": "2026-03-19",
+      "season_end_date": "2026-04-20",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "07:48",
+      "schedule_arrival_time": "22:10"
+    },
+    {
+      "route_number": "R-00029",
+      "season_start_date": "2026-03-19",
+      "season_end_date": "2026-04-20",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "22:48",
+      "schedule_arrival_time": "09:48"
+    },
+    {
+      "route_number": "R-00029",
+      "season_start_date": "2026-03-19",
+      "season_end_date": "2026-04-20",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "21:31",
+      "schedule_arrival_time": "14:46"
+    },
+    {
+      "route_number": "R-00029",
+      "season_start_date": "2026-08-20",
+      "season_end_date": "2026-09-19",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "01:39",
+      "schedule_arrival_time": "16:24"
+    },
+    {
+      "route_number": "R-00029",
+      "season_start_date": "2026-08-20",
+      "season_end_date": "2026-09-19",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "03:39",
+      "schedule_arrival_time": "14:39"
+    },
+    {
+      "route_number": "R-00029",
+      "season_start_date": "2026-08-20",
+      "season_end_date": "2026-09-19",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "00:25",
+      "schedule_arrival_time": "02:40"
+    },
+    {
+      "route_number": "R-00030",
+      "season_start_date": "2025-04-24",
+      "season_end_date": "2025-05-26",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "07:54",
+      "schedule_arrival_time": "10:46"
+    },
+    {
+      "route_number": "R-00030",
+      "season_start_date": "2025-04-24",
+      "season_end_date": "2025-05-26",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "04:31",
+      "schedule_arrival_time": "18:53"
+    },
+    {
+      "route_number": "R-00030",
+      "season_start_date": "2025-04-24",
+      "season_end_date": "2025-05-26",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "19:59",
+      "schedule_arrival_time": "10:21"
+    },
+    {
+      "route_number": "R-00030",
+      "season_start_date": "2025-03-18",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "17:31",
+      "schedule_arrival_time": "17:53"
+    },
+    {
+      "route_number": "R-00030",
+      "season_start_date": "2025-03-18",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "09:28",
+      "schedule_arrival_time": "19:43"
+    },
+    {
+      "route_number": "R-00030",
+      "season_start_date": "2025-03-18",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "00:25",
+      "schedule_arrival_time": "14:47"
+    },
+    {
+      "route_number": "R-00031",
+      "season_start_date": "2025-03-05",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "05:23",
+      "schedule_arrival_time": "07:23"
+    },
+    {
+      "route_number": "R-00031",
+      "season_start_date": "2025-03-05",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "12:36",
+      "schedule_arrival_time": "10:28"
+    },
+    {
+      "route_number": "R-00031",
+      "season_start_date": "2025-03-05",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "08:32",
+      "schedule_arrival_time": "02:39"
+    },
+    {
+      "route_number": "R-00031",
+      "season_start_date": "2025-09-18",
+      "season_end_date": "2025-10-17",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "08:56",
+      "schedule_arrival_time": "10:56"
+    },
+    {
+      "route_number": "R-00031",
+      "season_start_date": "2025-09-18",
+      "season_end_date": "2025-10-17",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "11:14",
+      "schedule_arrival_time": "15:44"
+    },
+    {
+      "route_number": "R-00031",
+      "season_start_date": "2025-09-18",
+      "season_end_date": "2025-10-17",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "15:43",
+      "schedule_arrival_time": "04:50"
+    },
+    {
+      "route_number": "R-00032",
+      "season_start_date": "2025-01-06",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "07:00",
+      "schedule_arrival_time": "18:00"
+    },
+    {
+      "route_number": "R-00032",
+      "season_start_date": "2025-01-06",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "20:55",
+      "schedule_arrival_time": "06:40"
+    },
+    {
+      "route_number": "R-00032",
+      "season_start_date": "2025-01-06",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "19:59",
+      "schedule_arrival_time": "10:21"
+    },
+    {
+      "route_number": "R-00032",
+      "season_start_date": "2025-07-28",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "03:38",
+      "schedule_arrival_time": "19:15"
+    },
+    {
+      "route_number": "R-00032",
+      "season_start_date": "2025-07-28",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "03:39",
+      "schedule_arrival_time": "14:39"
+    },
+    {
+      "route_number": "R-00032",
+      "season_start_date": "2025-07-28",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "07:48",
+      "schedule_arrival_time": "22:10"
+    },
+    {
+      "route_number": "R-00033",
+      "season_start_date": "2025-06-24",
+      "season_end_date": "2025-07-26",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "03:39",
+      "schedule_arrival_time": "14:39"
+    },
+    {
+      "route_number": "R-00033",
+      "season_start_date": "2025-06-24",
+      "season_end_date": "2025-07-26",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "19:59",
+      "schedule_arrival_time": "10:21"
+    },
+    {
+      "route_number": "R-00033",
+      "season_start_date": "2025-06-24",
+      "season_end_date": "2025-07-26",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "09:28",
+      "schedule_arrival_time": "19:43"
+    },
+    {
+      "route_number": "R-00033",
+      "season_start_date": "2025-02-24",
+      "season_end_date": "2025-03-24",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "17:16",
+      "schedule_arrival_time": "00:08"
+    },
+    {
+      "route_number": "R-00033",
+      "season_start_date": "2025-02-24",
+      "season_end_date": "2025-03-24",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "17:48",
+      "schedule_arrival_time": "23:48"
+    },
+    {
+      "route_number": "R-00033",
+      "season_start_date": "2025-02-24",
+      "season_end_date": "2025-03-24",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "12:26",
+      "schedule_arrival_time": "07:48"
+    },
+    {
+      "route_number": "R-00034",
+      "season_start_date": "2025-04-24",
+      "season_end_date": "2025-05-24",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "03:55",
+      "schedule_arrival_time": "06:47"
+    },
+    {
+      "route_number": "R-00034",
+      "season_start_date": "2025-04-24",
+      "season_end_date": "2025-05-24",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "17:31",
+      "schedule_arrival_time": "17:53"
+    },
+    {
+      "route_number": "R-00034",
+      "season_start_date": "2025-04-24",
+      "season_end_date": "2025-05-24",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "07:48",
+      "schedule_arrival_time": "22:10"
+    },
+    {
+      "route_number": "R-00034",
+      "season_start_date": "2025-07-04",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "22:48",
+      "schedule_arrival_time": "09:48"
+    },
+    {
+      "route_number": "R-00034",
+      "season_start_date": "2025-07-04",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "20:55",
+      "schedule_arrival_time": "06:40"
+    },
+    {
+      "route_number": "R-00034",
+      "season_start_date": "2025-07-04",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "12:36",
+      "schedule_arrival_time": "10:28"
+    },
+    {
+      "route_number": "R-00035",
+      "season_start_date": "2025-06-25",
+      "season_end_date": "2025-06-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "05:05",
+      "schedule_arrival_time": "13:50"
+    },
+    {
+      "route_number": "R-00035",
+      "season_start_date": "2025-06-25",
+      "season_end_date": "2025-06-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "17:48",
+      "schedule_arrival_time": "23:48"
+    },
+    {
+      "route_number": "R-00035",
+      "season_start_date": "2025-06-25",
+      "season_end_date": "2025-06-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "22:30",
+      "schedule_arrival_time": "07:00"
+    },
+    {
+      "route_number": "R-00035",
+      "season_start_date": "2025-07-07",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "00:25",
+      "schedule_arrival_time": "02:40"
+    },
+    {
+      "route_number": "R-00035",
+      "season_start_date": "2025-07-07",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "16:58",
+      "schedule_arrival_time": "14:50"
+    },
+    {
+      "route_number": "R-00035",
+      "season_start_date": "2025-07-07",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "00:25",
+      "schedule_arrival_time": "02:40"
+    },
+    {
+      "route_number": "R-00036",
+      "season_start_date": "2025-01-23",
+      "season_end_date": "2025-02-21",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "07:00",
+      "schedule_arrival_time": "18:00"
+    },
+    {
+      "route_number": "R-00036",
+      "season_start_date": "2025-01-23",
+      "season_end_date": "2025-02-21",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "12:51",
+      "schedule_arrival_time": "23:06"
+    },
+    {
+      "route_number": "R-00036",
+      "season_start_date": "2025-01-23",
+      "season_end_date": "2025-02-21",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "04:31",
+      "schedule_arrival_time": "18:53"
+    },
+    {
+      "route_number": "R-00036",
+      "season_start_date": "2025-01-27",
+      "season_end_date": "2025-02-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "07:00",
+      "schedule_arrival_time": "18:00"
+    },
+    {
+      "route_number": "R-00036",
+      "season_start_date": "2025-01-27",
+      "season_end_date": "2025-02-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "01:23",
+      "schedule_arrival_time": "22:00"
+    },
+    {
+      "route_number": "R-00036",
+      "season_start_date": "2025-01-27",
+      "season_end_date": "2025-02-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "16:58",
+      "schedule_arrival_time": "14:50"
+    },
+    {
+      "route_number": "R-00037",
+      "season_start_date": "2025-05-06",
+      "season_end_date": "2025-05-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "05:05",
+      "schedule_arrival_time": "13:50"
+    },
+    {
+      "route_number": "R-00037",
+      "season_start_date": "2025-05-06",
+      "season_end_date": "2025-05-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "23:28",
+      "schedule_arrival_time": "14:50"
+    },
+    {
+      "route_number": "R-00037",
+      "season_start_date": "2025-05-06",
+      "season_end_date": "2025-05-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "20:55",
+      "schedule_arrival_time": "06:40"
+    },
+    {
+      "route_number": "R-00037",
+      "season_start_date": "2025-04-23",
+      "season_end_date": "2025-05-24",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "08:32",
+      "schedule_arrival_time": "02:39"
+    },
+    {
+      "route_number": "R-00037",
+      "season_start_date": "2025-04-23",
+      "season_end_date": "2025-05-24",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "15:00",
+      "schedule_arrival_time": "05:45"
+    },
+    {
+      "route_number": "R-00037",
+      "season_start_date": "2025-04-23",
+      "season_end_date": "2025-05-24",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "12:51",
+      "schedule_arrival_time": "23:06"
+    },
+    {
+      "route_number": "R-00038",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "05:34",
+      "schedule_arrival_time": "21:11"
+    },
+    {
+      "route_number": "R-00038",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "08:56",
+      "schedule_arrival_time": "10:56"
+    },
+    {
+      "route_number": "R-00038",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "01:39",
+      "schedule_arrival_time": "16:24"
+    },
+    {
+      "route_number": "R-00038",
+      "season_start_date": "2025-10-02",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "22:00",
+      "schedule_arrival_time": "19:52"
+    },
+    {
+      "route_number": "R-00038",
+      "season_start_date": "2025-10-02",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "07:26",
+      "schedule_arrival_time": "05:56"
+    },
+    {
+      "route_number": "R-00038",
+      "season_start_date": "2025-10-02",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "17:48",
+      "schedule_arrival_time": "23:48"
+    },
+    {
+      "route_number": "R-00039",
+      "season_start_date": "2025-01-10",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "17:48",
+      "schedule_arrival_time": "23:48"
+    },
+    {
+      "route_number": "R-00039",
+      "season_start_date": "2025-01-10",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "12:51",
+      "schedule_arrival_time": "23:06"
+    },
+    {
+      "route_number": "R-00039",
+      "season_start_date": "2025-01-10",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "08:32",
+      "schedule_arrival_time": "02:39"
+    },
+    {
+      "route_number": "R-00039",
+      "season_start_date": "2025-02-16",
+      "season_end_date": "2025-02-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "12:51",
+      "schedule_arrival_time": "23:06"
+    },
+    {
+      "route_number": "R-00039",
+      "season_start_date": "2025-02-16",
+      "season_end_date": "2025-02-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "05:34",
+      "schedule_arrival_time": "21:11"
+    },
+    {
+      "route_number": "R-00039",
+      "season_start_date": "2025-02-16",
+      "season_end_date": "2025-02-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "22:48",
+      "schedule_arrival_time": "09:48"
+    },
+    {
+      "route_number": "R-00040",
+      "season_start_date": "2025-02-15",
+      "season_end_date": "2025-03-16",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "23:28",
+      "schedule_arrival_time": "14:50"
+    },
+    {
+      "route_number": "R-00040",
+      "season_start_date": "2025-02-15",
+      "season_end_date": "2025-03-16",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "20:55",
+      "schedule_arrival_time": "06:40"
+    },
+    {
+      "route_number": "R-00040",
+      "season_start_date": "2025-02-15",
+      "season_end_date": "2025-03-16",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "21:31",
+      "schedule_arrival_time": "14:46"
+    },
+    {
+      "route_number": "R-00040",
+      "season_start_date": "2025-10-08",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "22:00",
+      "schedule_arrival_time": "19:52"
+    },
+    {
+      "route_number": "R-00040",
+      "season_start_date": "2025-10-08",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "15:43",
+      "schedule_arrival_time": "04:50"
+    },
+    {
+      "route_number": "R-00040",
+      "season_start_date": "2025-10-08",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "05:05",
+      "schedule_arrival_time": "13:50"
+    }
+  ],
+  "flight assignments": [
+    {
+      "route_number": "F-00001",
+      "season_start_date": "2025-07-07",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "14:05",
+      "schedule_arrival_time": "16:26"
+    },
+    {
+      "route_number": "F-00001",
+      "season_start_date": "2025-07-07",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "04:50",
+      "schedule_arrival_time": "08:32"
+    },
+    {
+      "route_number": "F-00001",
+      "season_start_date": "2025-07-07",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "05:38",
+      "schedule_arrival_time": "06:39"
+    },
+    {
+      "route_number": "F-00001",
+      "season_start_date": "2025-06-25",
+      "season_end_date": "2025-06-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "19:14",
+      "schedule_arrival_time": "19:19"
+    },
+    {
+      "route_number": "F-00001",
+      "season_start_date": "2025-06-25",
+      "season_end_date": "2025-06-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "18:41",
+      "schedule_arrival_time": "00:23"
+    },
+    {
+      "route_number": "F-00001",
+      "season_start_date": "2025-06-25",
+      "season_end_date": "2025-06-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "18:36",
+      "schedule_arrival_time": "21:18"
+    },
+    {
+      "route_number": "F-00002",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-10-25",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "15:25",
+      "schedule_arrival_time": "22:25"
+    },
+    {
+      "route_number": "F-00002",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-10-25",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "06:15",
+      "schedule_arrival_time": "08:32"
+    },
+    {
+      "route_number": "F-00002",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-10-25",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "13:46",
+      "schedule_arrival_time": "18:54"
+    },
+    {
+      "route_number": "F-00002",
+      "season_start_date": "2025-02-16",
+      "season_end_date": "2025-02-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "11:46",
+      "schedule_arrival_time": "13:18"
+    },
+    {
+      "route_number": "F-00002",
+      "season_start_date": "2025-02-16",
+      "season_end_date": "2025-02-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "18:21",
+      "schedule_arrival_time": "21:12"
+    },
+    {
+      "route_number": "F-00002",
+      "season_start_date": "2025-02-16",
+      "season_end_date": "2025-02-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "22:27",
+      "schedule_arrival_time": "00:14"
+    },
+    {
+      "route_number": "F-00003",
+      "season_start_date": "2025-02-20",
+      "season_end_date": "2025-03-20",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "18:41",
+      "schedule_arrival_time": "00:23"
+    },
+    {
+      "route_number": "F-00003",
+      "season_start_date": "2025-02-20",
+      "season_end_date": "2025-03-20",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "16:07",
+      "schedule_arrival_time": "19:58"
+    },
+    {
+      "route_number": "F-00003",
+      "season_start_date": "2025-02-20",
+      "season_end_date": "2025-03-20",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "12:09",
+      "schedule_arrival_time": "17:09"
+    },
+    {
+      "route_number": "F-00003",
+      "season_start_date": "2025-08-29",
+      "season_end_date": "2025-09-27",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "16:07",
+      "schedule_arrival_time": "19:58"
+    },
+    {
+      "route_number": "F-00003",
+      "season_start_date": "2025-08-29",
+      "season_end_date": "2025-09-27",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "17:14",
+      "schedule_arrival_time": "22:01"
+    },
+    {
+      "route_number": "F-00003",
+      "season_start_date": "2025-08-29",
+      "season_end_date": "2025-09-27",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "02:52",
+      "schedule_arrival_time": "03:43"
+    },
+    {
+      "route_number": "F-00004",
+      "season_start_date": "2025-08-15",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "16:07",
+      "schedule_arrival_time": "19:58"
+    },
+    {
+      "route_number": "F-00004",
+      "season_start_date": "2025-08-15",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "22:27",
+      "schedule_arrival_time": "00:14"
+    },
+    {
+      "route_number": "F-00004",
+      "season_start_date": "2025-08-15",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "04:50",
+      "schedule_arrival_time": "08:32"
+    },
+    {
+      "route_number": "F-00004",
+      "season_start_date": "2025-03-25",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "15:25",
+      "schedule_arrival_time": "22:25"
+    },
+    {
+      "route_number": "F-00004",
+      "season_start_date": "2025-03-25",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "19:14",
+      "schedule_arrival_time": "19:19"
+    },
+    {
+      "route_number": "F-00004",
+      "season_start_date": "2025-03-25",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "11:46",
+      "schedule_arrival_time": "13:18"
+    },
+    {
+      "route_number": "F-00005",
+      "season_start_date": "2025-10-08",
+      "season_end_date": "2025-11-05",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "18:41",
+      "schedule_arrival_time": "00:23"
+    },
+    {
+      "route_number": "F-00005",
+      "season_start_date": "2025-10-08",
+      "season_end_date": "2025-11-05",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "11:52",
+      "schedule_arrival_time": "14:00"
+    },
+    {
+      "route_number": "F-00005",
+      "season_start_date": "2025-10-08",
+      "season_end_date": "2025-11-05",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "11:56",
+      "schedule_arrival_time": "13:43"
+    },
+    {
+      "route_number": "F-00005",
+      "season_start_date": "2025-08-21",
+      "season_end_date": "2025-09-20",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "21:41",
+      "schedule_arrival_time": "01:11"
+    },
+    {
+      "route_number": "F-00005",
+      "season_start_date": "2025-08-21",
+      "season_end_date": "2025-09-20",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "16:07",
+      "schedule_arrival_time": "19:58"
+    },
+    {
+      "route_number": "F-00005",
+      "season_start_date": "2025-08-21",
+      "season_end_date": "2025-09-20",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "18:21",
+      "schedule_arrival_time": "21:12"
+    },
+    {
+      "route_number": "F-00006",
+      "season_start_date": "2025-03-24",
+      "season_end_date": "2025-04-25",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "04:43",
+      "schedule_arrival_time": "05:55"
+    },
+    {
+      "route_number": "F-00006",
+      "season_start_date": "2025-03-24",
+      "season_end_date": "2025-04-25",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "13:43",
+      "schedule_arrival_time": "17:00"
+    },
+    {
+      "route_number": "F-00006",
+      "season_start_date": "2025-03-24",
+      "season_end_date": "2025-04-25",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "15:36",
+      "schedule_arrival_time": "17:10"
+    },
+    {
+      "route_number": "F-00006",
+      "season_start_date": "2025-01-19",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "04:58",
+      "schedule_arrival_time": "07:32"
+    },
+    {
+      "route_number": "F-00006",
+      "season_start_date": "2025-01-19",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "12:09",
+      "schedule_arrival_time": "17:09"
+    },
+    {
+      "route_number": "F-00006",
+      "season_start_date": "2025-01-19",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "06:52",
+      "schedule_arrival_time": "10:04"
+    },
+    {
+      "route_number": "F-00007",
+      "season_start_date": "2025-02-16",
+      "season_end_date": "2025-02-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "14:05",
+      "schedule_arrival_time": "16:26"
+    },
+    {
+      "route_number": "F-00007",
+      "season_start_date": "2025-02-16",
+      "season_end_date": "2025-02-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "18:36",
+      "schedule_arrival_time": "21:18"
+    },
+    {
+      "route_number": "F-00007",
+      "season_start_date": "2025-02-16",
+      "season_end_date": "2025-02-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "18:21",
+      "schedule_arrival_time": "21:12"
+    },
+    {
+      "route_number": "F-00007",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "05:38",
+      "schedule_arrival_time": "06:39"
+    },
+    {
+      "route_number": "F-00007",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "03:07",
+      "schedule_arrival_time": "04:41"
+    },
+    {
+      "route_number": "F-00007",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "21:41",
+      "schedule_arrival_time": "01:11"
+    },
+    {
+      "route_number": "F-00008",
+      "season_start_date": "2025-03-23",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "18:41",
+      "schedule_arrival_time": "00:23"
+    },
+    {
+      "route_number": "F-00008",
+      "season_start_date": "2025-03-23",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "10:10",
+      "schedule_arrival_time": "11:59"
+    },
+    {
+      "route_number": "F-00008",
+      "season_start_date": "2025-03-23",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "05:38",
+      "schedule_arrival_time": "06:39"
+    },
+    {
+      "route_number": "F-00008",
+      "season_start_date": "2025-08-15",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "19:14",
+      "schedule_arrival_time": "19:19"
+    },
+    {
+      "route_number": "F-00008",
+      "season_start_date": "2025-08-15",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "15:36",
+      "schedule_arrival_time": "17:10"
+    },
+    {
+      "route_number": "F-00008",
+      "season_start_date": "2025-08-15",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "14:48",
+      "schedule_arrival_time": "20:48"
+    },
+    {
+      "route_number": "F-00009",
+      "season_start_date": "2025-04-06",
+      "season_end_date": "2025-05-06",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "12:09",
+      "schedule_arrival_time": "17:09"
+    },
+    {
+      "route_number": "F-00009",
+      "season_start_date": "2025-04-06",
+      "season_end_date": "2025-05-06",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "14:48",
+      "schedule_arrival_time": "20:48"
+    },
+    {
+      "route_number": "F-00009",
+      "season_start_date": "2025-04-06",
+      "season_end_date": "2025-05-06",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "09:15",
+      "schedule_arrival_time": "14:57"
+    },
+    {
+      "route_number": "F-00009",
+      "season_start_date": "2025-04-26",
+      "season_end_date": "2025-05-27",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "03:07",
+      "schedule_arrival_time": "04:41"
+    },
+    {
+      "route_number": "F-00009",
+      "season_start_date": "2025-04-26",
+      "season_end_date": "2025-05-27",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "16:15",
+      "schedule_arrival_time": "22:57"
+    },
+    {
+      "route_number": "F-00009",
+      "season_start_date": "2025-04-26",
+      "season_end_date": "2025-05-27",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "18:06",
+      "schedule_arrival_time": "20:23"
+    },
+    {
+      "route_number": "F-00010",
+      "season_start_date": "2025-03-23",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "03:07",
+      "schedule_arrival_time": "04:41"
+    },
+    {
+      "route_number": "F-00010",
+      "season_start_date": "2025-03-23",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "11:56",
+      "schedule_arrival_time": "13:43"
+    },
+    {
+      "route_number": "F-00010",
+      "season_start_date": "2025-03-23",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "13:46",
+      "schedule_arrival_time": "18:54"
+    },
+    {
+      "route_number": "F-00010",
+      "season_start_date": "2025-10-12",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "19:14",
+      "schedule_arrival_time": "19:19"
+    },
+    {
+      "route_number": "F-00010",
+      "season_start_date": "2025-10-12",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "19:23",
+      "schedule_arrival_time": "21:48"
+    },
+    {
+      "route_number": "F-00010",
+      "season_start_date": "2025-10-12",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "22:47",
+      "schedule_arrival_time": "04:38"
+    },
+    {
+      "route_number": "F-00011",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "04:58",
+      "schedule_arrival_time": "07:32"
+    },
+    {
+      "route_number": "F-00011",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "04:50",
+      "schedule_arrival_time": "08:32"
+    },
+    {
+      "route_number": "F-00011",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "12:09",
+      "schedule_arrival_time": "17:09"
+    },
+    {
+      "route_number": "F-00011",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "10:10",
+      "schedule_arrival_time": "11:59"
+    },
+    {
+      "route_number": "F-00011",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "06:15",
+      "schedule_arrival_time": "08:32"
+    },
+    {
+      "route_number": "F-00011",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "11:35",
+      "schedule_arrival_time": "12:58"
+    },
+    {
+      "route_number": "F-00012",
+      "season_start_date": "2026-08-06",
+      "season_end_date": "2026-09-05",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "22:27",
+      "schedule_arrival_time": "00:14"
+    },
+    {
+      "route_number": "F-00012",
+      "season_start_date": "2026-08-06",
+      "season_end_date": "2026-09-05",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "22:47",
+      "schedule_arrival_time": "04:38"
+    },
+    {
+      "route_number": "F-00012",
+      "season_start_date": "2026-08-06",
+      "season_end_date": "2026-09-05",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "16:15",
+      "schedule_arrival_time": "22:57"
+    },
+    {
+      "route_number": "F-00012",
+      "season_start_date": "2026-03-03",
+      "season_end_date": "2026-03-31",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "15:25",
+      "schedule_arrival_time": "22:25"
+    },
+    {
+      "route_number": "F-00012",
+      "season_start_date": "2026-03-03",
+      "season_end_date": "2026-03-31",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "15:25",
+      "schedule_arrival_time": "22:25"
+    },
+    {
+      "route_number": "F-00012",
+      "season_start_date": "2026-03-03",
+      "season_end_date": "2026-03-31",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "22:47",
+      "schedule_arrival_time": "04:38"
+    },
+    {
+      "route_number": "F-00013",
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "04:58",
+      "schedule_arrival_time": "07:32"
+    },
+    {
+      "route_number": "F-00013",
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "05:38",
+      "schedule_arrival_time": "06:39"
+    },
+    {
+      "route_number": "F-00013",
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "11:56",
+      "schedule_arrival_time": "13:43"
+    },
+    {
+      "route_number": "F-00013",
+      "season_start_date": "2025-04-20",
+      "season_end_date": "2025-05-18",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "05:38",
+      "schedule_arrival_time": "06:39"
+    },
+    {
+      "route_number": "F-00013",
+      "season_start_date": "2025-04-20",
+      "season_end_date": "2025-05-18",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "14:43",
+      "schedule_arrival_time": "15:39"
+    },
+    {
+      "route_number": "F-00013",
+      "season_start_date": "2025-04-20",
+      "season_end_date": "2025-05-18",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "18:36",
+      "schedule_arrival_time": "21:18"
+    },
+    {
+      "route_number": "F-00014",
+      "season_start_date": "2025-09-23",
+      "season_end_date": "2025-10-24",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "17:15",
+      "schedule_arrival_time": "20:15"
+    },
+    {
+      "route_number": "F-00014",
+      "season_start_date": "2025-09-23",
+      "season_end_date": "2025-10-24",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "16:07",
+      "schedule_arrival_time": "19:58"
+    },
+    {
+      "route_number": "F-00014",
+      "season_start_date": "2025-09-23",
+      "season_end_date": "2025-10-24",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "06:18",
+      "schedule_arrival_time": "08:48"
+    },
+    {
+      "route_number": "F-00014",
+      "season_start_date": "2025-09-26",
+      "season_end_date": "2025-10-27",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "03:07",
+      "schedule_arrival_time": "04:41"
+    },
+    {
+      "route_number": "F-00014",
+      "season_start_date": "2025-09-26",
+      "season_end_date": "2025-10-27",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "18:06",
+      "schedule_arrival_time": "20:23"
+    },
+    {
+      "route_number": "F-00014",
+      "season_start_date": "2025-09-26",
+      "season_end_date": "2025-10-27",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "09:15",
+      "schedule_arrival_time": "14:57"
+    },
+    {
+      "route_number": "F-00015",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "22:27",
+      "schedule_arrival_time": "00:14"
+    },
+    {
+      "route_number": "F-00015",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "16:07",
+      "schedule_arrival_time": "19:58"
+    },
+    {
+      "route_number": "F-00015",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "16:15",
+      "schedule_arrival_time": "22:57"
+    },
+    {
+      "route_number": "F-00015",
+      "season_start_date": "2025-01-03",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "14:43",
+      "schedule_arrival_time": "15:39"
+    },
+    {
+      "route_number": "F-00015",
+      "season_start_date": "2025-01-03",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "06:15",
+      "schedule_arrival_time": "08:32"
+    },
+    {
+      "route_number": "F-00015",
+      "season_start_date": "2025-01-03",
+      "season_end_date": "2025-01-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "19:23",
+      "schedule_arrival_time": "21:48"
+    },
+    {
+      "route_number": "F-00016",
+      "season_start_date": "2025-05-07",
+      "season_end_date": "2025-05-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "19:23",
+      "schedule_arrival_time": "21:48"
+    },
+    {
+      "route_number": "F-00016",
+      "season_start_date": "2025-05-07",
+      "season_end_date": "2025-05-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "18:21",
+      "schedule_arrival_time": "21:12"
+    },
+    {
+      "route_number": "F-00016",
+      "season_start_date": "2025-05-07",
+      "season_end_date": "2025-05-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "12:09",
+      "schedule_arrival_time": "17:09"
+    },
+    {
+      "route_number": "F-00016",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "22:47",
+      "schedule_arrival_time": "04:38"
+    },
+    {
+      "route_number": "F-00016",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "14:48",
+      "schedule_arrival_time": "20:48"
+    },
+    {
+      "route_number": "F-00016",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "18:41",
+      "schedule_arrival_time": "00:23"
+    },
+    {
+      "route_number": "F-00017",
+      "season_start_date": "2025-04-14",
+      "season_end_date": "2025-05-16",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "19:14",
+      "schedule_arrival_time": "19:19"
+    },
+    {
+      "route_number": "F-00017",
+      "season_start_date": "2025-04-14",
+      "season_end_date": "2025-05-16",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "15:25",
+      "schedule_arrival_time": "22:25"
+    },
+    {
+      "route_number": "F-00017",
+      "season_start_date": "2025-04-14",
+      "season_end_date": "2025-05-16",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "18:06",
+      "schedule_arrival_time": "20:23"
+    },
+    {
+      "route_number": "F-00017",
+      "season_start_date": "2025-05-06",
+      "season_end_date": "2025-05-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "18:21",
+      "schedule_arrival_time": "21:12"
+    },
+    {
+      "route_number": "F-00017",
+      "season_start_date": "2025-05-06",
+      "season_end_date": "2025-05-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "09:15",
+      "schedule_arrival_time": "14:57"
+    },
+    {
+      "route_number": "F-00017",
+      "season_start_date": "2025-05-06",
+      "season_end_date": "2025-05-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "11:35",
+      "schedule_arrival_time": "12:58"
+    },
+    {
+      "route_number": "F-00018",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "21:41",
+      "schedule_arrival_time": "01:11"
+    },
+    {
+      "route_number": "F-00018",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "11:46",
+      "schedule_arrival_time": "13:18"
+    },
+    {
+      "route_number": "F-00018",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "04:58",
+      "schedule_arrival_time": "07:32"
+    },
+    {
+      "route_number": "F-00018",
+      "season_start_date": "2025-08-26",
+      "season_end_date": "2025-09-26",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "09:08",
+      "schedule_arrival_time": "16:25"
+    },
+    {
+      "route_number": "F-00018",
+      "season_start_date": "2025-08-26",
+      "season_end_date": "2025-09-26",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "18:21",
+      "schedule_arrival_time": "21:12"
+    },
+    {
+      "route_number": "F-00018",
+      "season_start_date": "2025-08-26",
+      "season_end_date": "2025-09-26",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "14:48",
+      "schedule_arrival_time": "20:48"
+    },
+    {
+      "route_number": "F-00019",
+      "season_start_date": "2025-03-05",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "06:52",
+      "schedule_arrival_time": "10:04"
+    },
+    {
+      "route_number": "F-00019",
+      "season_start_date": "2025-03-05",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "11:35",
+      "schedule_arrival_time": "12:58"
+    },
+    {
+      "route_number": "F-00019",
+      "season_start_date": "2025-03-05",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "11:46",
+      "schedule_arrival_time": "13:18"
+    },
+    {
+      "route_number": "F-00019",
+      "season_start_date": "2025-03-05",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "22:47",
+      "schedule_arrival_time": "04:38"
+    },
+    {
+      "route_number": "F-00019",
+      "season_start_date": "2025-03-05",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "06:18",
+      "schedule_arrival_time": "08:48"
+    },
+    {
+      "route_number": "F-00019",
+      "season_start_date": "2025-03-05",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "19:14",
+      "schedule_arrival_time": "19:19"
+    },
+    {
+      "route_number": "F-00020",
+      "season_start_date": "2025-07-05",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "06:52",
+      "schedule_arrival_time": "10:04"
+    },
+    {
+      "route_number": "F-00020",
+      "season_start_date": "2025-07-05",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "11:52",
+      "schedule_arrival_time": "14:00"
+    },
+    {
+      "route_number": "F-00020",
+      "season_start_date": "2025-07-05",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "21:41",
+      "schedule_arrival_time": "01:11"
+    },
+    {
+      "route_number": "F-00020",
+      "season_start_date": "2025-06-19",
+      "season_end_date": "2025-07-17",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "11:52",
+      "schedule_arrival_time": "14:00"
+    },
+    {
+      "route_number": "F-00020",
+      "season_start_date": "2025-06-19",
+      "season_end_date": "2025-07-17",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "18:21",
+      "schedule_arrival_time": "21:12"
+    },
+    {
+      "route_number": "F-00020",
+      "season_start_date": "2025-06-19",
+      "season_end_date": "2025-07-17",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "11:56",
+      "schedule_arrival_time": "13:43"
+    },
+    {
+      "route_number": "F-00021",
+      "season_start_date": "2025-07-27",
+      "season_end_date": "2025-08-26",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "13:43",
+      "schedule_arrival_time": "17:00"
+    },
+    {
+      "route_number": "F-00021",
+      "season_start_date": "2025-07-27",
+      "season_end_date": "2025-08-26",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "21:41",
+      "schedule_arrival_time": "01:11"
+    },
+    {
+      "route_number": "F-00021",
+      "season_start_date": "2025-07-27",
+      "season_end_date": "2025-08-26",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "06:18",
+      "schedule_arrival_time": "08:48"
+    },
+    {
+      "route_number": "F-00021",
+      "season_start_date": "2025-03-26",
+      "season_end_date": "2025-04-24",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "16:07",
+      "schedule_arrival_time": "19:58"
+    },
+    {
+      "route_number": "F-00021",
+      "season_start_date": "2025-03-26",
+      "season_end_date": "2025-04-24",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "14:43",
+      "schedule_arrival_time": "15:39"
+    },
+    {
+      "route_number": "F-00021",
+      "season_start_date": "2025-03-26",
+      "season_end_date": "2025-04-24",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "22:47",
+      "schedule_arrival_time": "04:38"
+    },
+    {
+      "route_number": "F-00022",
+      "season_start_date": "2025-04-26",
+      "season_end_date": "2025-05-25",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "18:41",
+      "schedule_arrival_time": "00:23"
+    },
+    {
+      "route_number": "F-00022",
+      "season_start_date": "2025-04-26",
+      "season_end_date": "2025-05-25",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "14:48",
+      "schedule_arrival_time": "20:48"
+    },
+    {
+      "route_number": "F-00022",
+      "season_start_date": "2025-04-26",
+      "season_end_date": "2025-05-25",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "13:46",
+      "schedule_arrival_time": "18:54"
+    },
+    {
+      "route_number": "F-00022",
+      "season_start_date": "2025-03-13",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "12:09",
+      "schedule_arrival_time": "17:09"
+    },
+    {
+      "route_number": "F-00022",
+      "season_start_date": "2025-03-13",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "17:15",
+      "schedule_arrival_time": "20:15"
+    },
+    {
+      "route_number": "F-00022",
+      "season_start_date": "2025-03-13",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "17:14",
+      "schedule_arrival_time": "22:01"
+    },
+    {
+      "route_number": "F-00023",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "06:18",
+      "schedule_arrival_time": "08:48"
+    },
+    {
+      "route_number": "F-00023",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "17:24",
+      "schedule_arrival_time": "18:25"
+    },
+    {
+      "route_number": "F-00023",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "14:48",
+      "schedule_arrival_time": "20:48"
+    },
+    {
+      "route_number": "F-00023",
+      "season_start_date": "2025-04-25",
+      "season_end_date": "2025-05-23",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "18:41",
+      "schedule_arrival_time": "00:23"
+    },
+    {
+      "route_number": "F-00023",
+      "season_start_date": "2025-04-25",
+      "season_end_date": "2025-05-23",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "19:23",
+      "schedule_arrival_time": "21:48"
+    },
+    {
+      "route_number": "F-00023",
+      "season_start_date": "2025-04-25",
+      "season_end_date": "2025-05-23",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "04:43",
+      "schedule_arrival_time": "05:55"
+    },
+    {
+      "route_number": "F-00024",
+      "season_start_date": "2026-04-13",
+      "season_end_date": "2026-05-11",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "13:46",
+      "schedule_arrival_time": "18:54"
+    },
+    {
+      "route_number": "F-00024",
+      "season_start_date": "2026-04-13",
+      "season_end_date": "2026-05-11",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "19:23",
+      "schedule_arrival_time": "21:48"
+    },
+    {
+      "route_number": "F-00024",
+      "season_start_date": "2026-04-13",
+      "season_end_date": "2026-05-11",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "04:58",
+      "schedule_arrival_time": "07:32"
+    },
+    {
+      "route_number": "F-00024",
+      "season_start_date": "2026-08-07",
+      "season_end_date": "2026-09-04",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "13:43",
+      "schedule_arrival_time": "17:00"
+    },
+    {
+      "route_number": "F-00024",
+      "season_start_date": "2026-08-07",
+      "season_end_date": "2026-09-04",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "19:14",
+      "schedule_arrival_time": "19:19"
+    },
+    {
+      "route_number": "F-00024",
+      "season_start_date": "2026-08-07",
+      "season_end_date": "2026-09-04",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "19:14",
+      "schedule_arrival_time": "19:19"
+    },
+    {
+      "route_number": "F-00025",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "18:06",
+      "schedule_arrival_time": "20:23"
+    },
+    {
+      "route_number": "F-00025",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "16:07",
+      "schedule_arrival_time": "19:58"
+    },
+    {
+      "route_number": "F-00025",
+      "season_start_date": "2025-09-25",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "06:52",
+      "schedule_arrival_time": "10:04"
+    },
+    {
+      "route_number": "F-00025",
+      "season_start_date": "2025-07-04",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "02:52",
+      "schedule_arrival_time": "03:43"
+    },
+    {
+      "route_number": "F-00025",
+      "season_start_date": "2025-07-04",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "16:07",
+      "schedule_arrival_time": "19:58"
+    },
+    {
+      "route_number": "F-00025",
+      "season_start_date": "2025-07-04",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "04:58",
+      "schedule_arrival_time": "07:32"
+    },
+    {
+      "route_number": "F-00026",
+      "season_start_date": "2026-03-03",
+      "season_end_date": "2026-03-31",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "18:21",
+      "schedule_arrival_time": "21:12"
+    },
+    {
+      "route_number": "F-00026",
+      "season_start_date": "2026-03-03",
+      "season_end_date": "2026-03-31",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "04:50",
+      "schedule_arrival_time": "08:32"
+    },
+    {
+      "route_number": "F-00026",
+      "season_start_date": "2026-03-03",
+      "season_end_date": "2026-03-31",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "22:24",
+      "schedule_arrival_time": "03:24"
+    },
+    {
+      "route_number": "F-00026",
+      "season_start_date": "2026-01-24",
+      "season_end_date": "2026-02-23",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "06:52",
+      "schedule_arrival_time": "10:04"
+    },
+    {
+      "route_number": "F-00026",
+      "season_start_date": "2026-01-24",
+      "season_end_date": "2026-02-23",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "06:05",
+      "schedule_arrival_time": "06:43"
+    },
+    {
+      "route_number": "F-00026",
+      "season_start_date": "2026-01-24",
+      "season_end_date": "2026-02-23",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "17:15",
+      "schedule_arrival_time": "20:15"
+    },
+    {
+      "route_number": "F-00027",
+      "season_start_date": "2025-06-29",
+      "season_end_date": "2025-07-27",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "06:52",
+      "schedule_arrival_time": "10:04"
+    },
+    {
+      "route_number": "F-00027",
+      "season_start_date": "2025-06-29",
+      "season_end_date": "2025-07-27",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "14:43",
+      "schedule_arrival_time": "15:39"
+    },
+    {
+      "route_number": "F-00027",
+      "season_start_date": "2025-06-29",
+      "season_end_date": "2025-07-27",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "05:38",
+      "schedule_arrival_time": "06:39"
+    },
+    {
+      "route_number": "F-00027",
+      "season_start_date": "2025-07-05",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "21:41",
+      "schedule_arrival_time": "01:11"
+    },
+    {
+      "route_number": "F-00027",
+      "season_start_date": "2025-07-05",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "05:38",
+      "schedule_arrival_time": "06:39"
+    },
+    {
+      "route_number": "F-00027",
+      "season_start_date": "2025-07-05",
+      "season_end_date": "2025-07-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "02:52",
+      "schedule_arrival_time": "03:43"
+    },
+    {
+      "route_number": "F-00028",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "13:43",
+      "schedule_arrival_time": "17:00"
+    },
+    {
+      "route_number": "F-00028",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "17:14",
+      "schedule_arrival_time": "22:01"
+    },
+    {
+      "route_number": "F-00028",
+      "season_start_date": "2025-04-02",
+      "season_end_date": "2025-04-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "06:18",
+      "schedule_arrival_time": "08:48"
+    },
+    {
+      "route_number": "F-00028",
+      "season_start_date": "2025-10-12",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "19:14",
+      "schedule_arrival_time": "19:19"
+    },
+    {
+      "route_number": "F-00028",
+      "season_start_date": "2025-10-12",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "09:08",
+      "schedule_arrival_time": "16:25"
+    },
+    {
+      "route_number": "F-00028",
+      "season_start_date": "2025-10-12",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "06:05",
+      "schedule_arrival_time": "06:43"
+    },
+    {
+      "route_number": "F-00029",
+      "season_start_date": "2025-01-19",
+      "season_end_date": "2025-02-20",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "19:23",
+      "schedule_arrival_time": "21:48"
+    },
+    {
+      "route_number": "F-00029",
+      "season_start_date": "2025-01-19",
+      "season_end_date": "2025-02-20",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "11:35",
+      "schedule_arrival_time": "12:58"
+    },
+    {
+      "route_number": "F-00029",
+      "season_start_date": "2025-01-19",
+      "season_end_date": "2025-02-20",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "09:08",
+      "schedule_arrival_time": "16:25"
+    },
+    {
+      "route_number": "F-00029",
+      "season_start_date": "2025-01-29",
+      "season_end_date": "2025-02-26",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "16:15",
+      "schedule_arrival_time": "22:57"
+    },
+    {
+      "route_number": "F-00029",
+      "season_start_date": "2025-01-29",
+      "season_end_date": "2025-02-26",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "12:09",
+      "schedule_arrival_time": "17:09"
+    },
+    {
+      "route_number": "F-00029",
+      "season_start_date": "2025-01-29",
+      "season_end_date": "2025-02-26",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "18:06",
+      "schedule_arrival_time": "20:23"
+    },
+    {
+      "route_number": "F-00030",
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "02:52",
+      "schedule_arrival_time": "03:43"
+    },
+    {
+      "route_number": "F-00030",
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "22:27",
+      "schedule_arrival_time": "00:14"
+    },
+    {
+      "route_number": "F-00030",
+      "season_start_date": "2025-08-18",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "12:09",
+      "schedule_arrival_time": "17:09"
+    },
+    {
+      "route_number": "F-00030",
+      "season_start_date": "2025-04-20",
+      "season_end_date": "2025-05-22",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "10:10",
+      "schedule_arrival_time": "11:59"
+    },
+    {
+      "route_number": "F-00030",
+      "season_start_date": "2025-04-20",
+      "season_end_date": "2025-05-22",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "14:48",
+      "schedule_arrival_time": "20:48"
+    },
+    {
+      "route_number": "F-00030",
+      "season_start_date": "2025-04-20",
+      "season_end_date": "2025-05-22",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "12:09",
+      "schedule_arrival_time": "17:09"
+    },
+    {
+      "route_number": "F-00031",
+      "season_start_date": "2025-05-20",
+      "season_end_date": "2025-06-17",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "19:23",
+      "schedule_arrival_time": "21:48"
+    },
+    {
+      "route_number": "F-00031",
+      "season_start_date": "2025-05-20",
+      "season_end_date": "2025-06-17",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "06:05",
+      "schedule_arrival_time": "06:43"
+    },
+    {
+      "route_number": "F-00031",
+      "season_start_date": "2025-05-20",
+      "season_end_date": "2025-06-17",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "04:43",
+      "schedule_arrival_time": "05:55"
+    },
+    {
+      "route_number": "F-00031",
+      "season_start_date": "2025-05-19",
+      "season_end_date": "2025-06-20",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "11:46",
+      "schedule_arrival_time": "13:18"
+    },
+    {
+      "route_number": "F-00031",
+      "season_start_date": "2025-05-19",
+      "season_end_date": "2025-06-20",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "11:46",
+      "schedule_arrival_time": "13:18"
+    },
+    {
+      "route_number": "F-00031",
+      "season_start_date": "2025-05-19",
+      "season_end_date": "2025-06-20",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "04:43",
+      "schedule_arrival_time": "05:55"
+    },
+    {
+      "route_number": "F-00032",
+      "season_start_date": "2025-10-14",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "21:41",
+      "schedule_arrival_time": "01:11"
+    },
+    {
+      "route_number": "F-00032",
+      "season_start_date": "2025-10-14",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "04:50",
+      "schedule_arrival_time": "08:32"
+    },
+    {
+      "route_number": "F-00032",
+      "season_start_date": "2025-10-14",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "04:58",
+      "schedule_arrival_time": "07:32"
+    },
+    {
+      "route_number": "F-00032",
+      "season_start_date": "2025-10-10",
+      "season_end_date": "2025-11-11",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "04:50",
+      "schedule_arrival_time": "08:32"
+    },
+    {
+      "route_number": "F-00032",
+      "season_start_date": "2025-10-10",
+      "season_end_date": "2025-11-11",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "11:52",
+      "schedule_arrival_time": "14:00"
+    },
+    {
+      "route_number": "F-00032",
+      "season_start_date": "2025-10-10",
+      "season_end_date": "2025-11-11",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "16:15",
+      "schedule_arrival_time": "22:57"
+    },
+    {
+      "route_number": "F-00033",
+      "season_start_date": "2025-08-24",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "15:36",
+      "schedule_arrival_time": "17:10"
+    },
+    {
+      "route_number": "F-00033",
+      "season_start_date": "2025-08-24",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "11:56",
+      "schedule_arrival_time": "13:43"
+    },
+    {
+      "route_number": "F-00033",
+      "season_start_date": "2025-08-24",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "05:38",
+      "schedule_arrival_time": "06:39"
+    },
+    {
+      "route_number": "F-00033",
+      "season_start_date": "2025-08-11",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "04:43",
+      "schedule_arrival_time": "05:55"
+    },
+    {
+      "route_number": "F-00033",
+      "season_start_date": "2025-08-11",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "22:24",
+      "schedule_arrival_time": "03:24"
+    },
+    {
+      "route_number": "F-00033",
+      "season_start_date": "2025-08-11",
+      "season_end_date": "2025-08-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "21:41",
+      "schedule_arrival_time": "01:11"
+    },
+    {
+      "route_number": "F-00034",
+      "season_start_date": "2025-01-28",
+      "season_end_date": "2025-02-26",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "14:05",
+      "schedule_arrival_time": "16:26"
+    },
+    {
+      "route_number": "F-00034",
+      "season_start_date": "2025-01-28",
+      "season_end_date": "2025-02-26",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "04:58",
+      "schedule_arrival_time": "07:32"
+    },
+    {
+      "route_number": "F-00034",
+      "season_start_date": "2025-01-28",
+      "season_end_date": "2025-02-26",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "16:07",
+      "schedule_arrival_time": "19:58"
+    },
+    {
+      "route_number": "F-00034",
+      "season_start_date": "2025-09-13",
+      "season_end_date": "2025-10-12",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "04:58",
+      "schedule_arrival_time": "07:32"
+    },
+    {
+      "route_number": "F-00034",
+      "season_start_date": "2025-09-13",
+      "season_end_date": "2025-10-12",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "06:52",
+      "schedule_arrival_time": "10:04"
+    },
+    {
+      "route_number": "F-00034",
+      "season_start_date": "2025-09-13",
+      "season_end_date": "2025-10-12",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "17:14",
+      "schedule_arrival_time": "22:01"
+    },
+    {
+      "route_number": "F-00035",
+      "season_start_date": "2025-01-23",
+      "season_end_date": "2025-02-24",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "16:07",
+      "schedule_arrival_time": "19:58"
+    },
+    {
+      "route_number": "F-00035",
+      "season_start_date": "2025-01-23",
+      "season_end_date": "2025-02-24",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "16:15",
+      "schedule_arrival_time": "22:57"
+    },
+    {
+      "route_number": "F-00035",
+      "season_start_date": "2025-01-23",
+      "season_end_date": "2025-02-24",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "06:18",
+      "schedule_arrival_time": "08:48"
+    },
+    {
+      "route_number": "F-00035",
+      "season_start_date": "2025-08-28",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "04:43",
+      "schedule_arrival_time": "05:55"
+    },
+    {
+      "route_number": "F-00035",
+      "season_start_date": "2025-08-28",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "15:25",
+      "schedule_arrival_time": "22:25"
+    },
+    {
+      "route_number": "F-00035",
+      "season_start_date": "2025-08-28",
+      "season_end_date": "2025-09-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "14:43",
+      "schedule_arrival_time": "15:39"
+    },
+    {
+      "route_number": "F-00036",
+      "season_start_date": "2025-10-25",
+      "season_end_date": "2025-11-26",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "13:43",
+      "schedule_arrival_time": "17:00"
+    },
+    {
+      "route_number": "F-00036",
+      "season_start_date": "2025-10-25",
+      "season_end_date": "2025-11-26",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "04:50",
+      "schedule_arrival_time": "08:32"
+    },
+    {
+      "route_number": "F-00036",
+      "season_start_date": "2025-10-25",
+      "season_end_date": "2025-11-26",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "22:27",
+      "schedule_arrival_time": "00:14"
+    },
+    {
+      "route_number": "F-00036",
+      "season_start_date": "2025-10-12",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "06:52",
+      "schedule_arrival_time": "10:04"
+    },
+    {
+      "route_number": "F-00036",
+      "season_start_date": "2025-10-12",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "22:47",
+      "schedule_arrival_time": "04:38"
+    },
+    {
+      "route_number": "F-00036",
+      "season_start_date": "2025-10-12",
+      "season_end_date": "2025-10-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "18:36",
+      "schedule_arrival_time": "21:18"
+    },
+    {
+      "route_number": "F-00037",
+      "season_start_date": "2025-06-22",
+      "season_end_date": "2025-07-21",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "14:05",
+      "schedule_arrival_time": "16:26"
+    },
+    {
+      "route_number": "F-00037",
+      "season_start_date": "2025-06-22",
+      "season_end_date": "2025-07-21",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "11:35",
+      "schedule_arrival_time": "12:58"
+    },
+    {
+      "route_number": "F-00037",
+      "season_start_date": "2025-06-22",
+      "season_end_date": "2025-07-21",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "22:47",
+      "schedule_arrival_time": "04:38"
+    },
+    {
+      "route_number": "F-00037",
+      "season_start_date": "2025-01-27",
+      "season_end_date": "2025-02-25",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "13:46",
+      "schedule_arrival_time": "18:54"
+    },
+    {
+      "route_number": "F-00037",
+      "season_start_date": "2025-01-27",
+      "season_end_date": "2025-02-25",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "09:08",
+      "schedule_arrival_time": "16:25"
+    },
+    {
+      "route_number": "F-00037",
+      "season_start_date": "2025-01-27",
+      "season_end_date": "2025-02-25",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "11:46",
+      "schedule_arrival_time": "13:18"
+    },
+    {
+      "route_number": "F-00038",
+      "season_start_date": "2026-03-11",
+      "season_end_date": "2026-04-09",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "14:05",
+      "schedule_arrival_time": "16:26"
+    },
+    {
+      "route_number": "F-00038",
+      "season_start_date": "2026-03-11",
+      "season_end_date": "2026-04-09",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "06:05",
+      "schedule_arrival_time": "06:43"
+    },
+    {
+      "route_number": "F-00038",
+      "season_start_date": "2026-03-11",
+      "season_end_date": "2026-04-09",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "16:15",
+      "schedule_arrival_time": "22:57"
+    },
+    {
+      "route_number": "F-00038",
+      "season_start_date": "2026-08-23",
+      "season_end_date": "2026-09-23",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "19:14",
+      "schedule_arrival_time": "19:19"
+    },
+    {
+      "route_number": "F-00038",
+      "season_start_date": "2026-08-23",
+      "season_end_date": "2026-09-23",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "16:07",
+      "schedule_arrival_time": "19:58"
+    },
+    {
+      "route_number": "F-00038",
+      "season_start_date": "2026-08-23",
+      "season_end_date": "2026-09-23",
+      "schedule_day_name": "Wednesday",
+      "schedule_departure_time": "18:41",
+      "schedule_arrival_time": "00:23"
+    },
+    {
+      "route_number": "F-00039",
+      "season_start_date": "2025-03-13",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "13:46",
+      "schedule_arrival_time": "18:54"
+    },
+    {
+      "route_number": "F-00039",
+      "season_start_date": "2025-03-13",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Saturday",
+      "schedule_departure_time": "04:50",
+      "schedule_arrival_time": "08:32"
+    },
+    {
+      "route_number": "F-00039",
+      "season_start_date": "2025-03-13",
+      "season_end_date": "2025-03-28",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "18:41",
+      "schedule_arrival_time": "00:23"
+    },
+    {
+      "route_number": "F-00039",
+      "season_start_date": "2025-04-26",
+      "season_end_date": "2025-05-26",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "02:52",
+      "schedule_arrival_time": "03:43"
+    },
+    {
+      "route_number": "F-00039",
+      "season_start_date": "2025-04-26",
+      "season_end_date": "2025-05-26",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "19:14",
+      "schedule_arrival_time": "19:19"
+    },
+    {
+      "route_number": "F-00039",
+      "season_start_date": "2025-04-26",
+      "season_end_date": "2025-05-26",
+      "schedule_day_name": "Monday",
+      "schedule_departure_time": "18:36",
+      "schedule_arrival_time": "21:18"
+    },
+    {
+      "route_number": "F-00040",
+      "season_start_date": "2025-01-11",
+      "season_end_date": "2025-02-09",
+      "schedule_day_name": "Thursday",
+      "schedule_departure_time": "21:41",
+      "schedule_arrival_time": "01:11"
+    },
+    {
+      "route_number": "F-00040",
+      "season_start_date": "2025-01-11",
+      "season_end_date": "2025-02-09",
+      "schedule_day_name": "Friday",
+      "schedule_departure_time": "19:23",
+      "schedule_arrival_time": "21:48"
+    },
+    {
+      "route_number": "F-00040",
+      "season_start_date": "2025-01-11",
+      "season_end_date": "2025-02-09",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "09:15",
+      "schedule_arrival_time": "14:57"
+    },
+    {
+      "route_number": "F-00040",
+      "season_start_date": "2025-05-07",
+      "season_end_date": "2025-06-04",
+      "schedule_day_name": "Sunday",
+      "schedule_departure_time": "18:21",
+      "schedule_arrival_time": "21:12"
+    },
+    {
+      "route_number": "F-00040",
+      "season_start_date": "2025-05-07",
+      "season_end_date": "2025-06-04",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "14:05",
+      "schedule_arrival_time": "16:26"
+    },
+    {
+      "route_number": "F-00040",
+      "season_start_date": "2025-05-07",
+      "season_end_date": "2025-06-04",
+      "schedule_day_name": "Tuesday",
+      "schedule_departure_time": "18:21",
+      "schedule_arrival_time": "21:12"
+    }
+  ]
+}

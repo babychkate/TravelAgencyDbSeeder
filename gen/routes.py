@@ -18,13 +18,6 @@ with open("in/classifiers.json", "r", encoding="utf-8") as f:
     bus_route_types = classifiers["bus trip route types"]
     flight_route_types = classifiers["flight route types"]
 
-with open("in/schedule_days.json", "r", encoding="utf-8") as f:
-    schedule_days = json.load(f)["schedule days"]
-
-with open("in/schedule_hours.json", "r", encoding="utf-8") as f:
-    schedule_hours = [x["schedule_departure_time"] for x in json.load(f)["schedule hours"]]
-
-
 # --- Відомі відстані між містами (км) ---
 distances= {
     ("Kyiv", "Lviv"): 540,
@@ -35,7 +28,7 @@ distances= {
     ("Kyiv", "Athens"): 1700,
     ("Kyiv", "Thessaloniki"): 1400,
     ("Kyiv", "Split"): 1450,
-    ("Kyiv", "Dubrovnik"): 1480,
+    ("Kyiv", "Dubrovnik"): 2000,
     ("Kyiv", "Budva"): 1350,
     ("Kyiv", "Podgorica"): 1380,
     ("Kyiv", "Warsaw"): 780,
@@ -263,32 +256,30 @@ def calculate_duration(dist_km, mode="bus"):
     duration_minutes = int((hours - duration_hours) * 60)
     return timedelta(hours=duration_hours, minutes=duration_minutes)
 
-def pick_departure_time(duration, schedule_hours):
-    """Обираємо час відправлення та обмежуємо тривалість до 23:59"""
-    dep_time_str = random.choice(schedule_hours)
-    dep_time = datetime.strptime(dep_time_str, "%H:%M")
+def generate_departure_and_arrival(duration):
+    """Генерує випадковий dep/arr time, обрізає duration до 23:59"""
+    dep_hour = random.randint(0, 23)
+    dep_minute = random.randint(0, 59)
+    dep_time = datetime.strptime(f"{dep_hour:02d}:{dep_minute:02d}", "%H:%M")
     arr_time = dep_time + duration
 
     max_duration = timedelta(hours=23, minutes=59)
     if duration > max_duration:
         duration = max_duration
-        arr_time = dep_time + duration
 
     return dep_time.time(), arr_time.time(), duration
 
 # --- Генерація маршрутів ---
-routes = []
 num_bus_routes = 40
 num_flight_routes = 40
 
-# --- Генерація автобусних маршрутів ---
 bus_routes = []
 for i in range(num_bus_routes):
     dep, arr = random.sample(bus_stations, 2)
     company = random.choice(bus_companies)
     dist = get_distance(dep["city_name"], arr["city_name"])
     duration = calculate_duration(dist, "bus")
-    dep_time, arr_time, duration = pick_departure_time(duration, schedule_hours)
+    dep_time, arr_time, duration = generate_departure_and_arrival(duration)
     route_type = pick_route_type_by_distance(dist, "bus")
     route_num = f"R-{i+1:05d}"
 
@@ -303,14 +294,13 @@ for i in range(num_bus_routes):
         "arrival_time": arr_time.strftime("%H:%M")
     })
 
-# --- Генерація авіаційних маршрутів ---
 flight_routes = []
 for i in range(num_flight_routes):
     dep, arr = random.sample(airports, 2)
     company = random.choice(airlines)
     dist = get_distance(dep["city_name"], arr["city_name"])
     duration = calculate_duration(dist, "flight")
-    dep_time, arr_time, duration = pick_departure_time(duration, schedule_hours)
+    dep_time, arr_time, duration = generate_departure_and_arrival(duration)
     route_type = pick_route_type_by_distance(dist, "flight")
     route_num = f"F-{i+1:05d}"
 

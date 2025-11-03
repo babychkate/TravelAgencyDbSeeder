@@ -1,51 +1,49 @@
 import json
 import random
 
-# --- Зчитуємо сезони ---
+# --- Зчитування сезонів ---
 with open("out/seasons.json", "r", encoding="utf-8") as f:
     seasons_data = json.load(f)
     bus_seasons = seasons_data.get("bus seasons", [])
     flight_seasons = seasons_data.get("flight seasons", [])
 
-# --- Зчитуємо розклад ---
-with open("in/schedules.json", "r", encoding="utf-8") as f:
-    schedule = json.load(f)["schedules"]  # або як у тебе називається
+# --- Зчитування розкладу ---
+with open("out/schedules.json", "r", encoding="utf-8") as f:
+    schedules_data = json.load(f)
+    bus_schedules = schedules_data.get("bus schedules", [])
+    flight_schedules = schedules_data.get("flight schedules", [])
 
-# --- Генерація season schedules для автобусів ---
-bus_season_schedules = []
-for season in bus_seasons:
-    route_number = season["route_number"]
-    sample_schedules = random.sample(schedule, 3)
-    for s in sample_schedules:
-        bus_season_schedules.append({
-            "route_number": route_number,
-            "season_start_date": season["season_start_date"],
-            "season_end_date": season["season_end_date"],
-            "schedule_departure_time": s["schedule_departure_time"],
-            "schedule_arrival_time": s["schedule_arrival_time"],
-            "day_name": s["schedule_day_name"]
-        })
+# --- Функція генерації проміжної таблиці ---
+def generate_schedule_assignments(seasons, schedules, avg_per_season=3):
+    assignments = []
+    for season in seasons:
+        route_number = season["route_number"]
+        season_start = season["season_start_date"]
+        season_end = season["season_end_date"]
+        
+        # Вибираємо випадково 3 (або avg_per_season) розклади для сезону
+        selected_schedules = random.sample(schedules, k=min(avg_per_season, len(schedules)))
+        
+        for sched in selected_schedules:
+            assignments.append({
+                "route_number": route_number,
+                "season_start_date": season_start,
+                "season_end_date": season_end,
+                "schedule_day_name": sched["schedule_day_name"],
+                "schedule_departure_time": sched["schedule_departure_time"],
+                "schedule_arrival_time": sched["schedule_arrival_time"]
+            })
+    return assignments
 
-# --- Генерація season schedules для літаків ---
-flight_season_schedules = []
-for season in flight_seasons:
-    route_number = season["route_number"]
-    sample_schedules = random.sample(schedule, 3)
-    for s in sample_schedules:
-        flight_season_schedules.append({
-            "route_number": route_number,
-            "season_start_date": season["season_start_date"],
-            "season_end_date": season["season_end_date"],
-            "schedule_departure_time": s["schedule_departure_time"],
-            "schedule_arrival_time": s["schedule_arrival_time"],
-            "day_name": s["schedule_day_name"]
-        })
+# --- Генерація для автобусів та авіа ---
+bus_assignments = generate_schedule_assignments(bus_seasons, bus_schedules)
+flight_assignments = generate_schedule_assignments(flight_seasons, flight_schedules)
 
-# --- Зберігаємо ---
-with open("out/season_schedules.json", "w", encoding="utf-8") as f:
+# --- Збереження ---
+with open("out/season_schedule_assignments.json", "w", encoding="utf-8") as f:
     json.dump({
-        "bus season schedules": bus_season_schedules,
-        "flight season schedules": flight_season_schedules
+        "bus assignments": bus_assignments,
+        "flight assignments": flight_assignments
     }, f, ensure_ascii=False, indent=2)
 
-print(f"Згенеровано {len(bus_season_schedules)} записів для автобусів та {len(flight_season_schedules)} записів для літаків.")
+print(f"Згенеровано {len(bus_assignments)} автобусних та {len(flight_assignments)} авіаційних прив'язок сезону до розкладу")

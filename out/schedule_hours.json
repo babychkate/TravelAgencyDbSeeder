@@ -1,316 +1,326 @@
 {
-  "schedule hours": [
+  "bus schedule hours": [
     {
-      "schedule_arrival_time": "22:08",
-      "schedule_departure_time": "16:00"
+      "schedule_departure_time": "07:54",
+      "schedule_arrival_time": "10:46"
     },
     {
-      "schedule_arrival_time": "00:08",
-      "schedule_departure_time": "22:30"
+      "schedule_departure_time": "14:18",
+      "schedule_arrival_time": "18:25"
     },
     {
-      "schedule_arrival_time": "09:52",
-      "schedule_departure_time": "20:45"
+      "schedule_departure_time": "07:00",
+      "schedule_arrival_time": "18:00"
     },
     {
-      "schedule_arrival_time": "15:07",
-      "schedule_departure_time": "23:30"
+      "schedule_departure_time": "17:48",
+      "schedule_arrival_time": "23:48"
     },
     {
-      "schedule_arrival_time": "16:14",
-      "schedule_departure_time": "16:15"
+      "schedule_departure_time": "07:48",
+      "schedule_arrival_time": "22:10"
     },
     {
-      "schedule_arrival_time": "00:49",
-      "schedule_departure_time": "22:45"
+      "schedule_departure_time": "01:39",
+      "schedule_arrival_time": "16:24"
     },
     {
-      "schedule_arrival_time": "22:14",
-      "schedule_departure_time": "22:15"
+      "schedule_departure_time": "00:25",
+      "schedule_arrival_time": "14:47"
     },
     {
-      "schedule_arrival_time": "22:34",
-      "schedule_departure_time": "22:15"
+      "schedule_departure_time": "19:59",
+      "schedule_arrival_time": "10:21"
     },
     {
-      "schedule_arrival_time": "23:49",
-      "schedule_departure_time": "20:45"
+      "schedule_departure_time": "22:43",
+      "schedule_arrival_time": "00:58"
     },
     {
-      "schedule_arrival_time": "22:29",
-      "schedule_departure_time": "22:30"
+      "schedule_departure_time": "20:55",
+      "schedule_arrival_time": "06:40"
     },
     {
-      "schedule_arrival_time": "12:15",
-      "schedule_departure_time": "22:45"
+      "schedule_departure_time": "08:32",
+      "schedule_arrival_time": "02:39"
     },
     {
-      "schedule_arrival_time": "15:19",
-      "schedule_departure_time": "14:00"
+      "schedule_departure_time": "03:39",
+      "schedule_arrival_time": "14:39"
     },
     {
-      "schedule_arrival_time": "02:36",
-      "schedule_departure_time": "20:45"
+      "schedule_departure_time": "14:39",
+      "schedule_arrival_time": "05:24"
     },
     {
-      "schedule_arrival_time": "10:45",
-      "schedule_departure_time": "07:45"
+      "schedule_departure_time": "01:23",
+      "schedule_arrival_time": "22:00"
     },
     {
-      "schedule_arrival_time": "12:52",
-      "schedule_departure_time": "16:15"
+      "schedule_departure_time": "04:31",
+      "schedule_arrival_time": "18:53"
     },
     {
-      "schedule_arrival_time": "13:23",
-      "schedule_departure_time": "11:45"
+      "schedule_departure_time": "17:16",
+      "schedule_arrival_time": "00:08"
     },
     {
-      "schedule_arrival_time": "21:30",
-      "schedule_departure_time": "19:00"
+      "schedule_departure_time": "07:26",
+      "schedule_arrival_time": "05:56"
     },
     {
-      "schedule_arrival_time": "22:44",
-      "schedule_departure_time": "22:45"
+      "schedule_departure_time": "00:25",
+      "schedule_arrival_time": "02:40"
     },
     {
-      "schedule_arrival_time": "20:27",
-      "schedule_departure_time": "15:45"
+      "schedule_departure_time": "09:28",
+      "schedule_arrival_time": "19:43"
     },
     {
-      "schedule_arrival_time": "02:45",
-      "schedule_departure_time": "11:45"
+      "schedule_departure_time": "05:34",
+      "schedule_arrival_time": "21:11"
     },
     {
-      "schedule_arrival_time": "06:00",
-      "schedule_departure_time": "23:15"
+      "schedule_departure_time": "12:36",
+      "schedule_arrival_time": "10:28"
     },
     {
-      "schedule_arrival_time": "04:22",
-      "schedule_departure_time": "07:45"
+      "schedule_departure_time": "21:31",
+      "schedule_arrival_time": "14:46"
     },
     {
-      "schedule_arrival_time": "16:30",
-      "schedule_departure_time": "15:45"
+      "schedule_departure_time": "03:38",
+      "schedule_arrival_time": "19:15"
     },
     {
-      "schedule_arrival_time": "11:00",
-      "schedule_departure_time": "22:30"
+      "schedule_departure_time": "15:42",
+      "schedule_arrival_time": "04:49"
     },
     {
-      "schedule_arrival_time": "05:53",
-      "schedule_departure_time": "22:45"
+      "schedule_departure_time": "23:28",
+      "schedule_arrival_time": "14:50"
     },
     {
-      "schedule_arrival_time": "07:00",
-      "schedule_departure_time": "06:30"
+      "schedule_departure_time": "12:26",
+      "schedule_arrival_time": "07:48"
     },
     {
-      "schedule_arrival_time": "23:19",
-      "schedule_departure_time": "19:45"
+      "schedule_departure_time": "22:30",
+      "schedule_arrival_time": "07:00"
     },
     {
-      "schedule_arrival_time": "00:15",
-      "schedule_departure_time": "09:15"
+      "schedule_departure_time": "07:27",
+      "schedule_arrival_time": "12:12"
     },
     {
-      "schedule_arrival_time": "18:45",
-      "schedule_departure_time": "12:45"
+      "schedule_departure_time": "11:14",
+      "schedule_arrival_time": "15:44"
     },
     {
-      "schedule_arrival_time": "03:00",
-      "schedule_departure_time": "14:30"
+      "schedule_departure_time": "22:48",
+      "schedule_arrival_time": "09:48"
     },
     {
-      "schedule_arrival_time": "13:34",
-      "schedule_departure_time": "09:00"
+      "schedule_departure_time": "22:00",
+      "schedule_arrival_time": "19:52"
     },
     {
-      "schedule_arrival_time": "19:30",
-      "schedule_departure_time": "14:30"
+      "schedule_departure_time": "05:23",
+      "schedule_arrival_time": "07:23"
     },
     {
-      "schedule_arrival_time": "20:42",
-      "schedule_departure_time": "18:00"
+      "schedule_departure_time": "15:43",
+      "schedule_arrival_time": "04:50"
     },
     {
-      "schedule_arrival_time": "01:07",
-      "schedule_departure_time": "05:45"
+      "schedule_departure_time": "08:56",
+      "schedule_arrival_time": "10:56"
     },
     {
-      "schedule_arrival_time": "13:52",
-      "schedule_departure_time": "22:15"
+      "schedule_departure_time": "05:05",
+      "schedule_arrival_time": "13:50"
     },
     {
-      "schedule_arrival_time": "22:45",
-      "schedule_departure_time": "16:00"
+      "schedule_departure_time": "17:31",
+      "schedule_arrival_time": "17:53"
     },
     {
-      "schedule_arrival_time": "11:44",
-      "schedule_departure_time": "11:45"
+      "schedule_departure_time": "16:58",
+      "schedule_arrival_time": "14:50"
     },
     {
-      "schedule_arrival_time": "18:00",
-      "schedule_departure_time": "18:15"
+      "schedule_departure_time": "15:00",
+      "schedule_arrival_time": "05:45"
     },
     {
-      "schedule_arrival_time": "02:32",
-      "schedule_departure_time": "21:15"
+      "schedule_departure_time": "03:55",
+      "schedule_arrival_time": "06:47"
     },
     {
-      "schedule_arrival_time": "10:04",
-      "schedule_departure_time": "08:30"
+      "schedule_departure_time": "12:51",
+      "schedule_arrival_time": "23:06"
+    }
+  ],
+  "flight schedule hours": [
+    {
+      "schedule_departure_time": "19:14",
+      "schedule_arrival_time": "19:19"
+    },
+    {
+      "schedule_departure_time": "09:15",
+      "schedule_arrival_time": "14:57"
     },
     {
-      "schedule_arrival_time": "03:52",
-      "schedule_departure_time": "12:15"
+      "schedule_departure_time": "16:07",
+      "schedule_arrival_time": "19:58"
     },
     {
-      "schedule_arrival_time": "09:02",
-      "schedule_departure_time": "05:45"
+      "schedule_departure_time": "16:15",
+      "schedule_arrival_time": "22:57"
     },
     {
-      "schedule_arrival_time": "11:15",
-      "schedule_departure_time": "06:30"
+      "schedule_departure_time": "04:50",
+      "schedule_arrival_time": "08:32"
     },
     {
-      "schedule_arrival_time": "19:40",
-      "schedule_departure_time": "18:15"
+      "schedule_departure_time": "21:41",
+      "schedule_arrival_time": "01:11"
     },
     {
-      "schedule_arrival_time": "15:44",
-      "schedule_departure_time": "15:45"
+      "schedule_departure_time": "13:46",
+      "schedule_arrival_time": "18:54"
     },
     {
-      "schedule_arrival_time": "10:30",
-      "schedule_departure_time": "20:45"
+      "schedule_departure_time": "18:36",
+      "schedule_arrival_time": "21:18"
     },
     {
-      "schedule_arrival_time": "02:30",
-      "schedule_departure_time": "22:30"
+      "schedule_departure_time": "09:08",
+      "schedule_arrival_time": "16:25"
     },
     {
-      "schedule_arrival_time": "13:15",
-      "schedule_departure_time": "11:45"
+      "schedule_departure_time": "22:47",
+      "schedule_arrival_time": "04:38"
     },
     {
-      "schedule_arrival_time": "03:52",
-      "schedule_departure_time": "08:30"
+      "schedule_departure_time": "11:35",
+      "schedule_arrival_time": "12:58"
     },
     {
-      "schedule_arrival_time": "03:52",
-      "schedule_departure_time": "18:45"
+      "schedule_departure_time": "17:24",
+      "schedule_arrival_time": "18:25"
     },
     {
-      "schedule_arrival_time": "22:38",
-      "schedule_departure_time": "18:00"
+      "schedule_departure_time": "13:43",
+      "schedule_arrival_time": "17:00"
     },
     {
-      "schedule_arrival_time": "02:49",
-      "schedule_departure_time": "21:15"
+      "schedule_departure_time": "06:15",
+      "schedule_arrival_time": "08:32"
     },
     {
-      "schedule_arrival_time": "12:34",
-      "schedule_departure_time": "10:00"
+      "schedule_departure_time": "18:21",
+      "schedule_arrival_time": "21:12"
     },
     {
-      "schedule_arrival_time": "07:53",
-      "schedule_departure_time": "05:45"
+      "schedule_departure_time": "04:43",
+      "schedule_arrival_time": "05:55"
     },
     {
-      "schedule_arrival_time": "16:07",
-      "schedule_departure_time": "18:15"
+      "schedule_departure_time": "15:36",
+      "schedule_arrival_time": "17:10"
     },
     {
-      "schedule_arrival_time": "18:53",
-      "schedule_departure_time": "16:15"
+      "schedule_departure_time": "12:09",
+      "schedule_arrival_time": "17:09"
     },
     {
-      "schedule_arrival_time": "15:59",
-      "schedule_departure_time": "16:00"
+      "schedule_departure_time": "03:07",
+      "schedule_arrival_time": "04:41"
     },
     {
-      "schedule_arrival_time": "05:30",
-      "schedule_departure_time": "14:30"
+      "schedule_departure_time": "11:56",
+      "schedule_arrival_time": "13:43"
     },
     {
-      "schedule_arrival_time": "19:47",
-      "schedule_departure_time": "14:30"
+      "schedule_departure_time": "04:58",
+      "schedule_arrival_time": "07:32"
     },
     {
-      "schedule_arrival_time": "17:15",
-      "schedule_departure_time": "09:00"
+      "schedule_departure_time": "15:25",
+      "schedule_arrival_time": "22:25"
     },
     {
-      "schedule_arrival_time": "08:45",
-      "schedule_departure_time": "12:45"
+      "schedule_departure_time": "14:05",
+      "schedule_arrival_time": "16:26"
     },
     {
-      "schedule_arrival_time": "12:17",
-      "schedule_departure_time": "09:00"
+      "schedule_departure_time": "18:41",
+      "schedule_arrival_time": "00:23"
     },
     {
-      "schedule_arrival_time": "00:04",
-      "schedule_departure_time": "22:30"
+      "schedule_departure_time": "10:10",
+      "schedule_arrival_time": "11:59"
     },
     {
-      "schedule_arrival_time": "07:44",
-      "schedule_departure_time": "07:45"
+      "schedule_departure_time": "22:24",
+      "schedule_arrival_time": "03:24"
     },
     {
-      "schedule_arrival_time": "14:27",
-      "schedule_departure_time": "11:45"
+      "schedule_departure_time": "19:23",
+      "schedule_arrival_time": "21:48"
     },
     {
-      "schedule_arrival_time": "10:22",
-      "schedule_departure_time": "18:45"
+      "schedule_departure_time": "17:15",
+      "schedule_arrival_time": "20:15"
     },
     {
-      "schedule_arrival_time": "14:07",
-      "schedule_departure_time": "15:00"
+      "schedule_departure_time": "05:38",
+      "schedule_arrival_time": "06:39"
     },
     {
-      "schedule_arrival_time": "15:49",
-      "schedule_departure_time": "14:00"
+      "schedule_departure_time": "11:52",
+      "schedule_arrival_time": "14:00"
     },
     {
-      "schedule_arrival_time": "00:53",
-      "schedule_departure_time": "19:45"
+      "schedule_departure_time": "14:48",
+      "schedule_arrival_time": "20:48"
     },
     {
-      "schedule_arrival_time": "08:51",
-      "schedule_departure_time": "06:30"
+      "schedule_departure_time": "22:27",
+      "schedule_arrival_time": "00:14"
     },
     {
-      "schedule_arrival_time": "19:44",
-      "schedule_departure_time": "19:45"
+      "schedule_departure_time": "14:43",
+      "schedule_arrival_time": "15:39"
     },
     {
-      "schedule_arrival_time": "13:59",
-      "schedule_departure_time": "14:00"
+      "schedule_departure_time": "18:06",
+      "schedule_arrival_time": "20:23"
     },
     {
-      "schedule_arrival_time": "23:29",
-      "schedule_departure_time": "23:30"
+      "schedule_departure_time": "06:18",
+      "schedule_arrival_time": "08:48"
     },
     {
-      "schedule_arrival_time": "03:57",
-      "schedule_departure_time": "21:15"
+      "schedule_departure_time": "17:14",
+      "schedule_arrival_time": "22:01"
     },
     {
-      "schedule_arrival_time": "11:27",
-      "schedule_departure_time": "07:45"
+      "schedule_departure_time": "06:52",
+      "schedule_arrival_time": "10:04"
     },
     {
-      "schedule_arrival_time": "20:53",
-      "schedule_departure_time": "15:45"
+      "schedule_departure_time": "11:46",
+      "schedule_arrival_time": "13:18"
     },
     {
-      "schedule_arrival_time": "08:59",
-      "schedule_departure_time": "09:00"
+      "schedule_departure_time": "06:05",
+      "schedule_arrival_time": "06:43"
     },
     {
-      "schedule_arrival_time": "16:04",
-      "schedule_departure_time": "14:00"
+      "schedule_departure_time": "02:52",
+      "schedule_arrival_time": "03:43"
     }
   ]
 }

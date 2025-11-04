@@ -1,15 +1,20 @@
 import random
 from datetime import datetime, timedelta
+from decimal import Decimal
 from sql_connection import conn
 
 random.seed(42)
 
-# Константи політик
+# --- Константи політик ---
 EARLY_BIRD_DAYS = 45
 LAST_MINUTE_DAYS = 7
 
 with conn.cursor() as cursor:
-    # --- Зчитуємо package tours ---
+    # --- Зчитуємо менеджерів ---
+    cursor.execute("SELECT travel_agency_manager_id FROM travel_agency_manager")
+    managers = [row[0] for row in cursor.fetchall()]
+
+    # --- Зчитуємо пакетні тури ---
     cursor.execute("""
         SELECT 
             pt.package_tour_id,
@@ -49,44 +54,66 @@ with conn.cursor() as cursor:
          max_adults, max_children,
          room_price, meal_price) = pt
 
-        # Дата туру
         tour_start = datetime.strptime(str(tour_start_str), "%Y-%m-%d")
         tour_end = datetime.strptime(str(tour_end_str), "%Y-%m-%d")
+        stay_days = (tour_end - tour_start).days
 
-        # Генеруємо дату бронювання до 60 днів перед туром
         booking_date = tour_start - timedelta(days=random.randint(1, 60))
 
-        # Випадкова кількість дорослих і дітей
         adults_count = random.randint(1, max_adults)
         children_count = random.randint(0, max_children)
         if adults_count + children_count > max_adults + max_children:
             children_count = (max_adults + max_children) - adults_count
 
-        # --- Калькуляція ціни з урахуванням політики ---
+        # --- Ціна проживання ---
         cursor.execute("""
             SELECT policy_type_id, accommodation_price_percent, nutrition_price_percent 
-            FROM pricing_policy 
-            WHERE pricing_policy_id = ?
+            FROM pricing_policy WHERE pricing_policy_id = ?
         """, pricing_policy_id)
-        policy = cursor.fetchone()
-        policy_type_id, acc_percent, nutr_percent = policy
+        policy_type_id, acc_percent, nutr_percent = cursor.fetchone()
 
-        total_room = (adults_count + children_count) * room_price
-        total_meal = (adults_count + children_count) * meal_price
+        total_room = Decimal(adults_count + children_count) * Decimal(room_price)
+        total_meal = Decimal(adults_count + children_count) * Decimal(meal_price)
 
-        # Early bird / Last minute / Child discount
-        if policy_type_id == 1 and (tour_start - booking_date).days > EARLY_BIRD_DAYS:  # Early bird
-            total_room *= acc_percent
-            total_meal *= nutr_percent
-        elif policy_type_id == 2:  # Child discount
-            total_room = adults_count*room_price + children_count*room_price*acc_percent
-            total_meal = adults_count*meal_price + children_count*meal_price*nutr_percent
-        elif policy_type_id == 3 and (tour_start - booking_date).days < LAST_MINUTE_DAYS:  # Last minute
-            total_room *= acc_percent
-            total_meal *= nutr_percent
+        if policy_type_id == 1 and (tour_start - booking_date).days > EARLY_BIRD_DAYS:
+            total_room *= Decimal(acc_percent)
+            total_meal *= Decimal(nutr_percent)
+        elif policy_type_id == 2:
+            total_room = adults_count*Decimal(room_price) + children_count*Decimal(room_price)*Decimal(acc_percent)
+            total_meal = adults_count*Decimal(meal_price) + children_count*Decimal(meal_price)*Decimal(nutr_percent)
+        elif policy_type_id == 3 and (tour_start - booking_date).days < LAST_MINUTE_DAYS:
+            total_room *= Decimal(acc_percent)
+            total_meal *= Decimal(nutr_percent)
 
-        total_price = total_room + total_meal
+        total_accommodation_price = (total_room + total_meal) * stay_days
 
+        # --- Ціна транспорту ---
+        cursor.execute("""
+            SELECT bti.bus_trip_id, bti.bus_trip_in_tour_actual_price
+            FROM package_tour_bus_trip_in_tour ptb
+            JOIN bus_trip_in_tour bti ON bti.bus_trip_in_tour_id = ptb.bus_trip_in_tour_id
+            WHERE ptb.package_tour_id = ?
+        """, package_tour_id)
+        bus_trip_data = cursor.fetchone()
+        transport_price = Decimal('0')
+
+        if bus_trip_data:
+            bus_trip_id, actual_price = bus_trip_data
+            days_before = (tour_start - booking_date).days
+            # логіка раннього/останніх днів для транспорту
+            if days_before > EARLY_BIRD_DAYS:
+                transport_price = Decimal(actual_price) * Decimal('0.9')
+            elif days_before < LAST_MINUTE_DAYS:
+                transport_price = Decimal(actual_price) * Decimal('1.2')
+            else:
+                transport_price = Decimal(actual_price)
+
+        total_price = total_accommodation_price + transport_price
+
+        # --- Випадковий менеджер ---
+        travel_agency_manager_id = random.choice(managers)
+
+        # --- Insert booking ---
         cursor.execute("""
             INSERT INTO booking (
                 travel_agency_manager_id,
@@ -96,10 +123,17 @@ with conn.cursor() as cursor:
                 booking_children_count,
                 booking_date,
                 booking_total_price
-            )
-            OUTPUT INSERTED.booking_id
+            ) OUTPUT INSERTED.booking_id
             VALUES (?, ?, ?, ?, ?, ?, ?)
-        """, (1, package_tour_id, 1, adults_count, children_count, booking_date.strftime("%Y-%m-%d"), total_price))
+        """, (
+            travel_agency_manager_id,
+            package_tour_id,
+            1,
+            adults_count,
+            children_count,
+            booking_date.strftime("%Y-%m-%d"),
+            total_price
+        ))
         booking_id = cursor.fetchone()[0]
 
         # --- Прив’язка пасажирів ---

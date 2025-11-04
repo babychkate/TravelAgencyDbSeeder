@@ -51,15 +51,55 @@ for t in flight_trips:
         t["from_city"] = route_info["departure_city_name"]
         t["to_city"] = route_info["arrival_city_name"]
 
+# --- Списки для генерації назв та описів ---
+tour_name_adjectives = [
+    "Luxury", "Adventure", "Romantic", "Family", "Exclusive", "Relaxing", "Exciting",
+    "Cultural", "Scenic", "Unforgettable", "Gourmet", "Wellness", "Active", "Charming",
+    "Breathtaking", "Historical", "Tranquil", "Vibrant", "Nature", "Epic"
+]
+
+tour_name_nouns = [
+    "Escape", "Journey", "Experience", "Getaway", "Retreat", "Holiday", "Tour",
+    "Adventure", "Odyssey", "Expedition", "Excursion", "Voyage", "Quest", "Trip",
+    "Sojourn", "Exploration", "Break", "Safari", "Discovery"
+]
+
+tour_description_templates = [
+    "Enjoy a {adjective} stay at {hotel} with comfort and style.",
+    "This {adjective} tour offers relaxation and unforgettable experiences at {hotel}.",
+    "Perfect for families, the {adjective} getaway at {hotel} includes meals and comfortable rooms.",
+    "Experience {adjective} moments at {hotel} with top-notch services and amenities.",
+    "Discover the beauty of {hotel} in this {adjective} travel experience.",
+    "Make your stay {adjective} at {hotel} with luxurious accommodations and personalized service.",
+    "Embark on a {adjective} journey at {hotel} and explore local attractions.",
+    "Enjoy {adjective} adventures and leisure at {hotel}, perfect for all travelers.",
+    "Relax and unwind with a {adjective} escape at {hotel}.",
+    "The {adjective} retreat at {hotel} guarantees unforgettable memories.",
+    "Stay {adjective} at {hotel} and indulge in fine dining and spa experiences.",
+    "Discover {adjective} comfort and elegance at {hotel} during your stay.",
+    "Experience the {adjective} charm of {hotel} and enjoy premium amenities.",
+    "A {adjective} holiday at {hotel} awaits with exciting activities and cozy rooms.",
+    "Feel {adjective} moments at {hotel} with beautiful views and relaxing ambiance.",
+    "Plan a {adjective} vacation at {hotel} full of comfort, fun, and culinary delights.",
+    "Enjoy a {adjective} blend of relaxation and adventure at {hotel}.",
+    "Stay {adjective} at {hotel} with family-friendly facilities and entertainment options.",
+    "The {adjective} experience at {hotel} combines style, comfort, and excellent service.",
+    "Make your trip {adjective} with an unforgettable stay at {hotel}."
+]
+
 # --- Допоміжні функції ---
 def random_operator():
     return random.choice(organizations)
 
 def random_tour_name(index):
-    return f"Tour {str(index).zfill(4)}"
+    adjective = random.choice(tour_name_adjectives)
+    noun = random.choice(tour_name_nouns)
+    return f"{adjective} {noun} #{str(index).zfill(4)}"
 
-def random_description():
-    return "Description for this package tour"
+def random_description(hotel_name):
+    template = random.choice(tour_description_templates)
+    adjective = random.choice(tour_name_adjectives)
+    return template.format(adjective=adjective, hotel=hotel_name)
 
 # --- Генерація пакетних турів ---
 package_tours = []
@@ -72,29 +112,25 @@ for acc in accommodations:
     if not hotel_city:
         continue  # пропускаємо, якщо міста немає
 
-    # Всі рейси, що прибувають у місто готелю **до або на початку туристичного сезону**
     acc_start = datetime.strptime(acc["tour_accommodation_start_date"], "%Y-%m-%d")
     acc_end = datetime.strptime(acc["tour_accommodation_end_date"], "%Y-%m-%d")
 
     matching_bus_trips = [
-    t for t in bus_trips
-    if t.get("to_city") == hotel_city
-    and acc_start - timedelta(days=1) <= datetime.strptime(t["date"], "%Y-%m-%d") <= acc_start
+        t for t in bus_trips
+        if t.get("to_city") == hotel_city
+        and acc_start - timedelta(days=1) <= datetime.strptime(t["date"], "%Y-%m-%d") <= acc_start
     ]
 
     matching_flight_trips = [
-    t for t in flight_trips
-    if t.get("to_city") == hotel_city
-    and acc_start - timedelta(days=1) <= datetime.strptime(t["date"], "%Y-%m-%d") <= acc_start
+        t for t in flight_trips
+        if t.get("to_city") == hotel_city
+        and acc_start - timedelta(days=1) <= datetime.strptime(t["date"], "%Y-%m-%d") <= acc_start
     ]
-
-
 
     all_matching_trips = matching_bus_trips + matching_flight_trips
     if not all_matching_trips:
-        continue  # якщо немає транспорту, пропускаємо
+        continue
 
-    # Випадкова вибірка рейсів для зменшення кількості турів
     selected_trips = random.sample(
         all_matching_trips,
         k=min(max_trips_per_accommodation, len(all_matching_trips))
@@ -103,10 +139,8 @@ for acc in accommodations:
     for t in selected_trips:
         trip_type = "bus" if t in matching_bus_trips else "flight"
 
-        # Початок туру = дата рейсу
         tour_start = datetime.strptime(t["date"], "%Y-%m-%d")
 
-        # Кінець туру = кінець accommodation + тривалість рейсу
         dep_time = datetime.strptime(t[f"{trip_type}_trip_departure_time"], "%H:%M")
         arr_time = datetime.strptime(t[f"{trip_type}_trip_arrival_time"], "%H:%M")
         duration = arr_time - dep_time
@@ -117,7 +151,7 @@ for acc in accommodations:
         package_tours.append({
             "tour_operator_name": random_operator(),
             "tour_accommodation": acc,
-            "tour_transport": {   # додаємо транспорт
+            "tour_transport": {
                 "transport_type": trip_type,
                 "route_number": t["route_number"],
                 "date": t["date"],
@@ -129,7 +163,7 @@ for acc in accommodations:
             },
             "package_tour_status_name": "Active",
             "package_tour_name": random_tour_name(tour_index),
-            "package_tour_description": random_description(),
+            "package_tour_description": random_description(acc["hotel_name"]),
             "package_tour_start_date": tour_start.strftime("%Y-%m-%d"),
             "package_tour_end_date": tour_end.strftime("%Y-%m-%d"),
             "package_tour_max_tourists_count": max_tourists * max_tourists_multiplier

@@ -1,0 +1,3504 @@
+{
+  "hotel nearby objects": [
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "nearby_object_name": "Hadrian's Gate",
+      "from_hotel_to_object_distance_km": 4.73,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 95
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "nearby_object_name": "Prado Museum",
+      "from_hotel_to_object_distance_km": 7.03,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 141
+    },
+    {
+      "hotel_name": "Hotel Ziya",
+      "nearby_object_name": "Podgorica Railway Station",
+      "from_hotel_to_object_distance_km": 0.82,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 16
+    },
+    {
+      "hotel_name": "Raffles Europejski Warsaw",
+      "nearby_object_name": "Złote Tarasy",
+      "from_hotel_to_object_distance_km": 8.75,
+      "time_to_object_by_transport_min": 18,
+      "time_to_object_by_walk_min": 175
+    },
+    {
+      "hotel_name": "Raffles Europejski Warsaw",
+      "nearby_object_name": "Złote Tarasy",
+      "from_hotel_to_object_distance_km": 8.21,
+      "time_to_object_by_transport_min": 16,
+      "time_to_object_by_walk_min": 164
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Istanbul at Sultanahmet",
+      "nearby_object_name": "Istanbul Airport (IST)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Holiday Inn Thessaloniki",
+      "nearby_object_name": "Nea Paralia Seafront Park",
+      "from_hotel_to_object_distance_km": 0.97,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 19
+    },
+    {
+      "hotel_name": "The Mandala Hotel",
+      "nearby_object_name": "Berlin Brandenburg Airport (BER)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Dubrovnik Palace",
+      "nearby_object_name": "Banje Beach",
+      "from_hotel_to_object_distance_km": 9.27,
+      "time_to_object_by_transport_min": 19,
+      "time_to_object_by_walk_min": 185
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "nearby_object_name": "Nice Côte d'Azur Airport (NCE)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Pullman Munich",
+      "nearby_object_name": "Hofbräuhaus",
+      "from_hotel_to_object_distance_km": 1.36,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 27
+    },
+    {
+      "hotel_name": "Le Bristol Paris",
+      "nearby_object_name": "Eiffel Tower",
+      "from_hotel_to_object_distance_km": 4.34,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 87
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "nearby_object_name": "Sakalla Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "VP Plaza España Design",
+      "nearby_object_name": "Royal Palace of Madrid",
+      "from_hotel_to_object_distance_km": 1.12,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 22
+    },
+    {
+      "hotel_name": "Hotel Vestibul Palace & Villa",
+      "nearby_object_name": "Diocletian's Palace",
+      "from_hotel_to_object_distance_km": 4.1,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 82
+    },
+    {
+      "hotel_name": "Raffles Europejski Warsaw",
+      "nearby_object_name": "Warsaw Chopin Airport (WAW)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "The Mandala Hotel",
+      "nearby_object_name": "Pergamon Museum",
+      "from_hotel_to_object_distance_km": 5.14,
+      "time_to_object_by_transport_min": 10,
+      "time_to_object_by_walk_min": 103
+    },
+    {
+      "hotel_name": "Hôtel Plaza Athénée",
+      "nearby_object_name": "Eiffel Tower",
+      "from_hotel_to_object_distance_km": 2.16,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 43
+    },
+    {
+      "hotel_name": "Puro Warszawa Centrum",
+      "nearby_object_name": "Złote Tarasy",
+      "from_hotel_to_object_distance_km": 7.67,
+      "time_to_object_by_transport_min": 15,
+      "time_to_object_by_walk_min": 153
+    },
+    {
+      "hotel_name": "Hotel Ziya",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Citadel Inn",
+      "nearby_object_name": "Lviv National Opera",
+      "from_hotel_to_object_distance_km": 2.89,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 58
+    },
+    {
+      "hotel_name": "Electra Palace Thessaloniki",
+      "nearby_object_name": "Archaeological Museum of Thessaloniki",
+      "from_hotel_to_object_distance_km": 3.06,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 61
+    },
+    {
+      "hotel_name": "KONTRAKT Boutique Hotel",
+      "nearby_object_name": "Kanapa Restaurant",
+      "from_hotel_to_object_distance_km": 2.07,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 41
+    },
+    {
+      "hotel_name": "Le Méridien Nice",
+      "nearby_object_name": "Castle Hill (Colline du Château)",
+      "from_hotel_to_object_distance_km": 2.1,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 42
+    },
+    {
+      "hotel_name": "The Ritz-Carlton, Berlin",
+      "nearby_object_name": "Brandenburg Gate",
+      "from_hotel_to_object_distance_km": 1.2,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 24
+    },
+    {
+      "hotel_name": "Hotel Vestibul Palace & Villa",
+      "nearby_object_name": "Split Airport (SPU)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Jaz Belvedere",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 7.03,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 141
+    },
+    {
+      "hotel_name": "Hilton Podgorica Crna Gora",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Astoria Hotel",
+      "nearby_object_name": "Lviv Historical Museum",
+      "from_hotel_to_object_distance_km": 4.48,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 90
+    },
+    {
+      "hotel_name": "Hotel Tre Canne",
+      "nearby_object_name": "Budva Old Town",
+      "from_hotel_to_object_distance_km": 4.4,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 88
+    },
+    {
+      "hotel_name": "Hotel Arts Barcelona",
+      "nearby_object_name": "Park Güell",
+      "from_hotel_to_object_distance_km": 4.9,
+      "time_to_object_by_transport_min": 10,
+      "time_to_object_by_walk_min": 98
+    },
+    {
+      "hotel_name": "Hilton Imperial Dubrovnik",
+      "nearby_object_name": "Banje Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "BURSA Hotel Kyiv",
+      "nearby_object_name": "Kyiv Pechersk Lavra",
+      "from_hotel_to_object_distance_km": 1.21,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 24
+    },
+    {
+      "hotel_name": "Makedonia Palace",
+      "nearby_object_name": "Archaeological Museum of Thessaloniki",
+      "from_hotel_to_object_distance_km": 7.84,
+      "time_to_object_by_transport_min": 16,
+      "time_to_object_by_walk_min": 157
+    },
+    {
+      "hotel_name": "Regent Berlin",
+      "nearby_object_name": "Berlin Brandenburg Airport (BER)",
+      "from_hotel_to_object_distance_km": 7.08,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 142
+    },
+    {
+      "hotel_name": "Amalia Hotel Athens",
+      "nearby_object_name": "Acropolis Museum",
+      "from_hotel_to_object_distance_km": 4.37,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 87
+    },
+    {
+      "hotel_name": "The Rilano Hotel München",
+      "nearby_object_name": "Hofbräuhaus",
+      "from_hotel_to_object_distance_km": 1.38,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 28
+    },
+    {
+      "hotel_name": "Hotel Park Split",
+      "nearby_object_name": "Diocletian's Palace",
+      "from_hotel_to_object_distance_km": 0.83,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 17
+    },
+    {
+      "hotel_name": "Le Méridien Nice",
+      "nearby_object_name": "Castle Hill (Colline du Château)",
+      "from_hotel_to_object_distance_km": 0.54,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 11
+    },
+    {
+      "hotel_name": "The Peninsula Paris",
+      "nearby_object_name": "Louvre Museum",
+      "from_hotel_to_object_distance_km": 0.36,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 7
+    },
+    {
+      "hotel_name": "Hilton Imperial Dubrovnik",
+      "nearby_object_name": "Banje Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Avala Resort & Villas",
+      "nearby_object_name": "Budva Old Town",
+      "from_hotel_to_object_distance_km": 1.94,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 39
+    },
+    {
+      "hotel_name": "Amarant Urban Hotel",
+      "nearby_object_name": "Boryspil International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Sura Hagia Sophia",
+      "nearby_object_name": "Hagia Sophia Grand Mosque",
+      "from_hotel_to_object_distance_km": 3.65,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 73
+    },
+    {
+      "hotel_name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
+      "nearby_object_name": "Grand Bazaar",
+      "from_hotel_to_object_distance_km": 5.41,
+      "time_to_object_by_transport_min": 11,
+      "time_to_object_by_walk_min": 108
+    },
+    {
+      "hotel_name": "Nobilis Hotel",
+      "nearby_object_name": "Lviv National Opera",
+      "from_hotel_to_object_distance_km": 3.48,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 70
+    },
+    {
+      "hotel_name": "Amalia Hotel Athens",
+      "nearby_object_name": "Parthenon (Acropolis)",
+      "from_hotel_to_object_distance_km": 2.95,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 59
+    },
+    {
+      "hotel_name": "Steigenberger Hotel München",
+      "nearby_object_name": "Hofbräuhaus",
+      "from_hotel_to_object_distance_km": 2.46,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 49
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "nearby_object_name": "Złote Tarasy",
+      "from_hotel_to_object_distance_km": 7.92,
+      "time_to_object_by_transport_min": 16,
+      "time_to_object_by_walk_min": 158
+    },
+    {
+      "hotel_name": "KONTRAKT Boutique Hotel",
+      "nearby_object_name": "Kyiv Pechersk Lavra",
+      "from_hotel_to_object_distance_km": 4.97,
+      "time_to_object_by_transport_min": 10,
+      "time_to_object_by_walk_min": 99
+    },
+    {
+      "hotel_name": "Raffles Europejski Warsaw",
+      "nearby_object_name": "Warsaw Chopin Airport (WAW)",
+      "from_hotel_to_object_distance_km": 5.94,
+      "time_to_object_by_transport_min": 12,
+      "time_to_object_by_walk_min": 119
+    },
+    {
+      "hotel_name": "IC Hotels Green Palace",
+      "nearby_object_name": "Lara Beach",
+      "from_hotel_to_object_distance_km": 8.04,
+      "time_to_object_by_transport_min": 16,
+      "time_to_object_by_walk_min": 161
+    },
+    {
+      "hotel_name": "Jaz Belvedere",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 8.87,
+      "time_to_object_by_transport_min": 18,
+      "time_to_object_by_walk_min": 177
+    },
+    {
+      "hotel_name": "Puro Warszawa Centrum",
+      "nearby_object_name": "Palace of Culture and Science",
+      "from_hotel_to_object_distance_km": 3.8,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 76
+    },
+    {
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "nearby_object_name": "Dubrovnik Old Town Walls",
+      "from_hotel_to_object_distance_km": 4.59,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 92
+    },
+    {
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "nearby_object_name": "Banje Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "nearby_object_name": "Podgorica Railway Station",
+      "from_hotel_to_object_distance_km": 8.18,
+      "time_to_object_by_transport_min": 16,
+      "time_to_object_by_walk_min": 164
+    },
+    {
+      "hotel_name": "Sunrise Remal Beach Resort",
+      "nearby_object_name": "Sharm El Sheikh International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
+      "nearby_object_name": "Boryspil International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Splendid Conference & Spa Resort",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 9.47,
+      "time_to_object_by_transport_min": 19,
+      "time_to_object_by_walk_min": 189
+    },
+    {
+      "hotel_name": "Four Seasons Hotel George V, Paris",
+      "nearby_object_name": "Brandenburg Gate",
+      "from_hotel_to_object_distance_km": 2.81,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 56
+    },
+    {
+      "hotel_name": "Astoria Hotel",
+      "nearby_object_name": "Lviv Historical Museum",
+      "from_hotel_to_object_distance_km": 2.68,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 54
+    },
+    {
+      "hotel_name": "Cornaro Hotel",
+      "nearby_object_name": "Split Airport (SPU)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Electra Metropolis",
+      "nearby_object_name": "Acropolis Museum",
+      "from_hotel_to_object_distance_km": 1.65,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 33
+    },
+    {
+      "hotel_name": "The Mandala Hotel",
+      "nearby_object_name": "Berlin Brandenburg Airport (BER)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Daios Luxury Living",
+      "nearby_object_name": "Archaeological Museum of Thessaloniki",
+      "from_hotel_to_object_distance_km": 2.5,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 50
+    },
+    {
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "nearby_object_name": "Dubrovnik Old Town Walls",
+      "from_hotel_to_object_distance_km": 0.79,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 16
+    },
+    {
+      "hotel_name": "Astoria Hotel",
+      "nearby_object_name": "Lviv Historical Museum",
+      "from_hotel_to_object_distance_km": 5.16,
+      "time_to_object_by_transport_min": 10,
+      "time_to_object_by_walk_min": 103
+    },
+    {
+      "hotel_name": "Jaz Belvedere",
+      "nearby_object_name": "Sharm El Sheikh International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Arabia Azur Resort",
+      "nearby_object_name": "Sakalla Beach",
+      "from_hotel_to_object_distance_km": 2.48,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 50
+    },
+    {
+      "hotel_name": "Sheraton Nice Airport",
+      "nearby_object_name": "Nice Côte d'Azur Airport (NCE)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Rixos Sharm El Sheikh",
+      "nearby_object_name": "Sharm El Sheikh International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "nearby_object_name": "Sakalla Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Astoria Hotel",
+      "nearby_object_name": "Lviv Historical Museum",
+      "from_hotel_to_object_distance_km": 5.17,
+      "time_to_object_by_transport_min": 10,
+      "time_to_object_by_walk_min": 103
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "nearby_object_name": "Lara Beach",
+      "from_hotel_to_object_distance_km": 4.3,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 86
+    },
+    {
+      "hotel_name": "Vintage Boutique Hotel",
+      "nearby_object_name": "Lviv Historical Museum",
+      "from_hotel_to_object_distance_km": 6.6,
+      "time_to_object_by_transport_min": 13,
+      "time_to_object_by_walk_min": 132
+    },
+    {
+      "hotel_name": "Sheraton Grand Krakow",
+      "nearby_object_name": "Wawel Royal Castle",
+      "from_hotel_to_object_distance_km": 2.74,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 55
+    },
+    {
+      "hotel_name": "Fairmont Grand Hotel Kyiv",
+      "nearby_object_name": "Boryspil International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Four Seasons Hotel George V, Paris",
+      "nearby_object_name": "Gare du Nord",
+      "from_hotel_to_object_distance_km": 3.64,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 73
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "nearby_object_name": "Sakalla Beach",
+      "from_hotel_to_object_distance_km": 8.04,
+      "time_to_object_by_transport_min": 16,
+      "time_to_object_by_walk_min": 161
+    },
+    {
+      "hotel_name": "Le Méridien Nice",
+      "nearby_object_name": "Castle Hill (Colline du Château)",
+      "from_hotel_to_object_distance_km": 4.06,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 81
+    },
+    {
+      "hotel_name": "Raffles Europejski Warsaw",
+      "nearby_object_name": "Palace of Culture and Science",
+      "from_hotel_to_object_distance_km": 0.53,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 11
+    },
+    {
+      "hotel_name": "Sheraton Nice Airport",
+      "nearby_object_name": "Nice Côte d'Azur Airport (NCE)",
+      "from_hotel_to_object_distance_km": 6.4,
+      "time_to_object_by_transport_min": 13,
+      "time_to_object_by_walk_min": 128
+    },
+    {
+      "hotel_name": "Fairmont Grand Hotel Kyiv",
+      "nearby_object_name": "Kanapa Restaurant",
+      "from_hotel_to_object_distance_km": 4.38,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 88
+    },
+    {
+      "hotel_name": "SeaGull Beach Resort",
+      "nearby_object_name": "Sakalla Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Electra Palace Athens",
+      "nearby_object_name": "Parthenon (Acropolis)",
+      "from_hotel_to_object_distance_km": 0.65,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 13
+    },
+    {
+      "hotel_name": "Jaz Belvedere",
+      "nearby_object_name": "Sharm El Sheikh International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Splendid Conference & Spa Resort",
+      "nearby_object_name": "Budva Old Town",
+      "from_hotel_to_object_distance_km": 4.35,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 87
+    },
+    {
+      "hotel_name": "Delphin Imperial Hotel Lara",
+      "nearby_object_name": "Hadrian's Gate",
+      "from_hotel_to_object_distance_km": 1.19,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 24
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "nearby_object_name": "Lara Beach",
+      "from_hotel_to_object_distance_km": 3.56,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 71
+    },
+    {
+      "hotel_name": "Cornaro Hotel",
+      "nearby_object_name": "Split Airport (SPU)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Sura Hagia Sophia",
+      "nearby_object_name": "Istanbul Airport (IST)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "The Peninsula Paris",
+      "nearby_object_name": "Gare du Nord",
+      "from_hotel_to_object_distance_km": 8.8,
+      "time_to_object_by_transport_min": 18,
+      "time_to_object_by_walk_min": 176
+    },
+    {
+      "hotel_name": "Hotel Ziya",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "W Barcelona",
+      "nearby_object_name": "Park Güell",
+      "from_hotel_to_object_distance_km": 2.65,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 53
+    },
+    {
+      "hotel_name": "Hotel Dubrovnik Palace",
+      "nearby_object_name": "Dubrovnik Old Town Walls",
+      "from_hotel_to_object_distance_km": 2.6,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 52
+    },
+    {
+      "hotel_name": "Avala Resort & Villas",
+      "nearby_object_name": "Budva Old Town",
+      "from_hotel_to_object_distance_km": 1.97,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 39
+    },
+    {
+      "hotel_name": "Hotel Old Budva",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Electra Palace Athens",
+      "nearby_object_name": "Parthenon (Acropolis)",
+      "from_hotel_to_object_distance_km": 4.29,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 86
+    },
+    {
+      "hotel_name": "Steigenberger Aldau Beach Hotel",
+      "nearby_object_name": "Steigenberger Al Dau Beach Hotel",
+      "from_hotel_to_object_distance_km": 6.86,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 137
+    },
+    {
+      "hotel_name": "Hotel Budva",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 7.11,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 142
+    },
+    {
+      "hotel_name": "Fairmont Grand Hotel Kyiv",
+      "nearby_object_name": "Kanapa Restaurant",
+      "from_hotel_to_object_distance_km": 0.47,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 9
+    },
+    {
+      "hotel_name": "Hilton Podgorica Crna Gora",
+      "nearby_object_name": "Podgorica Railway Station",
+      "from_hotel_to_object_distance_km": 9.28,
+      "time_to_object_by_transport_min": 19,
+      "time_to_object_by_walk_min": 186
+    },
+    {
+      "hotel_name": "The Rilano Hotel München",
+      "nearby_object_name": "English Garden (Englischer Garten)",
+      "from_hotel_to_object_distance_km": 4.21,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 84
+    },
+    {
+      "hotel_name": "Hotel Bellotto",
+      "nearby_object_name": "Palace of Culture and Science",
+      "from_hotel_to_object_distance_km": 0.46,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 9
+    },
+    {
+      "hotel_name": "Electra Metropolis",
+      "nearby_object_name": "Parthenon (Acropolis)",
+      "from_hotel_to_object_distance_km": 3.54,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 71
+    },
+    {
+      "hotel_name": "Grand Hyatt Athens",
+      "nearby_object_name": "Eleftherios Venizelos Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "nearby_object_name": "Prado Museum",
+      "from_hotel_to_object_distance_km": 5.34,
+      "time_to_object_by_transport_min": 11,
+      "time_to_object_by_walk_min": 107
+    },
+    {
+      "hotel_name": "Hilton Munich Park",
+      "nearby_object_name": "Hofbräuhaus",
+      "from_hotel_to_object_distance_km": 3.21,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 64
+    },
+    {
+      "hotel_name": "Hotel Tre Canne",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 7.32,
+      "time_to_object_by_transport_min": 15,
+      "time_to_object_by_walk_min": 146
+    },
+    {
+      "hotel_name": "Seven Hills Hotel",
+      "nearby_object_name": "Istanbul Airport (IST)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Electra Palace Athens",
+      "nearby_object_name": "Parthenon (Acropolis)",
+      "from_hotel_to_object_distance_km": 4.53,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 91
+    },
+    {
+      "hotel_name": "Hotel Rubinstein",
+      "nearby_object_name": "Wawel Royal Castle",
+      "from_hotel_to_object_distance_km": 4.88,
+      "time_to_object_by_transport_min": 10,
+      "time_to_object_by_walk_min": 98
+    },
+    {
+      "hotel_name": "Aparthotel Stare Miasto",
+      "nearby_object_name": "Błonia Park",
+      "from_hotel_to_object_distance_km": 3.43,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 69
+    },
+    {
+      "hotel_name": "Hilton Munich Park",
+      "nearby_object_name": "English Garden (Englischer Garten)",
+      "from_hotel_to_object_distance_km": 0.37,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 7
+    },
+    {
+      "hotel_name": "Occidental Atenea Mar - Adults Only",
+      "nearby_object_name": "Park Güell",
+      "from_hotel_to_object_distance_km": 0.96,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 19
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "nearby_object_name": "Palace of Culture and Science",
+      "from_hotel_to_object_distance_km": 0.89,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 18
+    },
+    {
+      "hotel_name": "New Hotel",
+      "nearby_object_name": "Acropolis Museum",
+      "from_hotel_to_object_distance_km": 3.03,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 61
+    },
+    {
+      "hotel_name": "Electra Palace Athens",
+      "nearby_object_name": "Parthenon (Acropolis)",
+      "from_hotel_to_object_distance_km": 3.54,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 71
+    },
+    {
+      "hotel_name": "Hotel Excelsior Dubrovnik",
+      "nearby_object_name": "Dubrovnik Old Town Walls",
+      "from_hotel_to_object_distance_km": 0.38,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 8
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "nearby_object_name": "Złote Tarasy",
+      "from_hotel_to_object_distance_km": 8.65,
+      "time_to_object_by_transport_min": 17,
+      "time_to_object_by_walk_min": 173
+    },
+    {
+      "hotel_name": "Seven Hills Hotel",
+      "nearby_object_name": "Grand Bazaar",
+      "from_hotel_to_object_distance_km": 6.51,
+      "time_to_object_by_transport_min": 13,
+      "time_to_object_by_walk_min": 130
+    },
+    {
+      "hotel_name": "The Peninsula Paris",
+      "nearby_object_name": "Gare du Nord",
+      "from_hotel_to_object_distance_km": 5.81,
+      "time_to_object_by_transport_min": 12,
+      "time_to_object_by_walk_min": 116
+    },
+    {
+      "hotel_name": "BURSA Hotel Kyiv",
+      "nearby_object_name": "Kanapa Restaurant",
+      "from_hotel_to_object_distance_km": 0.93,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 19
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "nearby_object_name": "Lara Beach",
+      "from_hotel_to_object_distance_km": 8.8,
+      "time_to_object_by_transport_min": 18,
+      "time_to_object_by_walk_min": 176
+    },
+    {
+      "hotel_name": "Heritage Hotel Antique Split",
+      "nearby_object_name": "Split Airport (SPU)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "nearby_object_name": "Prado Museum",
+      "from_hotel_to_object_distance_km": 5.2,
+      "time_to_object_by_transport_min": 10,
+      "time_to_object_by_walk_min": 104
+    },
+    {
+      "hotel_name": "Limak Lara De Luxe Hotel & Resort",
+      "nearby_object_name": "Hadrian's Gate",
+      "from_hotel_to_object_distance_km": 2.24,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 45
+    },
+    {
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "nearby_object_name": "Banje Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Sunrise Remal Beach Resort",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Splendid Conference & Spa Resort",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 0.66,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 13
+    },
+    {
+      "hotel_name": "IC Hotels Green Palace",
+      "nearby_object_name": "Hadrian's Gate",
+      "from_hotel_to_object_distance_km": 0.58,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 12
+    },
+    {
+      "hotel_name": "Nobilis Hotel",
+      "nearby_object_name": "Lviv Historical Museum",
+      "from_hotel_to_object_distance_km": 3.81,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 76
+    },
+    {
+      "hotel_name": "Daios Luxury Living",
+      "nearby_object_name": "Nea Paralia Seafront Park",
+      "from_hotel_to_object_distance_km": 6.43,
+      "time_to_object_by_transport_min": 13,
+      "time_to_object_by_walk_min": 129
+    },
+    {
+      "hotel_name": "Golden Tulip Krakow City Center",
+      "nearby_object_name": "Błonia Park",
+      "from_hotel_to_object_distance_km": 5.06,
+      "time_to_object_by_transport_min": 10,
+      "time_to_object_by_walk_min": 101
+    },
+    {
+      "hotel_name": "Astoria Hotel",
+      "nearby_object_name": "Lviv Historical Museum",
+      "from_hotel_to_object_distance_km": 3.34,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 67
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "nearby_object_name": "Promenade des Anglais",
+      "from_hotel_to_object_distance_km": 9.17,
+      "time_to_object_by_transport_min": 18,
+      "time_to_object_by_walk_min": 183
+    },
+    {
+      "hotel_name": "Splendid Conference & Spa Resort",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 7.05,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 141
+    },
+    {
+      "hotel_name": "SeaGull Beach Resort",
+      "nearby_object_name": "Sakalla Beach",
+      "from_hotel_to_object_distance_km": 1.83,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 37
+    },
+    {
+      "hotel_name": "VP Plaza España Design",
+      "nearby_object_name": "Prado Museum",
+      "from_hotel_to_object_distance_km": 3.35,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 67
+    },
+    {
+      "hotel_name": "Hotel Budva",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Vestibul Palace & Villa",
+      "nearby_object_name": "Diocletian's Palace",
+      "from_hotel_to_object_distance_km": 0.41,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 8
+    },
+    {
+      "hotel_name": "Golden Tulip Krakow City Center",
+      "nearby_object_name": "Błonia Park",
+      "from_hotel_to_object_distance_km": 4.23,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 85
+    },
+    {
+      "hotel_name": "Hotel Excelsior Dubrovnik",
+      "nearby_object_name": "Dubrovnik Old Town Walls",
+      "from_hotel_to_object_distance_km": 4.45,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 89
+    },
+    {
+      "hotel_name": "Grand Hyatt Athens",
+      "nearby_object_name": "Eleftherios Venizelos Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "DoubleTree by Hilton Istanbul - Old Town",
+      "nearby_object_name": "Grand Bazaar",
+      "from_hotel_to_object_distance_km": 1.44,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 29
+    },
+    {
+      "hotel_name": "Hilton Imperial Dubrovnik",
+      "nearby_object_name": "Dubrovnik Old Town Walls",
+      "from_hotel_to_object_distance_km": 0.5,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 10
+    },
+    {
+      "hotel_name": "Jaz Belvedere",
+      "nearby_object_name": "Sharm El Sheikh International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
+      "nearby_object_name": "Madrid-Barajas Airport (MAD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "St. Joseph's Hotel",
+      "nearby_object_name": "Dubrovnik Old Town Walls",
+      "from_hotel_to_object_distance_km": 2.16,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 43
+    },
+    {
+      "hotel_name": "Makedonia Palace",
+      "nearby_object_name": "Nea Paralia Seafront Park",
+      "from_hotel_to_object_distance_km": 0.96,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 19
+    },
+    {
+      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
+      "nearby_object_name": "Boryspil International Airport",
+      "from_hotel_to_object_distance_km": 6.52,
+      "time_to_object_by_transport_min": 13,
+      "time_to_object_by_walk_min": 130
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "nearby_object_name": "Złote Tarasy",
+      "from_hotel_to_object_distance_km": 5.88,
+      "time_to_object_by_transport_min": 12,
+      "time_to_object_by_walk_min": 118
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "nearby_object_name": "Prado Museum",
+      "from_hotel_to_object_distance_km": 5.65,
+      "time_to_object_by_transport_min": 11,
+      "time_to_object_by_walk_min": 113
+    },
+    {
+      "hotel_name": "Steigenberger Hotel München",
+      "nearby_object_name": "Hofbräuhaus",
+      "from_hotel_to_object_distance_km": 1.68,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 34
+    },
+    {
+      "hotel_name": "Hampton by Hilton Barcelona Fira Gran Vía",
+      "nearby_object_name": "Barceloneta Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "SeaGull Beach Resort",
+      "nearby_object_name": "Sakalla Beach",
+      "from_hotel_to_object_distance_km": 7.74,
+      "time_to_object_by_transport_min": 15,
+      "time_to_object_by_walk_min": 155
+    },
+    {
+      "hotel_name": "Mandarin Oriental, Paris",
+      "nearby_object_name": "Gare du Nord",
+      "from_hotel_to_object_distance_km": 7.36,
+      "time_to_object_by_transport_min": 15,
+      "time_to_object_by_walk_min": 147
+    },
+    {
+      "hotel_name": "W Barcelona",
+      "nearby_object_name": "Sagrada Família",
+      "from_hotel_to_object_distance_km": 3.02,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 60
+    },
+    {
+      "hotel_name": "Four Seasons Hotel George V, Paris",
+      "nearby_object_name": "Eiffel Tower",
+      "from_hotel_to_object_distance_km": 1.62,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 32
+    },
+    {
+      "hotel_name": "Holiday Inn Thessaloniki",
+      "nearby_object_name": "Nea Paralia Seafront Park",
+      "from_hotel_to_object_distance_km": 1.56,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 31
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Istanbul at Sultanahmet",
+      "nearby_object_name": "Istanbul Airport (IST)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Park Split",
+      "nearby_object_name": "Bačvice Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Bellotto",
+      "nearby_object_name": "Palace of Culture and Science",
+      "from_hotel_to_object_distance_km": 2.07,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 41
+    },
+    {
+      "hotel_name": "Voco Podgorica (An IHG Hotel)",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "The Peninsula Paris",
+      "nearby_object_name": "Eiffel Tower",
+      "from_hotel_to_object_distance_km": 3.04,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 61
+    },
+    {
+      "hotel_name": "Grand Hotel Lviv Casino & Spa",
+      "nearby_object_name": "Lviv National Opera",
+      "from_hotel_to_object_distance_km": 1.09,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 22
+    },
+    {
+      "hotel_name": "Hotel Tre Canne",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hyatt Regency Nice Palais de la Méditerranée",
+      "nearby_object_name": "Nice Côte d'Azur Airport (NCE)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Amalia Hotel Athens",
+      "nearby_object_name": "Eleftherios Venizelos Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Sura Hagia Sophia",
+      "nearby_object_name": "Hagia Sophia Grand Mosque",
+      "from_hotel_to_object_distance_km": 1.01,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 20
+    },
+    {
+      "hotel_name": "Le Méridien Nice",
+      "nearby_object_name": "Promenade des Anglais",
+      "from_hotel_to_object_distance_km": 4.52,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 90
+    },
+    {
+      "hotel_name": "Sheraton Grand Krakow",
+      "nearby_object_name": "Błonia Park",
+      "from_hotel_to_object_distance_km": 1.53,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 31
+    },
+    {
+      "hotel_name": "Heritage Hotel Antique Split",
+      "nearby_object_name": "Split Airport (SPU)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "VP Plaza España Design",
+      "nearby_object_name": "Royal Palace of Madrid",
+      "from_hotel_to_object_distance_km": 0.55,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 11
+    },
+    {
+      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
+      "nearby_object_name": "Złote Tarasy",
+      "from_hotel_to_object_distance_km": 1.0,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 20
+    },
+    {
+      "hotel_name": "Grand Hotel Lviv Casino & Spa",
+      "nearby_object_name": "Lviv National Opera",
+      "from_hotel_to_object_distance_km": 3.49,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 70
+    },
+    {
+      "hotel_name": "Hotel Stary",
+      "nearby_object_name": "Wawel Royal Castle",
+      "from_hotel_to_object_distance_km": 3.6,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 72
+    },
+    {
+      "hotel_name": "Hilton Munich Park",
+      "nearby_object_name": "Hofbräuhaus",
+      "from_hotel_to_object_distance_km": 0.41,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 8
+    },
+    {
+      "hotel_name": "Hotel Sura Hagia Sophia",
+      "nearby_object_name": "Istanbul Airport (IST)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hôtel Plaza Athénée",
+      "nearby_object_name": "Gare du Nord",
+      "from_hotel_to_object_distance_km": 4.03,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 81
+    },
+    {
+      "hotel_name": "Hôtel Negresco",
+      "nearby_object_name": "Nice Côte d'Azur Airport (NCE)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Park Regency Sharm El Sheikh Resort",
+      "nearby_object_name": "Sharm El Sheikh International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Tre Canne",
+      "nearby_object_name": "Budva Old Town",
+      "from_hotel_to_object_distance_km": 4.93,
+      "time_to_object_by_transport_min": 10,
+      "time_to_object_by_walk_min": 99
+    },
+    {
+      "hotel_name": "Hotel Ziya",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 5.45,
+      "time_to_object_by_transport_min": 11,
+      "time_to_object_by_walk_min": 109
+    },
+    {
+      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
+      "nearby_object_name": "Palace of Culture and Science",
+      "from_hotel_to_object_distance_km": 2.73,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 55
+    },
+    {
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "nearby_object_name": "Dubrovnik Old Town Walls",
+      "from_hotel_to_object_distance_km": 2.88,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 58
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "nearby_object_name": "Lara Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "IC Hotels Green Palace",
+      "nearby_object_name": "Lara Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Park Regency Sharm El Sheikh Resort",
+      "nearby_object_name": "Sharm El Sheikh International Airport",
+      "from_hotel_to_object_distance_km": 8.72,
+      "time_to_object_by_transport_min": 17,
+      "time_to_object_by_walk_min": 174
+    },
+    {
+      "hotel_name": "Amarant Urban Hotel",
+      "nearby_object_name": "Kyiv Pechersk Lavra",
+      "from_hotel_to_object_distance_km": 3.14,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 63
+    },
+    {
+      "hotel_name": "New Hotel",
+      "nearby_object_name": "Acropolis Museum",
+      "from_hotel_to_object_distance_km": 2.93,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 59
+    },
+    {
+      "hotel_name": "Hotel Vestibul Palace & Villa",
+      "nearby_object_name": "Diocletian's Palace",
+      "from_hotel_to_object_distance_km": 3.03,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 61
+    },
+    {
+      "hotel_name": "H10 Port Vell",
+      "nearby_object_name": "Barceloneta Beach",
+      "from_hotel_to_object_distance_km": 8.63,
+      "time_to_object_by_transport_min": 17,
+      "time_to_object_by_walk_min": 173
+    },
+    {
+      "hotel_name": "Puro Warszawa Centrum",
+      "nearby_object_name": "Złote Tarasy",
+      "from_hotel_to_object_distance_km": 2.02,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 40
+    },
+    {
+      "hotel_name": "Hilton Munich Park",
+      "nearby_object_name": "English Garden (Englischer Garten)",
+      "from_hotel_to_object_distance_km": 0.65,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 13
+    },
+    {
+      "hotel_name": "Delphin Imperial Hotel Lara",
+      "nearby_object_name": "Lara Beach",
+      "from_hotel_to_object_distance_km": 6.98,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 140
+    },
+    {
+      "hotel_name": "Only YOU Boutique Hotel Madrid",
+      "nearby_object_name": "Madrid-Barajas Airport (MAD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Electra Palace Thessaloniki",
+      "nearby_object_name": "Archaeological Museum of Thessaloniki",
+      "from_hotel_to_object_distance_km": 9.68,
+      "time_to_object_by_transport_min": 19,
+      "time_to_object_by_walk_min": 194
+    },
+    {
+      "hotel_name": "Golden Tulip Krakow City Center",
+      "nearby_object_name": "Błonia Park",
+      "from_hotel_to_object_distance_km": 6.98,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 140
+    },
+    {
+      "hotel_name": "Adina Apartment Hotel Berlin Mitte",
+      "nearby_object_name": "Pergamon Museum",
+      "from_hotel_to_object_distance_km": 8.29,
+      "time_to_object_by_transport_min": 17,
+      "time_to_object_by_walk_min": 166
+    },
+    {
+      "hotel_name": "Le Bristol Paris",
+      "nearby_object_name": "Louvre Museum",
+      "from_hotel_to_object_distance_km": 9.15,
+      "time_to_object_by_transport_min": 18,
+      "time_to_object_by_walk_min": 183
+    },
+    {
+      "hotel_name": "Hotel Hemera",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 8.89,
+      "time_to_object_by_transport_min": 18,
+      "time_to_object_by_walk_min": 178
+    },
+    {
+      "hotel_name": "IC Hotels Green Palace",
+      "nearby_object_name": "Hadrian's Gate",
+      "from_hotel_to_object_distance_km": 4.19,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 84
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "nearby_object_name": "Złote Tarasy",
+      "from_hotel_to_object_distance_km": 7.51,
+      "time_to_object_by_transport_min": 15,
+      "time_to_object_by_walk_min": 150
+    },
+    {
+      "hotel_name": "Hotel Vestibul Palace & Villa",
+      "nearby_object_name": "Bačvice Beach",
+      "from_hotel_to_object_distance_km": 3.76,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 75
+    },
+    {
+      "hotel_name": "Aparthotel Stare Miasto",
+      "nearby_object_name": "Wawel Royal Castle",
+      "from_hotel_to_object_distance_km": 3.19,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 64
+    },
+    {
+      "hotel_name": "Hotel Riu Plaza España",
+      "nearby_object_name": "Madrid-Barajas Airport (MAD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hyatt Regency Nice Palais de la Méditerranée",
+      "nearby_object_name": "Nice Côte d'Azur Airport (NCE)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Holiday Inn Thessaloniki",
+      "nearby_object_name": "Archaeological Museum of Thessaloniki",
+      "from_hotel_to_object_distance_km": 9.69,
+      "time_to_object_by_transport_min": 19,
+      "time_to_object_by_walk_min": 194
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "nearby_object_name": "Royal Palace of Madrid",
+      "from_hotel_to_object_distance_km": 0.62,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 12
+    },
+    {
+      "hotel_name": "Seven Hills Hotel",
+      "nearby_object_name": "Hagia Sophia Grand Mosque",
+      "from_hotel_to_object_distance_km": 4.33,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 87
+    },
+    {
+      "hotel_name": "The MET Hotel",
+      "nearby_object_name": "Nea Paralia Seafront Park",
+      "from_hotel_to_object_distance_km": 4.49,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 90
+    },
+    {
+      "hotel_name": "Cornaro Hotel",
+      "nearby_object_name": "Bačvice Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Mandarin Oriental, Paris",
+      "nearby_object_name": "Eiffel Tower",
+      "from_hotel_to_object_distance_km": 2.72,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 54
+    },
+    {
+      "hotel_name": "Mandarin Oriental, Paris",
+      "nearby_object_name": "Brandenburg Gate",
+      "from_hotel_to_object_distance_km": 2.72,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 54
+    },
+    {
+      "hotel_name": "IC Hotels Green Palace",
+      "nearby_object_name": "Hadrian's Gate",
+      "from_hotel_to_object_distance_km": 0.72,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 14
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 7.31,
+      "time_to_object_by_transport_min": 15,
+      "time_to_object_by_walk_min": 146
+    },
+    {
+      "hotel_name": "Puro Warszawa Centrum",
+      "nearby_object_name": "Palace of Culture and Science",
+      "from_hotel_to_object_distance_km": 3.99,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 80
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "nearby_object_name": "Castle Hill (Colline du Château)",
+      "from_hotel_to_object_distance_km": 4.72,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 94
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "nearby_object_name": "Złote Tarasy",
+      "from_hotel_to_object_distance_km": 7.64,
+      "time_to_object_by_transport_min": 15,
+      "time_to_object_by_walk_min": 153
+    },
+    {
+      "hotel_name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
+      "nearby_object_name": "Istanbul Airport (IST)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Excelsior Dubrovnik",
+      "nearby_object_name": "Dubrovnik Old Town Walls",
+      "from_hotel_to_object_distance_km": 0.87,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 17
+    },
+    {
+      "hotel_name": "Nobilis Hotel",
+      "nearby_object_name": "Lviv National Opera",
+      "from_hotel_to_object_distance_km": 6.63,
+      "time_to_object_by_transport_min": 13,
+      "time_to_object_by_walk_min": 133
+    },
+    {
+      "hotel_name": "Sheraton Grand Krakow",
+      "nearby_object_name": "Błonia Park",
+      "from_hotel_to_object_distance_km": 6.51,
+      "time_to_object_by_transport_min": 13,
+      "time_to_object_by_walk_min": 130
+    },
+    {
+      "hotel_name": "Rixos Sharm El Sheikh",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Le Méridien Nice",
+      "nearby_object_name": "Promenade des Anglais",
+      "from_hotel_to_object_distance_km": 5.93,
+      "time_to_object_by_transport_min": 12,
+      "time_to_object_by_walk_min": 119
+    },
+    {
+      "hotel_name": "Hyatt Regency Nice Palais de la Méditerranée",
+      "nearby_object_name": "Promenade des Anglais",
+      "from_hotel_to_object_distance_km": 6.93,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 139
+    },
+    {
+      "hotel_name": "Rixos Sharm El Sheikh",
+      "nearby_object_name": "Sharm El Sheikh International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Arabia Azur Resort",
+      "nearby_object_name": "Steigenberger Al Dau Beach Hotel",
+      "from_hotel_to_object_distance_km": 7.77,
+      "time_to_object_by_transport_min": 16,
+      "time_to_object_by_walk_min": 155
+    },
+    {
+      "hotel_name": "Hotel Hemera",
+      "nearby_object_name": "Podgorica Railway Station",
+      "from_hotel_to_object_distance_km": 0.83,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 17
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "nearby_object_name": "Palace of Culture and Science",
+      "from_hotel_to_object_distance_km": 3.03,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 61
+    },
+    {
+      "hotel_name": "Steigenberger Aldau Beach Hotel",
+      "nearby_object_name": "Steigenberger Al Dau Beach Hotel",
+      "from_hotel_to_object_distance_km": 1.55,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 31
+    },
+    {
+      "hotel_name": "Arabia Azur Resort",
+      "nearby_object_name": "Sakalla Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Electra Palace Thessaloniki",
+      "nearby_object_name": "Nea Paralia Seafront Park",
+      "from_hotel_to_object_distance_km": 5.76,
+      "time_to_object_by_transport_min": 12,
+      "time_to_object_by_walk_min": 115
+    },
+    {
+      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
+      "nearby_object_name": "Boryspil International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Cornaro Hotel",
+      "nearby_object_name": "Split Airport (SPU)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "INNSiDE by Meliá Berlin Mitte",
+      "nearby_object_name": "Brandenburg Gate",
+      "from_hotel_to_object_distance_km": 3.81,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 76
+    },
+    {
+      "hotel_name": "Puro Warszawa Centrum",
+      "nearby_object_name": "Złote Tarasy",
+      "from_hotel_to_object_distance_km": 0.88,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 18
+    },
+    {
+      "hotel_name": "Giftun Azur Resort",
+      "nearby_object_name": "Steigenberger Al Dau Beach Hotel",
+      "from_hotel_to_object_distance_km": 2.98,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 60
+    },
+    {
+      "hotel_name": "Hilton Podgorica Crna Gora",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hilton Munich Park",
+      "nearby_object_name": "English Garden (Englischer Garten)",
+      "from_hotel_to_object_distance_km": 3.22,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 64
+    },
+    {
+      "hotel_name": "Hotel Hemera",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Delphin Imperial Hotel Lara",
+      "nearby_object_name": "Hadrian's Gate",
+      "from_hotel_to_object_distance_km": 1.7,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 34
+    },
+    {
+      "hotel_name": "Mandarin Oriental, Paris",
+      "nearby_object_name": "Gare du Nord",
+      "from_hotel_to_object_distance_km": 7.17,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 143
+    },
+    {
+      "hotel_name": "Adina Apartment Hotel Berlin Mitte",
+      "nearby_object_name": "Berlin Brandenburg Airport (BER)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "nearby_object_name": "Sakalla Beach",
+      "from_hotel_to_object_distance_km": 9.71,
+      "time_to_object_by_transport_min": 19,
+      "time_to_object_by_walk_min": 194
+    },
+    {
+      "hotel_name": "St. Joseph's Hotel",
+      "nearby_object_name": "Dubrovnik Old Town Walls",
+      "from_hotel_to_object_distance_km": 2.48,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 50
+    },
+    {
+      "hotel_name": "Amalia Hotel Athens",
+      "nearby_object_name": "Parthenon (Acropolis)",
+      "from_hotel_to_object_distance_km": 2.35,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 47
+    },
+    {
+      "hotel_name": "Electra Palace Athens",
+      "nearby_object_name": "Parthenon (Acropolis)",
+      "from_hotel_to_object_distance_km": 1.41,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 28
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "nearby_object_name": "Steigenberger Al Dau Beach Hotel",
+      "from_hotel_to_object_distance_km": 2.45,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 49
+    },
+    {
+      "hotel_name": "Jaz Belvedere",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 0.71,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 14
+    },
+    {
+      "hotel_name": "Steigenberger Hotel München",
+      "nearby_object_name": "English Garden (Englischer Garten)",
+      "from_hotel_to_object_distance_km": 6.54,
+      "time_to_object_by_transport_min": 13,
+      "time_to_object_by_walk_min": 131
+    },
+    {
+      "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
+      "nearby_object_name": "Royal Palace of Madrid",
+      "from_hotel_to_object_distance_km": 0.93,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 19
+    },
+    {
+      "hotel_name": "Liberty Hotels Lara",
+      "nearby_object_name": "Hadrian's Gate",
+      "from_hotel_to_object_distance_km": 2.39,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 48
+    },
+    {
+      "hotel_name": "Puro Warszawa Centrum",
+      "nearby_object_name": "Palace of Culture and Science",
+      "from_hotel_to_object_distance_km": 3.99,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 80
+    },
+    {
+      "hotel_name": "Only YOU Boutique Hotel Madrid",
+      "nearby_object_name": "Royal Palace of Madrid",
+      "from_hotel_to_object_distance_km": 2.11,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 42
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "nearby_object_name": "Palace of Culture and Science",
+      "from_hotel_to_object_distance_km": 0.96,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 19
+    },
+    {
+      "hotel_name": "Delphin Imperial Hotel Lara",
+      "nearby_object_name": "Hadrian's Gate",
+      "from_hotel_to_object_distance_km": 1.78,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 36
+    },
+    {
+      "hotel_name": "Jaz Belvedere",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 2.95,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 59
+    },
+    {
+      "hotel_name": "Voco Podgorica (An IHG Hotel)",
+      "nearby_object_name": "Podgorica Railway Station",
+      "from_hotel_to_object_distance_km": 1.09,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 22
+    },
+    {
+      "hotel_name": "BURSA Hotel Kyiv",
+      "nearby_object_name": "Boryspil International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Sheraton Nice Airport",
+      "nearby_object_name": "Nice Côte d'Azur Airport (NCE)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "nearby_object_name": "Warsaw Chopin Airport (WAW)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "New Hotel",
+      "nearby_object_name": "Parthenon (Acropolis)",
+      "from_hotel_to_object_distance_km": 4.83,
+      "time_to_object_by_transport_min": 10,
+      "time_to_object_by_walk_min": 97
+    },
+    {
+      "hotel_name": "Steigenberger Aldau Beach Hotel",
+      "nearby_object_name": "Steigenberger Al Dau Beach Hotel",
+      "from_hotel_to_object_distance_km": 8.36,
+      "time_to_object_by_transport_min": 17,
+      "time_to_object_by_walk_min": 167
+    },
+    {
+      "hotel_name": "VP Plaza España Design",
+      "nearby_object_name": "Prado Museum",
+      "from_hotel_to_object_distance_km": 0.38,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 8
+    },
+    {
+      "hotel_name": "Andaz Munich Schwabinger Tor - a Concept by Hyatt",
+      "nearby_object_name": "Hofbräuhaus",
+      "from_hotel_to_object_distance_km": 2.03,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 41
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "nearby_object_name": "Lara Beach",
+      "from_hotel_to_object_distance_km": 6.12,
+      "time_to_object_by_transport_min": 12,
+      "time_to_object_by_walk_min": 122
+    },
+    {
+      "hotel_name": "Rixos Sharm El Sheikh",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hyatt Regency Nice Palais de la Méditerranée",
+      "nearby_object_name": "Promenade des Anglais",
+      "from_hotel_to_object_distance_km": 4.56,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 91
+    },
+    {
+      "hotel_name": "Hyatt Regency Nice Palais de la Méditerranée",
+      "nearby_object_name": "Promenade des Anglais",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "nearby_object_name": "Steigenberger Al Dau Beach Hotel",
+      "from_hotel_to_object_distance_km": 1.22,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 24
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "nearby_object_name": "Madrid-Barajas Airport (MAD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Splendid Conference & Spa Resort",
+      "nearby_object_name": "Budva Old Town",
+      "from_hotel_to_object_distance_km": 4.22,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 84
+    },
+    {
+      "hotel_name": "Hotel Riu Plaza España",
+      "nearby_object_name": "Prado Museum",
+      "from_hotel_to_object_distance_km": 7.37,
+      "time_to_object_by_transport_min": 15,
+      "time_to_object_by_walk_min": 147
+    },
+    {
+      "hotel_name": "Aparthotel Stare Miasto",
+      "nearby_object_name": "Błonia Park",
+      "from_hotel_to_object_distance_km": 2.09,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 42
+    },
+    {
+      "hotel_name": "Liberty Hotels Lara",
+      "nearby_object_name": "Lara Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "INNSiDE by Meliá Berlin Mitte",
+      "nearby_object_name": "Brandenburg Gate",
+      "from_hotel_to_object_distance_km": 2.68,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 54
+    },
+    {
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "nearby_object_name": "Sharm El Sheikh International Airport",
+      "from_hotel_to_object_distance_km": 9.6,
+      "time_to_object_by_transport_min": 19,
+      "time_to_object_by_walk_min": 192
+    },
+    {
+      "hotel_name": "Atrium Hotel",
+      "nearby_object_name": "Diocletian's Palace",
+      "from_hotel_to_object_distance_km": 3.52,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 70
+    },
+    {
+      "hotel_name": "INNSiDE by Meliá Berlin Mitte",
+      "nearby_object_name": "Berlin Brandenburg Airport (BER)",
+      "from_hotel_to_object_distance_km": 6.66,
+      "time_to_object_by_transport_min": 13,
+      "time_to_object_by_walk_min": 133
+    },
+    {
+      "hotel_name": "Holiday Inn Thessaloniki",
+      "nearby_object_name": "Nea Paralia Seafront Park",
+      "from_hotel_to_object_distance_km": 6.09,
+      "time_to_object_by_transport_min": 12,
+      "time_to_object_by_walk_min": 122
+    },
+    {
+      "hotel_name": "St. Joseph's Hotel",
+      "nearby_object_name": "Dubrovnik Old Town Walls",
+      "from_hotel_to_object_distance_km": 0.32,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 6
+    },
+    {
+      "hotel_name": "Adina Apartment Hotel Berlin Mitte",
+      "nearby_object_name": "Pergamon Museum",
+      "from_hotel_to_object_distance_km": 9.49,
+      "time_to_object_by_transport_min": 19,
+      "time_to_object_by_walk_min": 190
+    },
+    {
+      "hotel_name": "Hilton Imperial Dubrovnik",
+      "nearby_object_name": "Banje Beach",
+      "from_hotel_to_object_distance_km": 2.93,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 59
+    },
+    {
+      "hotel_name": "The Rilano Hotel München",
+      "nearby_object_name": "English Garden (Englischer Garten)",
+      "from_hotel_to_object_distance_km": 6.84,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 137
+    },
+    {
+      "hotel_name": "Limak Lara De Luxe Hotel & Resort",
+      "nearby_object_name": "Hadrian's Gate",
+      "from_hotel_to_object_distance_km": 3.41,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 68
+    },
+    {
+      "hotel_name": "Hotel Ziya",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Holiday Inn Thessaloniki",
+      "nearby_object_name": "Archaeological Museum of Thessaloniki",
+      "from_hotel_to_object_distance_km": 2.19,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 44
+    },
+    {
+      "hotel_name": "The Rilano Hotel München",
+      "nearby_object_name": "Hofbräuhaus",
+      "from_hotel_to_object_distance_km": 4.93,
+      "time_to_object_by_transport_min": 10,
+      "time_to_object_by_walk_min": 99
+    },
+    {
+      "hotel_name": "Electra Palace Athens",
+      "nearby_object_name": "Parthenon (Acropolis)",
+      "from_hotel_to_object_distance_km": 0.71,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 14
+    },
+    {
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "nearby_object_name": "Sharm El Sheikh International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "nearby_object_name": "Sakalla Beach",
+      "from_hotel_to_object_distance_km": 6.49,
+      "time_to_object_by_transport_min": 13,
+      "time_to_object_by_walk_min": 130
+    },
+    {
+      "hotel_name": "Heritage Hotel Antique Split",
+      "nearby_object_name": "Bačvice Beach",
+      "from_hotel_to_object_distance_km": 9.32,
+      "time_to_object_by_transport_min": 19,
+      "time_to_object_by_walk_min": 186
+    },
+    {
+      "hotel_name": "Hotel Budva",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 4.17,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 83
+    },
+    {
+      "hotel_name": "Hotel Ziya",
+      "nearby_object_name": "Podgorica Railway Station",
+      "from_hotel_to_object_distance_km": 3.67,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 73
+    },
+    {
+      "hotel_name": "Sunrise Remal Beach Resort",
+      "nearby_object_name": "Sharm El Sheikh International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Daios Luxury Living",
+      "nearby_object_name": "Archaeological Museum of Thessaloniki",
+      "from_hotel_to_object_distance_km": 2.86,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 57
+    },
+    {
+      "hotel_name": "Sheraton Nice Airport",
+      "nearby_object_name": "Promenade des Anglais",
+      "from_hotel_to_object_distance_km": 3.7,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 74
+    },
+    {
+      "hotel_name": "Adina Apartment Hotel Berlin Mitte",
+      "nearby_object_name": "Pergamon Museum",
+      "from_hotel_to_object_distance_km": 0.81,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 16
+    },
+    {
+      "hotel_name": "Only YOU Boutique Hotel Madrid",
+      "nearby_object_name": "Royal Palace of Madrid",
+      "from_hotel_to_object_distance_km": 1.49,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 30
+    },
+    {
+      "hotel_name": "Heritage Hotel Antique Split",
+      "nearby_object_name": "Split Airport (SPU)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "nearby_object_name": "Prado Museum",
+      "from_hotel_to_object_distance_km": 9.1,
+      "time_to_object_by_transport_min": 18,
+      "time_to_object_by_walk_min": 182
+    },
+    {
+      "hotel_name": "KONTRAKT Boutique Hotel",
+      "nearby_object_name": "Kyiv Pechersk Lavra",
+      "from_hotel_to_object_distance_km": 2.08,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 42
+    },
+    {
+      "hotel_name": "DoubleTree by Hilton Istanbul - Old Town",
+      "nearby_object_name": "Hagia Sophia Grand Mosque",
+      "from_hotel_to_object_distance_km": 2.77,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 55
+    },
+    {
+      "hotel_name": "Adina Apartment Hotel Berlin Mitte",
+      "nearby_object_name": "Pergamon Museum",
+      "from_hotel_to_object_distance_km": 6.55,
+      "time_to_object_by_transport_min": 13,
+      "time_to_object_by_walk_min": 131
+    },
+    {
+      "hotel_name": "Hotel Budva",
+      "nearby_object_name": "Budva Old Town",
+      "from_hotel_to_object_distance_km": 1.84,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 37
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "nearby_object_name": "Sakalla Beach",
+      "from_hotel_to_object_distance_km": 8.72,
+      "time_to_object_by_transport_min": 17,
+      "time_to_object_by_walk_min": 174
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "nearby_object_name": "Steigenberger Al Dau Beach Hotel",
+      "from_hotel_to_object_distance_km": 2.37,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 47
+    },
+    {
+      "hotel_name": "Astoria Hotel",
+      "nearby_object_name": "Lviv Historical Museum",
+      "from_hotel_to_object_distance_km": 2.44,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 49
+    },
+    {
+      "hotel_name": "Park Regency Sharm El Sheikh Resort",
+      "nearby_object_name": "Sharm El Sheikh International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "The Ritz-Carlton, Berlin",
+      "nearby_object_name": "Berlin Brandenburg Airport (BER)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
+      "nearby_object_name": "Boryspil International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Budva",
+      "nearby_object_name": "Budva Old Town",
+      "from_hotel_to_object_distance_km": 2.53,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 51
+    },
+    {
+      "hotel_name": "Sheraton Nice Airport",
+      "nearby_object_name": "Promenade des Anglais",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Makedonia Palace",
+      "nearby_object_name": "Nea Paralia Seafront Park",
+      "from_hotel_to_object_distance_km": 3.86,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 77
+    },
+    {
+      "hotel_name": "Hotel Budva",
+      "nearby_object_name": "Budva Old Town",
+      "from_hotel_to_object_distance_km": 2.37,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 47
+    },
+    {
+      "hotel_name": "Arabia Azur Resort",
+      "nearby_object_name": "Steigenberger Al Dau Beach Hotel",
+      "from_hotel_to_object_distance_km": 5.28,
+      "time_to_object_by_transport_min": 11,
+      "time_to_object_by_walk_min": 106
+    },
+    {
+      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
+      "nearby_object_name": "Kyiv Pechersk Lavra",
+      "from_hotel_to_object_distance_km": 2.45,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 49
+    },
+    {
+      "hotel_name": "VP Plaza España Design",
+      "nearby_object_name": "Madrid-Barajas Airport (MAD)",
+      "from_hotel_to_object_distance_km": 9.32,
+      "time_to_object_by_transport_min": 19,
+      "time_to_object_by_walk_min": 186
+    },
+    {
+      "hotel_name": "Mandarin Oriental, Paris",
+      "nearby_object_name": "Brandenburg Gate",
+      "from_hotel_to_object_distance_km": 2.3,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 46
+    },
+    {
+      "hotel_name": "Amarant Urban Hotel",
+      "nearby_object_name": "Kyiv Pechersk Lavra",
+      "from_hotel_to_object_distance_km": 1.52,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 30
+    },
+    {
+      "hotel_name": "Electra Metropolis",
+      "nearby_object_name": "Eleftherios Venizelos Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Park Split",
+      "nearby_object_name": "Split Airport (SPU)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "DoubleTree by Hilton Istanbul - Old Town",
+      "nearby_object_name": "Istanbul Airport (IST)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Electra Palace Thessaloniki",
+      "nearby_object_name": "Archaeological Museum of Thessaloniki",
+      "from_hotel_to_object_distance_km": 2.19,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 44
+    },
+    {
+      "hotel_name": "The Peninsula Paris",
+      "nearby_object_name": "Eiffel Tower",
+      "from_hotel_to_object_distance_km": 1.2,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 24
+    },
+    {
+      "hotel_name": "Sunrise Remal Beach Resort",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 7.92,
+      "time_to_object_by_transport_min": 16,
+      "time_to_object_by_walk_min": 158
+    },
+    {
+      "hotel_name": "Nobilis Hotel",
+      "nearby_object_name": "Lviv Historical Museum",
+      "from_hotel_to_object_distance_km": 1.6,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 32
+    },
+    {
+      "hotel_name": "Avala Resort & Villas",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "nearby_object_name": "Promenade des Anglais",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "KONTRAKT Boutique Hotel",
+      "nearby_object_name": "Boryspil International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Fairmont Grand Hotel Kyiv",
+      "nearby_object_name": "Kyiv Pechersk Lavra",
+      "from_hotel_to_object_distance_km": 2.78,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 56
+    },
+    {
+      "hotel_name": "Raffles Europejski Warsaw",
+      "nearby_object_name": "Palace of Culture and Science",
+      "from_hotel_to_object_distance_km": 2.5,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 50
+    },
+    {
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "nearby_object_name": "Dubrovnik Old Town Walls",
+      "from_hotel_to_object_distance_km": 2.76,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 55
+    },
+    {
+      "hotel_name": "Hotel Tre Canne",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 6.8,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 136
+    },
+    {
+      "hotel_name": "Hotel Bellotto",
+      "nearby_object_name": "Palace of Culture and Science",
+      "from_hotel_to_object_distance_km": 2.08,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 42
+    },
+    {
+      "hotel_name": "Hyatt Regency Nice Palais de la Méditerranée",
+      "nearby_object_name": "Promenade des Anglais",
+      "from_hotel_to_object_distance_km": 6.5,
+      "time_to_object_by_transport_min": 13,
+      "time_to_object_by_walk_min": 130
+    },
+    {
+      "hotel_name": "Daios Luxury Living",
+      "nearby_object_name": "Nea Paralia Seafront Park",
+      "from_hotel_to_object_distance_km": 5.75,
+      "time_to_object_by_transport_min": 12,
+      "time_to_object_by_walk_min": 115
+    },
+    {
+      "hotel_name": "Hotel Budva",
+      "nearby_object_name": "Budva Old Town",
+      "from_hotel_to_object_distance_km": 3.55,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 71
+    },
+    {
+      "hotel_name": "DoubleTree by Hilton Istanbul - Old Town",
+      "nearby_object_name": "Istanbul Airport (IST)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Pullman Munich",
+      "nearby_object_name": "Hofbräuhaus",
+      "from_hotel_to_object_distance_km": 4.15,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 83
+    },
+    {
+      "hotel_name": "Sunrise Remal Beach Resort",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Cornaro Hotel",
+      "nearby_object_name": "Split Airport (SPU)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Electra Palace Thessaloniki",
+      "nearby_object_name": "Archaeological Museum of Thessaloniki",
+      "from_hotel_to_object_distance_km": 0.54,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 11
+    },
+    {
+      "hotel_name": "Hotel Riu Plaza España",
+      "nearby_object_name": "Royal Palace of Madrid",
+      "from_hotel_to_object_distance_km": 2.59,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 52
+    },
+    {
+      "hotel_name": "Vintage Boutique Hotel",
+      "nearby_object_name": "Lviv Historical Museum",
+      "from_hotel_to_object_distance_km": 1.55,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 31
+    },
+    {
+      "hotel_name": "Citadel Inn",
+      "nearby_object_name": "Lviv Historical Museum",
+      "from_hotel_to_object_distance_km": 3.17,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 63
+    },
+    {
+      "hotel_name": "Le Bristol Paris",
+      "nearby_object_name": "Louvre Museum",
+      "from_hotel_to_object_distance_km": 6.53,
+      "time_to_object_by_transport_min": 13,
+      "time_to_object_by_walk_min": 131
+    },
+    {
+      "hotel_name": "Hotel Tre Canne",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 4.19,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 84
+    },
+    {
+      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
+      "nearby_object_name": "Złote Tarasy",
+      "from_hotel_to_object_distance_km": 1.37,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 27
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "nearby_object_name": "Nice Côte d'Azur Airport (NCE)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Vintage Boutique Hotel",
+      "nearby_object_name": "Lviv National Opera",
+      "from_hotel_to_object_distance_km": 0.38,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 8
+    },
+    {
+      "hotel_name": "H10 Port Vell",
+      "nearby_object_name": "Park Güell",
+      "from_hotel_to_object_distance_km": 2.65,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 53
+    },
+    {
+      "hotel_name": "BURSA Hotel Kyiv",
+      "nearby_object_name": "Boryspil International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "nearby_object_name": "Promenade des Anglais",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "The MET Hotel",
+      "nearby_object_name": "Nea Paralia Seafront Park",
+      "from_hotel_to_object_distance_km": 0.65,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 13
+    },
+    {
+      "hotel_name": "Aparthotel Stare Miasto",
+      "nearby_object_name": "Błonia Park",
+      "from_hotel_to_object_distance_km": 2.04,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 41
+    },
+    {
+      "hotel_name": "Steigenberger Hotel München",
+      "nearby_object_name": "English Garden (Englischer Garten)",
+      "from_hotel_to_object_distance_km": 1.14,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 23
+    },
+    {
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "nearby_object_name": "Banje Beach",
+      "from_hotel_to_object_distance_km": 3.73,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 75
+    },
+    {
+      "hotel_name": "Hôtel Negresco",
+      "nearby_object_name": "Castle Hill (Colline du Château)",
+      "from_hotel_to_object_distance_km": 1.59,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 32
+    },
+    {
+      "hotel_name": "Only YOU Boutique Hotel Madrid",
+      "nearby_object_name": "Royal Palace of Madrid",
+      "from_hotel_to_object_distance_km": 1.94,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 39
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Istanbul at Sultanahmet",
+      "nearby_object_name": "Grand Bazaar",
+      "from_hotel_to_object_distance_km": 0.82,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 16
+    },
+    {
+      "hotel_name": "New Hotel",
+      "nearby_object_name": "Acropolis Museum",
+      "from_hotel_to_object_distance_km": 6.95,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 139
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "nearby_object_name": "Palace of Culture and Science",
+      "from_hotel_to_object_distance_km": 2.17,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 43
+    },
+    {
+      "hotel_name": "Hotel Old Budva",
+      "nearby_object_name": "Budva Old Town",
+      "from_hotel_to_object_distance_km": 2.8,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 56
+    },
+    {
+      "hotel_name": "Hotel Sura Hagia Sophia",
+      "nearby_object_name": "Istanbul Airport (IST)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Splendid Conference & Spa Resort",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hyatt Regency Nice Palais de la Méditerranée",
+      "nearby_object_name": "Promenade des Anglais",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hampton by Hilton Barcelona Fira Gran Vía",
+      "nearby_object_name": "Park Güell",
+      "from_hotel_to_object_distance_km": 2.57,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 51
+    },
+    {
+      "hotel_name": "Nobilis Hotel",
+      "nearby_object_name": "Lviv National Opera",
+      "from_hotel_to_object_distance_km": 0.76,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 15
+    },
+    {
+      "hotel_name": "Adina Apartment Hotel Berlin Mitte",
+      "nearby_object_name": "Brandenburg Gate",
+      "from_hotel_to_object_distance_km": 1.92,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 38
+    },
+    {
+      "hotel_name": "Hotel Budva",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Budva",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Amarant Urban Hotel",
+      "nearby_object_name": "Boryspil International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
+      "nearby_object_name": "Palace of Culture and Science",
+      "from_hotel_to_object_distance_km": 1.79,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 36
+    },
+    {
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "nearby_object_name": "Dubrovnik Old Town Walls",
+      "from_hotel_to_object_distance_km": 1.92,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 38
+    },
+    {
+      "hotel_name": "Hotel Tre Canne",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "nearby_object_name": "Steigenberger Al Dau Beach Hotel",
+      "from_hotel_to_object_distance_km": 2.98,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 60
+    },
+    {
+      "hotel_name": "Citadel Inn",
+      "nearby_object_name": "Lviv National Opera",
+      "from_hotel_to_object_distance_km": 4.41,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 88
+    },
+    {
+      "hotel_name": "Hotel Hemera",
+      "nearby_object_name": "Podgorica Railway Station",
+      "from_hotel_to_object_distance_km": 1.66,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 33
+    },
+    {
+      "hotel_name": "Fairmont Grand Hotel Kyiv",
+      "nearby_object_name": "Boryspil International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Hemera",
+      "nearby_object_name": "Podgorica Railway Station",
+      "from_hotel_to_object_distance_km": 7.05,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 141
+    },
+    {
+      "hotel_name": "Hotel Excelsior Dubrovnik",
+      "nearby_object_name": "Dubrovnik Old Town Walls",
+      "from_hotel_to_object_distance_km": 3.67,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 73
+    },
+    {
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "nearby_object_name": "Sharm El Sheikh International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
+      "nearby_object_name": "Grand Bazaar",
+      "from_hotel_to_object_distance_km": 7.04,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 141
+    },
+    {
+      "hotel_name": "Hotel Arts Barcelona",
+      "nearby_object_name": "Sagrada Família",
+      "from_hotel_to_object_distance_km": 4.68,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 94
+    },
+    {
+      "hotel_name": "IC Hotels Green Palace",
+      "nearby_object_name": "Lara Beach",
+      "from_hotel_to_object_distance_km": 3.09,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 62
+    },
+    {
+      "hotel_name": "Hotel Budva",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 0.71,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 14
+    },
+    {
+      "hotel_name": "Hotel Riu Plaza España",
+      "nearby_object_name": "Madrid-Barajas Airport (MAD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Amarant Urban Hotel",
+      "nearby_object_name": "Boryspil International Airport",
+      "from_hotel_to_object_distance_km": 6.23,
+      "time_to_object_by_transport_min": 12,
+      "time_to_object_by_walk_min": 125
+    },
+    {
+      "hotel_name": "Hilton Podgorica Crna Gora",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Excelsior Dubrovnik",
+      "nearby_object_name": "Banje Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Nobilis Hotel",
+      "nearby_object_name": "Lviv National Opera",
+      "from_hotel_to_object_distance_km": 5.11,
+      "time_to_object_by_transport_min": 10,
+      "time_to_object_by_walk_min": 102
+    },
+    {
+      "hotel_name": "Rixos Sharm El Sheikh",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "The Ritz-Carlton, Berlin",
+      "nearby_object_name": "Brandenburg Gate",
+      "from_hotel_to_object_distance_km": 3.08,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 62
+    },
+    {
+      "hotel_name": "Hotel Ziya",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Golden Tulip Krakow City Center",
+      "nearby_object_name": "Błonia Park",
+      "from_hotel_to_object_distance_km": 6.82,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 136
+    },
+    {
+      "hotel_name": "Fairmont Grand Hotel Kyiv",
+      "nearby_object_name": "Boryspil International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 8.46,
+      "time_to_object_by_transport_min": 17,
+      "time_to_object_by_walk_min": 169
+    },
+    {
+      "hotel_name": "Arabia Azur Resort",
+      "nearby_object_name": "Sakalla Beach",
+      "from_hotel_to_object_distance_km": 6.46,
+      "time_to_object_by_transport_min": 13,
+      "time_to_object_by_walk_min": 129
+    },
+    {
+      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
+      "nearby_object_name": "Palace of Culture and Science",
+      "from_hotel_to_object_distance_km": 3.34,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 67
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "nearby_object_name": "Palace of Culture and Science",
+      "from_hotel_to_object_distance_km": 2.9,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 58
+    },
+    {
+      "hotel_name": "Splendid Conference & Spa Resort",
+      "nearby_object_name": "Budva Old Town",
+      "from_hotel_to_object_distance_km": 4.25,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 85
+    },
+    {
+      "hotel_name": "Hotel Hemera",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Voco Podgorica (An IHG Hotel)",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 8.01,
+      "time_to_object_by_transport_min": 16,
+      "time_to_object_by_walk_min": 160
+    },
+    {
+      "hotel_name": "The Mandala Hotel",
+      "nearby_object_name": "Pergamon Museum",
+      "from_hotel_to_object_distance_km": 6.98,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 140
+    },
+    {
+      "hotel_name": "Hôtel Plaza Athénée",
+      "nearby_object_name": "Gare du Nord",
+      "from_hotel_to_object_distance_km": 4.1,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 82
+    },
+    {
+      "hotel_name": "Delphin Imperial Hotel Lara",
+      "nearby_object_name": "Lara Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Liberty Hotels Lara",
+      "nearby_object_name": "Lara Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Electra Palace Athens",
+      "nearby_object_name": "Eleftherios Venizelos Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Puro Warszawa Centrum",
+      "nearby_object_name": "Warsaw Chopin Airport (WAW)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Le Méridien Nice",
+      "nearby_object_name": "Nice Côte d'Azur Airport (NCE)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "St. Joseph's Hotel",
+      "nearby_object_name": "Dubrovnik Old Town Walls",
+      "from_hotel_to_object_distance_km": 1.27,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 25
+    },
+    {
+      "hotel_name": "New Hotel",
+      "nearby_object_name": "Acropolis Museum",
+      "from_hotel_to_object_distance_km": 5.67,
+      "time_to_object_by_transport_min": 11,
+      "time_to_object_by_walk_min": 113
+    },
+    {
+      "hotel_name": "Sheraton Grand Krakow",
+      "nearby_object_name": "Błonia Park",
+      "from_hotel_to_object_distance_km": 5.0,
+      "time_to_object_by_transport_min": 10,
+      "time_to_object_by_walk_min": 100
+    },
+    {
+      "hotel_name": "Jaz Belvedere",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Jaz Belvedere",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 6.96,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 139
+    },
+    {
+      "hotel_name": "Amalia Hotel Athens",
+      "nearby_object_name": "Acropolis Museum",
+      "from_hotel_to_object_distance_km": 7.11,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 142
+    },
+    {
+      "hotel_name": "Baron Resort Sharm El Sheikh",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 1.32,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 26
+    },
+    {
+      "hotel_name": "Heritage Hotel Antique Split",
+      "nearby_object_name": "Bačvice Beach",
+      "from_hotel_to_object_distance_km": 5.8,
+      "time_to_object_by_transport_min": 12,
+      "time_to_object_by_walk_min": 116
+    },
+    {
+      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
+      "nearby_object_name": "Boryspil International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Excelsior Dubrovnik",
+      "nearby_object_name": "Banje Beach",
+      "from_hotel_to_object_distance_km": 3.78,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 76
+    },
+    {
+      "hotel_name": "Voco Podgorica (An IHG Hotel)",
+      "nearby_object_name": "Podgorica Railway Station",
+      "from_hotel_to_object_distance_km": 2.95,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 59
+    },
+    {
+      "hotel_name": "Hôtel Negresco",
+      "nearby_object_name": "Nice Côte d'Azur Airport (NCE)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Hemera",
+      "nearby_object_name": "Podgorica Railway Station",
+      "from_hotel_to_object_distance_km": 1.96,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 39
+    },
+    {
+      "hotel_name": "W Barcelona",
+      "nearby_object_name": "Sagrada Família",
+      "from_hotel_to_object_distance_km": 4.62,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 92
+    },
+    {
+      "hotel_name": "Steigenberger Hotel München",
+      "nearby_object_name": "English Garden (Englischer Garten)",
+      "from_hotel_to_object_distance_km": 6.97,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 139
+    },
+    {
+      "hotel_name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
+      "nearby_object_name": "Istanbul Airport (IST)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Regent Berlin",
+      "nearby_object_name": "Pergamon Museum",
+      "from_hotel_to_object_distance_km": 7.42,
+      "time_to_object_by_transport_min": 15,
+      "time_to_object_by_walk_min": 148
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "nearby_object_name": "Sakalla Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Amarant Urban Hotel",
+      "nearby_object_name": "Boryspil International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Astoria Hotel",
+      "nearby_object_name": "Lviv Historical Museum",
+      "from_hotel_to_object_distance_km": 2.05,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 41
+    },
+    {
+      "hotel_name": "Fairmont Grand Hotel Kyiv",
+      "nearby_object_name": "Kyiv Pechersk Lavra",
+      "from_hotel_to_object_distance_km": 2.33,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 47
+    },
+    {
+      "hotel_name": "Arabia Azur Resort",
+      "nearby_object_name": "Sakalla Beach",
+      "from_hotel_to_object_distance_km": 7.94,
+      "time_to_object_by_transport_min": 16,
+      "time_to_object_by_walk_min": 159
+    },
+    {
+      "hotel_name": "Citadel Inn",
+      "nearby_object_name": "Lviv National Opera",
+      "from_hotel_to_object_distance_km": 1.7,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 34
+    },
+    {
+      "hotel_name": "Hotel Arts Barcelona",
+      "nearby_object_name": "Park Güell",
+      "from_hotel_to_object_distance_km": 1.01,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 20
+    },
+    {
+      "hotel_name": "Golden Tulip Krakow City Center",
+      "nearby_object_name": "Błonia Park",
+      "from_hotel_to_object_distance_km": 5.62,
+      "time_to_object_by_transport_min": 11,
+      "time_to_object_by_walk_min": 112
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "nearby_object_name": "Royal Palace of Madrid",
+      "from_hotel_to_object_distance_km": 4.54,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 91
+    },
+    {
+      "hotel_name": "Mandarin Oriental, Paris",
+      "nearby_object_name": "Gare du Nord",
+      "from_hotel_to_object_distance_km": 2.62,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 52
+    },
+    {
+      "hotel_name": "Voco Podgorica (An IHG Hotel)",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Only YOU Boutique Hotel Madrid",
+      "nearby_object_name": "Madrid-Barajas Airport (MAD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "nearby_object_name": "Nice Côte d'Azur Airport (NCE)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "nearby_object_name": "Dubrovnik Old Town Walls",
+      "from_hotel_to_object_distance_km": 1.78,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 36
+    },
+    {
+      "hotel_name": "Aparthotel Stare Miasto",
+      "nearby_object_name": "Wawel Royal Castle",
+      "from_hotel_to_object_distance_km": 4.23,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 85
+    },
+    {
+      "hotel_name": "Nobilis Hotel",
+      "nearby_object_name": "Lviv National Opera",
+      "from_hotel_to_object_distance_km": 7.0,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 140
+    },
+    {
+      "hotel_name": "Sheraton Grand Krakow",
+      "nearby_object_name": "Wawel Royal Castle",
+      "from_hotel_to_object_distance_km": 2.97,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 59
+    },
+    {
+      "hotel_name": "Voco Podgorica (An IHG Hotel)",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Le Méridien Nice",
+      "nearby_object_name": "Nice Côte d'Azur Airport (NCE)",
+      "from_hotel_to_object_distance_km": 6.95,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 139
+    },
+    {
+      "hotel_name": "INNSiDE by Meliá Berlin Mitte",
+      "nearby_object_name": "Berlin Brandenburg Airport (BER)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "nearby_object_name": "Banje Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Nobilis Hotel",
+      "nearby_object_name": "Lviv National Opera",
+      "from_hotel_to_object_distance_km": 4.66,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 93
+    },
+    {
+      "hotel_name": "Giftun Azur Resort",
+      "nearby_object_name": "Sakalla Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Delphin Imperial Hotel Lara",
+      "nearby_object_name": "Hadrian's Gate",
+      "from_hotel_to_object_distance_km": 1.19,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 24
+    },
+    {
+      "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
+      "nearby_object_name": "Madrid-Barajas Airport (MAD)",
+      "from_hotel_to_object_distance_km": 9.86,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 197
+    },
+    {
+      "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
+      "nearby_object_name": "Royal Palace of Madrid",
+      "from_hotel_to_object_distance_km": 3.57,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 71
+    },
+    {
+      "hotel_name": "Hilton Imperial Dubrovnik",
+      "nearby_object_name": "Dubrovnik Old Town Walls",
+      "from_hotel_to_object_distance_km": 1.15,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 23
+    },
+    {
+      "hotel_name": "Voco Podgorica (An IHG Hotel)",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Occidental Atenea Mar - Adults Only",
+      "nearby_object_name": "Sagrada Família",
+      "from_hotel_to_object_distance_km": 0.34,
+      "time_to_object_by_transport_min": 1,
+      "time_to_object_by_walk_min": 7
+    },
+    {
+      "hotel_name": "Hotel Rubinstein",
+      "nearby_object_name": "Błonia Park",
+      "from_hotel_to_object_distance_km": 5.48,
+      "time_to_object_by_transport_min": 11,
+      "time_to_object_by_walk_min": 110
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "nearby_object_name": "Madrid-Barajas Airport (MAD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hilton Podgorica Crna Gora",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
+      "nearby_object_name": "Boryspil International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Voco Podgorica (An IHG Hotel)",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 7.02,
+      "time_to_object_by_transport_min": 14,
+      "time_to_object_by_walk_min": 140
+    },
+    {
+      "hotel_name": "Adina Apartment Hotel Berlin Mitte",
+      "nearby_object_name": "Berlin Brandenburg Airport (BER)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Pullman Munich",
+      "nearby_object_name": "English Garden (Englischer Garten)",
+      "from_hotel_to_object_distance_km": 4.04,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 81
+    },
+    {
+      "hotel_name": "IC Hotels Green Palace",
+      "nearby_object_name": "Lara Beach",
+      "from_hotel_to_object_distance_km": 3.05,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 61
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "nearby_object_name": "Palace of Culture and Science",
+      "from_hotel_to_object_distance_km": 3.57,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 71
+    },
+    {
+      "hotel_name": "Sheraton Grand Krakow",
+      "nearby_object_name": "Wawel Royal Castle",
+      "from_hotel_to_object_distance_km": 3.13,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 63
+    },
+    {
+      "hotel_name": "Citadel Inn",
+      "nearby_object_name": "Lviv National Opera",
+      "from_hotel_to_object_distance_km": 6.64,
+      "time_to_object_by_transport_min": 13,
+      "time_to_object_by_walk_min": 133
+    },
+    {
+      "hotel_name": "Hampton by Hilton Barcelona Fira Gran Vía",
+      "nearby_object_name": "Sagrada Família",
+      "from_hotel_to_object_distance_km": 3.3,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 66
+    },
+    {
+      "hotel_name": "Fairmont Grand Hotel Kyiv",
+      "nearby_object_name": "Boryspil International Airport",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "DoubleTree by Hilton Istanbul - Old Town",
+      "nearby_object_name": "Grand Bazaar",
+      "from_hotel_to_object_distance_km": 4.59,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 92
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "nearby_object_name": "Castle Hill (Colline du Château)",
+      "from_hotel_to_object_distance_km": 4.3,
+      "time_to_object_by_transport_min": 9,
+      "time_to_object_by_walk_min": 86
+    },
+    {
+      "hotel_name": "Park Regency Sharm El Sheikh Resort",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hotel Vestibul Palace & Villa",
+      "nearby_object_name": "Diocletian's Palace",
+      "from_hotel_to_object_distance_km": 1.75,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 35
+    },
+    {
+      "hotel_name": "Grand Hotel Lviv Casino & Spa",
+      "nearby_object_name": "Lviv National Opera",
+      "from_hotel_to_object_distance_km": 4.78,
+      "time_to_object_by_transport_min": 10,
+      "time_to_object_by_walk_min": 96
+    },
+    {
+      "hotel_name": "Astoria Hotel",
+      "nearby_object_name": "Lviv Historical Museum",
+      "from_hotel_to_object_distance_km": 5.75,
+      "time_to_object_by_transport_min": 12,
+      "time_to_object_by_walk_min": 115
+    },
+    {
+      "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
+      "nearby_object_name": "Royal Palace of Madrid",
+      "from_hotel_to_object_distance_km": 1.42,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 28
+    },
+    {
+      "hotel_name": "Hotel Vestibul Palace & Villa",
+      "nearby_object_name": "Split Airport (SPU)",
+      "from_hotel_to_object_distance_km": 6.29,
+      "time_to_object_by_transport_min": 13,
+      "time_to_object_by_walk_min": 126
+    },
+    {
+      "hotel_name": "Holiday Inn Thessaloniki",
+      "nearby_object_name": "Archaeological Museum of Thessaloniki",
+      "from_hotel_to_object_distance_km": 8.57,
+      "time_to_object_by_transport_min": 17,
+      "time_to_object_by_walk_min": 171
+    },
+    {
+      "hotel_name": "Splendid Conference & Spa Resort",
+      "nearby_object_name": "Jaz Beach",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Hilton Podgorica Crna Gora",
+      "nearby_object_name": "Podgorica Airport (TGD)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "Fairmont Grand Hotel Kyiv",
+      "nearby_object_name": "Kanapa Restaurant",
+      "from_hotel_to_object_distance_km": 2.61,
+      "time_to_object_by_transport_min": 5,
+      "time_to_object_by_walk_min": 52
+    },
+    {
+      "hotel_name": "Hotel Ziya",
+      "nearby_object_name": "Podgorica Railway Station",
+      "from_hotel_to_object_distance_km": 5.12,
+      "time_to_object_by_transport_min": 10,
+      "time_to_object_by_walk_min": 102
+    },
+    {
+      "hotel_name": "Hotel Park Split",
+      "nearby_object_name": "Bačvice Beach",
+      "from_hotel_to_object_distance_km": 2.92,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 58
+    },
+    {
+      "hotel_name": "Pullman Munich",
+      "nearby_object_name": "Hofbräuhaus",
+      "from_hotel_to_object_distance_km": 1.2,
+      "time_to_object_by_transport_min": 2,
+      "time_to_object_by_walk_min": 24
+    },
+    {
+      "hotel_name": "Park Regency Sharm El Sheikh Resort",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 2.77,
+      "time_to_object_by_transport_min": 6,
+      "time_to_object_by_walk_min": 55
+    },
+    {
+      "hotel_name": "Four Seasons Hotel George V, Paris",
+      "nearby_object_name": "Brandenburg Gate",
+      "from_hotel_to_object_distance_km": 2.13,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 43
+    },
+    {
+      "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
+      "nearby_object_name": "Royal Palace of Madrid",
+      "from_hotel_to_object_distance_km": 3.27,
+      "time_to_object_by_transport_min": 7,
+      "time_to_object_by_walk_min": 65
+    },
+    {
+      "hotel_name": "Amalia Hotel Athens",
+      "nearby_object_name": "Acropolis Museum",
+      "from_hotel_to_object_distance_km": 8.62,
+      "time_to_object_by_transport_min": 17,
+      "time_to_object_by_walk_min": 172
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "nearby_object_name": "Castle Hill (Colline du Château)",
+      "from_hotel_to_object_distance_km": 2.0,
+      "time_to_object_by_transport_min": 4,
+      "time_to_object_by_walk_min": 40
+    },
+    {
+      "hotel_name": "Jaz Belvedere",
+      "nearby_object_name": "Naama Bay Beach",
+      "from_hotel_to_object_distance_km": 6.52,
+      "time_to_object_by_transport_min": 13,
+      "time_to_object_by_walk_min": 130
+    },
+    {
+      "hotel_name": "Electra Metropolis",
+      "nearby_object_name": "Parthenon (Acropolis)",
+      "from_hotel_to_object_distance_km": 1.51,
+      "time_to_object_by_transport_min": 3,
+      "time_to_object_by_walk_min": 30
+    },
+    {
+      "hotel_name": "SeaGull Beach Resort",
+      "nearby_object_name": "Steigenberger Al Dau Beach Hotel",
+      "from_hotel_to_object_distance_km": 4.16,
+      "time_to_object_by_transport_min": 8,
+      "time_to_object_by_walk_min": 83
+    },
+    {
+      "hotel_name": "Hotel Vestibul Palace & Villa",
+      "nearby_object_name": "Split Airport (SPU)",
+      "from_hotel_to_object_distance_km": 9.9,
+      "time_to_object_by_transport_min": 20,
+      "time_to_object_by_walk_min": 198
+    },
+    {
+      "hotel_name": "The Rilano Hotel München",
+      "nearby_object_name": "Hofbräuhaus",
+      "from_hotel_to_object_distance_km": 4.8,
+      "time_to_object_by_transport_min": 10,
+      "time_to_object_by_walk_min": 96
+    }
+  ]
+}

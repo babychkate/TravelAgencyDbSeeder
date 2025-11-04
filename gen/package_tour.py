@@ -6,7 +6,7 @@ from pathlib import Path
 base_path = Path(__file__).parent.parent
 
 # --- Параметри ---
-max_tourists_multiplier = 1
+max_tourists_multiplier = 15
 max_trips_per_accommodation = 5  # скільки рейсів беремо для кожного проживання
 
 # --- Зчитування даних ---

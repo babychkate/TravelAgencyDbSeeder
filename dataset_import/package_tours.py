@@ -8,7 +8,7 @@ file_path = Path(__file__).parent.parent / "dataset" / "package_tours.json"
 with open(file_path, "r", encoding="utf-8") as f:
     package_tours = json.load(f)["package tours"]
 
-successful_inserts = 0  # 👈 Лічильник успішних вставок
+successful_inserts = 0
 
 with conn.cursor() as cursor:
     for tour in package_tours:
@@ -90,7 +90,7 @@ with conn.cursor() as cursor:
         """, (room_price_season_id, tour_start, tour_end))
         accom_row = cursor.fetchone()
         if not accom_row:
-            print(f"❌ Tour accommodation not found: {tour_start} - {tour_end} for room_price_season_id {room_price_season_id}")
+            print(f"❌ Tour accommodation not found for tour {successful_inserts}: {tour_start} - {tour_end} for room_price_season_id {room_price_season_id}")
             continue
         tour_accommodation_id = accom_row[0]
 

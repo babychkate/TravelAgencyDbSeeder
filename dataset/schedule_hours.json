@@ -1,5 +1,5 @@
 {
-  "bus schedule hours": [
+  "schedule hours": [
     {
       "schedule_departure_time": "04:56",
       "schedule_arrival_time": "09:41"
@@ -159,9 +159,7 @@
     {
       "schedule_departure_time": "04:32",
       "schedule_arrival_time": "03:39"
-    }
-  ],
-  "flight schedule hours": [
+    },
     {
       "schedule_departure_time": "12:12",
       "schedule_arrival_time": "14:29"

@@ -45,6 +45,9 @@ for _ in range(500):
     distance_min, distance_max = distance_ranges.get(obj_type, (0.5, 10))
     distance = round(random.uniform(distance_min, distance_max), 2)
 
+    # Обмежуємо максимум 9.9 км
+    distance = min(distance, 9.9)
+
     time_by_walk = round(distance / WALK_SPEED_KMH * 60)
     time_by_transport = round(distance / TRANSPORT_SPEED_KMH * 60)
 

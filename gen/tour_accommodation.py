@@ -9,10 +9,10 @@ with open("in/hotels.json", "r", encoding="utf-8") as f:
 with open("out/tourist_seasons.json", "r", encoding="utf-8") as f:
     tourist_seasons = json.load(f)["tourist seasons"]
 
-with open("in/meal_price_seasons.json", "r", encoding="utf-8") as f:
+with open("out/meal_price_seasons.json", "r", encoding="utf-8") as f:
     meal_price_seasons = json.load(f)["meal price seasons"]
 
-with open("in/room_price_seasons.json", "r", encoding="utf-8") as f:
+with open("out/room_price_seasons.json", "r", encoding="utf-8") as f:
     room_price_seasons = json.load(f)["room price seasons"]
 
 # --- Підготовка словників для швидкого доступу ---

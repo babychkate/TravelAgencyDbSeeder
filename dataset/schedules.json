@@ -1,5 +1,5 @@
 {
-  "bus schedules": [
+  "schedules": [
     {
       "schedule_day_name": "Monday",
       "schedule_departure_time": "04:56",
@@ -1399,9 +1399,7 @@
       "schedule_day_name": "Sunday",
       "schedule_departure_time": "04:32",
       "schedule_arrival_time": "03:39"
-    }
-  ],
-  "flight schedules": [
+    },
     {
       "schedule_day_name": "Monday",
       "schedule_departure_time": "12:12",

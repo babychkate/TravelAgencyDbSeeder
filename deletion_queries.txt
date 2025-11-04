@@ -15,3 +15,12 @@ DBCC CHECKIDENT ('dbo.schedule_hours', RESEED, 0);
 DELETE FROM dbo.schedule_day;
 DBCC CHECKIDENT ('dbo.schedule_day', RESEED, 0);
 DELETE FROM dbo.schedule;
+
+USE CopyTravelAgencyDB;
+DELETE FROM dbo.hotel_room_type;
+DBCC CHECKIDENT ('dbo.hotel_room_type', RESEED, 0);
+DELETE FROM dbo.hotel_room_type_bed;
+DELETE FROM dbo.pricing_policy;
+DBCC CHECKIDENT ('dbo.pricing_policy', RESEED, 0);
+DELETE FROM dbo.room_bed;
+DBCC CHECKIDENT ('dbo.room_bed', RESEED, 0);

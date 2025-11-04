@@ -110,8 +110,8 @@
   ],
 
   "policy types": [
-    "Early Bird Discount",
-    "Last Minute Discount",
+    "Early Bird Discount (45+ days)",
+    "Early Bird Discount (45+ days)",
     "Child Discount"
   ],
 
@@ -132,6 +132,8 @@
     "Airport",
     "Museum",
     "Restaurant",
+    "Shopping center",
+    "Train Station",
     "Cafe",
     "Park",
     "Theater",

@@ -94,7 +94,7 @@ def random_operator():
 def random_tour_name(index):
     adjective = random.choice(tour_name_adjectives)
     noun = random.choice(tour_name_nouns)
-    return f"{adjective} {noun} #{str(index).zfill(4)}"
+    return f"{adjective} {noun}"
 
 def random_description(hotel_name):
     template = random.choice(tour_description_templates)

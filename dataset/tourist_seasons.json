@@ -1,1204 +1,1204 @@
 {
   "tourist seasons": [
     {
-      "hotel_name": "Splendid Conference & Spa Resort",
-      "tourist_season_start_date": "2025-03-12",
-      "tourist_season_end_date": "2025-04-28",
-      "additional_info_name": "Shoulder Season"
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "tourist_season_start_date": "2025-06-17",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Peak Holiday Season"
     },
     {
-      "hotel_name": "Aparthotel Stare Miasto",
-      "tourist_season_start_date": "2025-08-04",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "CUE Podgorica",
+      "hotel_name": "IC Hotels Green Palace",
       "tourist_season_start_date": "2025-01-19",
       "tourist_season_end_date": "2025-01-28",
       "additional_info_name": "Winter Season"
     },
     {
-      "hotel_name": "Only YOU Boutique Hotel Madrid",
-      "tourist_season_start_date": "2025-03-04",
+      "hotel_name": "DoubleTree by Hilton Istanbul - Old Town",
+      "tourist_season_start_date": "2025-01-05",
+      "tourist_season_end_date": "2025-01-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Regent Berlin",
+      "tourist_season_start_date": "2025-03-12",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Electra Palace Thessaloniki",
+      "tourist_season_start_date": "2025-03-12",
       "tourist_season_end_date": "2025-03-28",
       "additional_info_name": "Low Tourist Flow"
     },
     {
-      "hotel_name": "Aparthotel Stare Miasto",
-      "tourist_season_start_date": "2025-01-23",
-      "tourist_season_end_date": "2025-01-28",
+      "hotel_name": "Hotel Sura Hagia Sophia",
+      "tourist_season_start_date": "2025-03-17",
+      "tourist_season_end_date": "2025-03-28",
       "additional_info_name": "Low Tourist Flow"
     },
     {
-      "hotel_name": "Baron Resort Sharm El Sheikh",
-      "tourist_season_start_date": "2025-10-12",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Low Tourist Flow"
+      "hotel_name": "Citadel Inn",
+      "tourist_season_start_date": "2025-08-18",
+      "tourist_season_end_date": "2025-08-28",
+      "additional_info_name": "Peak Holiday Season"
     },
     {
-      "hotel_name": "Cornaro Hotel",
-      "tourist_season_start_date": "2025-03-05",
-      "tourist_season_end_date": "2025-04-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Raffles Europejski Warsaw",
-      "tourist_season_start_date": "2025-04-18",
-      "tourist_season_end_date": "2025-04-28",
-      "additional_info_name": "Rainy Season"
-    },
-    {
-      "hotel_name": "Baron Resort Sharm El Sheikh",
-      "tourist_season_start_date": "2025-01-19",
-      "tourist_season_end_date": "2025-01-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Hotel Dubrovnik Palace",
-      "tourist_season_start_date": "2025-02-16",
-      "tourist_season_end_date": "2025-02-28",
-      "additional_info_name": "Winter Season"
-    },
-    {
-      "hotel_name": "Steigenberger Aldau Beach Hotel",
-      "tourist_season_start_date": "2025-03-14",
-      "tourist_season_end_date": "2025-04-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Hotel Excelsior Dubrovnik",
-      "tourist_season_start_date": "2025-01-03",
-      "tourist_season_end_date": "2025-02-28",
-      "additional_info_name": "Winter Season"
-    },
-    {
-      "hotel_name": "Golden Tulip Krakow City Center",
-      "tourist_season_start_date": "2025-10-15",
-      "tourist_season_end_date": "2025-11-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Liberty Hotels Lara",
-      "tourist_season_start_date": "2025-05-18",
+      "hotel_name": "Hotel Rubinstein",
+      "tourist_season_start_date": "2025-05-24",
       "tourist_season_end_date": "2025-06-28",
       "additional_info_name": "Peak Holiday Season"
     },
     {
-      "hotel_name": "The Peninsula Paris",
-      "tourist_season_start_date": "2025-09-02",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
       "hotel_name": "St. Joseph's Hotel",
-      "tourist_season_start_date": "2025-10-13",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Shoulder Season"
+      "tourist_season_start_date": "2025-01-13",
+      "tourist_season_end_date": "2025-02-28",
+      "additional_info_name": "Winter Season"
     },
     {
-      "hotel_name": "Titanic Beach Lara",
-      "tourist_season_start_date": "2025-07-07",
+      "hotel_name": "Seven Hills Hotel",
+      "tourist_season_start_date": "2025-08-19",
       "tourist_season_end_date": "2025-08-28",
       "additional_info_name": "Hot Season"
     },
     {
-      "hotel_name": "Liberty Hotels Lara",
-      "tourist_season_start_date": "2025-06-12",
-      "tourist_season_end_date": "2025-07-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "Hampton by Hilton Barcelona Fira Gran Vía",
-      "tourist_season_start_date": "2025-06-25",
-      "tourist_season_end_date": "2025-07-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "Hotel Tre Canne",
-      "tourist_season_start_date": "2025-01-15",
-      "tourist_season_end_date": "2025-02-28",
-      "additional_info_name": "Festival Period"
-    },
-    {
-      "hotel_name": "Vintage Boutique Hotel",
-      "tourist_season_start_date": "2025-02-20",
-      "tourist_season_end_date": "2025-03-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "St. Joseph's Hotel",
-      "tourist_season_start_date": "2025-09-16",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
       "hotel_name": "Electra Palace Athens",
-      "tourist_season_start_date": "2025-03-19",
-      "tourist_season_end_date": "2025-04-28",
-      "additional_info_name": "Shoulder Season"
+      "tourist_season_start_date": "2025-07-11",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Hot Season"
     },
     {
-      "hotel_name": "Makedonia Palace",
-      "tourist_season_start_date": "2025-02-08",
+      "hotel_name": "Avala Resort & Villas",
+      "tourist_season_start_date": "2025-02-04",
       "tourist_season_end_date": "2025-03-28",
       "additional_info_name": "Winter Season"
     },
     {
-      "hotel_name": "Hilton Podgorica Crna Gora",
+      "hotel_name": "DoubleTree by Hilton Istanbul - Old Town",
       "tourist_season_start_date": "2025-06-17",
       "tourist_season_end_date": "2025-06-28",
       "additional_info_name": "Summer Season"
     },
     {
-      "hotel_name": "CUE Podgorica",
-      "tourist_season_start_date": "2025-09-25",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Hotel Riu Plaza España",
-      "tourist_season_start_date": "2025-05-03",
+      "hotel_name": "Adina Apartment Hotel Berlin Mitte",
+      "tourist_season_start_date": "2025-04-24",
       "tourist_season_end_date": "2025-05-28",
       "additional_info_name": "Shoulder Season"
     },
     {
-      "hotel_name": "Four Seasons Hotel George V, Paris",
-      "tourist_season_start_date": "2025-09-24",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "W Barcelona",
-      "tourist_season_start_date": "2025-08-11",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Hotel Bellotto",
-      "tourist_season_start_date": "2025-01-11",
-      "tourist_season_end_date": "2025-01-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Hampton by Hilton Barcelona Fira Gran Vía",
-      "tourist_season_start_date": "2025-03-16",
+      "hotel_name": "CUE Podgorica",
+      "tourist_season_start_date": "2025-04-12",
       "tourist_season_end_date": "2025-04-28",
       "additional_info_name": "Shoulder Season"
     },
     {
-      "hotel_name": "Steigenberger Aldau Beach Hotel",
+      "hotel_name": "Adina Apartment Hotel Berlin Mitte",
+      "tourist_season_start_date": "2025-01-09",
+      "tourist_season_end_date": "2025-02-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Vintage Boutique Hotel",
+      "tourist_season_start_date": "2025-08-24",
+      "tourist_season_end_date": "2025-08-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Nobilis Hotel",
+      "tourist_season_start_date": "2025-06-09",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Jaz Belvedere",
+      "tourist_season_start_date": "2025-01-17",
+      "tourist_season_end_date": "2025-01-28",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "hotel_name": "Hampton by Hilton Barcelona Fira Gran Vía",
+      "tourist_season_start_date": "2025-08-01",
+      "tourist_season_end_date": "2025-08-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Sheraton Nice Airport",
       "tourist_season_start_date": "2025-03-12",
       "tourist_season_end_date": "2025-04-28",
       "additional_info_name": "Low Tourist Flow"
     },
     {
+      "hotel_name": "Electra Palace Athens",
+      "tourist_season_start_date": "2025-05-14",
+      "tourist_season_end_date": "2025-06-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
       "hotel_name": "Sheraton Nice Airport",
-      "tourist_season_start_date": "2025-09-25",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Adina Apartment Hotel Berlin Mitte",
-      "tourist_season_start_date": "2025-09-25",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Occidental Atenea Mar - Adults Only",
-      "tourist_season_start_date": "2025-08-24",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "The Peninsula Paris",
-      "tourist_season_start_date": "2025-09-09",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Seven Hills Hotel",
-      "tourist_season_start_date": "2025-07-13",
-      "tourist_season_end_date": "2025-07-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "Holiday Inn Thessaloniki",
-      "tourist_season_start_date": "2025-04-20",
-      "tourist_season_end_date": "2025-05-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "KONTRAKT Boutique Hotel",
-      "tourist_season_start_date": "2025-09-24",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Grand Hyatt Athens",
-      "tourist_season_start_date": "2025-03-16",
-      "tourist_season_end_date": "2025-04-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Titanic Beach Lara",
-      "tourist_season_start_date": "2025-02-05",
-      "tourist_season_end_date": "2025-03-28",
-      "additional_info_name": "Winter Season"
-    },
-    {
-      "hotel_name": "SeaGull Beach Resort",
-      "tourist_season_start_date": "2025-02-04",
-      "tourist_season_end_date": "2025-02-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Baron Resort Sharm El Sheikh",
-      "tourist_season_start_date": "2025-03-23",
-      "tourist_season_end_date": "2025-03-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Steigenberger Hotel München",
-      "tourist_season_start_date": "2025-07-09",
-      "tourist_season_end_date": "2025-07-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Sunny Days El Palacio Resort & Spa",
-      "tourist_season_start_date": "2025-08-06",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "Pullman Munich",
-      "tourist_season_start_date": "2025-10-08",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
-      "tourist_season_start_date": "2025-10-14",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Hotel Arts Barcelona",
-      "tourist_season_start_date": "2025-03-23",
-      "tourist_season_end_date": "2025-03-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Golden Tulip Krakow City Center",
-      "tourist_season_start_date": "2025-04-22",
-      "tourist_season_end_date": "2025-05-28",
+      "tourist_season_start_date": "2025-10-24",
+      "tourist_season_end_date": "2025-11-28",
       "additional_info_name": "Rainy Season"
     },
     {
-      "hotel_name": "Hôtel Negresco",
-      "tourist_season_start_date": "2025-01-23",
-      "tourist_season_end_date": "2025-02-28",
-      "additional_info_name": "Winter Season"
-    },
-    {
-      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
-      "tourist_season_start_date": "2025-07-10",
-      "tourist_season_end_date": "2025-07-28",
+      "hotel_name": "Vintage Boutique Hotel",
+      "tourist_season_start_date": "2025-08-02",
+      "tourist_season_end_date": "2025-09-28",
       "additional_info_name": "Summer Season"
     },
     {
       "hotel_name": "DoubleTree by Hilton Istanbul - Old Town",
-      "tourist_season_start_date": "2025-08-23",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "Golden Tulip Krakow City Center",
-      "tourist_season_start_date": "2025-04-14",
+      "tourist_season_start_date": "2025-05-05",
       "tourist_season_end_date": "2025-05-28",
-      "additional_info_name": "Rainy Season"
-    },
-    {
-      "hotel_name": "INNSiDE by Meliá Berlin Mitte",
-      "tourist_season_start_date": "2025-03-14",
-      "tourist_season_end_date": "2025-04-28",
       "additional_info_name": "Shoulder Season"
     },
     {
-      "hotel_name": "Jaz Belvedere",
-      "tourist_season_start_date": "2025-07-24",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Peak Holiday Season"
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "tourist_season_start_date": "2025-04-22",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Low Tourist Flow"
     },
     {
       "hotel_name": "KONTRAKT Boutique Hotel",
-      "tourist_season_start_date": "2025-06-18",
-      "tourist_season_end_date": "2025-07-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "Hotel Bellotto",
-      "tourist_season_start_date": "2025-09-03",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Aparthotel Stare Miasto",
-      "tourist_season_start_date": "2025-07-13",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "Citadel Inn",
-      "tourist_season_start_date": "2025-05-19",
-      "tourist_season_end_date": "2025-05-28",
+      "tourist_season_start_date": "2025-03-20",
+      "tourist_season_end_date": "2025-04-28",
       "additional_info_name": "Shoulder Season"
     },
     {
-      "hotel_name": "BURSA Hotel Kyiv",
-      "tourist_season_start_date": "2025-09-18",
+      "hotel_name": "Steigenberger Aldau Beach Hotel",
+      "tourist_season_start_date": "2025-04-05",
+      "tourist_season_end_date": "2025-05-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Hotel Tre Canne",
+      "tourist_season_start_date": "2025-09-21",
       "tourist_season_end_date": "2025-10-28",
       "additional_info_name": "Shoulder Season"
     },
     {
-      "hotel_name": "Four Seasons Hotel Istanbul at Sultanahmet",
-      "tourist_season_start_date": "2025-09-01",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Hotel Vestibul Palace & Villa",
-      "tourist_season_start_date": "2025-05-22",
-      "tourist_season_end_date": "2025-05-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "Hotel Budva",
-      "tourist_season_start_date": "2025-06-25",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "Hotel Park Split",
-      "tourist_season_start_date": "2025-03-05",
-      "tourist_season_end_date": "2025-03-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Hotel Arts Barcelona",
-      "tourist_season_start_date": "2025-07-16",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Steigenberger Hotel München",
-      "tourist_season_start_date": "2025-06-23",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "Hotel Bellevue Dubrovnik",
-      "tourist_season_start_date": "2025-06-13",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "Sheraton Grand Krakow",
-      "tourist_season_start_date": "2025-05-06",
-      "tourist_season_end_date": "2025-05-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "Hotel Rubinstein",
-      "tourist_season_start_date": "2025-08-08",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "Pullman Munich",
-      "tourist_season_start_date": "2025-02-23",
-      "tourist_season_end_date": "2025-03-28",
-      "additional_info_name": "Winter Season"
-    },
-    {
-      "hotel_name": "Hotel Excelsior Dubrovnik",
-      "tourist_season_start_date": "2025-04-02",
-      "tourist_season_end_date": "2025-04-28",
-      "additional_info_name": "Rainy Season"
-    },
-    {
-      "hotel_name": "Hotel Old Budva",
-      "tourist_season_start_date": "2025-07-07",
-      "tourist_season_end_date": "2025-07-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Hotel Bellevue Dubrovnik",
-      "tourist_season_start_date": "2025-01-03",
-      "tourist_season_end_date": "2025-01-28",
-      "additional_info_name": "Winter Season"
-    },
-    {
-      "hotel_name": "Four Seasons Hotel Madrid",
-      "tourist_season_start_date": "2025-04-04",
-      "tourist_season_end_date": "2025-05-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Mandarin Oriental, Paris",
-      "tourist_season_start_date": "2025-07-12",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "Hotel Stary",
-      "tourist_season_start_date": "2025-04-09",
+      "hotel_name": "Holiday Inn Thessaloniki",
+      "tourist_season_start_date": "2025-03-17",
       "tourist_season_end_date": "2025-04-28",
       "additional_info_name": "Low Tourist Flow"
     },
     {
-      "hotel_name": "Steigenberger Hotel München",
-      "tourist_season_start_date": "2025-05-09",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Peak Holiday Season"
+      "hotel_name": "Puro Warszawa Centrum",
+      "tourist_season_start_date": "2025-03-25",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Shoulder Season"
     },
     {
       "hotel_name": "Four Seasons Hotel George V, Paris",
-      "tourist_season_start_date": "2025-01-25",
-      "tourist_season_end_date": "2025-02-28",
-      "additional_info_name": "Winter Season"
-    },
-    {
-      "hotel_name": "Nobilis Hotel",
-      "tourist_season_start_date": "2025-06-20",
-      "tourist_season_end_date": "2025-07-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "Electra Palace Athens",
-      "tourist_season_start_date": "2025-08-15",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "Delphin Imperial Hotel Lara",
-      "tourist_season_start_date": "2025-10-06",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Hotel Ziya",
-      "tourist_season_start_date": "2025-02-22",
-      "tourist_season_end_date": "2025-02-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Hotel Riu Plaza España",
-      "tourist_season_start_date": "2025-05-16",
-      "tourist_season_end_date": "2025-05-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "The MET Hotel",
-      "tourist_season_start_date": "2025-08-20",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Arabia Azur Resort",
-      "tourist_season_start_date": "2025-02-14",
-      "tourist_season_end_date": "2025-02-28",
-      "additional_info_name": "Winter Season"
-    },
-    {
-      "hotel_name": "Vintage Boutique Hotel",
-      "tourist_season_start_date": "2025-01-04",
-      "tourist_season_end_date": "2025-01-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Hôtel Aston La Scala",
-      "tourist_season_start_date": "2025-08-20",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "Electra Palace Athens",
-      "tourist_season_start_date": "2025-07-11",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "Electra Palace Athens",
-      "tourist_season_start_date": "2025-10-12",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "IC Hotels Green Palace",
-      "tourist_season_start_date": "2025-10-22",
-      "tourist_season_end_date": "2025-11-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Hilton Podgorica Crna Gora",
-      "tourist_season_start_date": "2025-07-23",
-      "tourist_season_end_date": "2025-07-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "Vintage Boutique Hotel",
-      "tourist_season_start_date": "2025-09-18",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Sheraton Nice Airport",
-      "tourist_season_start_date": "2025-01-06",
-      "tourist_season_end_date": "2025-01-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Le Méridien Nice",
-      "tourist_season_start_date": "2025-02-16",
-      "tourist_season_end_date": "2025-02-28",
-      "additional_info_name": "Winter Season"
-    },
-    {
-      "hotel_name": "Hotel Ziya",
-      "tourist_season_start_date": "2025-06-07",
-      "tourist_season_end_date": "2025-07-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Hotel Tre Canne",
-      "tourist_season_start_date": "2025-06-08",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "Hotel Tre Canne",
-      "tourist_season_start_date": "2025-08-25",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "Titanic Beach Lara",
-      "tourist_season_start_date": "2025-06-14",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "INNSiDE by Meliá Berlin Mitte",
-      "tourist_season_start_date": "2025-09-01",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Rainy Season"
-    },
-    {
-      "hotel_name": "CUE Podgorica",
-      "tourist_season_start_date": "2025-04-20",
-      "tourist_season_end_date": "2025-05-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Hotel Bellotto",
-      "tourist_season_start_date": "2025-09-25",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Hilton Munich Park",
-      "tourist_season_start_date": "2025-09-25",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Four Seasons Hotel Madrid",
-      "tourist_season_start_date": "2025-04-05",
-      "tourist_season_end_date": "2025-04-28",
-      "additional_info_name": "Rainy Season"
-    },
-    {
-      "hotel_name": "Makedonia Palace",
-      "tourist_season_start_date": "2025-02-14",
-      "tourist_season_end_date": "2025-02-28",
-      "additional_info_name": "Winter Season"
-    },
-    {
-      "hotel_name": "Jaz Belvedere",
-      "tourist_season_start_date": "2025-05-04",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Hilton Imperial Dubrovnik",
-      "tourist_season_start_date": "2025-08-17",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Electra Metropolis",
-      "tourist_season_start_date": "2025-07-04",
-      "tourist_season_end_date": "2025-07-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "Park Regency Sharm El Sheikh Resort",
-      "tourist_season_start_date": "2025-10-18",
-      "tourist_season_end_date": "2025-11-28",
-      "additional_info_name": "Rainy Season"
-    },
-    {
-      "hotel_name": "Vintage Boutique Hotel",
-      "tourist_season_start_date": "2025-01-09",
-      "tourist_season_end_date": "2025-01-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Andaz Munich Schwabinger Tor - a Concept by Hyatt",
-      "tourist_season_start_date": "2025-08-02",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Park Regency Sharm El Sheikh Resort",
-      "tourist_season_start_date": "2025-03-13",
+      "tourist_season_start_date": "2025-02-06",
       "tourist_season_end_date": "2025-03-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "New Hotel",
-      "tourist_season_start_date": "2025-02-13",
-      "tourist_season_end_date": "2025-03-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Hyatt Regency Nice Palais de la Méditerranée",
-      "tourist_season_start_date": "2025-07-08",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Park Regency Sharm El Sheikh Resort",
-      "tourist_season_start_date": "2025-08-15",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
-      "tourist_season_start_date": "2025-04-11",
-      "tourist_season_end_date": "2025-04-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Electra Metropolis",
-      "tourist_season_start_date": "2025-03-24",
-      "tourist_season_end_date": "2025-04-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "VP Plaza España Design",
-      "tourist_season_start_date": "2025-07-12",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "Sunny Days El Palacio Resort & Spa",
-      "tourist_season_start_date": "2025-06-09",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Peak Holiday Season"
+      "additional_info_name": "Winter Season"
     },
     {
       "hotel_name": "Mandarin Oriental, Paris",
-      "tourist_season_start_date": "2025-03-20",
-      "tourist_season_end_date": "2025-03-28",
+      "tourist_season_start_date": "2025-04-16",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "hotel_name": "Park Regency Sharm El Sheikh Resort",
+      "tourist_season_start_date": "2025-04-10",
+      "tourist_season_end_date": "2025-05-28",
       "additional_info_name": "Shoulder Season"
     },
     {
-      "hotel_name": "Titanic Beach Lara",
-      "tourist_season_start_date": "2025-06-11",
-      "tourist_season_end_date": "2025-06-28",
+      "hotel_name": "Hotel Sura Hagia Sophia",
+      "tourist_season_start_date": "2025-08-12",
+      "tourist_season_end_date": "2025-09-28",
       "additional_info_name": "Summer Season"
     },
     {
-      "hotel_name": "Hôtel Negresco",
-      "tourist_season_start_date": "2025-09-24",
+      "hotel_name": "Hilton Podgorica Crna Gora",
+      "tourist_season_start_date": "2025-09-07",
       "tourist_season_end_date": "2025-10-28",
       "additional_info_name": "Shoulder Season"
     },
     {
       "hotel_name": "Adina Apartment Hotel Berlin Mitte",
-      "tourist_season_start_date": "2025-05-11",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "The Ritz-Carlton, Berlin",
-      "tourist_season_start_date": "2025-01-11",
-      "tourist_season_end_date": "2025-02-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Four Seasons Hotel George V, Paris",
-      "tourist_season_start_date": "2025-07-05",
-      "tourist_season_end_date": "2025-07-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "CUE Podgorica",
-      "tourist_season_start_date": "2025-03-23",
-      "tourist_season_end_date": "2025-04-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "The MET Hotel",
-      "tourist_season_start_date": "2025-10-14",
-      "tourist_season_end_date": "2025-11-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
-      "tourist_season_start_date": "2025-01-19",
+      "tourist_season_start_date": "2025-01-05",
       "tourist_season_end_date": "2025-02-28",
       "additional_info_name": "Winter Season"
     },
     {
-      "hotel_name": "Hotel Sura Hagia Sophia",
-      "tourist_season_start_date": "2025-02-01",
+      "hotel_name": "Grand Hotel Lviv Casino & Spa",
+      "tourist_season_start_date": "2025-10-17",
+      "tourist_season_end_date": "2025-11-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Amalia Hotel Athens",
+      "tourist_season_start_date": "2025-02-10",
       "tourist_season_end_date": "2025-03-28",
-      "additional_info_name": "Winter Season"
+      "additional_info_name": "Low Tourist Flow"
     },
     {
-      "hotel_name": "Hotel Park Split",
-      "tourist_season_start_date": "2025-09-14",
+      "hotel_name": "Seven Hills Hotel",
+      "tourist_season_start_date": "2025-05-12",
+      "tourist_season_end_date": "2025-06-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "The Peninsula Paris",
+      "tourist_season_start_date": "2025-09-25",
       "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "St. Joseph's Hotel",
-      "tourist_season_start_date": "2025-01-03",
-      "tourist_season_end_date": "2025-02-28",
-      "additional_info_name": "Winter Season"
-    },
-    {
-      "hotel_name": "Only YOU Boutique Hotel Madrid",
-      "tourist_season_start_date": "2025-04-03",
-      "tourist_season_end_date": "2025-05-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Hilton Munich Park",
-      "tourist_season_start_date": "2025-06-04",
-      "tourist_season_end_date": "2025-07-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Regent Berlin",
-      "tourist_season_start_date": "2025-05-02",
-      "tourist_season_end_date": "2025-06-28",
       "additional_info_name": "Shoulder Season"
     },
     {
-      "hotel_name": "Electra Palace Thessaloniki",
-      "tourist_season_start_date": "2025-08-18",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Only YOU Boutique Hotel Madrid",
-      "tourist_season_start_date": "2025-05-08",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Makedonia Palace",
-      "tourist_season_start_date": "2025-08-12",
-      "tourist_season_end_date": "2025-08-28",
+      "hotel_name": "Liberty Hotels Lara",
+      "tourist_season_start_date": "2025-08-03",
+      "tourist_season_end_date": "2025-09-28",
       "additional_info_name": "Peak Holiday Season"
     },
     {
-      "hotel_name": "H10 Port Vell",
-      "tourist_season_start_date": "2025-09-04",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Astoria Hotel",
-      "tourist_season_start_date": "2025-07-15",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Makedonia Palace",
-      "tourist_season_start_date": "2025-04-02",
-      "tourist_season_end_date": "2025-05-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Amarant Urban Hotel",
-      "tourist_season_start_date": "2025-08-13",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
-      "tourist_season_start_date": "2025-01-18",
-      "tourist_season_end_date": "2025-01-28",
+      "hotel_name": "Seven Hills Hotel",
+      "tourist_season_start_date": "2025-03-21",
+      "tourist_season_end_date": "2025-03-28",
       "additional_info_name": "Low Tourist Flow"
     },
     {
-      "hotel_name": "Sunny Days El Palacio Resort & Spa",
-      "tourist_season_start_date": "2025-06-13",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "SeaGull Beach Resort",
-      "tourist_season_start_date": "2025-04-14",
-      "tourist_season_end_date": "2025-05-28",
+      "hotel_name": "Sunrise Remal Beach Resort",
+      "tourist_season_start_date": "2025-04-06",
+      "tourist_season_end_date": "2025-04-28",
       "additional_info_name": "Rainy Season"
-    },
-    {
-      "hotel_name": "The Mandala Hotel",
-      "tourist_season_start_date": "2025-10-16",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Four Seasons Hotel Madrid",
-      "tourist_season_start_date": "2025-10-10",
-      "tourist_season_end_date": "2025-11-28",
-      "additional_info_name": "Shoulder Season"
     },
     {
       "hotel_name": "IC Hotels Green Palace",
-      "tourist_season_start_date": "2025-02-06",
-      "tourist_season_end_date": "2025-02-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Atrium Hotel",
-      "tourist_season_start_date": "2025-09-25",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Nobilis Hotel",
-      "tourist_season_start_date": "2025-04-18",
-      "tourist_season_end_date": "2025-05-28",
-      "additional_info_name": "Rainy Season"
-    },
-    {
-      "hotel_name": "Raffles Europejski Warsaw",
-      "tourist_season_start_date": "2025-08-13",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "Nobilis Hotel",
-      "tourist_season_start_date": "2025-04-02",
-      "tourist_season_end_date": "2025-05-28",
-      "additional_info_name": "Rainy Season"
-    },
-    {
-      "hotel_name": "Citadel Inn",
-      "tourist_season_start_date": "2025-07-15",
-      "tourist_season_end_date": "2025-07-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "Le Méridien Nice",
-      "tourist_season_start_date": "2025-01-10",
-      "tourist_season_end_date": "2025-01-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Amarant Urban Hotel",
-      "tourist_season_start_date": "2025-08-05",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Arabia Azur Resort",
-      "tourist_season_start_date": "2025-05-08",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Citadel Inn",
-      "tourist_season_start_date": "2025-05-11",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "The Rilano Hotel München",
-      "tourist_season_start_date": "2025-10-24",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Rainy Season"
-    },
-    {
-      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
       "tourist_season_start_date": "2025-09-19",
       "tourist_season_end_date": "2025-10-28",
       "additional_info_name": "Shoulder Season"
     },
     {
-      "hotel_name": "St. Joseph's Hotel",
-      "tourist_season_start_date": "2025-05-01",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Hôtel Aston La Scala",
-      "tourist_season_start_date": "2025-02-25",
-      "tourist_season_end_date": "2025-02-28",
-      "additional_info_name": "Winter Season"
-    },
-    {
-      "hotel_name": "CUE Podgorica",
-      "tourist_season_start_date": "2025-07-04",
-      "tourist_season_end_date": "2025-07-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "Fairmont Grand Hotel Kyiv",
-      "tourist_season_start_date": "2025-08-20",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Hôtel Aston La Scala",
-      "tourist_season_start_date": "2025-09-25",
-      "tourist_season_end_date": "2025-10-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Raffles Europejski Warsaw",
-      "tourist_season_start_date": "2025-02-14",
-      "tourist_season_end_date": "2025-03-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "W Barcelona",
-      "tourist_season_start_date": "2025-08-24",
-      "tourist_season_end_date": "2025-08-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Amalia Hotel Athens",
-      "tourist_season_start_date": "2025-04-02",
+      "hotel_name": "Puro Warszawa Centrum",
+      "tourist_season_start_date": "2025-04-01",
       "tourist_season_end_date": "2025-04-28",
-      "additional_info_name": "Rainy Season"
+      "additional_info_name": "Shoulder Season"
     },
     {
-      "hotel_name": "Avala Resort & Villas",
-      "tourist_season_start_date": "2025-01-04",
-      "tourist_season_end_date": "2025-02-28",
+      "hotel_name": "Hôtel Negresco",
+      "tourist_season_start_date": "2025-01-14",
+      "tourist_season_end_date": "2025-01-28",
       "additional_info_name": "Winter Season"
     },
     {
-      "hotel_name": "Andaz Munich Schwabinger Tor - a Concept by Hyatt",
-      "tourist_season_start_date": "2025-06-19",
-      "tourist_season_end_date": "2025-07-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
-      "tourist_season_start_date": "2025-08-10",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Hot Season"
-    },
-    {
-      "hotel_name": "Electra Palace Thessaloniki",
-      "tourist_season_start_date": "2025-03-18",
-      "tourist_season_end_date": "2025-03-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
-      "tourist_season_start_date": "2025-01-19",
-      "tourist_season_end_date": "2025-02-28",
-      "additional_info_name": "Winter Season"
-    },
-    {
-      "hotel_name": "W Barcelona",
-      "tourist_season_start_date": "2025-05-06",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
-      "tourist_season_start_date": "2025-04-02",
-      "tourist_season_end_date": "2025-05-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Hotel Vestibul Palace & Villa",
-      "tourist_season_start_date": "2025-05-19",
-      "tourist_season_end_date": "2025-05-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Electra Metropolis",
-      "tourist_season_start_date": "2025-10-07",
-      "tourist_season_end_date": "2025-10-28",
+      "hotel_name": "Puro Warszawa Centrum",
+      "tourist_season_start_date": "2025-01-23",
+      "tourist_season_end_date": "2025-01-28",
       "additional_info_name": "Low Tourist Flow"
     },
     {
-      "hotel_name": "Le Bristol Paris",
-      "tourist_season_start_date": "2025-06-19",
-      "tourist_season_end_date": "2025-07-28",
-      "additional_info_name": "Peak Holiday Season"
-    },
-    {
-      "hotel_name": "The Ritz-Carlton, Berlin",
-      "tourist_season_start_date": "2025-05-07",
-      "tourist_season_end_date": "2025-05-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Hotel Bellotto",
-      "tourist_season_start_date": "2025-01-02",
+      "hotel_name": "KONTRAKT Boutique Hotel",
+      "tourist_season_start_date": "2025-01-22",
       "tourist_season_end_date": "2025-02-28",
       "additional_info_name": "Festival Period"
     },
     {
-      "hotel_name": "Daios Luxury Living",
-      "tourist_season_start_date": "2025-03-18",
-      "tourist_season_end_date": "2025-03-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Fairmont Grand Hotel Kyiv",
-      "tourist_season_start_date": "2025-06-01",
-      "tourist_season_end_date": "2025-07-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "Rixos Sharm El Sheikh",
-      "tourist_season_start_date": "2025-04-11",
-      "tourist_season_end_date": "2025-05-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Hotel Stary",
-      "tourist_season_start_date": "2025-02-15",
-      "tourist_season_end_date": "2025-02-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Pullman Munich",
-      "tourist_season_start_date": "2025-02-13",
-      "tourist_season_end_date": "2025-03-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Fairmont Grand Hotel Kyiv",
-      "tourist_season_start_date": "2025-10-02",
+      "hotel_name": "Hotel Rubinstein",
+      "tourist_season_start_date": "2025-09-10",
       "tourist_season_end_date": "2025-10-28",
       "additional_info_name": "Low Tourist Flow"
     },
     {
-      "hotel_name": "Delphin Imperial Hotel Lara",
-      "tourist_season_start_date": "2025-04-11",
-      "tourist_season_end_date": "2025-05-28",
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "tourist_season_start_date": "2025-01-11",
+      "tourist_season_end_date": "2025-01-28",
       "additional_info_name": "Low Tourist Flow"
     },
     {
-      "hotel_name": "IC Hotels Green Palace",
-      "tourist_season_start_date": "2025-09-12",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "Arabia Azur Resort",
-      "tourist_season_start_date": "2025-08-14",
-      "tourist_season_end_date": "2025-09-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "Grand Hyatt Athens",
-      "tourist_season_start_date": "2025-10-04",
-      "tourist_season_end_date": "2025-11-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Puro Warszawa Centrum",
-      "tourist_season_start_date": "2025-05-22",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Shoulder Season"
-    },
-    {
-      "hotel_name": "The MET Hotel",
-      "tourist_season_start_date": "2025-03-06",
-      "tourist_season_end_date": "2025-03-28",
-      "additional_info_name": "Low Tourist Flow"
-    },
-    {
-      "hotel_name": "Hotel Stary",
-      "tourist_season_start_date": "2025-06-19",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Summer Season"
-    },
-    {
-      "hotel_name": "VP Plaza España Design",
-      "tourist_season_start_date": "2025-06-16",
+      "hotel_name": "Giftun Azur Resort",
+      "tourist_season_start_date": "2025-05-15",
       "tourist_season_end_date": "2025-06-28",
       "additional_info_name": "Peak Holiday Season"
     },
     {
-      "hotel_name": "Hotel Riu Plaza España",
-      "tourist_season_start_date": "2025-08-08",
+      "hotel_name": "Steigenberger Aldau Beach Hotel",
+      "tourist_season_start_date": "2025-08-13",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Seven Hills Hotel",
+      "tourist_season_start_date": "2025-01-16",
+      "tourist_season_end_date": "2025-02-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Park Regency Sharm El Sheikh Resort",
+      "tourist_season_start_date": "2025-03-22",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Hilton Munich Park",
+      "tourist_season_start_date": "2025-06-21",
+      "tourist_season_end_date": "2025-06-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Astoria Hotel",
+      "tourist_season_start_date": "2025-01-09",
+      "tourist_season_end_date": "2025-02-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Atrium Hotel",
+      "tourist_season_start_date": "2025-07-04",
+      "tourist_season_end_date": "2025-08-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Hotel Sura Hagia Sophia",
+      "tourist_season_start_date": "2025-08-24",
       "tourist_season_end_date": "2025-09-28",
       "additional_info_name": "Hot Season"
     },
     {
-      "hotel_name": "The Rilano Hotel München",
-      "tourist_season_start_date": "2025-09-18",
-      "tourist_season_end_date": "2025-09-28",
+      "hotel_name": "Hilton Munich Park",
+      "tourist_season_start_date": "2025-02-12",
+      "tourist_season_end_date": "2025-02-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "KONTRAKT Boutique Hotel",
+      "tourist_season_start_date": "2025-01-14",
+      "tourist_season_end_date": "2025-01-28",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "hotel_name": "Giftun Azur Resort",
+      "tourist_season_start_date": "2025-09-02",
+      "tourist_season_end_date": "2025-10-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Hotel Bellotto",
+      "tourist_season_start_date": "2025-10-14",
+      "tourist_season_end_date": "2025-11-28",
       "additional_info_name": "Rainy Season"
     },
     {
-      "hotel_name": "Baron Resort Sharm El Sheikh",
-      "tourist_season_start_date": "2025-03-25",
-      "tourist_season_end_date": "2025-03-28",
+      "hotel_name": "CUE Podgorica",
+      "tourist_season_start_date": "2025-10-14",
+      "tourist_season_end_date": "2025-10-28",
       "additional_info_name": "Shoulder Season"
     },
     {
-      "hotel_name": "The Mandala Hotel",
-      "tourist_season_start_date": "2025-05-13",
+      "hotel_name": "Limak Lara De Luxe Hotel & Resort",
+      "tourist_season_start_date": "2025-03-13",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Hyatt Regency Nice Palais de la Méditerranée",
+      "tourist_season_start_date": "2025-08-04",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Golden Tulip Krakow City Center",
+      "tourist_season_start_date": "2025-08-01",
+      "tourist_season_end_date": "2025-08-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
+      "tourist_season_start_date": "2025-02-08",
+      "tourist_season_end_date": "2025-03-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
+      "tourist_season_start_date": "2025-07-14",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "Sheraton Nice Airport",
+      "tourist_season_start_date": "2025-06-03",
+      "tourist_season_end_date": "2025-06-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "Steigenberger Aldau Beach Hotel",
+      "tourist_season_start_date": "2025-05-03",
       "tourist_season_end_date": "2025-05-28",
       "additional_info_name": "Peak Holiday Season"
     },
     {
       "hotel_name": "The Peninsula Paris",
-      "tourist_season_start_date": "2025-06-17",
+      "tourist_season_start_date": "2025-07-13",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "Sheraton Grand Krakow",
+      "tourist_season_start_date": "2025-07-08",
       "tourist_season_end_date": "2025-07-28",
       "additional_info_name": "Hot Season"
     },
     {
+      "hotel_name": "Grand Hotel Lviv Casino & Spa",
+      "tourist_season_start_date": "2025-07-21",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "The Peninsula Paris",
+      "tourist_season_start_date": "2025-04-03",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Hotel Hemera",
+      "tourist_season_start_date": "2025-03-01",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "tourist_season_start_date": "2025-09-10",
+      "tourist_season_end_date": "2025-10-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "W Barcelona",
+      "tourist_season_start_date": "2025-05-12",
+      "tourist_season_end_date": "2025-05-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Golden Tulip Krakow City Center",
+      "tourist_season_start_date": "2025-04-15",
+      "tourist_season_end_date": "2025-05-28",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "hotel_name": "Vintage Boutique Hotel",
+      "tourist_season_start_date": "2025-05-07",
+      "tourist_season_end_date": "2025-06-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Amalia Hotel Athens",
+      "tourist_season_start_date": "2025-08-17",
+      "tourist_season_end_date": "2025-08-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "New Hotel",
+      "tourist_season_start_date": "2025-10-21",
+      "tourist_season_end_date": "2025-10-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "IC Hotels Green Palace",
+      "tourist_season_start_date": "2025-03-08",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Le Bristol Paris",
+      "tourist_season_start_date": "2025-06-02",
+      "tourist_season_end_date": "2025-06-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Limak Lara De Luxe Hotel & Resort",
+      "tourist_season_start_date": "2025-01-06",
+      "tourist_season_end_date": "2025-02-28",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "hotel_name": "Voco Podgorica (An IHG Hotel)",
+      "tourist_season_start_date": "2025-03-11",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Arabia Azur Resort",
+      "tourist_season_start_date": "2025-10-11",
+      "tourist_season_end_date": "2025-10-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "The Peninsula Paris",
+      "tourist_season_start_date": "2025-06-08",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "Hotel Ziya",
+      "tourist_season_start_date": "2025-04-21",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "hotel_name": "Park Regency Sharm El Sheikh Resort",
+      "tourist_season_start_date": "2025-04-25",
+      "tourist_season_end_date": "2025-05-28",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "hotel_name": "IC Hotels Green Palace",
+      "tourist_season_start_date": "2025-07-13",
+      "tourist_season_end_date": "2025-08-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "KONTRAKT Boutique Hotel",
+      "tourist_season_start_date": "2025-07-02",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "H10 Port Vell",
+      "tourist_season_start_date": "2025-07-14",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "The MET Hotel",
+      "tourist_season_start_date": "2025-03-20",
+      "tourist_season_end_date": "2025-03-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Hôtel Plaza Athénée",
+      "tourist_season_start_date": "2025-02-12",
+      "tourist_season_end_date": "2025-03-28",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "hotel_name": "Heritage Hotel Antique Split",
+      "tourist_season_start_date": "2025-07-12",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "Hyatt Regency Nice Palais de la Méditerranée",
+      "tourist_season_start_date": "2025-08-18",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Hotel Hemera",
+      "tourist_season_start_date": "2025-03-10",
+      "tourist_season_end_date": "2025-03-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "The Rilano Hotel München",
+      "tourist_season_start_date": "2025-10-05",
+      "tourist_season_end_date": "2025-11-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Giftun Azur Resort",
+      "tourist_season_start_date": "2025-10-24",
+      "tourist_season_end_date": "2025-11-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
       "hotel_name": "Hilton Munich Park",
+      "tourist_season_start_date": "2025-04-03",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "hotel_name": "Atrium Hotel",
+      "tourist_season_start_date": "2025-03-22",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Atrium Hotel",
+      "tourist_season_start_date": "2025-07-19",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Hotel Riu Plaza España",
+      "tourist_season_start_date": "2025-10-22",
+      "tourist_season_end_date": "2025-10-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Electra Palace Athens",
+      "tourist_season_start_date": "2025-08-12",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Arabia Azur Resort",
+      "tourist_season_start_date": "2025-04-07",
+      "tourist_season_end_date": "2025-05-28",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
+      "tourist_season_start_date": "2025-02-13",
+      "tourist_season_end_date": "2025-03-28",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
+      "tourist_season_start_date": "2025-04-24",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Hotel Excelsior Dubrovnik",
       "tourist_season_start_date": "2025-01-24",
+      "tourist_season_end_date": "2025-01-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Daios Luxury Living",
+      "tourist_season_start_date": "2025-07-16",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "Four Seasons Hotel George V, Paris",
+      "tourist_season_start_date": "2025-06-23",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Sheraton Grand Krakow",
+      "tourist_season_start_date": "2025-04-09",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Hotel Arts Barcelona",
+      "tourist_season_start_date": "2025-01-13",
+      "tourist_season_end_date": "2025-01-28",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "hotel_name": "Golden Tulip Krakow City Center",
+      "tourist_season_start_date": "2025-10-18",
+      "tourist_season_end_date": "2025-10-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Golden Tulip Krakow City Center",
+      "tourist_season_start_date": "2025-09-14",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "tourist_season_start_date": "2025-05-14",
+      "tourist_season_end_date": "2025-05-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "The Peninsula Paris",
+      "tourist_season_start_date": "2025-05-13",
+      "tourist_season_end_date": "2025-05-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Arabia Azur Resort",
+      "tourist_season_start_date": "2025-08-10",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "tourist_season_start_date": "2025-08-01",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Sunrise Remal Beach Resort",
+      "tourist_season_start_date": "2025-07-14",
+      "tourist_season_end_date": "2025-08-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Hôtel Negresco",
+      "tourist_season_start_date": "2025-07-24",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Holiday Inn Thessaloniki",
+      "tourist_season_start_date": "2025-06-04",
+      "tourist_season_end_date": "2025-06-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
+      "tourist_season_start_date": "2025-02-17",
+      "tourist_season_end_date": "2025-03-28",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "hotel_name": "Daios Luxury Living",
+      "tourist_season_start_date": "2025-07-19",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "Hampton by Hilton Barcelona Fira Gran Vía",
+      "tourist_season_start_date": "2025-07-25",
+      "tourist_season_end_date": "2025-08-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Astoria Hotel",
+      "tourist_season_start_date": "2025-02-21",
       "tourist_season_end_date": "2025-02-28",
       "additional_info_name": "Low Tourist Flow"
     },
     {
-      "hotel_name": "Liberty Hotels Lara",
-      "tourist_season_start_date": "2025-06-21",
-      "tourist_season_end_date": "2025-06-28",
-      "additional_info_name": "Summer Season"
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "tourist_season_start_date": "2025-10-15",
+      "tourist_season_end_date": "2025-11-28",
+      "additional_info_name": "Shoulder Season"
     },
     {
-      "hotel_name": "BURSA Hotel Kyiv",
-      "tourist_season_start_date": "2025-09-25",
-      "tourist_season_end_date": "2025-09-28",
+      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
+      "tourist_season_start_date": "2025-02-10",
+      "tourist_season_end_date": "2025-02-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Astoria Hotel",
+      "tourist_season_start_date": "2025-06-22",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "The Peninsula Paris",
+      "tourist_season_start_date": "2025-03-20",
+      "tourist_season_end_date": "2025-03-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Occidental Atenea Mar - Adults Only",
+      "tourist_season_start_date": "2025-03-01",
+      "tourist_season_end_date": "2025-03-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "tourist_season_start_date": "2025-05-03",
+      "tourist_season_end_date": "2025-06-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Voco Podgorica (An IHG Hotel)",
+      "tourist_season_start_date": "2025-05-02",
+      "tourist_season_end_date": "2025-06-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Jaz Belvedere",
+      "tourist_season_start_date": "2025-10-06",
+      "tourist_season_end_date": "2025-10-28",
       "additional_info_name": "Low Tourist Flow"
     },
     {
       "hotel_name": "Hilton Munich Park",
+      "tourist_season_start_date": "2025-02-21",
+      "tourist_season_end_date": "2025-02-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "tourist_season_start_date": "2025-08-19",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "Arabia Azur Resort",
+      "tourist_season_start_date": "2025-10-04",
+      "tourist_season_end_date": "2025-10-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Seven Hills Hotel",
+      "tourist_season_start_date": "2025-03-21",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Makedonia Palace",
+      "tourist_season_start_date": "2025-05-14",
+      "tourist_season_end_date": "2025-06-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Hotel Park Split",
+      "tourist_season_start_date": "2025-05-11",
+      "tourist_season_end_date": "2025-06-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "tourist_season_start_date": "2025-05-20",
+      "tourist_season_end_date": "2025-05-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Hotel Budva",
+      "tourist_season_start_date": "2025-01-16",
+      "tourist_season_end_date": "2025-01-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Holiday Inn Thessaloniki",
+      "tourist_season_start_date": "2025-05-13",
+      "tourist_season_end_date": "2025-06-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Istanbul at Sultanahmet",
+      "tourist_season_start_date": "2025-04-06",
+      "tourist_season_end_date": "2025-05-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Hotel Rubinstein",
+      "tourist_season_start_date": "2025-07-17",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Puro Warszawa Centrum",
+      "tourist_season_start_date": "2025-07-20",
+      "tourist_season_end_date": "2025-08-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "Le Méridien Nice",
+      "tourist_season_start_date": "2025-10-13",
+      "tourist_season_end_date": "2025-11-28",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "hotel_name": "Amarant Urban Hotel",
+      "tourist_season_start_date": "2025-04-02",
+      "tourist_season_end_date": "2025-05-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Grand Hyatt Athens",
+      "tourist_season_start_date": "2025-01-25",
+      "tourist_season_end_date": "2025-02-28",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "tourist_season_start_date": "2025-09-05",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "The Mandala Hotel",
+      "tourist_season_start_date": "2025-08-04",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "tourist_season_start_date": "2025-10-03",
+      "tourist_season_end_date": "2025-10-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Hampton by Hilton Barcelona Fira Gran Vía",
+      "tourist_season_start_date": "2025-08-06",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Steigenberger Hotel München",
       "tourist_season_start_date": "2025-06-14",
       "tourist_season_end_date": "2025-06-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "W Barcelona",
+      "tourist_season_start_date": "2025-09-24",
+      "tourist_season_end_date": "2025-10-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Hôtel Plaza Athénée",
+      "tourist_season_start_date": "2025-08-15",
+      "tourist_season_end_date": "2025-09-28",
       "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "tourist_season_start_date": "2025-07-09",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "SeaGull Beach Resort",
+      "tourist_season_start_date": "2025-08-12",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Occidental Atenea Mar - Adults Only",
+      "tourist_season_start_date": "2025-06-23",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "New Hotel",
+      "tourist_season_start_date": "2025-04-21",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Rixos Sharm El Sheikh",
+      "tourist_season_start_date": "2025-06-11",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Grand Hyatt Athens",
+      "tourist_season_start_date": "2025-02-23",
+      "tourist_season_end_date": "2025-02-28",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "hotel_name": "Liberty Hotels Lara",
+      "tourist_season_start_date": "2025-06-22",
+      "tourist_season_end_date": "2025-06-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "Pullman Munich",
+      "tourist_season_start_date": "2025-10-04",
+      "tourist_season_end_date": "2025-11-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Steigenberger Hotel München",
+      "tourist_season_start_date": "2025-01-01",
+      "tourist_season_end_date": "2025-01-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "tourist_season_start_date": "2025-10-02",
+      "tourist_season_end_date": "2025-10-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Steigenberger Aldau Beach Hotel",
+      "tourist_season_start_date": "2025-04-12",
+      "tourist_season_end_date": "2025-05-28",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "hotel_name": "KONTRAKT Boutique Hotel",
+      "tourist_season_start_date": "2025-08-03",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Voco Podgorica (An IHG Hotel)",
+      "tourist_season_start_date": "2025-01-01",
+      "tourist_season_end_date": "2025-01-28",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "hotel_name": "Nobilis Hotel",
+      "tourist_season_start_date": "2025-04-25",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
+      "tourist_season_start_date": "2025-07-07",
+      "tourist_season_end_date": "2025-08-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Hotel Sura Hagia Sophia",
+      "tourist_season_start_date": "2025-07-21",
+      "tourist_season_end_date": "2025-08-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "Hôtel Aston La Scala",
+      "tourist_season_start_date": "2025-08-24",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
+      "tourist_season_start_date": "2025-06-23",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Andaz Munich Schwabinger Tor - a Concept by Hyatt",
+      "tourist_season_start_date": "2025-06-07",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Giftun Azur Resort",
+      "tourist_season_start_date": "2025-02-13",
+      "tourist_season_end_date": "2025-03-28",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "tourist_season_start_date": "2025-09-23",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Occidental Atenea Mar - Adults Only",
+      "tourist_season_start_date": "2025-10-20",
+      "tourist_season_end_date": "2025-10-28",
+      "additional_info_name": "Rainy Season"
+    },
+    {
+      "hotel_name": "Electra Metropolis",
+      "tourist_season_start_date": "2025-02-03",
+      "tourist_season_end_date": "2025-03-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Istanbul at Sultanahmet",
+      "tourist_season_start_date": "2025-01-06",
+      "tourist_season_end_date": "2025-02-28",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
+      "tourist_season_start_date": "2025-03-13",
+      "tourist_season_end_date": "2025-03-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Le Méridien Nice",
+      "tourist_season_start_date": "2025-01-03",
+      "tourist_season_end_date": "2025-01-28",
+      "additional_info_name": "Festival Period"
+    },
+    {
+      "hotel_name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
+      "tourist_season_start_date": "2025-08-09",
+      "tourist_season_end_date": "2025-08-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Hilton Munich Park",
+      "tourist_season_start_date": "2025-03-14",
+      "tourist_season_end_date": "2025-04-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Makedonia Palace",
+      "tourist_season_start_date": "2025-08-06",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Park Regency Sharm El Sheikh Resort",
+      "tourist_season_start_date": "2025-07-06",
+      "tourist_season_end_date": "2025-08-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Hilton Munich Park",
+      "tourist_season_start_date": "2025-02-20",
+      "tourist_season_end_date": "2025-02-28",
+      "additional_info_name": "Winter Season"
+    },
+    {
+      "hotel_name": "Sheraton Grand Krakow",
+      "tourist_season_start_date": "2025-03-19",
+      "tourist_season_end_date": "2025-03-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Cornaro Hotel",
+      "tourist_season_start_date": "2025-10-24",
+      "tourist_season_end_date": "2025-11-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Pullman Munich",
+      "tourist_season_start_date": "2025-07-21",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Sheraton Grand Krakow",
+      "tourist_season_start_date": "2025-10-20",
+      "tourist_season_end_date": "2025-10-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "Electra Metropolis",
+      "tourist_season_start_date": "2025-08-01",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Amalia Hotel Athens",
+      "tourist_season_start_date": "2025-02-06",
+      "tourist_season_end_date": "2025-02-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Grand Hyatt Athens",
+      "tourist_season_start_date": "2025-05-04",
+      "tourist_season_end_date": "2025-05-28",
+      "additional_info_name": "Peak Holiday Season"
+    },
+    {
+      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
+      "tourist_season_start_date": "2025-08-10",
+      "tourist_season_end_date": "2025-08-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Vintage Boutique Hotel",
+      "tourist_season_start_date": "2025-10-01",
+      "tourist_season_end_date": "2025-11-28",
+      "additional_info_name": "Shoulder Season"
+    },
+    {
+      "hotel_name": "The Ritz-Carlton, Berlin",
+      "tourist_season_start_date": "2025-10-19",
+      "tourist_season_end_date": "2025-11-28",
+      "additional_info_name": "Low Tourist Flow"
+    },
+    {
+      "hotel_name": "Arabia Azur Resort",
+      "tourist_season_start_date": "2025-07-15",
+      "tourist_season_end_date": "2025-07-28",
+      "additional_info_name": "Summer Season"
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "tourist_season_start_date": "2025-08-12",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Hot Season"
+    },
+    {
+      "hotel_name": "Hotel Arts Barcelona",
+      "tourist_season_start_date": "2025-09-10",
+      "tourist_season_end_date": "2025-09-28",
+      "additional_info_name": "Shoulder Season"
     }
   ]
 }

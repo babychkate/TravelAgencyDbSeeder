@@ -1,13 +1,25 @@
 {
   "hotel pricing policies": [
     {
+      "hotel_name": "Fairmont Grand Hotel Kyiv",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
+    },
+    {
+      "hotel_name": "Fairmont Grand Hotel Kyiv",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
+    },
+    {
       "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
     },
     {
-      "hotel_name": "Radisson Blu Hotel, Kyiv Podil City Centre",
+      "hotel_name": "BURSA Hotel Kyiv",
       "policy_name": "Early Bird Discount (45+ days)",
       "accommodation_price_percent": 0.85,
       "nutrition_price_percent": 0.9
@@ -25,19 +37,19 @@
       "nutrition_price_percent": 1.0
     },
     {
-      "hotel_name": "BURSA Hotel Kyiv",
+      "hotel_name": "KONTRAKT Boutique Hotel",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
+    },
+    {
+      "hotel_name": "KONTRAKT Boutique Hotel",
       "policy_name": "Early Bird Discount (45+ days)",
       "accommodation_price_percent": 0.85,
       "nutrition_price_percent": 0.9
     },
     {
-      "hotel_name": "KONTRAKT Boutique Hotel",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
-    },
-    {
-      "hotel_name": "KONTRAKT Boutique Hotel",
+      "hotel_name": "Amarant Urban Hotel",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
@@ -49,28 +61,10 @@
       "nutrition_price_percent": 0.65
     },
     {
-      "hotel_name": "Amarant Urban Hotel",
-      "policy_name": "Last Minute Discount (7 days)",
-      "accommodation_price_percent": 0.92,
-      "nutrition_price_percent": 1.0
-    },
-    {
       "hotel_name": "Grand Hotel Lviv Casino & Spa",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
-    },
-    {
-      "hotel_name": "Grand Hotel Lviv Casino & Spa",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
-    },
-    {
-      "hotel_name": "Astoria Hotel",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Astoria Hotel",
@@ -86,21 +80,9 @@
     },
     {
       "hotel_name": "Citadel Inn",
-      "policy_name": "Last Minute Discount (7 days)",
-      "accommodation_price_percent": 0.92,
-      "nutrition_price_percent": 1.0
-    },
-    {
-      "hotel_name": "Citadel Inn",
       "policy_name": "Early Bird Discount (45+ days)",
       "accommodation_price_percent": 0.85,
       "nutrition_price_percent": 0.9
-    },
-    {
-      "hotel_name": "Citadel Inn",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
     },
     {
       "hotel_name": "Vintage Boutique Hotel",
@@ -116,6 +98,24 @@
     },
     {
       "hotel_name": "Nobilis Hotel",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
+    },
+    {
+      "hotel_name": "Nobilis Hotel",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "Titanic Beach Lara",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
@@ -127,25 +127,19 @@
       "nutrition_price_percent": 0.9
     },
     {
-      "hotel_name": "Titanic Beach Lara",
+      "hotel_name": "Liberty Hotels Lara",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Liberty Hotels Lara",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
     },
     {
       "hotel_name": "Liberty Hotels Lara",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
-    },
-    {
-      "hotel_name": "Delphin Imperial Hotel Lara",
       "policy_name": "Early Bird Discount (45+ days)",
       "accommodation_price_percent": 0.85,
       "nutrition_price_percent": 0.9
@@ -157,22 +151,16 @@
       "nutrition_price_percent": 0.65
     },
     {
-      "hotel_name": "Delphin Imperial Hotel Lara",
+      "hotel_name": "IC Hotels Green Palace",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "IC Hotels Green Palace",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
-    },
-    {
-      "hotel_name": "Limak Lara De Luxe Hotel & Resort",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
     },
     {
       "hotel_name": "Limak Lara De Luxe Hotel & Resort",
@@ -187,7 +175,7 @@
       "nutrition_price_percent": 1.0
     },
     {
-      "hotel_name": "Four Seasons Hotel Istanbul at Sultanahmet",
+      "hotel_name": "Limak Lara De Luxe Hotel & Resort",
       "policy_name": "Early Bird Discount (45+ days)",
       "accommodation_price_percent": 0.85,
       "nutrition_price_percent": 0.9
@@ -199,10 +187,22 @@
       "nutrition_price_percent": 1.0
     },
     {
-      "hotel_name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
+      "hotel_name": "Four Seasons Hotel Istanbul at Sultanahmet",
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Istanbul at Sultanahmet",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
+    },
+    {
+      "hotel_name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
@@ -211,7 +211,7 @@
       "nutrition_price_percent": 0.9
     },
     {
-      "hotel_name": "Hotel Sura Hagia Sophia",
+      "hotel_name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
@@ -235,10 +235,16 @@
       "nutrition_price_percent": 0.9
     },
     {
-      "hotel_name": "DoubleTree by Hilton Istanbul - Old Town",
+      "hotel_name": "Seven Hills Hotel",
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "Seven Hills Hotel",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Seven Hills Hotel",
@@ -248,9 +254,21 @@
     },
     {
       "hotel_name": "Steigenberger Aldau Beach Hotel",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
+    },
+    {
+      "hotel_name": "Steigenberger Aldau Beach Hotel",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "Sunny Days El Palacio Resort & Spa",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
     },
     {
       "hotel_name": "Sunny Days El Palacio Resort & Spa",
@@ -271,43 +289,25 @@
       "nutrition_price_percent": 0.9
     },
     {
-      "hotel_name": "Giftun Azur Resort",
-      "policy_name": "Last Minute Discount (7 days)",
-      "accommodation_price_percent": 0.92,
-      "nutrition_price_percent": 1.0
-    },
-    {
-      "hotel_name": "Arabia Azur Resort",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
-    },
-    {
       "hotel_name": "Arabia Azur Resort",
       "policy_name": "Early Bird Discount (45+ days)",
       "accommodation_price_percent": 0.85,
       "nutrition_price_percent": 0.9
     },
     {
-      "hotel_name": "SeaGull Beach Resort",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
-    },
-    {
-      "hotel_name": "SeaGull Beach Resort",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
-    },
-    {
-      "hotel_name": "SeaGull Beach Resort",
+      "hotel_name": "Baron Resort Sharm El Sheikh",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Baron Resort Sharm El Sheikh",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "Rixos Sharm El Sheikh",
       "policy_name": "Early Bird Discount (45+ days)",
       "accommodation_price_percent": 0.85,
       "nutrition_price_percent": 0.9
@@ -317,6 +317,12 @@
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "Sunrise Remal Beach Resort",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Sunrise Remal Beach Resort",
@@ -332,18 +338,24 @@
     },
     {
       "hotel_name": "Jaz Belvedere",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
+    },
+    {
+      "hotel_name": "Jaz Belvedere",
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
     },
     {
       "hotel_name": "Park Regency Sharm El Sheikh Resort",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
     },
     {
-      "hotel_name": "Park Regency Sharm El Sheikh Resort",
+      "hotel_name": "Electra Palace Athens",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
@@ -353,18 +365,12 @@
       "policy_name": "Early Bird Discount (45+ days)",
       "accommodation_price_percent": 0.85,
       "nutrition_price_percent": 0.9
-    },
-    {
-      "hotel_name": "Electra Palace Athens",
-      "policy_name": "Last Minute Discount (7 days)",
-      "accommodation_price_percent": 0.92,
-      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Grand Hyatt Athens",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Grand Hyatt Athens",
@@ -379,10 +385,16 @@
       "nutrition_price_percent": 0.65
     },
     {
-      "hotel_name": "New Hotel",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
+      "hotel_name": "Amalia Hotel Athens",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "Amalia Hotel Athens",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "New Hotel",
@@ -392,6 +404,18 @@
     },
     {
       "hotel_name": "New Hotel",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
+    },
+    {
+      "hotel_name": "New Hotel",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
+    },
+    {
+      "hotel_name": "Makedonia Palace",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
@@ -403,12 +427,36 @@
       "nutrition_price_percent": 0.65
     },
     {
+      "hotel_name": "The MET Hotel",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "The MET Hotel",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
+    },
+    {
       "hotel_name": "Electra Palace Thessaloniki",
       "policy_name": "Early Bird Discount (45+ days)",
       "accommodation_price_percent": 0.85,
       "nutrition_price_percent": 0.9
     },
     {
+      "hotel_name": "Electra Palace Thessaloniki",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "Electra Palace Thessaloniki",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
+    },
+    {
       "hotel_name": "Daios Luxury Living",
       "policy_name": "Early Bird Discount (45+ days)",
       "accommodation_price_percent": 0.85,
@@ -416,9 +464,27 @@
     },
     {
       "hotel_name": "Daios Luxury Living",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "Daios Luxury Living",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
+    },
+    {
+      "hotel_name": "Holiday Inn Thessaloniki",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
+    },
+    {
+      "hotel_name": "Holiday Inn Thessaloniki",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
     },
     {
       "hotel_name": "Holiday Inn Thessaloniki",
@@ -439,40 +505,22 @@
       "nutrition_price_percent": 0.65
     },
     {
-      "hotel_name": "Cornaro Hotel",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
-    },
-    {
-      "hotel_name": "Cornaro Hotel",
+      "hotel_name": "Hotel Park Split",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Cornaro Hotel",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
-    },
-    {
-      "hotel_name": "Hotel Vestibul Palace & Villa",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
-    },
-    {
-      "hotel_name": "Atrium Hotel",
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
     },
     {
-      "hotel_name": "Atrium Hotel",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
+      "hotel_name": "Hotel Vestibul Palace & Villa",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
     },
     {
       "hotel_name": "Atrium Hotel",
@@ -482,9 +530,9 @@
     },
     {
       "hotel_name": "Heritage Hotel Antique Split",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Heritage Hotel Antique Split",
@@ -494,6 +542,18 @@
     },
     {
       "hotel_name": "Hotel Excelsior Dubrovnik",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
+    },
+    {
+      "hotel_name": "Hotel Excelsior Dubrovnik",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "Hilton Imperial Dubrovnik",
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
@@ -505,34 +565,22 @@
       "nutrition_price_percent": 0.9
     },
     {
-      "hotel_name": "Hilton Imperial Dubrovnik",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
-    },
-    {
-      "hotel_name": "Hotel Bellevue Dubrovnik",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
-    },
-    {
-      "hotel_name": "Hotel Bellevue Dubrovnik",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
-    },
-    {
       "hotel_name": "Hotel Bellevue Dubrovnik",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
     },
     {
-      "hotel_name": "Hotel Dubrovnik Palace",
+      "hotel_name": "Hotel Bellevue Dubrovnik",
       "policy_name": "Early Bird Discount (45+ days)",
       "accommodation_price_percent": 0.85,
       "nutrition_price_percent": 0.9
+    },
+    {
+      "hotel_name": "Hotel Bellevue Dubrovnik",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
     },
     {
       "hotel_name": "Hotel Dubrovnik Palace",
@@ -542,27 +590,15 @@
     },
     {
       "hotel_name": "St. Joseph's Hotel",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "St. Joseph's Hotel",
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
-    },
-    {
-      "hotel_name": "St. Joseph's Hotel",
-      "policy_name": "Last Minute Discount (7 days)",
-      "accommodation_price_percent": 0.92,
-      "nutrition_price_percent": 1.0
-    },
-    {
-      "hotel_name": "Splendid Conference & Spa Resort",
-      "policy_name": "Last Minute Discount (7 days)",
-      "accommodation_price_percent": 0.92,
-      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Splendid Conference & Spa Resort",
@@ -572,9 +608,21 @@
     },
     {
       "hotel_name": "Splendid Conference & Spa Resort",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
+    },
+    {
+      "hotel_name": "Hotel Budva",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
+    },
+    {
+      "hotel_name": "Hotel Budva",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Hotel Budva",
@@ -584,27 +632,27 @@
     },
     {
       "hotel_name": "Avala Resort & Villas",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
-    },
-    {
-      "hotel_name": "Hotel Tre Canne",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
     },
     {
-      "hotel_name": "Hotel Tre Canne",
+      "hotel_name": "Avala Resort & Villas",
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
     },
     {
-      "hotel_name": "Hotel Old Budva",
-      "policy_name": "Last Minute Discount (7 days)",
-      "accommodation_price_percent": 0.92,
-      "nutrition_price_percent": 1.0
+      "hotel_name": "Avala Resort & Villas",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
+    },
+    {
+      "hotel_name": "Hotel Tre Canne",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
     },
     {
       "hotel_name": "Hotel Old Budva",
@@ -614,21 +662,27 @@
     },
     {
       "hotel_name": "Hotel Old Budva",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
+    },
+    {
+      "hotel_name": "Hotel Old Budva",
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
     },
     {
       "hotel_name": "Hilton Podgorica Crna Gora",
-      "policy_name": "Last Minute Discount (7 days)",
-      "accommodation_price_percent": 0.92,
-      "nutrition_price_percent": 1.0
-    },
-    {
-      "hotel_name": "Hilton Podgorica Crna Gora",
       "policy_name": "Early Bird Discount (45+ days)",
       "accommodation_price_percent": 0.85,
       "nutrition_price_percent": 0.9
+    },
+    {
+      "hotel_name": "Hilton Podgorica Crna Gora",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Hilton Podgorica Crna Gora",
@@ -643,10 +697,16 @@
       "nutrition_price_percent": 0.9
     },
     {
-      "hotel_name": "Hotel Ziya",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
+      "hotel_name": "Voco Podgorica (An IHG Hotel)",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
+    },
+    {
+      "hotel_name": "Voco Podgorica (An IHG Hotel)",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
     },
     {
       "hotel_name": "Hotel Ziya",
@@ -662,21 +722,21 @@
     },
     {
       "hotel_name": "Hotel Hemera",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
-    },
-    {
-      "hotel_name": "Hotel Hemera",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Hotel Hemera",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "CUE Podgorica",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
@@ -686,18 +746,12 @@
     },
     {
       "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
-    },
-    {
-      "hotel_name": "Raffles Europejski Warsaw",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
     },
     {
-      "hotel_name": "Raffles Europejski Warsaw",
+      "hotel_name": "Hotel Bristol, a Luxury Collection Hotel, Warsaw",
       "policy_name": "Early Bird Discount (45+ days)",
       "accommodation_price_percent": 0.85,
       "nutrition_price_percent": 0.9
@@ -707,48 +761,42 @@
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "Raffles Europejski Warsaw",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Mamaison Hotel Le Regina Warsaw",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
-    },
-    {
-      "hotel_name": "Mamaison Hotel Le Regina Warsaw",
-      "policy_name": "Last Minute Discount (7 days)",
-      "accommodation_price_percent": 0.92,
-      "nutrition_price_percent": 1.0
-    },
-    {
-      "hotel_name": "Hotel Bellotto",
-      "policy_name": "Last Minute Discount (7 days)",
-      "accommodation_price_percent": 0.92,
-      "nutrition_price_percent": 1.0
-    },
-    {
-      "hotel_name": "Hotel Bellotto",
       "policy_name": "Early Bird Discount (45+ days)",
       "accommodation_price_percent": 0.85,
       "nutrition_price_percent": 0.9
     },
     {
       "hotel_name": "Hotel Bellotto",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
+    },
+    {
+      "hotel_name": "Hotel Bellotto",
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "Hotel Bellotto",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
     },
     {
       "hotel_name": "Puro Warszawa Centrum",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
-    },
-    {
-      "hotel_name": "Hotel Stary",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Hotel Stary",
@@ -758,6 +806,18 @@
     },
     {
       "hotel_name": "Hotel Stary",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "Sheraton Grand Krakow",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
+    },
+    {
+      "hotel_name": "Sheraton Grand Krakow",
       "policy_name": "Early Bird Discount (45+ days)",
       "accommodation_price_percent": 0.85,
       "nutrition_price_percent": 0.9
@@ -769,6 +829,30 @@
       "nutrition_price_percent": 0.65
     },
     {
+      "hotel_name": "Hotel Rubinstein",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "Hotel Rubinstein",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
+    },
+    {
+      "hotel_name": "Hotel Rubinstein",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
+    },
+    {
+      "hotel_name": "Aparthotel Stare Miasto",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
+    },
+    {
       "hotel_name": "Aparthotel Stare Miasto",
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
@@ -776,15 +860,21 @@
     },
     {
       "hotel_name": "Golden Tulip Krakow City Center",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
-    },
-    {
-      "hotel_name": "Golden Tulip Krakow City Center",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
+    },
+    {
+      "hotel_name": "Adina Apartment Hotel Berlin Mitte",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "Adina Apartment Hotel Berlin Mitte",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
     },
     {
       "hotel_name": "Adina Apartment Hotel Berlin Mitte",
@@ -817,7 +907,7 @@
       "nutrition_price_percent": 0.65
     },
     {
-      "hotel_name": "INNSiDE by Meliá Berlin Mitte",
+      "hotel_name": "Regent Berlin",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
@@ -841,10 +931,10 @@
       "nutrition_price_percent": 1.0
     },
     {
-      "hotel_name": "Andaz Munich Schwabinger Tor - a Concept by Hyatt",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
+      "hotel_name": "The Ritz-Carlton, Berlin",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
     },
     {
       "hotel_name": "Andaz Munich Schwabinger Tor - a Concept by Hyatt",
@@ -860,27 +950,33 @@
     },
     {
       "hotel_name": "Steigenberger Hotel München",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
-    },
-    {
-      "hotel_name": "Steigenberger Hotel München",
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
     },
     {
-      "hotel_name": "Hilton Munich Park",
+      "hotel_name": "Steigenberger Hotel München",
       "policy_name": "Early Bird Discount (45+ days)",
       "accommodation_price_percent": 0.85,
       "nutrition_price_percent": 0.9
     },
     {
-      "hotel_name": "Hilton Munich Park",
+      "hotel_name": "Pullman Munich",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "Pullman Munich",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
+    },
+    {
+      "hotel_name": "Pullman Munich",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
     },
     {
       "hotel_name": "Hilton Munich Park",
@@ -890,39 +986,15 @@
     },
     {
       "hotel_name": "The Rilano Hotel München",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
     },
     {
       "hotel_name": "The Rilano Hotel München",
-      "policy_name": "Last Minute Discount (7 days)",
-      "accommodation_price_percent": 0.92,
-      "nutrition_price_percent": 1.0
-    },
-    {
-      "hotel_name": "Four Seasons Hotel George V, Paris",
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
-    },
-    {
-      "hotel_name": "Four Seasons Hotel George V, Paris",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
-    },
-    {
-      "hotel_name": "Le Bristol Paris",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
-    },
-    {
-      "hotel_name": "Le Bristol Paris",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
     },
     {
       "hotel_name": "Le Bristol Paris",
@@ -937,22 +1009,34 @@
       "nutrition_price_percent": 0.65
     },
     {
-      "hotel_name": "Mandarin Oriental, Paris",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
+      "hotel_name": "Hôtel Plaza Athénée",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
     },
     {
-      "hotel_name": "The Peninsula Paris",
+      "hotel_name": "Mandarin Oriental, Paris",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "The Peninsula Paris",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
+    },
+    {
+      "hotel_name": "The Peninsula Paris",
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "The Peninsula Paris",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Hôtel Negresco",
@@ -961,6 +1045,18 @@
       "nutrition_price_percent": 1.0
     },
     {
+      "hotel_name": "Hôtel Negresco",
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
+    },
+    {
+      "hotel_name": "Hôtel Negresco",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
+    },
+    {
       "hotel_name": "Hyatt Regency Nice Palais de la Méditerranée",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
@@ -980,21 +1076,9 @@
     },
     {
       "hotel_name": "Le Méridien Nice",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
-    },
-    {
-      "hotel_name": "Le Méridien Nice",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
-    },
-    {
-      "hotel_name": "Le Méridien Nice",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
     },
     {
       "hotel_name": "Sheraton Nice Airport",
@@ -1003,6 +1087,12 @@
       "nutrition_price_percent": 0.65
     },
     {
+      "hotel_name": "Sheraton Nice Airport",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
+    },
+    {
       "hotel_name": "Hôtel Aston La Scala",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
@@ -1022,9 +1112,9 @@
     },
     {
       "hotel_name": "Hotel Arts Barcelona",
-      "policy_name": "Last Minute Discount (7 days)",
-      "accommodation_price_percent": 0.92,
-      "nutrition_price_percent": 1.0
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
     },
     {
       "hotel_name": "Hotel Arts Barcelona",
@@ -1034,21 +1124,15 @@
     },
     {
       "hotel_name": "W Barcelona",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
-    },
-    {
-      "hotel_name": "W Barcelona",
-      "policy_name": "Last Minute Discount (7 days)",
-      "accommodation_price_percent": 0.92,
-      "nutrition_price_percent": 1.0
+      "policy_name": "Child Discount",
+      "accommodation_price_percent": 0.5,
+      "nutrition_price_percent": 0.65
     },
     {
       "hotel_name": "Hampton by Hilton Barcelona Fira Gran Vía",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
     },
     {
       "hotel_name": "H10 Port Vell",
@@ -1061,12 +1145,6 @@
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
-    },
-    {
-      "hotel_name": "H10 Port Vell",
-      "policy_name": "Last Minute Discount (7 days)",
-      "accommodation_price_percent": 0.92,
-      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Occidental Atenea Mar - Adults Only",
@@ -1075,10 +1153,10 @@
       "nutrition_price_percent": 0.9
     },
     {
-      "hotel_name": "Occidental Atenea Mar - Adults Only",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
+      "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
@@ -1087,10 +1165,10 @@
       "nutrition_price_percent": 0.9
     },
     {
-      "hotel_name": "Ritz Madrid, a Mandarin Oriental Hotel",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
+      "hotel_name": "Four Seasons Hotel Madrid",
+      "policy_name": "Early Bird Discount (45+ days)",
+      "accommodation_price_percent": 0.85,
+      "nutrition_price_percent": 0.9
     },
     {
       "hotel_name": "Four Seasons Hotel Madrid",
@@ -1099,31 +1177,7 @@
       "nutrition_price_percent": 1.0
     },
     {
-      "hotel_name": "Four Seasons Hotel Madrid",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
-    },
-    {
       "hotel_name": "VP Plaza España Design",
-      "policy_name": "Last Minute Discount (7 days)",
-      "accommodation_price_percent": 0.92,
-      "nutrition_price_percent": 1.0
-    },
-    {
-      "hotel_name": "VP Plaza España Design",
-      "policy_name": "Child Discount",
-      "accommodation_price_percent": 0.5,
-      "nutrition_price_percent": 0.65
-    },
-    {
-      "hotel_name": "VP Plaza España Design",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
-    },
-    {
-      "hotel_name": "Hotel Riu Plaza España",
       "policy_name": "Last Minute Discount (7 days)",
       "accommodation_price_percent": 0.92,
       "nutrition_price_percent": 1.0
@@ -1141,22 +1195,16 @@
       "nutrition_price_percent": 0.9
     },
     {
-      "hotel_name": "Only YOU Boutique Hotel Madrid",
-      "policy_name": "Early Bird Discount (45+ days)",
-      "accommodation_price_percent": 0.85,
-      "nutrition_price_percent": 0.9
+      "hotel_name": "Hotel Riu Plaza España",
+      "policy_name": "Last Minute Discount (7 days)",
+      "accommodation_price_percent": 0.92,
+      "nutrition_price_percent": 1.0
     },
     {
       "hotel_name": "Only YOU Boutique Hotel Madrid",
       "policy_name": "Child Discount",
       "accommodation_price_percent": 0.5,
       "nutrition_price_percent": 0.65
-    },
-    {
-      "hotel_name": "Only YOU Boutique Hotel Madrid",
-      "policy_name": "Last Minute Discount (7 days)",
-      "accommodation_price_percent": 0.92,
-      "nutrition_price_percent": 1.0
     }
   ]
 }

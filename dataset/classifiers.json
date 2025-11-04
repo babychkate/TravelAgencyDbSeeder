@@ -1,12 +1,92 @@
-{ "additional infos": [ "Winter Season", "Summer Season", "Rainy Season", "Peak Holiday Season", "Shoulder Season", "Low Tourist Flow", "Hot Season", "Festival Period" ], 
-"bed types": [ "Single", "Double", "Queen", "King", "Sofa" ], 
-"booking statuses": [ "Pending Payment", "Ticketed", "Completed", "Cancelled" ], 
-"bus trip route types": [ "Regular", "Express", "Night" ], 
-"category of facilities": [ "General", "Food & Drink", "Wellness", "Recreation", "Business", "Family", "Accessibility", "Parking & Transport", "Pools", "Sports" ], 
-"flight route types": [ "Regular", "Charter", "Low cost" ], 
-"room types": [ "Single", "Double", "Deluxe", "Family", "Suite" ], 
-"meal types": [ "Room Only (RO)", "Bed & Breakfast (BB)", "Half Board (HB)", "Full Board (FB)", "All Inclusive (AI)" ], 
-"nearby object types": [ "Airport", "Museum", "Restaurant", "Cafe", "Park", "Theater", "Historical Site", "Beach", "Hotel", "Hospital" ], 
-"package tour statuses": [ "Draft", "Active", "Sold Out", "Archived" ], 
-"policy types": [ "Early Bird Discount", "Last Minute Discount", "Child Discount" ], 
-"vacation types": [ "Beach Vacation", "City Break", "Ski Holiday", "Adventure Tour", "Historical & Cultural", "Spa & Wellness", "Cruise", "Mountain Hiking" ] }
+{ "additional infos": [ 
+  "Winter Season", 
+  "Summer Season", 
+  "Rainy Season", 
+  "Peak Holiday Season", 
+  "Shoulder Season", 
+  "Low Tourist Flow", 
+  "Hot Season", 
+  "Festival Period" 
+], 
+"bed types": [ 
+  "Single", 
+  "Double", 
+  "Queen", 
+  "King", 
+  "Sofa" 
+], 
+"booking statuses": [ 
+  "Pending Payment", 
+  "Ticketed", 
+  "Completed", 
+  "Cancelled" 
+], 
+"bus trip route types": [ 
+  "Regular", 
+  "Express", 
+  "Night" 
+], 
+"category of facilities": [ 
+  "General", 
+  "Food & Drink", 
+  "Wellness", 
+  "Recreation", 
+  "Business", 
+  "Family", 
+  "Accessibility", 
+  "Parking & Transport", 
+  "Pools", 
+  "Sports" 
+], 
+"flight route types": [ 
+  "Regular", 
+  "Charter", 
+  "Low cost" 
+], 
+"room types": [ 
+  "Single", 
+  "Double", 
+  "Deluxe", 
+  "Family", 
+  "Suite" 
+], 
+"meal types": [ 
+  "Room Only (RO)", 
+  "Bed & Breakfast (BB)", 
+  "Half Board (HB)", 
+  "Full Board (FB)", 
+  "All Inclusive (AI)" 
+], 
+"nearby object types": [ 
+  "Airport", 
+  "Museum", 
+  "Restaurant", 
+  "Cafe", 
+  "Park", 
+  "Theater", 
+  "Historical Site", 
+  "Beach", 
+  "Hotel", 
+  "Hospital" 
+], 
+"package tour statuses": [ 
+  "Draft", 
+  "Active", 
+  "Sold Out", 
+  "Archived" 
+], 
+"policy types": [ 
+  "Early Bird Discount", 
+  "Last Minute Discount", 
+  "Child Discount" 
+], 
+"vacation types": [ 
+  "Beach Vacation", 
+  "City Break", 
+  "Ski Holiday", 
+  "Adventure Tour", 
+  "Historical & Cultural", 
+  "Spa & Wellness", 
+  "Cruise", 
+  "Mountain Hiking" 
+  ] }

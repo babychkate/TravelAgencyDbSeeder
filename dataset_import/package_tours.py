@@ -1,135 +1,270 @@
 import json
 from pathlib import Path
-from sql_connection import conn
+from sql_connection import conn  # твоє підключення pyodbc
 
 # --- Шлях до JSON ---
 file_path = Path(__file__).parent.parent / "dataset" / "package_tours.json"
 
 with open(file_path, "r", encoding="utf-8") as f:
-    package_tours = json.load(f)["package tours"]
-
-successful_inserts = 0
+    data = json.load(f)
 
 with conn.cursor() as cursor:
-    for tour in package_tours:
-        # --- Tour operator ---
-        operator_name = tour["tour_operator_name"]["tour_operator_name"]
-        operator_description = tour["tour_operator_name"].get("tour_operator_description", "")
+    package_tour_counter = 0
 
-        cursor.execute("""
-            SELECT tour_operator_id FROM tour_operator WHERE tour_operator_name = ?
-        """, (operator_name,))
-        operator_row = cursor.fetchone()
-
-        if operator_row:
-            tour_operator_id = operator_row[0]
+    for tour in data["package tours"]:
+        # --- Tour Operator ---
+        tour_operator = tour["tour_operator_name"]
+        cursor.execute(
+            "SELECT tour_operator_id FROM tour_operator WHERE tour_operator_name = ?",
+            (tour_operator["tour_operator_name"],)
+        )
+        row = cursor.fetchone()
+        if row:
+            tour_operator_id = row[0]
         else:
-            cursor.execute("""
-                INSERT INTO tour_operator (tour_operator_name, tour_operator_description)
-                VALUES (?, ?)
-            """, (operator_name, operator_description))
-            cursor.execute("SELECT @@IDENTITY")
+            cursor.execute(
+                "INSERT INTO tour_operator (tour_operator_name, tour_operator_description) "
+                "OUTPUT INSERTED.tour_operator_id "
+                "VALUES (?, ?)",
+                (tour_operator["tour_operator_name"], tour_operator.get("tour_operator_description", ""))
+            )
             tour_operator_id = cursor.fetchone()[0]
 
-        # --- Room type ---
-        room_type_name = tour["tour_accommodation"]["hotel_room_type_name"]
-        max_adults = tour["tour_accommodation"]["max_adults"]
-        max_children = tour["tour_accommodation"]["max_children"]
+        # --- Hotel ---
+        accommodation = tour["tour_accommodation"]
+        cursor.execute(
+            "SELECT hotel_id FROM hotel WHERE hotel_name = ?",
+            (accommodation["hotel_name"],)
+        )
+        row = cursor.fetchone()
+        if row:
+            hotel_id = row[0]
+        else:
+            cursor.execute(
+                "INSERT INTO hotel (hotel_name) OUTPUT INSERTED.hotel_id VALUES (?)",
+                (accommodation["hotel_name"],)
+            )
+            hotel_id = cursor.fetchone()[0]
 
-        cursor.execute("""
-            SELECT room_type_id FROM room_type WHERE room_type_name = ?
-        """, (room_type_name,))
-        room_type_row = cursor.fetchone()
-        if not room_type_row:
-            print(f"❌ Room type not found: {room_type_name}")
-            continue
-        room_type_id = room_type_row[0]
+        # --- Tourist Season ---
+        cursor.execute(
+            "SELECT tourist_season_id FROM tourist_season WHERE hotel_id = ? AND tourist_season_start_date = ? AND tourist_season_end_date = ?",
+            (hotel_id, accommodation["tourist_season_start_date"], accommodation["tourist_season_end_date"])
+        )
+        row = cursor.fetchone()
+        if row:
+            tourist_season_id = row[0]
+        else:
+            cursor.execute(
+                "INSERT INTO tourist_season (hotel_id, tourist_season_start_date, tourist_season_end_date) "
+                "OUTPUT INSERTED.tourist_season_id "
+                "VALUES (?, ?, ?)",
+                (hotel_id, accommodation["tourist_season_start_date"], accommodation["tourist_season_end_date"])
+            )
+            tourist_season_id = cursor.fetchone()[0]
 
-        # --- Hotel room type ---
-        cursor.execute("""
-            SELECT hotel_room_type_id
-            FROM hotel_room_type
-            WHERE room_type_id = ? AND hotel_room_type_max_adults = ? AND hotel_room_type_max_children = ?
-        """, (room_type_id, max_adults, max_children))
-        room_row = cursor.fetchone()
-        if not room_row:
-            print(f"❌ Hotel room type not found for {room_type_name}, adults {max_adults}, children {max_children}")
-            continue
-        hotel_room_type_id = room_row[0]
+        # --- Room Type ---
+        room_type_name = accommodation["hotel_room_type_name"]
+        cursor.execute(
+            "SELECT room_type_id FROM room_type WHERE room_type_name = ?",
+            (room_type_name,)
+        )
+        row = cursor.fetchone()
+        if row:
+            room_type_id = row[0]
+        else:
+            cursor.execute(
+                "INSERT INTO room_type (room_type_name) OUTPUT INSERTED.room_type_id VALUES (?)",
+                (room_type_name,)
+            )
+            room_type_id = cursor.fetchone()[0]
 
-        # --- Tourist season ---
-        start_date = tour["tour_accommodation"]["tourist_season_start_date"]
-        end_date = tour["tour_accommodation"]["tourist_season_end_date"]
-        cursor.execute("""
-            SELECT tourist_season_id FROM tourist_season
-            WHERE tourist_season_start_date = ? AND tourist_season_end_date = ?
-        """, (start_date, end_date))
-        season_row = cursor.fetchone()
-        if not season_row:
-            print(f"❌ Tourist season not found: {start_date} - {end_date}")
-            continue
-        tourist_season_id = season_row[0]
+        # --- Hotel Room Type ---
+        cursor.execute(
+            "SELECT hotel_room_type_id FROM hotel_room_type WHERE room_type_id = ? AND hotel_room_type_max_adults = ? AND hotel_room_type_max_children = ?",
+            (room_type_id, accommodation["max_adults"], accommodation["max_children"])
+        )
+        row = cursor.fetchone()
+        if row:
+            hotel_room_type_id = row[0]
+        else:
+            cursor.execute(
+                "INSERT INTO hotel_room_type (room_type_id, hotel_room_type_max_adults, hotel_room_type_max_children) "
+                "OUTPUT INSERTED.hotel_room_type_id "
+                "VALUES (?, ?, ?)",
+                (room_type_id, accommodation["max_adults"], accommodation["max_children"])
+            )
+            hotel_room_type_id = cursor.fetchone()[0]
 
-        # --- Room price season ---
-        cursor.execute("""
-            SELECT room_price_season_id FROM room_price_season
-            WHERE hotel_room_type_id = ? AND tourist_season_id = ?
-        """, (hotel_room_type_id, tourist_season_id))
-        price_row = cursor.fetchone()
-        if not price_row:
-            print(f"❌ Room price season not found for hotel_room_type_id {hotel_room_type_id} and tourist_season_id {tourist_season_id}")
-            continue
-        room_price_season_id = price_row[0]
+        # --- Room Price Season ---
+        cursor.execute(
+            "SELECT room_price_season_id FROM room_price_season WHERE hotel_room_type_id = ? AND tourist_season_id = ?",
+            (hotel_room_type_id, tourist_season_id)
+        )
+        row = cursor.fetchone()
+        if row:
+            room_price_season_id = row[0]
+        else:
+            cursor.execute(
+                "INSERT INTO room_price_season (hotel_room_type_id, tourist_season_id, room_price_per_person) "
+                "OUTPUT INSERTED.room_price_season_id "
+                "VALUES (?, ?, ?)",
+                (hotel_room_type_id, tourist_season_id, accommodation["total_price_per_person"])
+            )
+            room_price_season_id = cursor.fetchone()[0]
 
-        # --- Tour accommodation ---
-        tour_start = tour["tour_accommodation"]["tour_accommodation_start_date"]
-        tour_end = tour["tour_accommodation"]["tour_accommodation_end_date"]
-        cursor.execute("""
-            SELECT tour_accommodation_id FROM tour_accommodation
-            WHERE room_price_season_id = ? AND tour_accommodation_start_date = ? AND tour_accommodation_end_date = ?
-        """, (room_price_season_id, tour_start, tour_end))
-        accom_row = cursor.fetchone()
-        if not accom_row:
-            print(f"❌ Tour accommodation not found for tour {successful_inserts}: {tour_start} - {tour_end} for room_price_season_id {room_price_season_id}")
-            continue
-        tour_accommodation_id = accom_row[0]
+        # --- Meal Type ---
+        meal_type_name = accommodation["meal_type_name"]
+        cursor.execute(
+            "SELECT meal_type_id FROM meal_type WHERE meal_type_name = ?",
+            (meal_type_name,)
+        )
+        row = cursor.fetchone()
+        if row:
+            meal_type_id = row[0]
+        else:
+            cursor.execute(
+                "INSERT INTO meal_type (meal_type_name) OUTPUT INSERTED.meal_type_id VALUES (?)",
+                (meal_type_name,)
+            )
+            meal_type_id = cursor.fetchone()[0]
 
-        # --- Package tour status ---
-        status_name = tour.get("package_tour_status_name", "Active")
-        cursor.execute("""
-            SELECT package_tour_status_id FROM package_tour_status WHERE package_tour_status_name = ?
-        """, (status_name,))
-        status_row = cursor.fetchone()
-        if not status_row:
-            print(f"❌ Package tour status not found: {status_name}")
-            continue
-        package_tour_status_id = status_row[0]
+        # --- Meal Price Season ---
+        cursor.execute(
+            "SELECT meal_price_season_id FROM meal_price_season WHERE meal_type_id = ? AND tourist_season_id = ?",
+            (meal_type_id, tourist_season_id)
+        )
+        row = cursor.fetchone()
+        if row:
+            meal_price_season_id = row[0]
+        else:
+            cursor.execute(
+                "INSERT INTO meal_price_season (meal_type_id, tourist_season_id, meal_price_per_person) "
+                "OUTPUT INSERTED.meal_price_season_id "
+                "VALUES (?, ?, ?)",
+                (meal_type_id, tourist_season_id, accommodation["total_price_per_person"])
+            )
+            meal_price_season_id = cursor.fetchone()[0]
 
-        # --- Insert package tour ---
-        cursor.execute("""
-            INSERT INTO package_tour (
+        # --- Tour Accommodation (з перевіркою і room_price_season_id, і meal_price_season_id) ---
+        cursor.execute(
+            """
+            SELECT tour_accommodation_id 
+            FROM tour_accommodation 
+            WHERE room_price_season_id = ? 
+              AND meal_price_season_id = ? 
+              AND tour_accommodation_start_date = ? 
+              AND tour_accommodation_end_date = ?
+            """,
+            (
+                room_price_season_id,
+                meal_price_season_id,
+                accommodation["tour_accommodation_start_date"],
+                accommodation["tour_accommodation_end_date"]
+            )
+        )
+        row = cursor.fetchone()
+        if row:
+            tour_accommodation_id = row[0]
+        else:
+            cursor.execute(
+                """
+                INSERT INTO tour_accommodation (
+                    room_price_season_id, 
+                    meal_price_season_id, 
+                    tour_accommodation_start_date, 
+                    tour_accommodation_end_date
+                )
+                OUTPUT INSERTED.tour_accommodation_id 
+                VALUES (?, ?, ?, ?)
+                """,
+                (
+                    room_price_season_id,
+                    meal_price_season_id,
+                    accommodation["tour_accommodation_start_date"],
+                    accommodation["tour_accommodation_end_date"]
+                )
+            )
+            tour_accommodation_id = cursor.fetchone()[0]
+
+        # --- Package Tour Status ---
+        package_tour_status_name = tour["package_tour_status_name"]
+        cursor.execute(
+            "SELECT package_tour_status_id FROM package_tour_status WHERE package_tour_status_name = ?",
+            (package_tour_status_name,)
+        )
+        row = cursor.fetchone()
+        if row:
+            package_tour_status_id = row[0]
+        else:
+            cursor.execute(
+                "INSERT INTO package_tour_status (package_tour_status_name) OUTPUT INSERTED.package_tour_status_id VALUES (?)",
+                (package_tour_status_name,)
+            )
+            package_tour_status_id = cursor.fetchone()[0]
+
+        # --- Package Tour ---
+        cursor.execute(
+            "INSERT INTO package_tour (tour_operator_id, tour_accommodation_id, package_tour_status_id, package_tour_name, package_tour_description, package_tour_start_date, package_tour_end_date, package_tour_max_tourists_count) "
+            "OUTPUT INSERTED.package_tour_id "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+            (
                 tour_operator_id,
                 tour_accommodation_id,
                 package_tour_status_id,
-                package_tour_name,
-                package_tour_description,
-                package_tour_start_date,
-                package_tour_end_date,
-                package_tour_max_tourists_count
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-        """, (
-            tour_operator_id,
-            tour_accommodation_id,
-            package_tour_status_id,
-            tour["package_tour_name"],
-            tour["package_tour_description"],
-            tour["package_tour_start_date"],
-            tour["package_tour_end_date"],
-            tour["package_tour_max_tourists_count"]
-        ))
+                tour["package_tour_name"],
+                tour["package_tour_description"],
+                tour["package_tour_start_date"],
+                tour["package_tour_end_date"],
+                tour["package_tour_max_tourists_count"]
+            )
+        )
+        package_tour_id = cursor.fetchone()[0]
+        package_tour_counter += 1
 
-        successful_inserts += 1  # 👈 Збільшуємо лічильник, якщо вставка успішна
+        # --- Прив'язка транспорту ---
+        transport = tour.get("tour_transport")
+        if transport:
+            if transport["transport_type"] == "bus":
+                cursor.execute(
+                    "SELECT bus_trip_id, bus_trip_expected_price FROM bus_trip b JOIN bus_trip_route r ON b.bus_trip_route_id = r.bus_trip_route_id "
+                    "WHERE r.route_number = ? AND CAST(b.bus_trip_departure_datetime AS DATE) = ?",
+                    (transport["route_number"], transport["date"])
+                )
+                row = cursor.fetchone()
+                if row:
+                    bus_trip_id, expected_price = row
+                    cursor.execute(
+                        "INSERT INTO bus_trip_in_tour (bus_trip_id, bus_trip_in_tour_actual_price, bus_trip_in_tour_price_validation_datetime) "
+                        "OUTPUT INSERTED.bus_trip_in_tour_id "
+                        "VALUES (?, ?, GETDATE())",
+                        (bus_trip_id, expected_price)
+                    )
+                    bus_trip_in_tour_id = cursor.fetchone()[0]
+                    cursor.execute(
+                        "INSERT INTO package_tour_bus_trip_in_tour (package_tour_id, bus_trip_in_tour_id) VALUES (?, ?)",
+                        (package_tour_id, bus_trip_in_tour_id)
+                    )
+            elif transport["transport_type"] == "flight":
+                cursor.execute(
+                    "SELECT flight_id, flight_expected_price FROM flight f JOIN flight_route r ON f.flight_route_id = r.flight_route_id "
+                    "WHERE r.route_number = ? AND CAST(f.flight_departure_datetime AS DATE) = ?",
+                    (transport["route_number"], transport["date"])
+                )
+                row = cursor.fetchone()
+                if row:
+                    flight_id, expected_price = row
+                    cursor.execute(
+                        "INSERT INTO flight_in_tour (flight_id, flight_in_tour_actual_price, flight_in_tour_price_validation_datetime) "
+                        "OUTPUT INSERTED.flight_in_tour_id "
+                        "VALUES (?, ?, GETDATE())",
+                        (flight_id, expected_price)
+                    )
+                    flight_in_tour_id = cursor.fetchone()[0]
+                    cursor.execute(
+                        "INSERT INTO package_tour_flight_in_tour (package_tour_id, flight_in_tour_id) VALUES (?, ?)",
+                        (package_tour_id, flight_in_tour_id)
+                    )
 
     conn.commit()
-
-print(f"✅ Внесено {successful_inserts} package tours (з {len(package_tours)} у файлі).")
+print(f"✅ Було внесено {package_tour_counter} пакетних турів з транспортом")

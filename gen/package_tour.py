@@ -7,7 +7,8 @@ base_path = Path(__file__).parent.parent
 
 # --- Параметри ---
 max_tourists_multiplier = 15
-max_trips_per_accommodation = 5  # скільки рейсів беремо для кожного проживання
+max_trips_per_accommodation = 5
+skip_transport_probability = 0.30  # 20% турів без транспорту
 
 # --- Зчитування даних ---
 with open(base_path / "out/bus_trip.json", "r", encoding="utf-8") as f:
@@ -31,10 +32,8 @@ with open(base_path / "in/hotels.json", "r", encoding="utf-8") as f:
 with open(base_path / "in/organizations.json", "r", encoding="utf-8") as f:
     organizations = json.load(f)["tour operators"]
 
-# --- Створюємо mapping готель → місто ---
+# --- Mapping ---
 hotel_name_to_city = {h["hotel_name"]: h["city_name"] for h in hotels}
-
-# --- Створюємо mapping route_number → route info ---
 bus_route_mapping = {r["route_number"]: r for r in bus_trip_routes}
 flight_route_mapping = {r["route_number"]: r for r in flight_trip_routes}
 
@@ -51,7 +50,7 @@ for t in flight_trips:
         t["from_city"] = route_info["departure_city_name"]
         t["to_city"] = route_info["arrival_city_name"]
 
-# --- Списки для генерації назв та описів ---
+# --- Генератори назв та описів ---
 tour_name_adjectives = [
     "Luxury", "Adventure", "Romantic", "Family", "Exclusive", "Relaxing", "Exciting",
     "Cultural", "Scenic", "Unforgettable", "Gourmet", "Wellness", "Active", "Charming",
@@ -87,6 +86,18 @@ tour_description_templates = [
     "Make your trip {adjective} with an unforgettable stay at {hotel}."
 ]
 
+# --- Шаблони опису для турів без транспорту ---
+tour_description_no_transport_templates = [
+    "Enjoy a {adjective} stay at {hotel} with comfort and style.",
+    "Relax at {hotel} in this {adjective} accommodation, perfect for all guests.",
+    "Experience {adjective} moments at {hotel} with premium amenities.",
+    "Stay {adjective} at {hotel} and enjoy local attractions and cozy rooms.",
+    "The {adjective} retreat at {hotel} ensures comfort and relaxation.",
+    "Plan a {adjective} vacation at {hotel} full of comfort and leisure.",
+    "Discover {adjective} comfort and elegance at {hotel} during your stay.",
+    "Enjoy a {adjective} escape at {hotel} with fine dining and spa services."
+]
+
 # --- Допоміжні функції ---
 def random_operator():
     return random.choice(organizations)
@@ -96,9 +107,12 @@ def random_tour_name(index):
     noun = random.choice(tour_name_nouns)
     return f"{adjective} {noun}"
 
-def random_description(hotel_name):
-    template = random.choice(tour_description_templates)
+def random_description(hotel_name, has_transport=True):
     adjective = random.choice(tour_name_adjectives)
+    if has_transport:
+        template = random.choice(tour_description_templates)
+    else:
+        template = random.choice(tour_description_no_transport_templates)
     return template.format(adjective=adjective, hotel=hotel_name)
 
 # --- Генерація пакетних турів ---
@@ -107,14 +121,14 @@ tour_index = 1
 
 for acc in accommodations:
     max_tourists = acc["max_adults"] + acc.get("max_children", 0)
-
     hotel_city = hotel_name_to_city.get(acc["hotel_name"])
     if not hotel_city:
-        continue  # пропускаємо, якщо міста немає
+        continue
 
     acc_start = datetime.strptime(acc["tour_accommodation_start_date"], "%Y-%m-%d")
     acc_end = datetime.strptime(acc["tour_accommodation_end_date"], "%Y-%m-%d")
 
+    # --- Пошук рейсів ---
     matching_bus_trips = [
         t for t in bus_trips
         if t.get("to_city") == hotel_city
@@ -128,30 +142,47 @@ for acc in accommodations:
     ]
 
     all_matching_trips = matching_bus_trips + matching_flight_trips
-    if not all_matching_trips:
-        continue
 
-    selected_trips = random.sample(
-        all_matching_trips,
-        k=min(max_trips_per_accommodation, len(all_matching_trips))
-    )
+    # --- Випадкове рішення: чи буде транспорт ---
+    has_transport = all_matching_trips and random.random() > skip_transport_probability
 
+    if has_transport:
+        selected_trips = random.sample(
+            all_matching_trips,
+            k=min(max_trips_per_accommodation, len(all_matching_trips))
+        )
+    else:
+        selected_trips = [None]  # тур без транспорту
+
+    # --- Створюємо тур(и) ---
     for t in selected_trips:
-        trip_type = "bus" if t in matching_bus_trips else "flight"
+        if t:
+            trip_type = "bus" if t in matching_bus_trips else "flight"
+            
+            dep_time = datetime.strptime(t[f"{trip_type}_trip_departure_time"], "%H:%M")
+            arr_time = datetime.strptime(t[f"{trip_type}_trip_arrival_time"], "%H:%M")
 
-        tour_start = datetime.strptime(t["date"], "%Y-%m-%d")
+            # Об'єднуємо з датою проживання
+            dep_datetime = datetime.combine(acc_start, dep_time.time())
+            arr_datetime = datetime.combine(acc_start, arr_time.time())
 
-        dep_time = datetime.strptime(t[f"{trip_type}_trip_departure_time"], "%H:%M")
-        arr_time = datetime.strptime(t[f"{trip_type}_trip_arrival_time"], "%H:%M")
-        duration = arr_time - dep_time
-        if duration.total_seconds() < 0:
-            duration += timedelta(days=1)
-        tour_end = acc_end + duration
+            # Якщо приїзд раніше від виїзду, додаємо добу
+            if arr_datetime < dep_datetime:
+                arr_datetime += timedelta(days=1)
 
-        package_tours.append({
-            "tour_operator_name": random_operator(),
-            "tour_accommodation": acc,
-            "tour_transport": {
+            # Початок туру
+            tour_start = acc_start
+            if dep_datetime.date() < acc_start.date() or dep_datetime.hour >= 18:
+                # виїзд пізно ввечері → тур починається попереднього дня
+                tour_start -= timedelta(days=1)
+
+            # Кінець туру
+            tour_end = acc_end
+            if arr_datetime.date() > acc_start.date():
+                # приїзд після півночі → додаємо день до кінця туру
+                tour_end += timedelta(days=(arr_datetime.date() - acc_start.date()).days)
+
+            transport_info = {
                 "transport_type": trip_type,
                 "route_number": t["route_number"],
                 "date": t["date"],
@@ -160,10 +191,20 @@ for acc in accommodations:
                 "departure_time": t[f"{trip_type}_trip_departure_time"],
                 "arrival_time": t[f"{trip_type}_trip_arrival_time"],
                 "expected_price": t.get(f"{trip_type}_trip_expected_price")
-            },
+            }
+        else:
+            # Без транспорту → дати = проживання
+            tour_start = acc_start
+            tour_end = acc_end
+            transport_info = None
+
+        package_tours.append({
+            "tour_operator_name": random_operator(),
+            "tour_accommodation": acc,
+            "tour_transport": transport_info,
             "package_tour_status_name": "Active",
             "package_tour_name": random_tour_name(tour_index),
-            "package_tour_description": random_description(acc["hotel_name"]),
+            "package_tour_description": random_description(acc["hotel_name"], has_transport=has_transport),
             "package_tour_start_date": tour_start.strftime("%Y-%m-%d"),
             "package_tour_end_date": tour_end.strftime("%Y-%m-%d"),
             "package_tour_max_tourists_count": max_tourists * max_tourists_multiplier
